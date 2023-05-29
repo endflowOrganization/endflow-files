@@ -1,0 +1,76 @@
+{
+    "events": [
+        {
+            "eventId": 0,
+            "eventCategory": "FINANCE",
+            "eventDate": "1792/05/17",
+            "eventImg": null,
+            "eventDescriptionEn": "On May 17, 1792, the New York Stock Exchange was established.",
+            "eventDescriptionTr": "17 Mayıs 1792'de New York Borsası kuruldu."
+        },
+        {
+            "eventId": 1,
+            "eventCategory": "SPORT",
+            "eventDate": "2000/05/17",
+            "eventImg": null,
+            "eventDescriptionEn": "On May 17, 2000, Galatasaray won the UEFA Cup, becoming the first Turkish football team to win a trophy in Europe.",
+            "eventDescriptionTr": "17 Mayıs 2000'de, Galatasaray, UEFA Kupasını kazanarak Avrupa'da kupa kazanan ilk Türk futbol takımı unvanını aldı."
+        },
+        {
+            "eventId": 2,
+            "eventCategory": "SPORT",
+            "eventDate": "1995/03/17",
+            "eventImg": null,
+            "eventDescriptionEn": "On March 17, 1995, Michael Jordan made the decision to return to basketball.",
+            "eventDescriptionTr": "17 Mart 1995'de, Michael Jordan, basketbola geri dönme kararı aldı."
+        },
+        {
+            "eventId": 3,
+            "eventCategory": "PEOPLE",
+            "eventDate": "1804/05/18",
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history.appspot.com/o/eventImages%2Fimg_event_3.jpg?alt=media&token=b1abe5eb-453b-43b0-8f45-c13117e116eb",
+            "eventDescriptionEn": "On May 18, 1804, Napoleon Bonaparte was proclaimed Emperor of France.",
+            "eventDescriptionTr": "18 Mayıs 1804'de, Napolyon Bonapart, Fransa İmparatoru ilan edildi."
+        },
+        {
+            "eventId": 4,
+            "eventCategory": "SCIENCE",
+            "eventDate": "1969/05/18",
+            "eventImg": "",
+            "eventDescriptionEn": "On May 18, 1969, Apollo 10 was launched.",
+            "eventDescriptionTr": "18 Mayıs 1969'da Apollo 10 fırlatıldı."
+        },
+        {
+            "eventId": 5,
+            "eventCategory": "SCIENCE",
+            "eventDate": "1910/05/18",
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history.appspot.com/o/eventImages%2Fimg_event_5.jpg?alt=media&token=d13a4177-4b64-49bb-ae1e-318b929f8a87",
+            "eventDescriptionEn": "On May 18, 1910, Halley's Comet, the only comet visible to the naked eye, passed very close to Earth.",
+            "eventDescriptionTr": "18 Mayıs 1910'da çıplak gözle görülebilen tek kuyruklu yıldız olan Halley kuyruklu yıldızı, Dünya'nın çok yakınından geçti."
+        },
+        {
+            "eventId": 6,
+            "eventCategory": "FINANCE",
+            "eventDate": "2023/05/18",
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history.appspot.com/o/eventImages%2Fimg_event_6.jpg?alt=media&token=4e5a5ac1-5486-4a00-8dd1-5f2789937f26",
+            "eventDescriptionEn": "On May 18, 2023, the Central Bank of the Republic of Turkey introduced credit restrictions.",
+            "eventDescriptionTr": "18 Mayıs 2023'te T.C. Merkez Bankası kredi sınırlamalarını devreye aldı."
+        },
+        {
+            "eventId": 7,
+            "eventCategory": "FINANCE",
+            "eventDate": "2023/05/19",
+            "eventImg": null,
+            "eventDescriptionEn": "On May 19, 2023, the Central Bank of the Republic of Turkey canceled the credit restrictions.",
+            "eventDescriptionTr": "19 Mayıs 2023'te T.C. Merkez Bankası kredi sınırlamalarını iptal etti."
+        },
+        {
+            "eventId": 8,
+            "eventCategory": "PEOPLE",
+            "eventDate": "2015/12/10",
+            "eventImg": null,
+            "eventDescriptionEn": "Aziz Sancar won the Nobel Prize on December 10, 2015.",
+            "eventDescriptionTr": "10 Aralık 2015'te Aziz Sancar nobel ödülü kazandı."
+        }
+    ]
+}
