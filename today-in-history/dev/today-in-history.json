@@ -28,7 +28,7 @@
             "eventId": 3,
             "eventCategory": "PEOPLE",
             "eventDate": "1804/05/18",
-            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history.appspot.com/o/eventImages%2Fimg_event_3.jpg?alt=media&token=b1abe5eb-453b-43b0-8f45-c13117e116eb",
+            "eventImg": "https://res.cloudinary.com/dhhvhnvsm/image/upload/v1685834685/napoleon_awwjxo.jpg",
             "eventDescriptionEn": "On May 18, 1804, Napoleon Bonaparte was proclaimed Emperor of France.",
             "eventDescriptionTr": "18 Mayıs 1804'de, Napolyon Bonapart, Fransa İmparatoru ilan edildi."
         },
