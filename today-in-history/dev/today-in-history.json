@@ -12,7 +12,7 @@
             "eventId": 1,
             "eventCategory": "SPORT",
             "eventDate": "2000/05/17",
-            "eventImg": null,
+            "eventImg": "https://res.cloudinary.com/dhhvhnvsm/image/upload/v1685834389/today-in-history/cld-sample-3.jpg",
             "eventDescriptionEn": "On May 17, 2000, Galatasaray won the UEFA Cup, becoming the first Turkish football team to win a trophy in Europe.",
             "eventDescriptionTr": "17 Mayıs 2000'de, Galatasaray, UEFA Kupasını kazanarak Avrupa'da kupa kazanan ilk Türk futbol takımı unvanını aldı."
         },
@@ -20,7 +20,7 @@
             "eventId": 2,
             "eventCategory": "SPORT",
             "eventDate": "1995/03/17",
-            "eventImg": null,
+            "eventImg": "https://res.cloudinary.com/dhhvhnvsm/image/upload/v1685834389/today-in-history/cld-sample-3.jpg",
             "eventDescriptionEn": "On March 17, 1995, Michael Jordan made the decision to return to basketball.",
             "eventDescriptionTr": "17 Mart 1995'de, Michael Jordan, basketbola geri dönme kararı aldı."
         },
@@ -44,7 +44,7 @@
             "eventId": 5,
             "eventCategory": "SCIENCE",
             "eventDate": "1910/05/18",
-            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history.appspot.com/o/eventImages%2Fimg_event_5.jpg?alt=media&token=d13a4177-4b64-49bb-ae1e-318b929f8a87",
+            "eventImg": "https://res.cloudinary.com/dhhvhnvsm/image/upload/v1685834389/today-in-history/cld-sample-3.jpg",
             "eventDescriptionEn": "On May 18, 1910, Halley's Comet, the only comet visible to the naked eye, passed very close to Earth.",
             "eventDescriptionTr": "18 Mayıs 1910'da çıplak gözle görülebilen tek kuyruklu yıldız olan Halley kuyruklu yıldızı, Dünya'nın çok yakınından geçti."
         },
