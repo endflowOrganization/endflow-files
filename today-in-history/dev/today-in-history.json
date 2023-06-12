@@ -95,6 +95,14 @@
             "eventImg": null,
             "eventDescriptionEn": "The 17 May Treaty was signed between Israel, Lebanon and the United States.",
             "eventDescriptionTr": "İsrail, Lübnan ve ABD arasında, 17 Mayıs Antlaşması imzalandı."
+        },
+        {
+            "eventId": 12,
+            "eventCategory": "UNEXPECTED_EVENT_CATEGORY",
+            "eventDate": "1983/05/18",
+            "eventImg": null,
+            "eventDescriptionEn": "The decree on the re-release of the gold trade was issued.",
+            "eventDescriptionTr": "Altın ticaretinin yeniden serbest bırakılmasına ait kararname çıktı."
         }
     ]
 }
