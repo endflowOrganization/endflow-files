@@ -2,7 +2,7 @@
     "events": [
         {
             "eventId": 0,
-            "eventCategory": "SCIENCE",
+            "eventCategory": "POLITICS",
             "eventDate": "1990/06/12",
             "eventImg": null,
             "eventDescriptionEn": "On June 12, 1990, Russia officially declared its independence.",
@@ -23,6 +23,31 @@
             "eventImg": null,
             "eventDescriptionEn": "The Pioneer 10 space probe became the first man-made object to leave the solar system.",
             "eventDescriptionTr": "Pioneer 10 uzay sondası, güneş sistemi dışına çıkan ilk insan yapımı nesne oldu."
+        },
+        {
+            "eventId": 3,
+            "eventCategory": "TECH",
+            "eventDate": "2018/06/13",
+            "eventImg": null,
+            "eventDescriptionEn": "Volkswagen is fined one billion euros over the emissions scandal.",
+            "eventDescriptionTr": "Volkswagen'e, emisyon skandalı nedeniyle bir milyar euro para cezasına verildi."
+        },
+        {
+            "eventId": 4,
+            "eventCategory": "POLITICS",
+            "eventDate": "1926/06/14",
+            "eventImg": null,
+            "eventDescriptionEn": "Brazil leaves the League of Nations.",
+            "eventDescriptionTr": "Brezilya Millet Cemiyeti'nden ayrıldı."
+        },
+        {
+            "eventId": 5,
+            "eventCategory": "TECH",
+            "eventDate": "2022/06/15",
+            "eventImg": null,
+            "eventDescriptionEn": "Microsoft retires its ubiquitous Internet Explorer after 26 years in favor of its new browser, Microsoft Edge.",
+            "eventDescriptionTr": "Microsoft, Internet Explorer'ı 26 yıl sonra emekliye ayırdı, yerine yeni tarayıcısı Microsoft Edge geldi.
+."
         }
     ]
 }
