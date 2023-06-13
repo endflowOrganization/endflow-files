@@ -89,6 +89,14 @@
             "eventDescriptionTr": "İlk uluslararası futbol maçı İngiltere ile İskoçya arasında Londra, İngiltere'deki Kennington Oval'de oynandı."
         },
         {
+            "eventId": 14,
+            "eventCategory": "TECH",
+            "eventDate": "1935/06/15",
+            "eventImg": null,
+            "eventDescriptionEn": "The first transatlantic telephone call is made between New York City and London.",
+            "eventDescriptionTr": "1935'te Atlantik Okyanusu'nu aşan ilk telefon görüşmesi New York ve Londra arasında yapıldı."
+        },
+        {
             "eventId": 9,
             "eventCategory": "TECH",
             "eventDate": "1903/06/16",
