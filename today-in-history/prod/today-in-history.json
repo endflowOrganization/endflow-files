@@ -97,6 +97,14 @@
             "eventDescriptionTr": "1935'te Atlantik Okyanusu'nu aşan ilk telefon görüşmesi New York ve Londra arasında yapıldı."
         },
         {
+            "eventId": 15,
+            "eventCategory": "POLITICS",
+            "eventDate": "1846/06/15",
+            "eventImg": null,
+            "eventDescriptionEn": "The United States declares war on Mexico, beginning the Mexican-American War.",
+            "eventDescriptionTr": "Amerika Birleşik Devletleri, Meksika-Amerika Savaşı'nı başlatarak Meksika'ya savaş ilan etti."
+        },
+        {
             "eventId": 9,
             "eventCategory": "TECH",
             "eventDate": "1903/06/16",
