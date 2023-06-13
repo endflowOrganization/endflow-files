@@ -81,6 +81,14 @@
             "eventDescriptionTr": "Nik Wallenda, doğrudan Niagara Şelaleleri üzerinde ipte başarıyla yürüyen ilk kişi oldu."
         },
         {
+            "eventId": 13,
+            "eventCategory": "SPORT",
+            "eventDate": "1904/06/15",
+            "eventImg": null,
+            "eventDescriptionEn": "The first international soccer match is played between England and Scotland at the Kennington Oval in London, England.",
+            "eventDescriptionTr": "İlk uluslararası futbol maçı İngiltere ile İskoçya arasında Londra, İngiltere'deki Kennington Oval'de oynandı."
+        },
+        {
             "eventId": 9,
             "eventCategory": "TECH",
             "eventDate": "1903/06/16",
