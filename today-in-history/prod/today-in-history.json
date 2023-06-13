@@ -33,6 +33,14 @@
             "eventDescriptionTr": "Volkswagen'e, emisyon skandalı nedeniyle bir milyar euro para cezasına verildi."
         },
         {
+            "eventId": 12,
+            "eventCategory": "SCIENCE",
+            "eventDate": "1949/06/14",
+            "eventImg": null,
+            "eventDescriptionEn": "Albert II becomes the first monkey in space.",
+            "eventDescriptionTr": "Albert II, uzaya çıkan ilk maymun oldu."
+        },
+        {
             "eventId": 4,
             "eventCategory": "POLITICS",
             "eventDate": "1926/06/14",
@@ -87,6 +95,14 @@
             "eventImg": null,
             "eventDescriptionEn": "Spotify founded in April 23.",
             "eventDescriptionTr": "23 Nisan 2006'da Spotify kuruldu."
+        },
+        {
+            "eventId": 11,
+            "eventCategory": "POLITICS",
+            "eventDate": "1989/11/09",
+            "eventImg": null,
+            "eventDescriptionEn": "The Berlin wall fell.",
+            "eventDescriptionTr": "Berlin duvarı yıkıldı."
         }
     ]
 }
