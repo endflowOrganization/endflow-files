@@ -1,132 +1,140 @@
 {
     "events": [
         {
-            "eventId": 0,
+            "eventId": "0",
             "eventCategory": "POLITICS",
-            "eventDate": "1990/06/12",
+            "eventDate": "1990\/06\/12",
             "eventImg": null,
             "eventDescriptionEn": "On June 12, 1990, Russia officially declared its independence.",
             "eventDescriptionTr": "12 Haziran 1990'da Rusya resmen bağımsızlığını ilan etti."
         },
         {
-            "eventId": 1,
+            "eventId": "1",
             "eventCategory": "SCIENCE",
-            "eventDate": "1967/06/12",
+            "eventDate": "1967\/06\/12",
             "eventImg": null,
             "eventDescriptionEn": "The Soviet Union sent the spacecraft Venera 4 to the planet Venus.",
             "eventDescriptionTr": "Sovyetler Birliği, uzay aracı Venera 4'ü Venüs gezegenine yolladı."
         },
         {
-            "eventId": 2,
+            "eventId": "2",
             "eventCategory": "SCIENCE",
-            "eventDate": "1983/06/13",
+            "eventDate": "1983\/06\/13",
             "eventImg": null,
             "eventDescriptionEn": "The Pioneer 10 space probe became the first man-made object to leave the solar system.",
             "eventDescriptionTr": "Pioneer 10 uzay sondası, güneş sistemi dışına çıkan ilk insan yapımı nesne oldu."
         },
         {
-            "eventId": 3,
+            "eventId": "3",
             "eventCategory": "TECH",
-            "eventDate": "2018/06/13",
+            "eventDate": "2018\/06\/13",
             "eventImg": null,
             "eventDescriptionEn": "Volkswagen is fined one billion euros over the emissions scandal.",
             "eventDescriptionTr": "Volkswagen'e, emisyon skandalı nedeniyle bir milyar euro para cezasına verildi."
         },
         {
-            "eventId": 12,
-            "eventCategory": "SCIENCE",
-            "eventDate": "1949/06/14",
-            "eventImg": null,
-            "eventDescriptionEn": "Albert II becomes the first monkey in space.",
-            "eventDescriptionTr": "Albert II, uzaya çıkan ilk maymun oldu."
-        },
-        {
-            "eventId": 4,
+            "eventId": "4",
             "eventCategory": "POLITICS",
-            "eventDate": "1926/06/14",
+            "eventDate": "1926\/06\/14",
             "eventImg": null,
             "eventDescriptionEn": "Brazil leaves the League of Nations.",
             "eventDescriptionTr": "Brezilya Millet Cemiyeti'nden ayrıldı."
         },
         {
-            "eventId": 5,
+            "eventId": "5",
             "eventCategory": "TECH",
-            "eventDate": "2022/06/15",
+            "eventDate": "2022\/06\/15",
             "eventImg": null,
             "eventDescriptionEn": "Microsoft retires its ubiquitous Internet Explorer after 26 years in favor of its new browser, Microsoft Edge.",
             "eventDescriptionTr": "Microsoft, Internet Explorer'ı 26 yıl sonra emekliye ayırdı, yerine yeni tarayıcısı Microsoft Edge geldi."
         },
         {
-            "eventId": 6,
+            "eventId": "6",
             "eventCategory": "SCIENCE",
-            "eventDate": "1667/06/15",
+            "eventDate": "1667\/06\/15",
             "eventImg": null,
             "eventDescriptionEn": "The first human blood transfusion is administered by Dr. Jean-Baptiste Denys.",
             "eventDescriptionTr": "1667 yılında ilk kan nakli Dr. Jean-Baptiste Denys tarafından gerçekleştirildi."
         },
         {
-            "eventId": 7,
+            "eventId": "7",
             "eventCategory": "PEOPLE",
-            "eventDate": "1896/06/15",
+            "eventDate": "1896\/06\/15",
             "eventImg": null,
             "eventDescriptionEn": "One of the deadliest tsunamis in Japan's history kills more than 22,000 people.",
             "eventDescriptionTr": "Japonya tarihinin en ölümcül tsunamilerinden biri 22.000'den fazla insanı öldürdü."
         },
         {
-            "eventId": 8,
+            "eventId": "8",
             "eventCategory": "SPORT",
-            "eventDate": "2012/06/15",
+            "eventDate": "2012\/06\/15",
             "eventImg": null,
             "eventDescriptionEn": "Nik Wallenda becomes the first person to successfully tightrope walk directly over Niagara Falls.",
             "eventDescriptionTr": "Nik Wallenda, doğrudan Niagara Şelaleleri üzerinde ipte başarıyla yürüyen ilk kişi oldu."
         },
         {
-            "eventId": 13,
-            "eventCategory": "SPORT",
-            "eventDate": "1904/06/15",
-            "eventImg": null,
-            "eventDescriptionEn": "The first international soccer match is played between England and Scotland at the Kennington Oval in London, England.",
-            "eventDescriptionTr": "İlk uluslararası futbol maçı İngiltere ile İskoçya arasında Londra, İngiltere'deki Kennington Oval'de oynandı."
-        },
-        {
-            "eventId": 14,
+            "eventId": "9",
             "eventCategory": "TECH",
-            "eventDate": "1935/06/15",
-            "eventImg": null,
-            "eventDescriptionEn": "The first transatlantic telephone call is made between New York City and London.",
-            "eventDescriptionTr": "1935'te Atlantik Okyanusu'nu aşan ilk telefon görüşmesi New York ve Londra arasında yapıldı."
-        },
-        {
-            "eventId": 15,
-            "eventCategory": "POLITICS",
-            "eventDate": "1846/06/15",
-            "eventImg": null,
-            "eventDescriptionEn": "The United States declares war on Mexico, beginning the Mexican-American War.",
-            "eventDescriptionTr": "Amerika Birleşik Devletleri, Meksika-Amerika Savaşı'nı başlatarak Meksika'ya savaş ilan etti."
-        },
-        {
-            "eventId": 9,
-            "eventCategory": "TECH",
-            "eventDate": "1903/06/16",
+            "eventDate": "1903\/06\/16",
             "eventImg": null,
             "eventDescriptionEn": "The Ford Motor Company is incorporated.",
             "eventDescriptionTr": "16 Haziran 1903'te Ford Motor Company kuruldu."
         },
         {
-            "eventId": 10,
+            "eventId": "10",
             "eventCategory": "TECH",
-            "eventDate": "2006/04/23",
+            "eventDate": "2006\/04\/23",
             "eventImg": null,
             "eventDescriptionEn": "Spotify founded in April 23.",
             "eventDescriptionTr": "23 Nisan 2006'da Spotify kuruldu."
         },
         {
-            "eventId": 11,
+            "eventId": "11",
             "eventCategory": "POLITICS",
-            "eventDate": "1989/11/09",
+            "eventDate": "1989\/11\/09",
             "eventImg": null,
             "eventDescriptionEn": "The Berlin wall fell.",
             "eventDescriptionTr": "Berlin duvarı yıkıldı."
+        },
+        {
+            "eventId": "12",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1949\/06\/14",
+            "eventImg": null,
+            "eventDescriptionEn": "Albert II becomes the first monkey in space.",
+            "eventDescriptionTr": "Albert II, uzaya çıkan ilk maymun oldu."
+        },
+        {
+            "eventId": "13",
+            "eventCategory": "SPORT",
+            "eventDate": "1904\/06\/15",
+            "eventImg": null,
+            "eventDescriptionEn": "The first international soccer match is played between England and Scotland at the Kennington Oval in London, England.",
+            "eventDescriptionTr": "İlk uluslararası futbol maçı İngiltere ile İskoçya arasında Londra, İngiltere'deki Kennington Oval'de oynandı."
+        },
+        {
+            "eventId": "14",
+            "eventCategory": "TECH",
+            "eventDate": "1935\/06\/15",
+            "eventImg": null,
+            "eventDescriptionEn": "The first transatlantic telephone call is made between New York City and London.",
+            "eventDescriptionTr": "1935'te Atlantik Okyanusu'nu aşan ilk telefon görüşmesi New York ve Londra arasında yapıldı."
+        },
+        {
+            "eventId": "15",
+            "eventCategory": "POLITICS",
+            "eventDate": "1846\/06\/15",
+            "eventImg": null,
+            "eventDescriptionEn": "The United States declares war on Mexico, beginning the Mexican-American War.",
+            "eventDescriptionTr": "Amerika Birleşik Devletleri, Meksika-Amerika Savaşı'nı başlatarak Meksika'ya savaş ilan etti."
+        },
+        {
+            "eventId": "16",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2017\/06\/14",
+            "eventImg": null,
+            "eventDescriptionEn": "A fire in a high-rise apartment building in North Kensington, London, UK, leaves 72 people dead and another 74 injured.",
+            "eventDescriptionTr": "İngiltere'nin Londra kentindeki North Kensington'da çok katlı bir apartmanda çıkan yangında 72 kişi öldü, 74 kişi de yaralandı."
         }
     ]
 }
