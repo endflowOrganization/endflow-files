@@ -20,7 +20,7 @@
             "eventId": 2,
             "eventCategory": "SPORT",
             "eventDate": "1995/03/17",
-            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/May%2F17may%2F2_michael_jordan.jpg?alt=media&token=b0a140cb-133c-4934-a457-628e0cabc645",
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/Mar%2F17mar%2F2_michael_jordan.jpg?alt=media&token=eec4040a-a641-4c74-a307-e2145f26c9bc",
             "eventDescriptionEn": "On March 17, 1995, Michael Jordan made the decision to return to basketball.",
             "eventDescriptionTr": "17 Mart 1995'de, Michael Jordan, basketbola geri dönme kararı aldı."
         },
@@ -36,7 +36,7 @@
             "eventId": 4,
             "eventCategory": "SCIENCE",
             "eventDate": "1969/05/18",
-            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/May%2F18may%2F4_apollo.jpg?alt=media&token=3c407b40-dcd0-4d37-ba84-d318729f4610",
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/May%2F18may%2F4_apollo.jpg?alt=media&token=8e3c3a27-93b8-44c8-b059-ffe13c019ba1",
             "eventDescriptionEn": "On May 18, 1969, Apollo 10 was launched.",
             "eventDescriptionTr": "18 Mayıs 1969'da Apollo 10 fırlatıldı."
         },
@@ -71,6 +71,38 @@
             "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/May%2F18may%2F8_nobel_prize.jpg?alt=media&token=dc6602fd-b176-44fd-885a-7103345a5f76",
             "eventDescriptionEn": "Aziz Sancar won the Nobel Prize on December 10, 2015.",
             "eventDescriptionTr": "10 Aralık 2015'te Aziz Sancar nobel ödülü kazandı."
+        },
+        {
+            "eventId": 9,
+            "eventCategory": "TECH",
+            "eventDate": "2003/07/01",
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/Jul%2F01jul%2F9_tesla.jpg?alt=media&token=4f982a5c-05f1-4f1f-adfc-f8ab0956d40f",
+            "eventDescriptionEn": "On July 01, 2003, TESLA company, which produces electric vehicles, was established.",
+            "eventDescriptionTr": "01 Temmuz 2003'te elektrikli araç üretimi yapan TESLA şirketi kuruldu."
+        },
+        {
+            "eventId": 10,
+            "eventCategory": "PEOPLE",
+            "eventDate": "1041/05/18",
+            "eventImg": null,
+            "eventDescriptionEn": "On May 18, 1041, the famous Persian poet, philosopher Omar Khayyam was born.",
+            "eventDescriptionTr": "18 Mayıs 1041'te ünlü İranlı şair, filozof Ömer Hayyam doğmuştur."
+        },
+        {
+            "eventId": 11,
+            "eventCategory": "POLITICS",
+            "eventDate": "1983/05/17",
+            "eventImg": null,
+            "eventDescriptionEn": "The 17 May Treaty was signed between Israel, Lebanon and the United States.",
+            "eventDescriptionTr": "İsrail, Lübnan ve ABD arasında, 17 Mayıs Antlaşması imzalandı."
+        },
+        {
+            "eventId": 12,
+            "eventCategory": "UNEXPECTED_EVENT_CATEGORY",
+            "eventDate": "1983/05/18",
+            "eventImg": null,
+            "eventDescriptionEn": "The decree on the re-release of the gold trade was issued.",
+            "eventDescriptionTr": "Altın ticaretinin yeniden serbest bırakılmasına ait kararname çıktı."
         }
     ]
 }
