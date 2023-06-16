@@ -301,7 +301,15 @@
             "eventImg": null,
             "eventDescriptionEn": "Atomic bombs were dropped on Hiroshima and Nagasaki by the United States, resulting in the devastation and loss of many lives.",
             "eventDescriptionTr": "Amerika Birleşik Devletleri tarafından Hiroşima ve Nagazaki'ye atom bombaları atıldı, bunun sonucunda büyük tahribatlar ve birçok can kaybı yaşandı."
+          },{
+            "eventId": "39",
+            "eventCategory": "POLITICS",
+            "eventDate": "1939/09/01",
+            "eventImg": null,
+            "eventDescriptionEn": "World War II began with the German invasion of Poland, leading to a global conflict involving many nations.",
+            "eventDescriptionTr": "Almanya'nın Polonya'yı işgal etmesiyle İkinci Dünya Savaşı başladı ve birçok ülkeyi içeren küresel bir çatışma yaşandı."
           }
+          
           
           
     ]
