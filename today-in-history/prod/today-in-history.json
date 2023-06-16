@@ -151,7 +151,62 @@
             "eventImg": null,
             "eventDescriptionEn": "The First World War began.",
             "eventDescriptionTr": "I. Dünya Savaşı başladı."
+          },
+          {
+            "eventId": "20",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1986/04/26",
+            "eventImg": null,
+            "eventDescriptionEn": "Chernobyl nuclear reactor explosion occurred, resulting in the worst nuclear disaster in history.",
+            "eventDescriptionTr": "Chernobyl nükleer reaktör patlaması gerçekleşti ve tarihteki en kötü nükleer felakete sebep oldu."
+          },
+          {
+            "eventId": "21",
+            "eventCategory": "POLITICS",
+            "eventDate": "1945/09/02",
+            "eventImg": null,
+            "eventDescriptionEn": "World War II came to an end with the official surrender of Japan, marking a significant turning point in global history.",
+            "eventDescriptionTr": "İkinci Dünya Savaşı, Japonya'nın resmi olarak teslim olmasıyla sona erdi ve küresel tarih açısından önemli bir dönüm noktasını işaret etti."
+          },{
+            "eventId": "22",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1969/07/20",
+            "eventImg": null,
+            "eventDescriptionEn": "The first human moon landing took place as part of NASA's Apollo 11 mission, marking a monumental achievement in space exploration.",
+            "eventDescriptionTr": "İlk insanlı Ay inişi, NASA'nın Apollo 11 görevi kapsamında gerçekleşti ve uzay keşfi açısından büyük bir başarıyı temsil etti."
+          },{
+            "eventId": "23",
+            "eventCategory": "POLITICS",
+            "eventDate": "1989/11/09",
+            "eventImg": null,
+            "eventDescriptionEn": "The Berlin Wall fell, symbolizing the end of the Cold War and the reunification of East and West Germany.",
+            "eventDescriptionTr": "Berlin Duvarı yıkıldı ve Soğuk Savaş'ın sonunu ve Doğu ve Batı Almanya'nın birleşmesini simgeledi."
+          },{
+            "eventId": "24",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1920/08/18",
+            "eventImg": null,
+            "eventDescriptionEn": "Women's suffrage was achieved in the United States, granting women the right to vote.",
+            "eventDescriptionTr": "Amerika Birleşik Devletleri'nde kadınların oy kullanma hakkı elde edildi."
+          },{
+            "eventId": "25",
+            "eventCategory": "TECH",
+            "eventDate": "1903/12/17",
+            "eventImg": null,
+            "eventDescriptionEn": "The Wright Brothers achieved the first powered flight, introducing the era of modern aviation.",
+            "eventDescriptionTr": "Wright Kardeşler ilk güçlü uçuşu gerçekleştirdi ve modern havacılık dönemini başlattı."
+          },{
+            "eventId": "26",
+            "eventCategory": "HISTORY",
+            "eventDate": "1994/04/27",
+            "eventImg": null,
+            "eventDescriptionEn": "Apartheid, the system of racial segregation in South Africa, officially ended, leading to the first multiracial democratic elections in the country.",
+            "eventDescriptionTr": "Güney Afrika'da ırk ayrımcılığı sistemi olan apartheid resmi olarak sona erdi ve ülkede ilk çok ırklı demokratik seçimler gerçekleşti."
           }
+          
+          
+          
+          
           
     ]
 }
