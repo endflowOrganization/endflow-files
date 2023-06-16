@@ -143,6 +143,15 @@
             "eventImg": null,
             "eventDescriptionEn": "The September 11 attacks, a series of coordinated terrorist attacks killing 2,996 people using four aircraft hijacked by 19 members of al-Qaeda. Two aircraft crash into the World Trade Center in New York City, a third crashes into The Pentagon in Arlington County, Virginia, and a fourth into a field near Shanksville, Pennsylvania.",
             "eventDescriptionTr": "11 Eylül saldırıları, El Kaide'nin 19 üyesi tarafından kaçırılan dört uçağı kullanarak 2.996 kişinin ölümüne neden olan bir dizi koordineli terör saldırısıdır. İki uçak New York City'deki Dünya Ticaret Merkezi'ne düştü, üçüncüsü Virginia, Arlington County'deki The Pentagon'a ve dördüncüsü Pennsylvania, Shanksville yakınlarındaki bir araziye düştü."
-        }
+        },
+        {
+            "eventId": "19",
+            "eventCategory": "POLITICS",
+            "eventDate": "1914/07/28",
+            "eventImg": null,
+            "eventDescriptionEn": "The First World War began.",
+            "eventDescriptionTr": "I. Dünya Savaşı başladı."
+          }
+          
     ]
 }
