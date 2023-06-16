@@ -223,6 +223,34 @@
             "eventImg": null,
             "eventDescriptionEn": "India gained independence from British colonial rule, marking a significant milestone in the country's history.",
             "eventDescriptionTr": "Hindistan, Britanya sömürge yönetiminden bağımsızlığını kazandı ve ülkenin tarihinde önemli bir kilometre taşını işaret etti."
+          },{
+            "eventId": "30",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1953/04/25",
+            "eventImg": null,
+            "eventDescriptionEn": "The double helix structure of DNA was discovered by James Watson and Francis Crick, unraveling the genetic code.",
+            "eventDescriptionTr": "DNA'nın çift sarmal yapısı, James Watson ve Francis Crick tarafından keşfedildi ve genetik kodun çözülmesini sağladı."
+          },{
+            "eventId": "31",
+            "eventCategory": "POLITICS",
+            "eventDate": "1991/12/26",
+            "eventImg": null,
+            "eventDescriptionEn": "The Soviet Union collapsed, leading to the dissolution of the communist state and the end of the Cold War era.",
+            "eventDescriptionTr": "Sovyetler Birliği çöktü, komünist devletin dağılmasına ve Soğuk Savaş döneminin sona ermesine yol açtı."
+          },{
+            "eventId": "32",
+            "eventCategory": "POLITICS",
+            "eventDate": "1919/06/28",
+            "eventImg": null,
+            "eventDescriptionEn": "The Treaty of Versailles was signed, officially ending World War I and establishing peace terms.",
+            "eventDescriptionTr": "Versay Antlaşması imzalandı ve Birinci Dünya Savaşı resmen sona erdi, barış koşulları belirlendi."
+          },{
+            "eventId": "33",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1969/07/20",
+            "eventImg": null,
+            "eventDescriptionEn": "Apollo 11 successfully landed on the moon, marking the first human footsteps on another celestial body.",
+            "eventDescriptionTr": "Apollo 11 başarıyla Ay'a indi ve başka bir gök cismi üzerindeki ilk insan ayak izlerini oluşturdu."
           }
     ]
 }
