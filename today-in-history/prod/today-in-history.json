@@ -197,16 +197,32 @@
             "eventDescriptionTr": "Wright Kardeşler ilk güçlü uçuşu gerçekleştirdi ve modern havacılık dönemini başlattı."
           },{
             "eventId": "26",
-            "eventCategory": "HISTORY",
+            "eventCategory": "PEOPLE",
             "eventDate": "1994/04/27",
             "eventImg": null,
             "eventDescriptionEn": "Apartheid, the system of racial segregation in South Africa, officially ended, leading to the first multiracial democratic elections in the country.",
             "eventDescriptionTr": "Güney Afrika'da ırk ayrımcılığı sistemi olan apartheid resmi olarak sona erdi ve ülkede ilk çok ırklı demokratik seçimler gerçekleşti."
+          },{
+            "eventId": "27",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2015/12/12",
+            "eventImg": null,
+            "eventDescriptionEn": "The Paris Agreement, a global effort to combat climate change, was signed by 196 countries, highlighting the urgency of environmental preservation.",
+            "eventDescriptionTr": "Paris Anlaşması, iklim değişikliğiyle mücadele etmek için 196 ülke tarafından imzalandı ve çevresel korumanın aciliyetini vurguladı."
+          },{
+            "eventId": "28",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1967/12/03",
+            "eventImg": null,
+            "eventDescriptionEn": "The first successful human heart transplant was performed, paving the way for organ transplantation in medical history.",
+            "eventDescriptionTr": "İlk başarılı insan kalp nakli gerçekleştirildi ve tıp tarihinde organ nakli için yol açıldı."
+          },{
+            "eventId": "29",
+            "eventCategory": "POLITICS",
+            "eventDate": "1947/08/15",
+            "eventImg": null,
+            "eventDescriptionEn": "India gained independence from British colonial rule, marking a significant milestone in the country's history.",
+            "eventDescriptionTr": "Hindistan, Britanya sömürge yönetiminden bağımsızlığını kazandı ve ülkenin tarihinde önemli bir kilometre taşını işaret etti."
           }
-          
-          
-          
-          
-          
     ]
 }
