@@ -322,7 +322,15 @@
             "eventImg": null,
             "eventDescriptionEn": "The War of 1812 started with a declaration of war by the United States against Great Britain, primarily over maritime issues and territorial disputes.",
             "eventDescriptionTr": "1812 Savaşı, Amerika Birleşik Devletleri'nin Büyük Britanya'ya karşı savaş ilanıyla başladı ve temel olarak denizcilik sorunları ve toprak anlaşmazlıkları üzerine odaklandı."
+          },{
+            "eventId": "42",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1865/06/19",
+            "eventImg": null,
+            "eventDescriptionEn": "Juneteenth is celebrated as the emancipation of enslaved African Americans in the United States. It commemorates the day when Union Army General Gordon Granger announced the end of slavery in Texas.",
+            "eventDescriptionTr": "Juneteenth, Amerika Birleşik Devletleri'nde kölelikten kurtulan Afro-Amerikalıların özgürlüğünün kutlandığı bir gündür. Bu gün, Union Ordusu Generali Gordon Granger'ın Teksas'ta köleliğin sona erdiğini duyurduğu günü anar."
           }
+          
           
           
           
