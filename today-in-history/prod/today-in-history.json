@@ -315,7 +315,15 @@
             "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/june%2Fsally-ride-40.jpeg?alt=media&token=fd4c871d-bde0-45da-8bc4-6371c7189338",
             "eventDescriptionEn": "Astronaut Sally Ride became the first American woman to travel to space aboard the Space Shuttle Challenger.",
             "eventDescriptionTr": "Astronot Sally Ride, Uzay Mekiği Challenger ile uzaya seyahat eden ilk Amerikalı kadın oldu."
+          },{
+            "eventId": "41",
+            "eventCategory": "POLITICS",
+            "eventDate": "1812/06/18",
+            "eventImg": null,
+            "eventDescriptionEn": "The War of 1812 started with a declaration of war by the United States against Great Britain, primarily over maritime issues and territorial disputes.",
+            "eventDescriptionTr": "1812 Savaşı, Amerika Birleşik Devletleri'nin Büyük Britanya'ya karşı savaş ilanıyla başladı ve temel olarak denizcilik sorunları ve toprak anlaşmazlıkları üzerine odaklandı."
           }
+          
           
           
           
