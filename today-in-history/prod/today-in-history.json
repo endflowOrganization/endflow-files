@@ -350,14 +350,13 @@
             "eventImg": null,
             "eventDescriptionEn": "Queen Elizabeth II was crowned at Westminster Abbey in London, becoming the Queen of the United Kingdom and other Commonwealth realms.",
             "eventDescriptionTr": "Kraliçe II. Elizabeth, Londra'daki Westminster Manastırı'nda taç giyerek Birleşik Krallık ve diğer İngiliz Milletler Topluluğu ülkelerinin kraliçesi oldu."
-          }
-          
-          
-          
-          
-          
-          
-          
-          
+          },{
+            "eventId": "46",
+            "eventCategory": "TECH",
+            "eventDate": "1877/06/02",
+            "eventImg": null,
+            "eventDescriptionEn": "Alexander Graham Bell installs the world's first commercial telephone service in Hamilton, Ontario, Canada.",
+            "eventDescriptionTr": "Alexander Graham Bell dünyanın ilk ticari telefon hizmetini Hamilton, Ontario, Kanada'da kurdu."
+          }  
     ]
 }
