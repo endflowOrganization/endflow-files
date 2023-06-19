@@ -287,76 +287,94 @@
             "eventImg": null,
             "eventDescriptionEn": "The Soviet Union launched Sputnik 1, the world's first artificial satellite, marking the beginning of the Space Age and the Space Race between the United States and the Soviet Union.",
             "eventDescriptionTr": "Sovyetler Birliği, Sputnik 1'i fırlattı; bu, dünyanın ilk yapay uydusu olup Uzay Çağı'nın ve Amerika Birleşik Devletleri ile Sovyetler Birliği arasındaki Uzay Yarışı'nın başlangıcını işaretledi."
-        },{
+        },
+        {
             "eventId": "37",
             "eventCategory": "POLITICS",
             "eventDate": "1963/11/22",
             "eventImg": null,
             "eventDescriptionEn": "President John F. Kennedy was assassinated in Dallas, Texas, leading to a period of national mourning and significant political impact.",
             "eventDescriptionTr": "Başkan John F. Kennedy, Dallas, Teksas'ta suikast sonucu öldü ve ulusal yas dönemi ve önemli siyasi etkilerle sonuçlandı."
-          },{
+        },
+        {
             "eventId": "38",
             "eventCategory": "POLITICS",
             "eventDate": "1945/08/06",
             "eventImg": null,
             "eventDescriptionEn": "Atomic bombs were dropped on Hiroshima and Nagasaki by the United States, resulting in the devastation and loss of many lives.",
             "eventDescriptionTr": "Amerika Birleşik Devletleri tarafından Hiroşima ve Nagazaki'ye atom bombaları atıldı, bunun sonucunda büyük tahribatlar ve birçok can kaybı yaşandı."
-          },{
+        },
+        {
             "eventId": "39",
             "eventCategory": "POLITICS",
             "eventDate": "1939/09/01",
             "eventImg": null,
             "eventDescriptionEn": "World War II began with the German invasion of Poland, leading to a global conflict involving many nations.",
             "eventDescriptionTr": "Almanya'nın Polonya'yı işgal etmesiyle İkinci Dünya Savaşı başladı ve birçok ülkeyi içeren küresel bir çatışma yaşandı."
-          },{
+        },
+        {
             "eventId": "40",
             "eventCategory": "SCIENCE",
             "eventDate": "1983/06/18",
             "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/june%2Fsally-ride-40.jpeg?alt=media&token=fd4c871d-bde0-45da-8bc4-6371c7189338",
             "eventDescriptionEn": "Astronaut Sally Ride became the first American woman to travel to space aboard the Space Shuttle Challenger.",
             "eventDescriptionTr": "Astronot Sally Ride, Uzay Mekiği Challenger ile uzaya seyahat eden ilk Amerikalı kadın oldu."
-          },{
+        },
+        {
             "eventId": "41",
             "eventCategory": "POLITICS",
             "eventDate": "1812/06/18",
             "eventImg": null,
             "eventDescriptionEn": "The War of 1812 started with a declaration of war by the United States against Great Britain, primarily over maritime issues and territorial disputes.",
             "eventDescriptionTr": "1812 Savaşı, Amerika Birleşik Devletleri'nin Büyük Britanya'ya karşı savaş ilanıyla başladı ve temel olarak denizcilik sorunları ve toprak anlaşmazlıkları üzerine odaklandı."
-          },{
+        },
+        {
             "eventId": "42",
             "eventCategory": "PEOPLE",
             "eventDate": "1865/06/19",
             "eventImg": null,
             "eventDescriptionEn": "Juneteenth is celebrated as the emancipation of enslaved African Americans in the United States. It commemorates the day when Union Army General Gordon Granger announced the end of slavery in Texas.",
             "eventDescriptionTr": "Juneteenth, Amerika Birleşik Devletleri'nde kölelikten kurtulan Afro-Amerikalıların özgürlüğünün kutlandığı bir gündür. Bu gün, Union Ordusu Generali Gordon Granger'ın Teksas'ta köleliğin sona erdiğini duyurduğu günü anar."
-          },{
+        },
+        {
             "eventId": "43",
             "eventCategory": "POLITICS",
             "eventDate": "1961/06/19",
             "eventImg": null,
             "eventDescriptionEn": "Kuwait declares independence from the United Kingdom.",
             "eventDescriptionTr": "Kuveyt Birleşik Krallık'tan bağımsızlığını ilan etti."
-          },{
+        },
+        {
             "eventId": "44",
             "eventCategory": "PEOPLE",
             "eventDate": "1997/06/26",
             "eventImg": null,
             "eventDescriptionEn": "Author J.K. Rowling's first book in the Harry Potter series, 'Harry Potter and the Philosopher's Stone' (titled 'Harry Potter and the Sorcerer's Stone' in the US), was published, introducing readers to the magical world of Harry Potter.",
             "eventDescriptionTr": "Yazar J.K. Rowling'in Harry Potter serisindeki ilk kitabı 'Harry Potter ve Felsefe Taşı' (ABD'de 'Harry Potter ve Sırlar Odası' adıyla yayınlandı), okurları Harry Potter'ın sihirli dünyasına tanıştırarak büyük bir ilgi uyandırdı."
-          },{
+        },
+        {
             "eventId": "45",
             "eventCategory": "POLITICS",
             "eventDate": "1953/06/02",
             "eventImg": null,
             "eventDescriptionEn": "Queen Elizabeth II was crowned at Westminster Abbey in London, becoming the Queen of the United Kingdom and other Commonwealth realms.",
             "eventDescriptionTr": "Kraliçe II. Elizabeth, Londra'daki Westminster Manastırı'nda taç giyerek Birleşik Krallık ve diğer İngiliz Milletler Topluluğu ülkelerinin kraliçesi oldu."
-          },{
+        },
+        {
             "eventId": "46",
             "eventCategory": "TECH",
             "eventDate": "1877/06/02",
             "eventImg": null,
             "eventDescriptionEn": "Alexander Graham Bell installs the world's first commercial telephone service in Hamilton, Ontario, Canada.",
             "eventDescriptionTr": "Alexander Graham Bell dünyanın ilk ticari telefon hizmetini Hamilton, Ontario, Kanada'da kurdu."
-          }  
+        },
+        {
+            "eventId": "47",
+            "eventCategory": "TECH",
+            "eventDate": "1840/06/02",
+            "eventImg": null,
+            "eventDescriptionEn": "Samuel Morse receives the patent for the telegraph.",
+            "eventDescriptionTr": "Samuel Morse telgrafın patentini aldı."
+        }
     ]
 }
