@@ -382,6 +382,14 @@
             "eventImg": null,
             "eventDescriptionEn": "Queen Victoria succeeds to the British throne",
             "eventDescriptionTr": "Kraliçe Victoria Britanya tahtına geçti."
-        }
+        },{
+            "eventId": "49",
+            "eventCategory": "TECH",
+            "eventDate": "2004/02/04",
+            "eventImg": null,
+            "eventDescriptionEn": "Facebook was founded by Mark Zuckerberg, along with his college roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes. Initially launched as 'Thefacebook', it started as a social networking platform for Harvard University students before expanding to other universities and eventually becoming a global social media giant.",
+            "eventDescriptionTr": "Facebook, Mark Zuckerberg tarafından, üniversite arkadaşları Eduardo Saverin, Andrew McCollum, Dustin Moskovitz ve Chris Hughes ile birlikte kuruldu. Başlangıçta 'Thefacebook' olarak başlatılan platform, başlangıçta Harvard Üniversitesi öğrencileri için bir sosyal ağ olarak hizmet verdi ve daha sonra diğer üniversitelere yayılarak sonunda küresel bir sosyal medya devi haline geldi."
+          }
+          
     ]
 }
