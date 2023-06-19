@@ -396,8 +396,34 @@
             "eventImg": null,
             "eventDescriptionEn": "Twitter was founded by Jack Dorsey, Biz Stone, and Evan Williams. Initially launched as a microblogging platform, Twitter allowed users to share short messages called 'tweets' of up to 140 characters. Over time, it grew into a widely used social media platform with millions of active users worldwide.",
             "eventDescriptionTr": "Twitter, Jack Dorsey, Biz Stone ve Evan Williams tarafından kuruldu. Başlangıçta bir mikroblog platformu olarak başlatılan Twitter, kullanıcıların 140 karaktere kadar olan kısa mesajlar olan 'tweet'leri paylaşmalarına olanak tanıdı. Zaman içinde, milyonlarca aktif kullanıcısı olan yaygın olarak kullanılan bir sosyal medya platformuna dönüştü."
+          },{
+            "eventId": "51",
+            "eventCategory": "SPORT",
+            "eventDate": "1896/04/06",
+            "eventImg": null,
+            "eventDescriptionEn": "The first modern Olympic Games were held in Athens, Greece, marking the revival of the ancient Olympic Games.",
+            "eventDescriptionTr": "İlk modern Olimpiyat Oyunları, antik Olimpiyat Oyunlarının yeniden canlanmasını işaret ederek Atina, Yunanistan'da düzenlendi."
+          },{
+            "eventId": "52",
+            "eventCategory": "SPORT",
+            "eventDate": "1986/06/22",
+            "eventImg": null,
+            "eventDescriptionEn": "Diego Maradona scored the 'Hand of God' and 'Goal of the Century' during the 1986 FIFA World Cup quarter-final match between Argentina and England.",
+            "eventDescriptionTr": "Diego Maradona, 1986 FIFA Dünya Kupası çeyrek final maçında Arjantin ve İngiltere arasında 'Tanrının Eli' ve 'Yüzyılın Golü'nü attı."
+          },{
+            "eventId": "53",
+            "eventCategory": "SPORT",
+            "eventDate": "1990/06/20",
+            "eventImg": null,
+            "eventDescriptionEn": "Michael Jordan led the Chicago Bulls to their first NBA championship, solidifying his legacy as one of the greatest basketball players of all time.",
+            "eventDescriptionTr": "Michael Jordan, Chicago Bulls'u ilk NBA şampiyonluğuna taşıyarak tüm zamanların en büyük basketbol oyuncularından biri olarak adını tarihe yazdırdı."
+          },{
+            "eventId": "54",
+            "eventCategory": "SPORT",
+            "eventDate": "2008/08/08",
+            "eventImg": null,
+            "eventDescriptionEn": "Usain Bolt of Jamaica set world records in the 100m and 200m sprints at the Beijing Olympics, establishing himself as the fastest man in history.",
+            "eventDescriptionTr": "Jamaikalı Usain Bolt, Pekin Olimpiyatları'nda 100m ve 200m sprintlerinde dünya rekorları kırarak tarihteki en hızlı adam olarak kendini kanıtladı."
           }
-          
-          
     ]
 }
