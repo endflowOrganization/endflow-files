@@ -375,6 +375,13 @@
             "eventImg": null,
             "eventDescriptionEn": "Samuel Morse receives the patent for the telegraph.",
             "eventDescriptionTr": "Samuel Morse telgrafın patentini aldı."
+        },{
+            "eventId": "48",
+            "eventCategory": "POLITICS",
+            "eventDate": "1840/06/02",
+            "eventImg": null,
+            "eventDescriptionEn": "Queen Victoria succeeds to the British throne",
+            "eventDescriptionTr": "Kraliçe Victoria Britanya tahtına geçti."
         }
     ]
 }
