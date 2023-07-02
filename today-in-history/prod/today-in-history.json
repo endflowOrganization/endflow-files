@@ -424,6 +424,13 @@
             "eventImg": null,
             "eventDescriptionEn": "Usain Bolt of Jamaica set world records in the 100m and 200m sprints at the Beijing Olympics, establishing himself as the fastest man in history.",
             "eventDescriptionTr": "Jamaikalı Usain Bolt, Pekin Olimpiyatları'nda 100m ve 200m sprintlerinde dünya rekorları kırarak tarihteki en hızlı adam olarak kendini kanıtladı."
+          },{
+            "eventId": "55",
+            "eventCategory": "SPORTS",
+            "eventDate": "1971/07/03",
+            "eventImg": null,
+            "eventDescriptionEn": "Jim Morrison, the lead singer of the rock band The Doors, was found dead in Paris, France, at the age of 27.",
+            "eventDescriptionTr": "Rock grubu The Doors'un solisti Jim Morrison, 27 yaşında Paris, Fransa'da ölü bulundu."
           }
     ]
 }
