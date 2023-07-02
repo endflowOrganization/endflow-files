@@ -426,11 +426,19 @@
             "eventDescriptionTr": "Jamaikalı Usain Bolt, Pekin Olimpiyatları'nda 100m ve 200m sprintlerinde dünya rekorları kırarak tarihteki en hızlı adam olarak kendini kanıtladı."
           },{
             "eventId": "55",
-            "eventCategory": "SPORTS",
+            "eventCategory": "PEOPLE",
             "eventDate": "1971/07/03",
             "eventImg": null,
             "eventDescriptionEn": "Jim Morrison, the lead singer of the rock band The Doors, was found dead in Paris, France, at the age of 27.",
             "eventDescriptionTr": "Rock grubu The Doors'un solisti Jim Morrison, 27 yaşında Paris, Fransa'da ölü bulundu."
+          },
+          {
+            "eventId": "24",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1985/07/03",
+            "eventImg": null,
+            "eventDescriptionEn": "Back to the Future, a science fiction comedy film directed by Robert Zemeckis and starring Michael J. Fox, was released in the United States.",
+            "eventDescriptionTr": "Robert Zemeckis'in yönettiği ve Michael J. Fox'un başrolde olduğu Bilim Kurgu-Komedi filmi Back to the Future, Amerika Birleşik Devletleri'nde gösterime girdi."
           }
     ]
 }
