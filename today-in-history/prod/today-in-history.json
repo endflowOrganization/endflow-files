@@ -424,14 +424,6 @@
             "eventImg": null,
             "eventDescriptionEn": "Usain Bolt of Jamaica set world records in the 100m and 200m sprints at the Beijing Olympics, establishing himself as the fastest man in history.",
             "eventDescriptionTr": "Jamaikalı Usain Bolt, Pekin Olimpiyatları'nda 100m ve 200m sprintlerinde dünya rekorları kırarak tarihteki en hızlı adam olarak kendini kanıtladı."
-          },
-          {
-            "eventId": "55",
-            "eventCategory": "SPORT",
-            "eventDate": "1994/07/02",
-            "eventImg": null,
-            "eventDescriptionEn": "Brazil won the FIFA World Cup for the fourth time by defeating Italy in the final match held in Pasadena, California.",
-            "eventDescriptionTr": "Brezilya, Pasadena, California'da düzenlenen final maçında İtalya'yı mağlup ederek dördüncü kez FIFA Dünya Kupası'nı kazandı."
           }
     ]
 }
