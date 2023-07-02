@@ -6,7 +6,11 @@
             "eventDate": "1792/05/17",
             "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/May%2F17may%2F0_newyork_stock.jpg?alt=media&token=3a925161-2f0b-4b72-86f7-9afc392b61f4",
             "eventDescriptionEn": "On May 17, 1792, the New York Stock Exchange was established.",
-            "eventDescriptionTr": "17 Mayıs 1792'de New York Borsası kuruldu."
+            "eventDescriptionTr": "17 Mayıs 1792'de New York Borsası kuruldu.",
+            "eventDescriptionDe": "Am 17. Mai 1792 wurde die New York Stock Exchange gegründet.",
+            "eventDescriptionEs": "El 17 de mayo de 1792 se estableció la Bolsa de Valores de Nueva York.",
+            "eventDescriptionIt": "Il 17 maggio 1792 fu istituita la Borsa di New York.",
+            "eventDescriptionFr": "Le 17 mai 1792, la Bourse de New York a été créée."
         },
         {
             "eventId": 1,
@@ -30,7 +34,11 @@
             "eventDate": "1804/05/18",
             "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/May%2F18may%2F3_napoleon.jpg?alt=media&token=a4ec3393-446d-483c-b772-f79f60fdefa2",
             "eventDescriptionEn": "On May 18, 1804, Napoleon Bonaparte was proclaimed Emperor of France.",
-            "eventDescriptionTr": "18 Mayıs 1804'de, Napolyon Bonapart, Fransa İmparatoru ilan edildi."
+            "eventDescriptionTr": "18 Mayıs 1804'de, Napolyon Bonapart, Fransa İmparatoru ilan edildi.",
+            "eventDescriptionDe": "Am 18. Mai 1804 wurde Napoleon Bonaparte zum Kaiser von Frankreich ernannt.",
+            "eventDescriptionEs": "El 18 de mayo de 1804, Napoleón Bonaparte fue proclamado Emperador de Francia.",
+            "eventDescriptionIt": "Il 18 maggio 1804 Napoleone Bonaparte fu proclamato imperatore di Francia.",
+            "eventDescriptionFr": "Le 18 mai 1804, Napoléon Bonaparte est proclamé empereur de France."
         },
         {
             "eventId": 4,
@@ -38,7 +46,11 @@
             "eventDate": "1969/05/18",
             "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/May%2F18may%2F4_apollo.jpg?alt=media&token=8e3c3a27-93b8-44c8-b059-ffe13c019ba1",
             "eventDescriptionEn": "On May 18, 1969, Apollo 10 was launched.",
-            "eventDescriptionTr": "18 Mayıs 1969'da Apollo 10 fırlatıldı."
+            "eventDescriptionTr": "18 Mayıs 1969'da Apollo 10 fırlatıldı.",
+            "eventDescriptionDe": "Apollo 10 wurde am 18. Mai 1969 gestartet.",
+            "eventDescriptionEs": "El Apolo 10 fue lanzado el 18 de mayo de 1969.",
+            "eventDescriptionIt": "L'Apollo 10 è stato lanciato il 18 maggio 1969.",
+            "eventDescriptionFr": "Apollo 10 a été lancé le 18 mai 1969."
         },
         {
             "eventId": 5,
