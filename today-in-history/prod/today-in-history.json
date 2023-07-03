@@ -93,14 +93,6 @@
             "eventDescriptionTr": "23 Nisan 2006'da Spotify kuruldu."
         },
         {
-            "eventId": "11",
-            "eventCategory": "POLITICS",
-            "eventDate": "1989/11/09",
-            "eventImg": null,
-            "eventDescriptionEn": "The Berlin wall fell.",
-            "eventDescriptionTr": "Berlin duvarı yıkıldı."
-        },
-        {
             "eventId": "12",
             "eventCategory": "SCIENCE",
             "eventDate": "1949/06/14",
@@ -162,7 +154,7 @@
             "eventDate": "1986/04/26",
             "eventImg": null,
             "eventDescriptionEn": "Chernobyl nuclear reactor explosion occurred, resulting in the worst nuclear disaster in history.",
-            "eventDescriptionTr": "Chernobyl nükleer reaktör patlaması gerçekleşti ve tarihteki en kötü nükleer felakete sebep oldu."
+            "eventDescriptionTr": "Çernobil nükleer reaktör patlaması gerçekleşti ve tarihteki en kötü nükleer felakete sebep oldu."
         },
         {
             "eventId": "21",
