@@ -445,11 +445,18 @@
             "eventDescriptionTr": "Robert Zemeckis'in yönettiği ve Michael J. Fox'un başrolde olduğu Bilim Kurgu-Komedi filmi Back to the Future, Amerika Birleşik Devletleri'nde gösterime girdi."
           },{
             "eventId": "57",
-            "eventCategory": "HISTORY",
+            "eventCategory": "SCIENCE",
             "eventDate": "1996/07/05",
             "eventImg": null,
             "eventDescriptionEn": "Dolly the sheep, the world's first mammal cloned from an adult somatic cell, was born at the Roslin Institute in Scotland.",
             "eventDescriptionTr": "Dolly koyunu, yetişkin bir somatik hücreden klonlanan dünyanın ilk memeli hayvanı olarak İskoçya'daki Roslin Enstitüsü'nde doğdu."
+          },{
+            "eventId": "58",
+            "eventCategory": "SPORT",
+            "eventDate": "1980/07/05",
+            "eventImg": null,
+            "eventDescriptionEn": "Björn Borg of Sweden won his fifth consecutive Wimbledon title in men's singles, establishing a new record in the tournament's history.",
+            "eventDescriptionTr": "İsveçli tenisçi Björn Borg, erkekler teklerinde beşinci kez üst üste Wimbledon şampiyonluğunu kazanarak turnuva tarihinde yeni bir rekora imza attı."
           }
     ]
 }
