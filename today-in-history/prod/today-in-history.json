@@ -443,6 +443,13 @@
             "eventImg": null,
             "eventDescriptionEn": "Back to the Future, a science fiction comedy film directed by Robert Zemeckis and starring Michael J. Fox, was released in the United States.",
             "eventDescriptionTr": "Robert Zemeckis'in yönettiği ve Michael J. Fox'un başrolde olduğu Bilim Kurgu-Komedi filmi Back to the Future, Amerika Birleşik Devletleri'nde gösterime girdi."
+          },{
+            "eventId": "57",
+            "eventCategory": "HISTORY",
+            "eventDate": "1996/07/05",
+            "eventImg": null,
+            "eventDescriptionEn": "Dolly the sheep, the world's first mammal cloned from an adult somatic cell, was born at the Roslin Institute in Scotland.",
+            "eventDescriptionTr": "Dolly koyunu, yetişkin bir somatik hücreden klonlanan dünyanın ilk memeli hayvanı olarak İskoçya'daki Roslin Enstitüsü'nde doğdu."
           }
     ]
 }
