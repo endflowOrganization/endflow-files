@@ -173,14 +173,6 @@
             "eventDescriptionTr": "İkinci Dünya Savaşı, Japonya'nın resmi olarak teslim olmasıyla sona erdi ve küresel tarih açısından önemli bir dönüm noktasını işaret etti."
         },
         {
-            "eventId": "22",
-            "eventCategory": "SCIENCE",
-            "eventDate": "1969/07/20",
-            "eventImg": null,
-            "eventDescriptionEn": "The first human moon landing took place as part of NASA's Apollo 11 mission, marking a monumental achievement in space exploration.",
-            "eventDescriptionTr": "İlk insanlı Ay inişi, NASA'nın Apollo 11 görevi kapsamında gerçekleşti ve uzay keşfi açısından büyük bir başarıyı temsil etti."
-        },
-        {
             "eventId": "23",
             "eventCategory": "POLITICS",
             "eventDate": "1989/11/09",
