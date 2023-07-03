@@ -471,6 +471,13 @@
             "eventImg": null,
             "eventDescriptionEn": "The Battle of Kursk, one of the largest tank battles in history, began between German and Soviet forces during World War II.",
             "eventDescriptionTr": "İkinci Dünya Savaşı sırasında Alman ve Sovyet güçleri arasında gerçekleşen Kursk Muharebesi, tarihteki en büyük tank savaşlarından biri olarak başladı."
+          },{
+            "eventId": "61",
+            "eventCategory": "HISTORY",
+            "eventDate": "1811/07/05",
+            "eventImg": null,
+            "eventDescriptionEn": "Venezuela declared its independence from Spain, marking the beginning of the Venezuelan War of Independence.",
+            "eventDescriptionTr": "Venezuela, İspanya'dan bağımsızlığını ilan etti ve Venezüella Bağımsızlık Savaşı'nın başlangıcını işaret etti."
           }
     ]
 }
