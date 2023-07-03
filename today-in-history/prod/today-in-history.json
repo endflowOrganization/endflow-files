@@ -457,6 +457,20 @@
             "eventImg": null,
             "eventDescriptionEn": "Björn Borg of Sweden won his fifth consecutive Wimbledon title in men's singles, establishing a new record in the tournament's history.",
             "eventDescriptionTr": "İsveçli tenisçi Björn Borg, erkekler teklerinde beşinci kez üst üste Wimbledon şampiyonluğunu kazanarak turnuva tarihinde yeni bir rekora imza attı."
+          },{
+            "eventId": "59",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1962/07/05",
+            "eventImg": null,
+            "eventDescriptionEn": "Algeria gained independence from France after a long and bloody war, ending more than a century of French colonial rule.",
+            "eventDescriptionTr": "Uzun ve kanlı bir savaşın ardından Cezayir, yüzyılı aşkın bir süredir devam eden Fransız sömürge yönetimine son vererek bağımsızlığını kazandı."
+          },{
+            "eventId": "60",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1943/07/05",
+            "eventImg": null,
+            "eventDescriptionEn": "The Battle of Kursk, one of the largest tank battles in history, began between German and Soviet forces during World War II.",
+            "eventDescriptionTr": "İkinci Dünya Savaşı sırasında Alman ve Sovyet güçleri arasında gerçekleşen Kursk Muharebesi, tarihteki en büyük tank savaşlarından biri olarak başladı."
           }
     ]
 }
