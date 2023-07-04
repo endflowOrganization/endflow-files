@@ -509,6 +509,16 @@
             "eventImg": null,
             "eventDescriptionEn": "The AK-47 goes into production in the Soviet Union.",
             "eventDescriptionTr": "AK-47, Sovyetler Birliği'nde üretime girdi."
+          },
+          {
+            "eventId": "68",
+            "eventCategory": "TECH",
+            "eventDate": "1964/07/06",
+            "eventImg": null,
+            "eventDescriptionEn": "Malawi declares its independence from the United Kingdom.",
+            "eventDescriptionTr": "Malawi Birleşik Krallık'tan bağımsızlığını ilan etti."
           }
+
+          
     ]
 }
