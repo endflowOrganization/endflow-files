@@ -485,6 +485,14 @@
             "eventImg": null,
             "eventDescriptionEn": "Slavery is abolished in the State of New York.",
             "eventDescriptionTr": "New York Eyaletinde kölelik kaldırıldı."
+          },
+          {
+            "eventId": "65",
+            "eventCategory": "SPORT",
+            "eventDate": "2004/07/04",
+            "eventImg": null,
+            "eventDescriptionEn": "Greece beats Portugal in the UEFA Euro 2004 Final and becomes European Champion for first time in its history.",
+            "eventDescriptionTr": "Yunanistan, UEFA Euro 2004 Finalinde Portekiz'i yenerek tarihinde ilk kez Avrupa Şampiyonu oldu."
           }
           
     ]
