@@ -477,6 +477,14 @@
             "eventImg": null,
             "eventDescriptionEn": "American Revolution: The United States Declaration of Independence is adopted by the Second Continental Congress.",
             "eventDescriptionTr": "Amerikan Devrimi: Amerika Birleşik Devletleri Bağımsızlık Bildirgesi, İkinci Kıta Kongresi tarafından kabul edildi."
+          },
+          {
+            "eventId": "64",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1827/07/04",
+            "eventImg": null,
+            "eventDescriptionEn": "Slavery is abolished in the State of New York.",
+            "eventDescriptionTr": "New York Eyaletinde kölelik kaldırıldı."
           }
           
     ]
