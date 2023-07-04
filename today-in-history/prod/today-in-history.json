@@ -517,6 +517,14 @@
             "eventImg": null,
             "eventDescriptionEn": "Malawi declares its independence from the United Kingdom.",
             "eventDescriptionTr": "Malawi Birleşik Krallık'tan bağımsızlığını ilan etti."
+          },
+          {
+            "eventId": "69",
+            "eventCategory": "SPORT",
+            "eventDate": "1957/07/06",
+            "eventImg": null,
+            "eventDescriptionEn": "Althea Gibson wins the Wimbledon championships, becoming the first black athlete to do so.",
+            "eventDescriptionTr": "Althea Gibson Wimbledon şampiyonasını kazandı ve bunu yapan ilk siyah atlet oldu."
           }
 
           
