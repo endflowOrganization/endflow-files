@@ -1,120 +1,540 @@
 {
     "events": [
         {
-            "eventId": 0,
-            "eventCategory": "FINANCE",
-            "eventDate": "1792/05/17",
-            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/May%2F17may%2F0_newyork_stock.jpg?alt=media&token=3a925161-2f0b-4b72-86f7-9afc392b61f4",
-            "eventDescriptionEn": "On May 17, 1792, the New York Stock Exchange was established.",
-            "eventDescriptionTr": "17 Mayıs 1792'de New York Borsası kuruldu.",
-            "eventDescriptionDe": "Am 17. Mai 1792 wurde die New York Stock Exchange gegründet.",
-            "eventDescriptionEs": "El 17 de mayo de 1792 se estableció la Bolsa de Valores de Nueva York.",
-            "eventDescriptionIt": "Il 17 maggio 1792 fu istituita la Borsa di New York.",
-            "eventDescriptionFr": "Le 17 mai 1792, la Bourse de New York a été créée."
-        },
-        {
-            "eventId": 1,
-            "eventCategory": "SPORT",
-            "eventDate": "2000/05/17",
-            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/May%2F17may%2F1_gs_uefa.jpg?alt=media&token=4606da74-d38a-4c9f-9f46-7d26a56e812b",
-            "eventDescriptionEn": "On May 17, 2000, Galatasaray won the UEFA Cup, becoming the first Turkish football team to win a trophy in Europe.",
-            "eventDescriptionTr": "17 Mayıs 2000'de, Galatasaray, UEFA Kupasını kazanarak Avrupa'da kupa kazanan ilk Türk futbol takımı unvanını aldı."
-        },
-        {
-            "eventId": 2,
-            "eventCategory": "SPORT",
-            "eventDate": "1995/03/17",
-            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/Mar%2F17mar%2F2_michael_jordan.jpg?alt=media&token=eec4040a-a641-4c74-a307-e2145f26c9bc",
-            "eventDescriptionEn": "On March 17, 1995, Michael Jordan made the decision to return to basketball.",
-            "eventDescriptionTr": "17 Mart 1995'de, Michael Jordan, basketbola geri dönme kararı aldı."
-        },
-        {
-            "eventId": 3,
-            "eventCategory": "PEOPLE",
-            "eventDate": "1804/05/18",
-            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/May%2F18may%2F3_napoleon.jpg?alt=media&token=a4ec3393-446d-483c-b772-f79f60fdefa2",
-            "eventDescriptionEn": "On May 18, 1804, Napoleon Bonaparte was proclaimed Emperor of France.",
-            "eventDescriptionTr": "18 Mayıs 1804'de, Napolyon Bonapart, Fransa İmparatoru ilan edildi.",
-            "eventDescriptionDe": "Am 18. Mai 1804 wurde Napoleon Bonaparte zum Kaiser von Frankreich ernannt.",
-            "eventDescriptionEs": "El 18 de mayo de 1804, Napoleón Bonaparte fue proclamado Emperador de Francia.",
-            "eventDescriptionIt": "Il 18 maggio 1804 Napoleone Bonaparte fu proclamato imperatore di Francia.",
-            "eventDescriptionFr": "Le 18 mai 1804, Napoléon Bonaparte est proclamé empereur de France."
-        },
-        {
-            "eventId": 4,
-            "eventCategory": "SCIENCE",
-            "eventDate": "1969/05/18",
-            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/May%2F18may%2F4_apollo.jpg?alt=media&token=8e3c3a27-93b8-44c8-b059-ffe13c019ba1",
-            "eventDescriptionEn": "On May 18, 1969, Apollo 10 was launched.",
-            "eventDescriptionTr": "18 Mayıs 1969'da Apollo 10 fırlatıldı.",
-            "eventDescriptionDe": "Apollo 10 wurde am 18. Mai 1969 gestartet.",
-            "eventDescriptionEs": "El Apolo 10 fue lanzado el 18 de mayo de 1969.",
-            "eventDescriptionIt": "L'Apollo 10 è stato lanciato il 18 maggio 1969.",
-            "eventDescriptionFr": "Apollo 10 a été lancé le 18 mai 1969."
-        },
-        {
-            "eventId": 5,
-            "eventCategory": "SCIENCE",
-            "eventDate": "1910/05/18",
-            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/May%2F18may%2F5_halley_camet.jpg?alt=media&token=f68ca37d-4c26-4673-b85e-33931f7b720d",
-            "eventDescriptionEn": "On May 18, 1910, Halley's Comet, the only comet visible to the naked eye, passed very close to Earth.",
-            "eventDescriptionTr": "18 Mayıs 1910'da çıplak gözle görülebilen tek kuyruklu yıldız olan Halley kuyruklu yıldızı, Dünya'nın çok yakınından geçti."
-        },
-        {
-            "eventId": 6,
-            "eventCategory": "FINANCE",
-            "eventDate": "2023/05/18",
-            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/May%2F18may%2F6_tcmb.jpg?alt=media&token=6fa9836b-a84f-4828-889d-ac0ff7b101fa",
-            "eventDescriptionEn": "On May 18, 2023, the Central Bank of the Republic of Turkey introduced credit restrictions.",
-            "eventDescriptionTr": "18 Mayıs 2023'te T.C. Merkez Bankası kredi sınırlamalarını devreye aldı."
-        },
-        {
-            "eventId": 7,
-            "eventCategory": "FINANCE",
-            "eventDate": "2023/05/19",
-            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/May%2F18may%2F6_tcmb.jpg?alt=media&token=6fa9836b-a84f-4828-889d-ac0ff7b101fa",
-            "eventDescriptionEn": "On May 19, 2023, the Central Bank of the Republic of Turkey canceled the credit restrictions.",
-            "eventDescriptionTr": "19 Mayıs 2023'te T.C. Merkez Bankası kredi sınırlamalarını iptal etti."
-        },
-        {
-            "eventId": 8,
-            "eventCategory": "PEOPLE",
-            "eventDate": "2015/12/10",
-            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/May%2F18may%2F8_nobel_prize.jpg?alt=media&token=dc6602fd-b176-44fd-885a-7103345a5f76",
-            "eventDescriptionEn": "Aziz Sancar won the Nobel Prize on December 10, 2015.",
-            "eventDescriptionTr": "10 Aralık 2015'te Aziz Sancar nobel ödülü kazandı."
-        },
-        {
-            "eventId": 9,
-            "eventCategory": "TECH",
-            "eventDate": "2003/07/01",
-            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/Jul%2F01jul%2F9_tesla.jpg?alt=media&token=4f982a5c-05f1-4f1f-adfc-f8ab0956d40f",
-            "eventDescriptionEn": "On July 01, 2003, TESLA company, which produces electric vehicles, was established.",
-            "eventDescriptionTr": "01 Temmuz 2003'te elektrikli araç üretimi yapan TESLA şirketi kuruldu."
-        },
-        {
-            "eventId": 10,
-            "eventCategory": "PEOPLE",
-            "eventDate": "1041/05/18",
-            "eventImg": null,
-            "eventDescriptionEn": "On May 18, 1041, the famous Persian poet, philosopher Omar Khayyam was born.",
-            "eventDescriptionTr": "18 Mayıs 1041'te ünlü İranlı şair, filozof Ömer Hayyam doğmuştur."
-        },
-        {
-            "eventId": 11,
+            "eventId": "0",
             "eventCategory": "POLITICS",
-            "eventDate": "1983/05/17",
+            "eventDate": "1990/06/12",
             "eventImg": null,
-            "eventDescriptionEn": "The 17 May Treaty was signed between Israel, Lebanon and the United States.",
-            "eventDescriptionTr": "İsrail, Lübnan ve ABD arasında, 17 Mayıs Antlaşması imzalandı."
+            "eventDescriptionEn": "On June 12, 1990, Russia officially declared its independence.",
+            "eventDescriptionTr": "12 Haziran 1990'da Rusya resmen bağımsızlığını ilan etti.",
+            "eventDescriptionDe": "",
+            "eventDescriptionEs": "",
+            "eventDescriptionIt": "",
+            "eventDescriptionFr": ""
         },
         {
-            "eventId": 12,
-            "eventCategory": "UNEXPECTED_EVENT_CATEGORY",
-            "eventDate": "1983/05/18",
+            "eventId": "1",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1967/06/12",
             "eventImg": null,
-            "eventDescriptionEn": "The decree on the re-release of the gold trade was issued.",
-            "eventDescriptionTr": "Altın ticaretinin yeniden serbest bırakılmasına ait kararname çıktı."
-        }
+            "eventDescriptionEn": "The Soviet Union sent the spacecraft Venera 4 to the planet Venus.",
+            "eventDescriptionTr": "Sovyetler Birliği, uzay aracı Venera 4'ü Venüs gezegenine yolladı."
+        },
+        {
+            "eventId": "2",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1983/06/13",
+            "eventImg": null,
+            "eventDescriptionEn": "The Pioneer 10 space probe became the first man-made object to leave the solar system.",
+            "eventDescriptionTr": "Pioneer 10 uzay sondası, güneş sistemi dışına çıkan ilk insan yapımı nesne oldu."
+        },
+        {
+            "eventId": "3",
+            "eventCategory": "TECH",
+            "eventDate": "2018/06/13",
+            "eventImg": null,
+            "eventDescriptionEn": "Volkswagen is fined one billion euros over the emissions scandal.",
+            "eventDescriptionTr": "Volkswagen'e, emisyon skandalı nedeniyle bir milyar euro para cezasına verildi."
+        },
+        {
+            "eventId": "4",
+            "eventCategory": "POLITICS",
+            "eventDate": "1926/06/14",
+            "eventImg": null,
+            "eventDescriptionEn": "Brazil leaves the League of Nations.",
+            "eventDescriptionTr": "Brezilya Millet Cemiyeti'nden ayrıldı."
+        },
+        {
+            "eventId": "5",
+            "eventCategory": "TECH",
+            "eventDate": "2022/06/15",
+            "eventImg": null,
+            "eventDescriptionEn": "Microsoft retires its ubiquitous Internet Explorer after 26 years in favor of its new browser, Microsoft Edge.",
+            "eventDescriptionTr": "Microsoft, Internet Explorer'ı 26 yıl sonra emekliye ayırdı, yerine yeni tarayıcısı Microsoft Edge geldi."
+        },
+        {
+            "eventId": "6",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1667/06/15",
+            "eventImg": null,
+            "eventDescriptionEn": "The first human blood transfusion is administered by Dr. Jean-Baptiste Denys.",
+            "eventDescriptionTr": "1667 yılında ilk kan nakli Dr. Jean-Baptiste Denys tarafından gerçekleştirildi."
+        },
+        {
+            "eventId": "7",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1896/06/15",
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/june%2Fdeadliest%20tsunamis-in-japan-7.png?alt=media&token=fca17113-00a8-439a-8a4c-2107dec5652a",
+            "eventDescriptionEn": "One of the deadliest tsunamis in Japan's history kills more than 22,000 people.",
+            "eventDescriptionTr": "Japonya tarihinin en ölümcül tsunamilerinden biri 22.000'den fazla insanı öldürdü."
+        },
+        {
+            "eventId": "8",
+            "eventCategory": "SPORT",
+            "eventDate": "2012/06/15",
+            "eventImg": null,
+            "eventDescriptionEn": "Nik Wallenda becomes the first person to successfully tightrope walk directly over Niagara Falls.",
+            "eventDescriptionTr": "Nik Wallenda, doğrudan Niagara Şelaleleri üzerinde ipte başarıyla yürüyen ilk kişi oldu."
+        },
+        {
+            "eventId": "9",
+            "eventCategory": "TECH",
+            "eventDate": "1903/06/16",
+            "eventImg": null,
+            "eventDescriptionEn": "The Ford Motor Company is incorporated.",
+            "eventDescriptionTr": "16 Haziran 1903'te Ford Motor Company kuruldu."
+        },
+        {
+            "eventId": "10",
+            "eventCategory": "TECH",
+            "eventDate": "2006/04/23",
+            "eventImg": null,
+            "eventDescriptionEn": "Spotify founded in April 23.",
+            "eventDescriptionTr": "23 Nisan 2006'da Spotify kuruldu."
+        },
+        {
+            "eventId": "12",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1949/06/14",
+            "eventImg": null,
+            "eventDescriptionEn": "Albert II becomes the first monkey in space.",
+            "eventDescriptionTr": "Albert II, uzaya çıkan ilk maymun oldu."
+        },
+        {
+            "eventId": "14",
+            "eventCategory": "TECH",
+            "eventDate": "1935/06/15",
+            "eventImg": null,
+            "eventDescriptionEn": "The first transatlantic telephone call is made between New York City and London.",
+            "eventDescriptionTr": "1935'te Atlantik Okyanusu'nu aşan ilk telefon görüşmesi New York ve Londra arasında yapıldı."
+        },
+        {
+            "eventId": "15",
+            "eventCategory": "POLITICS",
+            "eventDate": "1846/06/15",
+            "eventImg": null,
+            "eventDescriptionEn": "The United States declares war on Mexico, beginning the Mexican-American War.",
+            "eventDescriptionTr": "Amerika Birleşik Devletleri, Meksika-Amerika Savaşı'nı başlatarak Meksika'ya savaş ilan etti."
+        },
+        {
+            "eventId": "16",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2017/06/14",
+            "eventImg": null,
+            "eventDescriptionEn": "A fire in a high-rise apartment building in North Kensington, London, UK, leaves 72 people dead and another 74 injured.",
+            "eventDescriptionTr": "İngiltere'nin Londra kentindeki North Kensington'da çok katlı bir apartmanda çıkan yangında 72 kişi öldü, 74 kişi de yaralandı."
+        },
+        {
+            "eventId": "17",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1963/06/16",
+            "eventImg": null,
+            "eventDescriptionEn": "Soviet cosmonaut Valentina Tereshkova becomes the first woman to travel in space, having been launched into orbit aboard the spacecraft Vostok 6, which completed 48 orbits in 71 hours.",
+            "eventDescriptionTr": "Sovyet kozmonot Valentina Tereshkova, 71 saatte 48 yörüngeyi tamamlayan Vostok 6 uzay aracıyla yörüngeye fırlatılarak uzayda yolculuk yapan ilk kadın oldu."
+        },
+        {
+            "eventId": "18",
+            "eventCategory": "POLITICS",
+            "eventDate": "2001/09/11",
+            "eventImg": null,
+            "eventDescriptionEn": "The September 11 attacks, a series of coordinated terrorist attacks killing 2,996 people using four aircraft hijacked by 19 members of al-Qaeda. Two aircraft crash into the World Trade Center in New York City, a third crashes into The Pentagon in Arlington County, Virginia, and a fourth into a field near Shanksville, Pennsylvania.",
+            "eventDescriptionTr": "11 Eylül saldırıları, El Kaide'nin 19 üyesi tarafından kaçırılan dört uçağı kullanarak 2.996 kişinin ölümüne neden olan bir dizi koordineli terör saldırısıdır. İki uçak New York City'deki Dünya Ticaret Merkezi'ne düştü, üçüncüsü Virginia, Arlington County'deki The Pentagon'a ve dördüncüsü Pennsylvania, Shanksville yakınlarındaki bir araziye düştü."
+        },
+        {
+            "eventId": "19",
+            "eventCategory": "POLITICS",
+            "eventDate": "1914/07/28",
+            "eventImg": null,
+            "eventDescriptionEn": "The First World War began.",
+            "eventDescriptionTr": "I. Dünya Savaşı başladı."
+        },
+        {
+            "eventId": "20",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1986/04/26",
+            "eventImg": null,
+            "eventDescriptionEn": "Chernobyl nuclear reactor explosion occurred, resulting in the worst nuclear disaster in history.",
+            "eventDescriptionTr": "Çernobil nükleer reaktör patlaması gerçekleşti ve tarihteki en kötü nükleer felakete sebep oldu."
+        },
+        {
+            "eventId": "21",
+            "eventCategory": "POLITICS",
+            "eventDate": "1945/09/02",
+            "eventImg": null,
+            "eventDescriptionEn": "World War II came to an end with the official surrender of Japan, marking a significant turning point in global history.",
+            "eventDescriptionTr": "İkinci Dünya Savaşı, Japonya'nın resmi olarak teslim olmasıyla sona erdi ve küresel tarih açısından önemli bir dönüm noktasını işaret etti."
+        },
+        {
+            "eventId": "23",
+            "eventCategory": "POLITICS",
+            "eventDate": "1989/11/09",
+            "eventImg": null,
+            "eventDescriptionEn": "The Berlin Wall fell, symbolizing the end of the Cold War and the reunification of East and West Germany.",
+            "eventDescriptionTr": "Berlin Duvarı yıkıldı ve Soğuk Savaş'ın sonunu ve Doğu ve Batı Almanya'nın birleşmesini simgeledi."
+        },
+        {
+            "eventId": "24",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1920/08/18",
+            "eventImg": null,
+            "eventDescriptionEn": "Women's suffrage was achieved in the United States, granting women the right to vote.",
+            "eventDescriptionTr": "Amerika Birleşik Devletleri'nde kadınların oy kullanma hakkı elde edildi."
+        },
+        {
+            "eventId": "25",
+            "eventCategory": "TECH",
+            "eventDate": "1903/12/17",
+            "eventImg": null,
+            "eventDescriptionEn": "The Wright Brothers achieved the first powered flight, introducing the era of modern aviation.",
+            "eventDescriptionTr": "Wright Kardeşler ilk güçlü uçuşu gerçekleştirdi ve modern havacılık dönemini başlattı."
+        },
+        {
+            "eventId": "26",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1994/04/27",
+            "eventImg": null,
+            "eventDescriptionEn": "Apartheid, the system of racial segregation in South Africa, officially ended, leading to the first multiracial democratic elections in the country.",
+            "eventDescriptionTr": "Güney Afrika'da ırk ayrımcılığı sistemi olan apartheid resmi olarak sona erdi ve ülkede ilk çok ırklı demokratik seçimler gerçekleşti."
+        },
+        {
+            "eventId": "27",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2015/12/12",
+            "eventImg": null,
+            "eventDescriptionEn": "The Paris Agreement, a global effort to combat climate change, was signed by 196 countries, highlighting the urgency of environmental preservation.",
+            "eventDescriptionTr": "Paris Anlaşması, iklim değişikliğiyle mücadele etmek için 196 ülke tarafından imzalandı ve çevresel korumanın aciliyetini vurguladı."
+        },
+        {
+            "eventId": "28",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1967/12/03",
+            "eventImg": null,
+            "eventDescriptionEn": "The first successful human heart transplant was performed, paving the way for organ transplantation in medical history.",
+            "eventDescriptionTr": "İlk başarılı insan kalp nakli gerçekleştirildi ve tıp tarihinde organ nakli için yol açıldı."
+        },
+        {
+            "eventId": "29",
+            "eventCategory": "POLITICS",
+            "eventDate": "1947/08/15",
+            "eventImg": null,
+            "eventDescriptionEn": "India gained independence from British colonial rule, marking a significant milestone in the country's history.",
+            "eventDescriptionTr": "Hindistan, Britanya sömürge yönetiminden bağımsızlığını kazandı ve ülkenin tarihinde önemli bir kilometre taşını işaret etti."
+        },
+        {
+            "eventId": "30",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1953/04/25",
+            "eventImg": null,
+            "eventDescriptionEn": "The double helix structure of DNA was discovered by James Watson and Francis Crick, unraveling the genetic code.",
+            "eventDescriptionTr": "DNA'nın çift sarmal yapısı, James Watson ve Francis Crick tarafından keşfedildi ve genetik kodun çözülmesini sağladı."
+        },
+        {
+            "eventId": "31",
+            "eventCategory": "POLITICS",
+            "eventDate": "1991/12/26",
+            "eventImg": null,
+            "eventDescriptionEn": "The Soviet Union collapsed, leading to the dissolution of the communist state and the end of the Cold War era.",
+            "eventDescriptionTr": "Sovyetler Birliği çöktü, komünist devletin dağılmasına ve Soğuk Savaş döneminin sona ermesine yol açtı."
+        },
+        {
+            "eventId": "32",
+            "eventCategory": "POLITICS",
+            "eventDate": "1919/06/28",
+            "eventImg": null,
+            "eventDescriptionEn": "The Treaty of Versailles was signed, officially ending World War I and establishing peace terms.",
+            "eventDescriptionTr": "Versay Antlaşması imzalandı ve Birinci Dünya Savaşı resmen sona erdi, barış koşulları belirlendi."
+        },
+        {
+            "eventId": "33",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1969/07/20",
+            "eventImg": null,
+            "eventDescriptionEn": "Apollo 11 successfully landed on the moon, marking the first human footsteps on another celestial body.",
+            "eventDescriptionTr": "Apollo 11 başarıyla Ay'a indi ve başka bir gök cismi üzerindeki ilk insan ayak izlerini oluşturdu."
+        },
+        {
+            "eventId": "34",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1964/07/02",
+            "eventImg": null,
+            "eventDescriptionEn": "The Civil Rights Act of 1964 was signed into law, prohibiting discrimination based on race, color, religion, sex, or national origin.",
+            "eventDescriptionTr": "1964 Medeni Haklar Yasası yürürlüğe girdi ve ırk, renk, din, cinsiyet veya milliyete dayalı ayrımcılığı yasakladı."
+        },
+        {
+            "eventId": "35",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1912/04/15",
+            "eventImg": null,
+            "eventDescriptionEn": "The RMS Titanic, a British passenger liner, sank after hitting an iceberg in the North Atlantic Ocean, resulting in the loss of over 1,500 lives.",
+            "eventDescriptionTr": "Britanya yolcu gemisi RMS Titanic, Kuzey Atlantik Okyanusu'nda bir buzdağına çarparak battı ve 1.500'den fazla can kaybına neden oldu."
+        },
+        {
+            "eventId": "36",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1957/10/04",
+            "eventImg": null,
+            "eventDescriptionEn": "The Soviet Union launched Sputnik 1, the world's first artificial satellite, marking the beginning of the Space Age and the Space Race between the United States and the Soviet Union.",
+            "eventDescriptionTr": "Sovyetler Birliği, Sputnik 1'i fırlattı; bu, dünyanın ilk yapay uydusu olup Uzay Çağı'nın ve Amerika Birleşik Devletleri ile Sovyetler Birliği arasındaki Uzay Yarışı'nın başlangıcını işaretledi."
+        },
+        {
+            "eventId": "37",
+            "eventCategory": "POLITICS",
+            "eventDate": "1963/11/22",
+            "eventImg": null,
+            "eventDescriptionEn": "President John F. Kennedy was assassinated in Dallas, Texas, leading to a period of national mourning and significant political impact.",
+            "eventDescriptionTr": "Başkan John F. Kennedy, Dallas, Teksas'ta suikast sonucu öldü ve ulusal yas dönemi ve önemli siyasi etkilerle sonuçlandı."
+        },
+        {
+            "eventId": "38",
+            "eventCategory": "POLITICS",
+            "eventDate": "1945/08/06",
+            "eventImg": null,
+            "eventDescriptionEn": "Atomic bombs were dropped on Hiroshima and Nagasaki by the United States, resulting in the devastation and loss of many lives.",
+            "eventDescriptionTr": "Amerika Birleşik Devletleri tarafından Hiroşima ve Nagazaki'ye atom bombaları atıldı, bunun sonucunda büyük tahribatlar ve birçok can kaybı yaşandı."
+        },
+        {
+            "eventId": "39",
+            "eventCategory": "POLITICS",
+            "eventDate": "1939/09/01",
+            "eventImg": null,
+            "eventDescriptionEn": "World War II began with the German invasion of Poland, leading to a global conflict involving many nations.",
+            "eventDescriptionTr": "Almanya'nın Polonya'yı işgal etmesiyle İkinci Dünya Savaşı başladı ve birçok ülkeyi içeren küresel bir çatışma yaşandı."
+        },
+        {
+            "eventId": "40",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1983/06/18",
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/june%2Fsally-ride-40.jpeg?alt=media&token=fd4c871d-bde0-45da-8bc4-6371c7189338",
+            "eventDescriptionEn": "Astronaut Sally Ride became the first American woman to travel to space aboard the Space Shuttle Challenger.",
+            "eventDescriptionTr": "Astronot Sally Ride, Uzay Mekiği Challenger ile uzaya seyahat eden ilk Amerikalı kadın oldu."
+        },
+        {
+            "eventId": "41",
+            "eventCategory": "POLITICS",
+            "eventDate": "1812/06/18",
+            "eventImg": null,
+            "eventDescriptionEn": "The War of 1812 started with a declaration of war by the United States against Great Britain, primarily over maritime issues and territorial disputes.",
+            "eventDescriptionTr": "1812 Savaşı, Amerika Birleşik Devletleri'nin Büyük Britanya'ya karşı savaş ilanıyla başladı ve temel olarak denizcilik sorunları ve toprak anlaşmazlıkları üzerine odaklandı."
+        },
+        {
+            "eventId": "42",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1865/06/19",
+            "eventImg": null,
+            "eventDescriptionEn": "Juneteenth is celebrated as the emancipation of enslaved African Americans in the United States. It commemorates the day when Union Army General Gordon Granger announced the end of slavery in Texas.",
+            "eventDescriptionTr": "Juneteenth, Amerika Birleşik Devletleri'nde kölelikten kurtulan Afro-Amerikalıların özgürlüğünün kutlandığı bir gündür. Bu gün, Union Ordusu Generali Gordon Granger'ın Teksas'ta köleliğin sona erdiğini duyurduğu günü anar."
+        },
+        {
+            "eventId": "43",
+            "eventCategory": "POLITICS",
+            "eventDate": "1961/06/19",
+            "eventImg": null,
+            "eventDescriptionEn": "Kuwait declares independence from the United Kingdom.",
+            "eventDescriptionTr": "Kuveyt Birleşik Krallık'tan bağımsızlığını ilan etti."
+        },
+        {
+            "eventId": "44",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1997/06/26",
+            "eventImg": null,
+            "eventDescriptionEn": "Author J.K. Rowling's first book in the Harry Potter series, 'Harry Potter and the Philosopher's Stone' (titled 'Harry Potter and the Sorcerer's Stone' in the US), was published, introducing readers to the magical world of Harry Potter.",
+            "eventDescriptionTr": "Yazar J.K. Rowling'in Harry Potter serisindeki ilk kitabı 'Harry Potter ve Felsefe Taşı' (ABD'de 'Harry Potter ve Sırlar Odası' adıyla yayınlandı), okurları Harry Potter'ın sihirli dünyasına tanıştırarak büyük bir ilgi uyandırdı."
+        },
+        {
+            "eventId": "45",
+            "eventCategory": "POLITICS",
+            "eventDate": "1953/06/02",
+            "eventImg": null,
+            "eventDescriptionEn": "Queen Elizabeth II was crowned at Westminster Abbey in London, becoming the Queen of the United Kingdom and other Commonwealth realms.",
+            "eventDescriptionTr": "Kraliçe II. Elizabeth, Londra'daki Westminster Manastırı'nda taç giyerek Birleşik Krallık ve diğer İngiliz Milletler Topluluğu ülkelerinin kraliçesi oldu."
+        },
+        {
+            "eventId": "46",
+            "eventCategory": "TECH",
+            "eventDate": "1877/06/02",
+            "eventImg": null,
+            "eventDescriptionEn": "Alexander Graham Bell installs the world's first commercial telephone service in Hamilton, Ontario, Canada.",
+            "eventDescriptionTr": "Alexander Graham Bell dünyanın ilk ticari telefon hizmetini Hamilton, Ontario, Kanada'da kurdu."
+        },
+        {
+            "eventId": "47",
+            "eventCategory": "TECH",
+            "eventDate": "1840/06/02",
+            "eventImg": null,
+            "eventDescriptionEn": "Samuel Morse receives the patent for the telegraph.",
+            "eventDescriptionTr": "Samuel Morse telgrafın patentini aldı."
+        },{
+            "eventId": "48",
+            "eventCategory": "POLITICS",
+            "eventDate": "1840/06/02",
+            "eventImg": null,
+            "eventDescriptionEn": "Queen Victoria succeeds to the British throne",
+            "eventDescriptionTr": "Kraliçe Victoria Britanya tahtına geçti."
+        },{
+            "eventId": "49",
+            "eventCategory": "TECH",
+            "eventDate": "2004/02/04",
+            "eventImg": null,
+            "eventDescriptionEn": "Facebook was founded by Mark Zuckerberg, along with his college roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes. Initially launched as 'Thefacebook', it started as a social networking platform for Harvard University students before expanding to other universities and eventually becoming a global social media giant.",
+            "eventDescriptionTr": "Facebook, Mark Zuckerberg tarafından, üniversite arkadaşları Eduardo Saverin, Andrew McCollum, Dustin Moskovitz ve Chris Hughes ile birlikte kuruldu. Başlangıçta 'Thefacebook' olarak başlatılan platform, başlangıçta Harvard Üniversitesi öğrencileri için bir sosyal ağ olarak hizmet verdi ve daha sonra diğer üniversitelere yayılarak sonunda küresel bir sosyal medya devi haline geldi."
+          },{
+            "eventId": "50",
+            "eventCategory": "TECH",
+            "eventDate": "2006/03/21",
+            "eventImg": null,
+            "eventDescriptionEn": "Twitter was founded by Jack Dorsey, Biz Stone, and Evan Williams. Initially launched as a microblogging platform, Twitter allowed users to share short messages called 'tweets' of up to 140 characters. Over time, it grew into a widely used social media platform with millions of active users worldwide.",
+            "eventDescriptionTr": "Twitter, Jack Dorsey, Biz Stone ve Evan Williams tarafından kuruldu. Başlangıçta bir mikroblog platformu olarak başlatılan Twitter, kullanıcıların 140 karaktere kadar olan kısa mesajlar olan 'tweet'leri paylaşmalarına olanak tanıdı. Zaman içinde, milyonlarca aktif kullanıcısı olan yaygın olarak kullanılan bir sosyal medya platformuna dönüştü."
+          },{
+            "eventId": "51",
+            "eventCategory": "SPORT",
+            "eventDate": "1896/04/06",
+            "eventImg": null,
+            "eventDescriptionEn": "The first modern Olympic Games were held in Athens, Greece, marking the revival of the ancient Olympic Games.",
+            "eventDescriptionTr": "İlk modern Olimpiyat Oyunları, antik Olimpiyat Oyunlarının yeniden canlanmasını işaret ederek Atina, Yunanistan'da düzenlendi."
+          },{
+            "eventId": "52",
+            "eventCategory": "SPORT",
+            "eventDate": "1986/06/22",
+            "eventImg": null,
+            "eventDescriptionEn": "Diego Maradona scored the 'Hand of God' and 'Goal of the Century' during the 1986 FIFA World Cup quarter-final match between Argentina and England.",
+            "eventDescriptionTr": "Diego Maradona, 1986 FIFA Dünya Kupası çeyrek final maçında Arjantin ve İngiltere arasında 'Tanrının Eli' ve 'Yüzyılın Golü'nü attı."
+          },{
+            "eventId": "53",
+            "eventCategory": "SPORT",
+            "eventDate": "1990/06/20",
+            "eventImg": null,
+            "eventDescriptionEn": "Michael Jordan led the Chicago Bulls to their first NBA championship, solidifying his legacy as one of the greatest basketball players of all time.",
+            "eventDescriptionTr": "Michael Jordan, Chicago Bulls'u ilk NBA şampiyonluğuna taşıyarak tüm zamanların en büyük basketbol oyuncularından biri olarak adını tarihe yazdırdı."
+          },{
+            "eventId": "54",
+            "eventCategory": "SPORT",
+            "eventDate": "2008/08/08",
+            "eventImg": null,
+            "eventDescriptionEn": "Usain Bolt of Jamaica set world records in the 100m and 200m sprints at the Beijing Olympics, establishing himself as the fastest man in history.",
+            "eventDescriptionTr": "Jamaikalı Usain Bolt, Pekin Olimpiyatları'nda 100m ve 200m sprintlerinde dünya rekorları kırarak tarihteki en hızlı adam olarak kendini kanıtladı."
+          },{
+            "eventId": "55",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1971/07/03",
+            "eventImg": null,
+            "eventDescriptionEn": "Jim Morrison, the lead singer of the rock band The Doors, was found dead in Paris, France, at the age of 27.",
+            "eventDescriptionTr": "Rock grubu The Doors'un solisti Jim Morrison, 27 yaşında Paris, Fransa'da ölü bulundu."
+          },
+          {
+            "eventId": "56",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1985/07/03",
+            "eventImg": null,
+            "eventDescriptionEn": "Back to the Future, a science fiction comedy film directed by Robert Zemeckis and starring Michael J. Fox, was released in the United States.",
+            "eventDescriptionTr": "Robert Zemeckis'in yönettiği ve Michael J. Fox'un başrolde olduğu Bilim Kurgu-Komedi filmi Back to the Future, Amerika Birleşik Devletleri'nde gösterime girdi."
+          },{
+            "eventId": "57",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1996/07/05",
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/july%2Fdolly-57.jpeg?alt=media&token=60bd2545-65d3-40cb-8866-ff954502b6db",
+            "eventDescriptionEn": "Dolly the sheep, the world's first mammal cloned from an adult somatic cell, was born at the Roslin Institute in Scotland.",
+            "eventDescriptionTr": "Dolly koyunu, yetişkin bir somatik hücreden klonlanan dünyanın ilk memeli hayvanı olarak İskoçya'daki Roslin Enstitüsü'nde doğdu."
+          },{
+            "eventId": "58",
+            "eventCategory": "SPORT",
+            "eventDate": "1980/07/05",
+            "eventImg": null,
+            "eventDescriptionEn": "Björn Borg of Sweden won his fifth consecutive Wimbledon title in men's singles, establishing a new record in the tournament's history.",
+            "eventDescriptionTr": "İsveçli tenisçi Björn Borg, erkekler teklerinde beşinci kez üst üste Wimbledon şampiyonluğunu kazanarak turnuva tarihinde yeni bir rekora imza attı."
+          },{
+            "eventId": "59",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1962/07/05",
+            "eventImg": null,
+            "eventDescriptionEn": "Algeria gained independence from France after a long and bloody war, ending more than a century of French colonial rule.",
+            "eventDescriptionTr": "Uzun ve kanlı bir savaşın ardından Cezayir, yüzyılı aşkın bir süredir devam eden Fransız sömürge yönetimine son vererek bağımsızlığını kazandı."
+          },{
+            "eventId": "60",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1943/07/05",
+            "eventImg": null,
+            "eventDescriptionEn": "The Battle of Kursk, one of the largest tank battles in history, began between German and Soviet forces during World War II.",
+            "eventDescriptionTr": "İkinci Dünya Savaşı sırasında Alman ve Sovyet güçleri arasında gerçekleşen Kursk Muharebesi, tarihteki en büyük tank savaşlarından biri olarak başladı."
+          },{
+            "eventId": "61",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1811/07/05",
+            "eventImg": null,
+            "eventDescriptionEn": "Venezuela declared its independence from Spain, marking the beginning of the Venezuelan War of Independence.",
+            "eventDescriptionTr": "Venezuela, İspanya'dan bağımsızlığını ilan etti ve Venezuela Bağımsızlık Savaşı'nın başlangıcını işaret etti."
+          },{
+            "eventId": "62",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1978/07/07",
+            "eventImg": null,
+            "eventDescriptionEn": "The Solomon Islands becomes independent from the United Kingdom.",
+            "eventDescriptionTr": "Solomon Adaları Birleşik Krallık'tan bağımsız hale geldi."
+          },
+          {
+            "eventId": "63",
+            "eventCategory": "POLITICS",
+            "eventDate": "1776/07/04",
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/july%2Findependence-of-america-63.jpg?alt=media&token=debcb598-69e7-451d-b0b3-213ed0a51e9c",
+            "eventDescriptionEn": "American Revolution: The United States Declaration of Independence is adopted by the Second Continental Congress.",
+            "eventDescriptionTr": "Amerikan Devrimi: Amerika Birleşik Devletleri Bağımsızlık Bildirgesi, İkinci Kıta Kongresi tarafından kabul edildi."
+          },
+          {
+            "eventId": "64",
+            "eventCategory": "POLITICS",
+            "eventDate": "1827/07/04",
+            "eventImg": null,
+            "eventDescriptionEn": "Slavery is abolished in the State of New York.",
+            "eventDescriptionTr": "New York Eyaletinde kölelik kaldırıldı."
+          },
+          {
+            "eventId": "65",
+            "eventCategory": "SPORT",
+            "eventDate": "2004/07/04",
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/july%2Fuefa-2004-final-greece-65.jpeg?alt=media&token=914b5d36-182c-4810-af22-ca3d5ff38213",
+            "eventDescriptionEn": "Greece beats Portugal in the UEFA Euro 2004 Final and becomes European Champion for first time in its history.",
+            "eventDescriptionTr": "Yunanistan, UEFA Euro 2004 Finalinde Portekiz'i yenerek tarihinde ilk kez Avrupa Şampiyonu oldu."
+          },
+          {
+            "eventId": "66",
+            "eventCategory": "POLITICS",
+            "eventDate": "1975/07/06",
+            "eventImg": null,
+            "eventDescriptionEn": "The Comoros declares independence from France.",
+            "eventDescriptionTr": "Komorlar, Fransa'dan bağımsızlığını ilan etti."
+          },
+          {
+            "eventId": "67",
+            "eventCategory": "TECH",
+            "eventDate": "1947/07/06",
+            "eventImg": null,
+            "eventDescriptionEn": "The AK-47 goes into production in the Soviet Union.",
+            "eventDescriptionTr": "AK-47, Sovyetler Birliği'nde üretime girdi."
+          },
+          {
+            "eventId": "68",
+            "eventCategory": "TECH",
+            "eventDate": "1964/07/06",
+            "eventImg": null,
+            "eventDescriptionEn": "Malawi declares its independence from the United Kingdom.",
+            "eventDescriptionTr": "Malawi Birleşik Krallık'tan bağımsızlığını ilan etti."
+          },
+          {
+            "eventId": "69",
+            "eventCategory": "SPORT",
+            "eventDate": "1957/07/06",
+            "eventImg": null,
+            "eventDescriptionEn": "Althea Gibson wins the Wimbledon championships, becoming the first black athlete to do so.",
+            "eventDescriptionTr": "Althea Gibson Wimbledon şampiyonasını kazandı ve bunu yapan ilk siyah atlet oldu."
+          },
+          {
+            "eventId": "70",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1889/07/08",
+            "eventImg": null,
+            "eventDescriptionEn": "The first issue of The Wall Street Journal is published.",
+            "eventDescriptionTr": "The Wall Street Journal'ın ilk sayısı yayınlandı."
+          }
+
+          
     ]
 }
