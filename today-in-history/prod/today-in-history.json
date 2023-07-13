@@ -541,8 +541,15 @@
             "eventImg": null,
             "eventDescriptionEn": "Somalia declares war on Ethiopia, starting the Ogaden War.",
             "eventDescriptionTr": "Somali, Ogaden Savaşı'nı başlatarak Etiyopya'ya savaş ilan etti."
+          },
+          {
+            "eventId": "72",
+            "eventCategory": "POLITICS",
+            "eventDate": "1950/07/14",
+            "eventImg": null,
+            "eventDescriptionEn": "Korean War: beginning of the Battle of Taejon.",
+            "eventDescriptionTr": "Kore Savaşı: Taejon Savaşı'nın başlangıcı."
           }
-
           
     ]
 }
