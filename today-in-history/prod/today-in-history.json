@@ -533,6 +533,14 @@
             "eventImg": null,
             "eventDescriptionEn": "The first issue of The Wall Street Journal is published.",
             "eventDescriptionTr": "The Wall Street Journal'ın ilk sayısı yayınlandı."
+          },
+          {
+            "eventId": "71",
+            "eventCategory": "POLITICS",
+            "eventDate": "1977/07/13",
+            "eventImg": null,
+            "eventDescriptionEn": "Somalia declares war on Ethiopia, starting the Ogaden War.",
+            "eventDescriptionTr": "Somali, Ogaden Savaşı'nı başlatarak Etiyopya'ya savaş ilan etti."
           }
 
           
