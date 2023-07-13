@@ -549,6 +549,14 @@
             "eventImg": null,
             "eventDescriptionEn": "Korean War: beginning of the Battle of Taejon.",
             "eventDescriptionTr": "Kore Savaşı: Taejon Savaşı'nın başlangıcı."
+          },
+          {
+            "eventId": "73",
+            "eventCategory": "SPORTS",
+            "eventDate": "1951/07/14",
+            "eventImg": null,
+            "eventDescriptionEn": "Ferrari take their first Formula One grand prix victory at the British Grand Prix at Silverstone.",
+            "eventDescriptionTr": "Ferrari, Silverstone'daki Britanya Grand Prix'sinde ilk Formula 1 grand prix zaferini aldı."
           }
           
     ]
