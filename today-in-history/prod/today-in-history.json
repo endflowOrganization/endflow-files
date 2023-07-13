@@ -565,6 +565,14 @@
             "eventImg": null,
             "eventDescriptionEn": "Mario Bros. is released in Japan, beginning the popular Super Mario Bros franchise.",
             "eventDescriptionTr": "Mario Bros., popüler Super Mario Bros serisini başlatarak Japonya'da piyasaya sürüldü."
+          },
+          {
+            "eventId": "75",
+            "eventCategory": "TECH",
+            "eventDate": "2015/07/14",
+            "eventImg": null,
+            "eventDescriptionEn": "NASA's New Horizons probe performs the first flyby of Pluto, and thus completes the initial survey of the Solar System.",
+            "eventDescriptionTr": "NASA'nın Yeni Ufuklar sondası, Pluto'nun ilk geçişini gerçekleştiriyor ve böylece Güneş Sistemi'nin ilk araştırmasını tamamlıyor."
           }
           
     ]
