@@ -573,7 +573,16 @@
             "eventImg": null,
             "eventDescriptionEn": "NASA's New Horizons probe performs the first flyby of Pluto, and thus completes the initial survey of the Solar System.",
             "eventDescriptionTr": "NASA'nın Yeni Ufuklar sondası, Pluto'nun ilk geçişini gerçekleştiriyor ve böylece Güneş Sistemi'nin ilk araştırmasını tamamlıyor."
+          },
+          {
+            "eventId": "76",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1874/07/14",
+            "eventImg": null,
+            "eventDescriptionEn": "The Chicago Fire of 1874 burns down 47 acres of the city, destroying 812 buildings, killing 20, and resulting in the fire insurance industry demanding municipal reforms from Chicago's city council.",
+            "eventDescriptionTr": "1874 Chicago Yangını şehrin 47 dönümünü yaktı, 812 binayı yıktı, 20 kişiyi öldürdü ve yangın sigortası endüstrisinin Chicago belediye meclisinden belediye reformları talep etmesine neden oldu."
           }
+          
           
     ]
 }
