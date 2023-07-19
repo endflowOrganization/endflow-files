@@ -709,6 +709,13 @@
             "eventImg": null,
             "eventDescriptionEn": "Atomic bombs were dropped on Nagasaki by the United States, resulting in the devastation and loss of many lives.",
             "eventDescriptionTr": "Amerika Birleşik Devletleri tarafından Nagasaki'ye atom bombası atıldı, bunun sonucunda büyük tahribatlar ve birçok can kaybı yaşandı."
-        }
+        },{
+            "eventId": "94",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1867/07/01",
+            "eventImg": null,
+            "eventDescriptionEn": "Canada was officially established as a self-governing dominion within the British Empire, known as Canada Day.",
+            "eventDescriptionTr": "Kanada, İngiliz İmparatorluğu içinde öz yönetimli bir dominyon olarak resmen kuruldu ve Kanada Günü olarak bilinir."
+          }
     ]
 }
