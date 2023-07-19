@@ -667,6 +667,13 @@
             "eventImg": null,
             "eventDescriptionEn": "British Columbia becomes the sixth province to join the confederation of Canada, solidifying its status as an integral part of the country.",
             "eventDescriptionTr": "British Columbia, Kanada konfederasyonuna katılan altıncı eyalet olur ve ülkenin ayrılmaz bir parçası olarak konumunu pekiştirir."
+          },{
+            "eventId": "88",
+            "eventCategory": "PEOPLE" ,
+            "eventDate": "1903/07/20",
+            "eventImg": null,
+            "eventDescriptionEn": "The Ford Motor Company, founded by Henry Ford, ships its first automobile, the Model A, marking the beginning of mass automobile production and revolutionizing the automotive industry.",
+            "eventDescriptionTr": "Henry Ford tarafından kurulan Ford Motor Company, ilk otomobili Model A'yı sevk ederek seri üretime başlar ve otomotiv endüstrisinde devrim yaratır."
           }
     ]
 }
