@@ -638,6 +638,20 @@
             "eventImg": null,
             "eventDescriptionEn": "The failed assassination attempt against Adolf Hitler, known as the July 20 plot, took place during World War II.",
             "eventDescriptionTr": "Adolf Hitler'e yönelik başarısız suikast girişimi olan 20 Temmuz komplosu, İkinci Dünya Savaşı sırasında gerçekleşti."
+          },{
+            "eventId": "84",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2011/10/05",
+            "eventImg": null,
+            "eventDescriptionEn": "Steve Jobs, the co-founder of Apple Inc. and a visionary entrepreneur, passed away at the age of 56 in Palo Alto, California.",
+            "eventDescriptionTr": "Apple Inc.'in kurucu ortağı ve vizyoner girişimci Steve Jobs, 56 yaşında Palo Alto, Kaliforniya'da vefat etti."
+          },{
+            "eventId": "85",
+            "eventCategory": "SPORTS",
+            "eventDate": "2016/06/03",
+            "eventImg": null,
+            "eventDescriptionEn": "Muhammad Ali, the legendary professional boxer and one of the greatest athletes in history, passed away at the age of 74 in Scottsdale, Arizona.",
+            "eventDescriptionTr": "Efsanevi profesyonel boksör ve tarihteki en büyük sporcularından biri olan Muhammad Ali, 74 yaşında Scottsdale, Arizona'da vefat etti."
           }
     ]
 }
