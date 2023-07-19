@@ -730,6 +730,13 @@
             "eventImg": null,
             "eventDescriptionEn": "The Battle of Gettysburg, a pivotal battle in the American Civil War, ended with a Union victory over the Confederate forces.",
             "eventDescriptionTr": "Amerikan İç Savaşı'nda dönüm noktası niteliğindeki Gettysburg Muharebesi, Birlik kuvvetlerinin Konfederasyon güçleri üzerindeki zaferiyle sona erdi."
+          },{
+            "eventId": "97",
+            "eventCategory": "SCIENCE",
+            "eventDate": "2015/07/14",
+            "eventImg": null,
+            "eventDescriptionEn": "NASA's New Horizons spacecraft made its closest flyby of Pluto, providing detailed images of the dwarf planet.",
+            "eventDescriptionTr": "NASA'nın New Horizons uzay aracı, Plüton'a en yakın uçuşunu gerçekleştirerek cüce gezegenin detaylı görüntülerini sağladı."
           }
     ]
 }
