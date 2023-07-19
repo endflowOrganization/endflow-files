@@ -581,6 +581,13 @@
             "eventImg": null,
             "eventDescriptionEn": "The Chicago Fire of 1874 burns down 47 acres of the city, destroying 812 buildings, killing 20, and resulting in the fire insurance industry demanding municipal reforms from Chicago's city council.",
             "eventDescriptionTr": "1874 Chicago Yangını şehrin 47 dönümünü yaktı, 812 binayı yıktı, 20 kişiyi öldürdü ve yangın sigortası endüstrisinin Chicago belediye meclisinden belediye reformları talep etmesine neden oldu."
+          },{
+            "eventId": "77",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1848/07/19",
+            "eventImg": null,
+            "eventDescriptionEn": "The Seneca Falls Convention, the first women's rights convention in the United States, began in Seneca Falls, New York.",
+            "eventDescriptionTr": "Amerika Birleşik Devletleri'ndeki ilk kadın hakları kongresi olan Seneca Falls Konvansiyonu, New York'un Seneca Falls şehrinde başladı."
           }
     ]
 }
