@@ -289,8 +289,8 @@
             "eventCategory": "POLITICS",
             "eventDate": "1945/08/06",
             "eventImg": null,
-            "eventDescriptionEn": "Atomic bombs were dropped on Hiroshima and Nagasaki by the United States, resulting in the devastation and loss of many lives.",
-            "eventDescriptionTr": "Amerika Birleşik Devletleri tarafından Hiroşima ve Nagazaki'ye atom bombaları atıldı, bunun sonucunda büyük tahribatlar ve birçok can kaybı yaşandı."
+            "eventDescriptionEn": "Atomic bombs were dropped on Hiroshima by the United States, resulting in the devastation and loss of many lives.",
+            "eventDescriptionTr": "Amerika Birleşik Devletleri tarafından Hiroşima'ya atom bombası atıldı, bunun sonucunda büyük tahribatlar ve birçok can kaybı yaşandı."
         },
         {
             "eventId": "39",
@@ -702,6 +702,13 @@
             "eventImg": null,
             "eventDescriptionEn": "The National Aeronautics and Space Administration (NASA) was established in the United States.",
             "eventDescriptionTr": "Ulusal Havacılık ve Uzay Dairesi (NASA), Amerika Birleşik Devletleri'nde kuruldu."
-          }
+          },{
+            "eventId": "93",
+            "eventCategory": "POLITICS",
+            "eventDate": "1945/08/06",
+            "eventImg": null,
+            "eventDescriptionEn": "Atomic bombs were dropped on Nagasaki by the United States, resulting in the devastation and loss of many lives.",
+            "eventDescriptionTr": "Amerika Birleşik Devletleri tarafından Nagasaki'ye atom bombası atıldı, bunun sonucunda büyük tahribatlar ve birçok can kaybı yaşandı."
+        }
     ]
 }
