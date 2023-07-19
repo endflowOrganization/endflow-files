@@ -603,6 +603,27 @@
             "eventImg": null,
             "eventDescriptionEn": "The first three-dimensional reconstruction of a human head using a CT (Computed Tomography) scanner is published, revolutionizing medical imaging and diagnostic practices.",
             "eventDescriptionTr": "İlk bilgisayarlı tomografi (BT) tarayıcı kullanılarak bir insan kafasının üç boyutlu rekonstrüksiyonu yayınlandı ve tıbbi görüntüleme ve tanı uygulamalarında devrim oluşturdu."
+          },{
+            "eventId": "79",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1969/07/20",
+            "eventImg": null,
+            "eventDescriptionEn": "Apollo 11, the first manned mission to land on the Moon, successfully landed with astronauts Neil Armstrong and Buzz Aldrin, making Armstrong the first person to walk on the lunar surface.",
+            "eventDescriptionTr": "Ay'a iniş yapacak ilk mürettebatlı Apollo 11 görevi, astronotlar Neil Armstrong ve Buzz Aldrin ile başarıyla gerçekleşti ve Armstrong'u ay yüzeyinde yürüyen ilk insan yaptı."
+          },{
+            "eventId": "80",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1976/07/20",
+            "eventImg": null,
+            "eventDescriptionEn": "NASA's Viking 1 lander became the first spacecraft to successfully land and operate on Mars.",
+            "eventDescriptionTr": "NASA'nın Viking 1 iniş aracı, Mars'a başarılı bir şekilde inen ve çalışan ilk uzay aracı oldu."
+          },{
+            "eventId": "81",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2012/07/20",
+            "eventImg": null,
+            "eventDescriptionEn": "The Dark Knight Rises, the final installment in Christopher Nolan's Batman trilogy, was released in theaters worldwide.",
+            "eventDescriptionTr": "Christopher Nolan'ın Batman üçlemesinin final filmi olan 'The Dark Knight Rises', tüm dünyadaki sinemalarda gösterime girdi."
           }
     ]
 }
