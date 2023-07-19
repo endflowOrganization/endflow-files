@@ -674,6 +674,27 @@
             "eventImg": null,
             "eventDescriptionEn": "The Ford Motor Company, founded by Henry Ford, ships its first automobile, the Model A, marking the beginning of mass automobile production and revolutionizing the automotive industry.",
             "eventDescriptionTr": "Henry Ford tarafından kurulan Ford Motor Company, ilk otomobili Model A'yı sevk ederek seri üretime başlar ve otomotiv endüstrisinde devrim yaratır."
+          },{
+            "eventId": "89",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1945/04/30",
+            "eventImg": null,
+            "eventDescriptionEn": "Adolf Hitler, the German dictator and leader of the Nazi party, died by suicide in his underground bunker in Berlin, Germany.",
+            "eventDescriptionTr": "Alman diktatör ve Nazi partisinin lideri Adolf Hitler, Berlin, Almanya'daki yeraltı sığınağında intihar ederek hayatını kaybetti."
+          },{
+            "eventId": "90",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1995/07/11",
+            "eventImg": null,
+            "eventDescriptionEn": "The Bosnian Serb Army committed the Srebrenica massacre, where more than 8,000 Bosniak men and boys were killed during the Bosnian War.",
+            "eventDescriptionTr": "Bosna Savaşı sırasında Bosna Sırp Ordusu, Srebrenica katliamını gerçekleştirdi ve 8,000'den fazla Boşnak erkek ve çocuk öldürüldü."
+          },{
+            "eventId": "91",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1981/07/07",
+            "eventImg": null,
+            "eventDescriptionEn": "President Ronald Reagan nominated Sandra Day O'Connor as the first female justice of the Supreme Court of the United States.",
+            "eventDescriptionTr": "Başkan Ronald Reagan, Sandra Day O'Connor'ı Amerika Birleşik Devletleri Yüksek Mahkemesi'nin ilk kadın yargıcı olarak aday gösterdi."
           }
     ]
 }
