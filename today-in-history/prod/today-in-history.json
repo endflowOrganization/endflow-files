@@ -596,6 +596,13 @@
             "eventImg": null,
             "eventDescriptionEn": "Michael Jackson, the King of Pop and one of the most influential entertainers in music history, passed away at the age of 50 in Los Angeles, California.",
             "eventDescriptionTr": "Popun Kralı ve müzik tarihinde en etkili sanatçılardan biri olan Michael Jackson, 50 yaşında Los Angeles, Kaliforniya'da hayatını kaybetti."
+          },{
+            "eventId": "79",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1983/07/19",
+            "eventImg": null,
+            "eventDescriptionEn": "The first three-dimensional reconstruction of a human head using a CT (Computed Tomography) scanner is published, revolutionizing medical imaging and diagnostic practices.",
+            "eventDescriptionTr": "İlk bilgisayarlı tomografi (BT) tarayıcı kullanılarak bir insan kafasının üç boyutlu rekonstrüksiyonu yayınlandı ve tıbbi görüntüleme ve tanı uygulamalarında devrim yarattı."
           }
     ]
 }
