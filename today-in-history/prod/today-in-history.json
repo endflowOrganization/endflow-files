@@ -659,6 +659,14 @@
             "eventImg": null,
             "eventDescriptionEn": "Jeff Bezos, the American businessman and founder of Amazon, flies to space aboard New Shepard NS-16, a suborbital spaceflight vehicle operated by his private spaceflight company Blue Origin.",
             "eventDescriptionTr": "Amazon'un kurucusu ve Amerikalı iş insanı Jeff Bezos, kendi özel uzay uçuş şirketi Blue Origin tarafından işletilen New Shepard NS-16 ile uzaya seyahat eder."
+          },
+          {
+            "eventId": "87",
+            "eventCategory": "POLITICS",
+            "eventDate": "1871/07/20",
+            "eventImg": null,
+            "eventDescriptionEn": "British Columbia becomes the sixth province to join the confederation of Canada, solidifying its status as an integral part of the country.",
+            "eventDescriptionTr": "British Columbia, Kanada konfederasyonuna katılan altıncı eyalet olur ve ülkenin ayrılmaz bir parçası olarak konumunu pekiştirir."
           }
     ]
 }
