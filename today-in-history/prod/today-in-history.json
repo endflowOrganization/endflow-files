@@ -737,6 +737,13 @@
             "eventImg": null,
             "eventDescriptionEn": "NASA's New Horizons spacecraft made its closest flyby of Pluto, providing detailed images of the dwarf planet.",
             "eventDescriptionTr": "NASA'nın New Horizons uzay aracı, Plüton'a en yakın uçuşunu gerçekleştirerek cüce gezegenin detaylı görüntülerini sağladı."
-          }
+          }, { 
+          "eventId": "98",
+          "eventCategory": "SPORT",
+          "eventDate": "2018/07/15",
+          "eventImg": null,
+          "eventDescriptionEn": "The 2018 FIFA World Cup final was held in Moscow, Russia, with France winning the tournament by defeating Croatia.",
+          "eventDescriptionTr": "2018 FIFA Dünya Kupası finali Moskova, Rusya'da düzenlendi ve Fransa, Hırvatistan'ı yenerek turnuvayı kazandı."
+        }
     ]
 }
