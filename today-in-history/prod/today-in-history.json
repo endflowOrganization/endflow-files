@@ -695,6 +695,13 @@
             "eventImg": null,
             "eventDescriptionEn": "President Ronald Reagan nominated Sandra Day O'Connor as the first female justice of the Supreme Court of the United States.",
             "eventDescriptionTr": "Başkan Ronald Reagan, Sandra Day O'Connor'ı Amerika Birleşik Devletleri Yüksek Mahkemesi'nin ilk kadın yargıcı olarak aday gösterdi."
+          },{
+            "eventId": "92",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1958/07/29",
+            "eventImg": null,
+            "eventDescriptionEn": "The National Aeronautics and Space Administration (NASA) was established in the United States.",
+            "eventDescriptionTr": "Ulusal Havacılık ve Uzay Dairesi (NASA), Amerika Birleşik Devletleri'nde kuruldu."
           }
     ]
 }
