@@ -652,6 +652,13 @@
             "eventImg": null,
             "eventDescriptionEn": "Muhammad Ali, the legendary professional boxer and one of the greatest athletes in history, passed away at the age of 74 in Scottsdale, Arizona.",
             "eventDescriptionTr": "Efsanevi profesyonel boksör ve tarihteki en büyük sporcularından biri olan Muhammad Ali, 74 yaşında Scottsdale, Arizona'da vefat etti."
+          },{
+            "eventId": "86",
+            "eventCategory": "TECH",
+            "eventDate": "2021/07/20",
+            "eventImg": null,
+            "eventDescriptionEn": "Jeff Bezos, the American businessman and founder of Amazon, flies to space aboard New Shepard NS-16, a suborbital spaceflight vehicle operated by his private spaceflight company Blue Origin.",
+            "eventDescriptionTr": "Amazon'un kurucusu ve Amerikalı iş insanı Jeff Bezos, kendi özel uzay uçuş şirketi Blue Origin tarafından işletilen New Shepard NS-16 ile uzaya seyahat eder."
           }
     ]
 }
