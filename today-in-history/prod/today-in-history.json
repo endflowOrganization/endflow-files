@@ -588,6 +588,14 @@
             "eventImg": null,
             "eventDescriptionEn": "The Seneca Falls Convention, the first women's rights convention in the United States, began in Seneca Falls, New York.",
             "eventDescriptionTr": "Amerika Birleşik Devletleri'ndeki ilk kadın hakları kongresi olan Seneca Falls Konvansiyonu, New York'un Seneca Falls şehrinde başladı."
+          },
+          {
+            "eventId": "78",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2009/06/25",
+            "eventImg": null,
+            "eventDescriptionEn": "Michael Jackson, the King of Pop and one of the most influential entertainers in music history, passed away at the age of 50 in Los Angeles, California.",
+            "eventDescriptionTr": "Popun Kralı ve müzik tarihinde en etkili sanatçılardan biri olan Michael Jackson, 50 yaşında Los Angeles, Kaliforniya'da hayatını kaybetti."
           }
     ]
 }
