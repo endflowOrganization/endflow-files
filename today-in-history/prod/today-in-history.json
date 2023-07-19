@@ -624,6 +624,20 @@
             "eventImg": null,
             "eventDescriptionEn": "The Dark Knight Rises, the final installment in Christopher Nolan's Batman trilogy, was released in theaters worldwide.",
             "eventDescriptionTr": "Christopher Nolan'ın Batman üçlemesinin final filmi olan 'The Dark Knight Rises', tüm dünyadaki sinemalarda gösterime girdi."
+          },{
+            "eventId": "82",
+            "eventCategory": "SPORTS",
+            "eventDate": "1968/07/20",
+            "eventImg": null,
+            "eventDescriptionEn": "The first Special Olympics Games, organized for athletes with intellectual disabilities, were held in Chicago, Illinois.",
+            "eventDescriptionTr": "Zihinsel engelli sporcular için düzenlenen ilk Özel Olimpiyat Oyunları, Chicago, Illinois'de gerçekleştirildi."
+          },{
+            "eventId": "83",
+            "eventCategory": "POLITICS",
+            "eventDate": "1944/07/20",
+            "eventImg": null,
+            "eventDescriptionEn": "The failed assassination attempt against Adolf Hitler, known as the July 20 plot, took place during World War II.",
+            "eventDescriptionTr": "Adolf Hitler'e yönelik başarısız suikast girişimi olan 20 Temmuz komplosu, İkinci Dünya Savaşı sırasında gerçekleşti."
           }
     ]
 }
