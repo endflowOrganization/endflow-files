@@ -716,6 +716,20 @@
             "eventImg": null,
             "eventDescriptionEn": "Canada was officially established as a self-governing dominion within the British Empire, known as Canada Day.",
             "eventDescriptionTr": "Kanada, İngiliz İmparatorluğu içinde öz yönetimli bir dominyon olarak resmen kuruldu ve Kanada Günü olarak bilinir."
+          },{
+            "eventId": "95",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1994/07/16",
+            "eventImg": null,
+            "eventDescriptionEn": "Comet Shoemaker-Levy 9 collided with Jupiter, providing scientists with valuable data about the planet's atmosphere.",
+            "eventDescriptionTr": "Shoemaker-Levy 9 Kuyruklu Yıldızı, Jüpiter ile çarpışarak bilim insanlarına gezegenin atmosferi hakkında değerli veriler sağladı."
+          },{
+            "eventId": "96",
+            "eventCategory": "POLITICS",
+            "eventDate": "1863/07/03",
+            "eventImg": null,
+            "eventDescriptionEn": "The Battle of Gettysburg, a pivotal battle in the American Civil War, ended with a Union victory over the Confederate forces.",
+            "eventDescriptionTr": "Amerikan İç Savaşı'nda dönüm noktası niteliğindeki Gettysburg Muharebesi, Birlik kuvvetlerinin Konfederasyon güçleri üzerindeki zaferiyle sona erdi."
           }
     ]
 }
