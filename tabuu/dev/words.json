@@ -1,7 +1,7 @@
 {
     "wordList": [
         {
-            "wordId": "0",
+            "wordId": 0,
             "describedWordTr": "MUHTAÇ",
             "tabuuWordsTr": "İHTİYAÇ,YOKSUL,YARDIM,FAKİR,ACİZ",
             "describedWordEn": "IN NEED",
@@ -9,7 +9,7 @@
             "wordCategory": "FIRST,SECOND"
         },
         {
-            "wordId": "1",
+            "wordId": 1,
             "describedWordTr": "İNTİKAM",
             "tabuuWordsTr": "KÖTÜLÜK,ALMAK,KARŞILIK,SOĞUK,YEMEK",
             "describedWordEn": "REVENGE",
@@ -17,7 +17,7 @@
             "wordCategory": "FIRST"
         },
         {
-            "wordId": "2",
+            "wordId": 2,
             "describedWordTr": "KIZGIN",
             "tabuuWordsTr": "DEMİR,SICAK,ISINMAK,YAĞ,ÖFKELİ",
             "describedWordEn": "ANGRY",
@@ -25,7 +25,7 @@
             "wordCategory": "THIRD"
         },
         {
-            "wordId": "3",
+            "wordId": 3,
             "describedWordTr": "TAVLA",
             "tabuuWordsTr": "ZAR,DÜŞEŞ,MARS,KAPI,OYUN",
             "describedWordEn": "BACKGAMMON",
@@ -33,7 +33,7 @@
             "wordCategory": null
         },
         {
-            "wordId": "4",
+            "wordId": 4,
             "describedWordTr": "GOOGLE",
             "tabuuWordsTr": "ARAMA MOTORU,BİLGİSAYAR,İNTERNET,SİTE,SAYFA",
             "describedWordEn": "GOOGLE",
@@ -41,7 +41,7 @@
             "wordCategory": "FIRST"
         },
         {
-            "wordId": "5",
+            "wordId": 5,
             "describedWordTr": "BILL GATES",
             "tabuuWordsTr": "MICROSOFT,BİLGİSAYAR,WINDOWS,ZENGİN,YAZILIM",
             "describedWordEn": "BILL GATES",
@@ -49,7 +49,7 @@
             "wordCategory": "SECOND"
         },
         {
-            "wordId": "6",
+            "wordId": 6,
             "describedWordTr": "HASTANE",
             "tabuuWordsTr": "İLAÇ,HASTA,DOKTOR,HEMŞİRE,REÇETE",
             "describedWordEn": "HOSPITAL",
@@ -57,7 +57,7 @@
             "wordCategory": "FIRST"
         },
         {
-            "wordId": "7",
+            "wordId": 7,
             "describedWordTr": "AKREP",
             "tabuuWordsTr": "BURÇ,SAAT,YELKOVAN,ZAMAN,İBRE",
             "describedWordEn": "SCORPION",
@@ -65,7 +65,7 @@
             "wordCategory": "FIRST"
         },
         {
-            "wordId": "8",
+            "wordId": 8,
             "describedWordTr": "EV",
             "tabuuWordsTr": "ODA,SALON,YAŞAMAK,YUVA,AİLE",
             "describedWordEn": "HOUSE",
@@ -73,7 +73,7 @@
             "wordCategory": "FIRST"
         },
         {
-            "wordId": "9",
+            "wordId": 9,
             "describedWordTr": "SİRKE",
             "tabuuWordsTr": "BİT,KESKİN,SALATA,ÜZÜM,ELMA",
             "describedWordEn": "VINEGAR",
