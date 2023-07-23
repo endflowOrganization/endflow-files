@@ -855,7 +855,28 @@
             "eventDescriptionEs": "Nikola Tesla, el visionario inventor e ingeniero eléctrico, falleció.",
             "eventDescriptionIt": "Nikola Tesla, il visionario inventore e ingegnere elettrico, è deceduto.",
             "eventDescriptionFr": "Nikola Tesla, l'inventeur visionnaire et ingénieur électrique, est décédé."
+          },{
+            "eventId": "107",
+            "eventCategory": "POLITICS",
+            "eventDate": "2019/07/24",
+            "eventImg": null,
+            "eventDescriptionEn": "Boris Johnson becomes Prime Minister of the United Kingdom after defeating Jeremy Hunt in a leadership contest, succeeding Theresa May.",
+            "eventDescriptionTr": "Boris Johnson, liderlik yarışmasında Jeremy Hunt'ı yenerek, Theresa May'in yerine Birleşik Krallık Başbakanı oldu.",
+            "eventDescriptionDe": "Boris Johnson wird nach einem Führungswettbewerb gegen Jeremy Hunt Premierminister des Vereinigten Königreichs und folgt Theresa May nach.",
+            "eventDescriptionEs": "Boris Johnson se convierte en Primer Ministro del Reino Unido después de derrotar a Jeremy Hunt en una contienda de liderazgo, sucediendo a Theresa May.",
+            "eventDescriptionIt": "Boris Johnson diventa Primo Ministro del Regno Unito dopo aver sconfitto Jeremy Hunt in una competizione per la leadership, succedendo a Theresa May.",
+            "eventDescriptionFr": "Boris Johnson devient Premier ministre du Royaume-Uni après avoir battu Jeremy Hunt lors d'une élection à la direction, succédant à Theresa May."
+          },{
+            "eventId": "108",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1982/07/24",
+            "eventImg": null,
+            "eventDescriptionEn": "Heavy rain causes a mudslide that destroys a bridge at Nagasaki, Japan, killing 299 people.",
+            "eventDescriptionTr": "Aşırı yağış, Japonya'nın Nagasaki şehrinde bir heyelanı tetikleyerek bir köprüyü yok etti ve 299 kişinin ölümüne neden oldu.",
+            "eventDescriptionDe": "Starke Regenfälle verursachen einen Erdrutsch, der eine Brücke in Nagasaki, Japan, zerstört und 299 Menschen das Leben kostet.",
+            "eventDescriptionEs": "Las fuertes lluvias causan un deslizamiento de tierra que destruye un puente en Nagasaki, Japón, matando a 299 personas.",
+            "eventDescriptionIt": "Forte pioggia causa una frana che distrugge un ponte a Nagasaki, Giappone, causando la morte di 299 persone.",
+            "eventDescriptionFr": "Des pluies torrentielles provoquent un glissement de terrain qui détruit un pont à Nagasaki, au Japon, faisant 299 morts."
           }
-          
     ]
 }
