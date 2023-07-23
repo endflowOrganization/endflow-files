@@ -800,6 +800,17 @@
             "eventImg": null,
             "eventDescriptionEn": "NASA's Chandra X-ray Observatory was launched into space, providing valuable data on X-ray emissions from various cosmic sources.",
             "eventDescriptionTr": "NASA'nın Chandra X-ışını Gözlemevi, uzaya fırlatıldı ve çeşitli kozmik kaynaklardan X-ışını emisyonlarına ilişkin değerli veriler sağladı."
-          }
+          },{
+            "eventId": "102",
+            "eventCategory": "HISTORY",
+            "eventDate": "1999/07/23",
+            "eventImg": null,
+            "eventDescriptionEn": "Abkhazia, a region located in the South Caucasus, declared its independence from Georgia.",
+            "eventDescriptionTr": "Güney Kafkasya'da bulunan Abhazya, Gürcistan'dan bağımsızlığını ilan etti.",
+            "eventDescriptionDe": "Abchasien, eine Region im Südkaukasus, erklärte seine Unabhängigkeit von Georgien.",
+            "eventDescriptionEs": "Abjasia, una región ubicada en el Cáucaso Sur, declaró su independencia de Georgia.",
+            "eventDescriptionIt": "Abkhazia, una regione situata nel Caucaso meridionale, ha dichiarato la propria indipendenza dalla Georgia.",
+            "eventDescriptionFr": "L'Abkhazie, une région située dans le Caucase du Sud, a déclaré son indépendance de la Géorgie."
+          }          
     ]
 }
