@@ -877,6 +877,18 @@
             "eventDescriptionEs": "Las fuertes lluvias causan un deslizamiento de tierra que destruye un puente en Nagasaki, Japón, matando a 299 personas.",
             "eventDescriptionIt": "Forte pioggia causa una frana che distrugge un ponte a Nagasaki, Giappone, causando la morte di 299 persone.",
             "eventDescriptionFr": "Des pluies torrentielles provoquent un glissement de terrain qui détruit un pont à Nagasaki, au Japon, faisant 299 morts."
+          },{
+            "eventId": "109",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1923/07/24",
+            "eventImg": null,
+            "eventDescriptionEn": "The Treaty of Lausanne, settling the boundaries of modern Turkey, is signed in Switzerland by Greece, Bulgaria, and other countries that fought in World War I.",
+            "eventDescriptionTr": "Lozan Antlaşması, modern Türkiye'nin sınırlarını belirleyerek Yunanistan, Bulgaristan ve diğer Birinci Dünya Savaşı'na katılan ülkeler tarafından İsviçre'de imzalandı.",
+            "eventDescriptionDe": "Der Vertrag von Lausanne, der die Grenzen des modernen Türkei festlegt, wird in der Schweiz von Griechenland, Bulgarien und anderen Ländern, die am Ersten Weltkrieg teilgenommen haben, unterzeichnet.",
+            "eventDescriptionEs": "El Tratado de Lausana, que establece los límites de la Turquía moderna, es firmado en Suiza por Grecia, Bulgaria y otros países que participaron en la Primera Guerra Mundial.",
+            "eventDescriptionIt": "Il Trattato di Losanna, che definisce i confini della Turchia moderna, viene firmato in Svizzera da Grecia, Bulgaria e altri paesi che hanno combattuto nella Prima Guerra Mondiale.",
+            "eventDescriptionFr": "Le Traité de Lausanne, qui établit les frontières de la Turquie moderne, est signé en Suisse par la Grèce, la Bulgarie et d'autres pays ayant combattu lors de la Première Guerre mondiale."
           }
+          
     ]
 }
