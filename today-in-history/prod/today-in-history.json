@@ -844,6 +844,18 @@
             "eventDescriptionEs": "Abraham Lincoln, el 16º Presidente de los Estados Unidos, falleció.",
             "eventDescriptionIt": "Abraham Lincoln, il 16° Presidente degli Stati Uniti, è deceduto.",
             "eventDescriptionFr": "Abraham Lincoln, le 16ème président des États-Unis, est décédé."
+          },{
+            "eventId": "106",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1943/01/07",
+            "eventImg": null,
+            "eventDescriptionEn": "Nikola Tesla, the visionary inventor and electrical engineer, passed away.",
+            "eventDescriptionTr": "Vizyoner mucit ve elektrik mühendisi Nikola Tesla, vefat etti.",
+            "eventDescriptionDe": "Nikola Tesla, der visionäre Erfinder und Elektroingenieur, verstarb.",
+            "eventDescriptionEs": "Nikola Tesla, el visionario inventor e ingeniero eléctrico, falleció.",
+            "eventDescriptionIt": "Nikola Tesla, il visionario inventore e ingegnere elettrico, è deceduto.",
+            "eventDescriptionFr": "Nikola Tesla, l'inventeur visionnaire et ingénieur électrique, est décédé."
           }
+          
     ]
 }
