@@ -888,7 +888,17 @@
             "eventDescriptionEs": "El Tratado de Lausana, que establece los límites de la Turquía moderna, es firmado en Suiza por Grecia, Bulgaria y otros países que participaron en la Primera Guerra Mundial.",
             "eventDescriptionIt": "Il Trattato di Losanna, che definisce i confini della Turchia moderna, viene firmato in Svizzera da Grecia, Bulgaria e altri paesi che hanno combattuto nella Prima Guerra Mondiale.",
             "eventDescriptionFr": "Le Traité de Lausanne, qui établit les frontières de la Turquie moderne, est signé en Suisse par la Grèce, la Bulgarie et d'autres pays ayant combattu lors de la Première Guerre mondiale."
+          },{
+            "eventId": "110",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1969/07/24",
+            "eventImg": null,
+            "eventDescriptionEn": "Apollo 11 splashes down safely in the Pacific Ocean after its historic mission to the Moon, with astronauts Neil Armstrong, Buzz Aldrin, and Michael Collins onboard.",
+            "eventDescriptionTr": "Apollo 11, Ay'a yönelik tarihi misyonunu tamamladıktan sonra astronotlar Neil Armstrong, Buzz Aldrin ve Michael Collins ile güvenli bir şekilde Pasifik Okyanusu'na iniş yaptı.",
+            "eventDescriptionDe": "Apollo 11 landet sicher im Pazifischen Ozean, nach seiner historischen Mission zum Mond, mit den Astronauten Neil Armstrong, Buzz Aldrin und Michael Collins an Bord.",
+            "eventDescriptionEs": "Apollo 11 aterriza con seguridad en el Océano Pacífico después de su histórica misión a la Luna, con los astronautas Neil Armstrong, Buzz Aldrin y Michael Collins a bordo.",
+            "eventDescriptionIt": "Apollo 11 ammara in sicurezza nell'Oceano Pacifico dopo la storica missione sulla Luna, con gli astronauti Neil Armstrong, Buzz Aldrin e Michael Collins a bordo.",
+            "eventDescriptionFr": "Apollo 11 amerrit en toute sécurité dans l'océan Pacifique après sa mission historique sur la Lune, avec à bord les astronautes Neil Armstrong, Buzz Aldrin et Michael Collins."
           }
-          
     ]
 }
