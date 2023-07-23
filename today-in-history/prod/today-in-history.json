@@ -899,6 +899,28 @@
             "eventDescriptionEs": "Apollo 11 aterriza con seguridad en el Océano Pacífico después de su histórica misión a la Luna, con los astronautas Neil Armstrong, Buzz Aldrin y Michael Collins a bordo.",
             "eventDescriptionIt": "Apollo 11 ammara in sicurezza nell'Oceano Pacifico dopo la storica missione sulla Luna, con gli astronauti Neil Armstrong, Buzz Aldrin e Michael Collins a bordo.",
             "eventDescriptionFr": "Apollo 11 amerrit en toute sécurité dans l'océan Pacifique après sa mission historique sur la Lune, avec à bord les astronautes Neil Armstrong, Buzz Aldrin et Michael Collins."
+          },{
+            "eventId": "111",
+            "eventCategory": "POLITICS",
+            "eventDate": "2007/07/25",
+            "eventImg": null,
+            "eventDescriptionEn": "Pratibha Patil is sworn in as India's first female president, making history.",
+            "eventDescriptionTr": "Pratibha Patil, Hindistan'ın ilk kadın cumhurbaşkanı olarak yemin ederek tarihe geçti.",
+            "eventDescriptionDe": "Pratibha Patil wird als erste weibliche Präsidentin Indiens vereidigt und schreibt Geschichte.",
+            "eventDescriptionEs": "Pratibha Patil asume el cargo como la primera presidenta de la India, haciendo historia.",
+            "eventDescriptionIt": "Pratibha Patil giura come prima presidente donna dell'India, facendo storia.",
+            "eventDescriptionFr": "Pratibha Patil prête serment en tant que première femme présidente de l'Inde, faisant ainsi l'histoire."
+          },{
+            "eventId": "112",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1492/08/03",
+            "eventImg": null,
+            "eventDescriptionEn": "Christopher Columbus sets sail from Palos de la Frontera, Spain, on his first voyage to the Americas.",
+            "eventDescriptionTr": "Christopher Columbus, Amerika'ya ilk seyahati için İspanya'nın Palos de la Frontera kentinden yola çıkar.",
+            "eventDescriptionDe": "Christoph Kolumbus bricht von Palos de la Frontera, Spanien, zu seiner ersten Reise in die Amerikas auf.",
+            "eventDescriptionEs": "Cristóbal Colón zarpa desde Palos de la Frontera, España, en su primer viaje a las Américas.",
+            "eventDescriptionIt": "Cristoforo Colombo salpa da Palos de la Frontera, Spagna, per il suo primo viaggio verso le Americhe.",
+            "eventDescriptionFr": "Christophe Colomb met les voiles depuis Palos de la Frontera, Espagne, pour son premier voyage vers les Amériques."
           }
     ]
 }
