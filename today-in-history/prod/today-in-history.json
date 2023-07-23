@@ -779,6 +779,13 @@
             "eventImg": null,
             "eventDescriptionEn": "The 2018 FIFA World Cup final was held in Moscow, Russia, with France winning the tournament by defeating Croatia.",
             "eventDescriptionTr": "2018 FIFA Dünya Kupası finali Moskova, Rusya'da düzenlendi ve Fransa, Hırvatistan'ı yenerek turnuvayı kazandı."
-        }
+        },{
+            "eventId": "99",
+            "eventCategory": "TECH",
+            "eventDate": "1829/07/23",
+            "eventImg": null,
+            "eventDescriptionEn": "William Austin Burt received a patent for the typographer, the earliest version of a typewriter.",
+            "eventDescriptionTr": "William Austin Burt, daktilonun (ilk daktilo türünün) patentini aldı."
+          }
     ]
 }
