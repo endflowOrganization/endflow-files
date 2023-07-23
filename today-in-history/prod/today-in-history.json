@@ -945,7 +945,7 @@
             "eventDescriptionFr": "La Jamaïque est devenue une nation indépendante au sein du Commonwealth des Nations."
           },{
             "eventId": "115",
-            "eventCategory": "HISTORY",
+            "eventCategory": "POLITICS",
             "eventDate": "1953/07/27",
             "eventImg": null,
             "eventDescriptionEn": "On July 27, 1953, the Korean War Armistice was signed, ending the active hostilities of the Korean War.",
@@ -956,7 +956,7 @@
             "eventDescriptionFr": "Le 27 juillet 1953, l'armistice de la guerre de Corée a été signé, mettant fin aux hostilités actives de la guerre."
           },{
             "eventId": "116",
-            "eventCategory": "HISTORY",
+            "eventCategory": "POLITICS",
             "eventDate": "1991/07/31",
             "eventImg": null,
             "eventDescriptionEn": "On July 31, 1991, the United States and the Soviet Union signed the START I treaty, which aimed to reduce strategic nuclear weapons.",
@@ -967,7 +967,7 @@
             "eventDescriptionFr": "Le 31 juillet 1991, les États-Unis et l'Union soviétique ont signé le traité START I, qui visait à réduire les armes nucléaires stratégiques."
           },{
             "eventId": "117",
-            "eventCategory": "HISTORY",
+            "eventCategory": "PEOPLE",
             "eventDate": "1977/12/25",
             "eventImg": null,
             "eventDescriptionEn": "On December 25, 1977, Charlie Chaplin passed away.",
