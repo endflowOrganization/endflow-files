@@ -932,7 +932,17 @@
             "eventDescriptionEs": "La cosmonauta Svetlana Savitskaya se convirtió en la primera mujer en realizar una caminata espacial durante la misión Soyuz T-12.",
             "eventDescriptionIt": "La cosmonauta Svetlana Savitskaya è diventata la prima donna a compiere una passeggiata spaziale durante la missione Soyuz T-12.",
             "eventDescriptionFr": "La cosmonaute Svetlana Savitskaya est devenue la première femme à effectuer une sortie extravéhiculaire lors de la mission Soyuz T-12."
+          },{
+            "eventId": "114",
+            "eventCategory": "POLITICS",
+            "eventDate": "1962/08/06",
+            "eventImg": null,
+            "eventDescriptionEn": "Jamaica became an independent nation within the Commonwealth of Nations.",
+            "eventDescriptionTr": "Jamaika, Milletler Topluluğu içinde bağımsız bir ulus haline geldi.",
+            "eventDescriptionDe": "Jamaika wurde eine unabhängige Nation innerhalb des Commonwealth der Nationen.",
+            "eventDescriptionEs": "Jamaica se convirtió en una nación independiente dentro de la Commonwealth de Naciones.",
+            "eventDescriptionIt": "La Giamaica è diventata una nazione indipendente all'interno del Commonwealth delle Nazioni.",
+            "eventDescriptionFr": "La Jamaïque est devenue une nation indépendante au sein du Commonwealth des Nations."
           }
-          
     ]
 }
