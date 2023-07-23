@@ -1,0 +1,84 @@
+{
+    "wordList": [
+        {
+            "wordId": 0,
+            "describedWordTr": "MUHTAÇ",
+            "tabuuWordsTr": "İHTİYAÇ,YOKSUL,YARDIM,FAKİR,ACİZ",
+            "describedWordEn": "IN NEED",
+            "tabuuWordsEn": "REQUIREMENT,POOR,HELP,INDIGENT,INCAPABLE",
+            "wordCategory": "FIRST,SECOND"
+        },
+        {
+            "wordId": 1,
+            "describedWordTr": "İNTİKAM",
+            "tabuuWordsTr": "KÖTÜLÜK,ALMAK,KARŞILIK,SOĞUK,YEMEK",
+            "describedWordEn": "REVENGE",
+            "tabuuWordsEn": "EVIL,TO TAKE,OPPOSITE,COLD,VENGEANCE",
+            "wordCategory": "FIRST"
+        },
+        {
+            "wordId": 2,
+            "describedWordTr": "KIZGIN",
+            "tabuuWordsTr": "DEMİR,SICAK,ISINMAK,YAĞ,ÖFKELİ",
+            "describedWordEn": "ANGRY",
+            "tabuuWordsEn": "IRON,HOT,WARM UP,OIL,FURIOUS",
+            "wordCategory": "THIRD"
+        },
+        {
+            "wordId": 3,
+            "describedWordTr": "TAVLA",
+            "tabuuWordsTr": "ZAR,DÜŞEŞ,MARS,KAPI,OYUN",
+            "describedWordEn": "BACKGAMMON",
+            "tabuuWordsEn": "DICE,WINDFALL,ANTHEM,DOOR,GAME",
+            "wordCategory": null
+        },
+        {
+            "wordId": 4,
+            "describedWordTr": "GOOGLE",
+            "tabuuWordsTr": "ARAMA MOTORU,BİLGİSAYAR,İNTERNET,SİTE,SAYFA",
+            "describedWordEn": "GOOGLE",
+            "tabuuWordsEn": "SEARCH ENGINE,COMPUTER,INTERNET,SITE,PAGE",
+            "wordCategory": "FIRST"
+        },
+        {
+            "wordId": 5,
+            "describedWordTr": "BILL GATES",
+            "tabuuWordsTr": "MICROSOFT,BİLGİSAYAR,WINDOWS,ZENGİN,YAZILIM",
+            "describedWordEn": "BILL GATES",
+            "tabuuWordsEn": "MICROSOFT,COMPUTER,WINDOWS,RICH,SOFTWARE",
+            "wordCategory": "SECOND"
+        },
+        {
+            "wordId": 6,
+            "describedWordTr": "HASTANE",
+            "tabuuWordsTr": "İLAÇ,HASTA,DOKTOR,HEMŞİRE,REÇETE",
+            "describedWordEn": "HOSPITAL",
+            "tabuuWordsEn": "MEDICINE,PATIENT,DOCTOR,NURSE,PRESCRIPTIONS",
+            "wordCategory": "FIRST"
+        },
+        {
+            "wordId": 7,
+            "describedWordTr": "AKREP",
+            "tabuuWordsTr": "BURÇ,SAAT,YELKOVAN,ZAMAN,İBRE",
+            "describedWordEn": "SCORPION",
+            "tabuuWordsEn": "HOROSCOPE,TIMER,MINUTE HAND,TIME,POINTER",
+            "wordCategory": "FIRST"
+        },
+        {
+            "wordId": 8,
+            "describedWordTr": "EV",
+            "tabuuWordsTr": "ODA,SALON,YAŞAMAK,YUVA,AİLE",
+            "describedWordEn": "HOUSE",
+            "tabuuWordsEn": "ROOM,LIVING ROOM,TO LIVE,HOME,FAMILY",
+            "wordCategory": "FIRST"
+        },
+        {
+            "wordId": 9,
+            "describedWordTr": "SİRKE",
+            "tabuuWordsTr": "BİT,KESKİN,SALATA,ÜZÜM,ELMA",
+            "describedWordEn": "VINEGAR",
+            "tabuuWordsEn": "BIT,SHARP,SALAD,GRAPE,APPLE",
+            "wordCategory": "SECOND"
+        }
+    ]
+}
