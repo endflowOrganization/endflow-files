@@ -793,6 +793,13 @@
             "eventImg": null,
             "eventDescriptionEn": "The Ford Motor Company sold its first Model A automobile to a Chicago dentist.",
             "eventDescriptionTr": "Ford Motor Company, ilk Model A otomobilini bir Chicago diş hekimine satışı gerçekleştirdi."
+          },{
+            "eventId": "101",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1999/07/23",
+            "eventImg": null,
+            "eventDescriptionEn": "NASA's Chandra X-ray Observatory was launched into space, providing valuable data on X-ray emissions from various cosmic sources.",
+            "eventDescriptionTr": "NASA'nın Chandra X-ışını Gözlemevi, uzaya fırlatıldı ve çeşitli kozmik kaynaklardan X-ışını emisyonlarına ilişkin değerli veriler sağladı."
           }
     ]
 }
