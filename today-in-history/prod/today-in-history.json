@@ -802,7 +802,7 @@
             "eventDescriptionTr": "NASA'nın Chandra X-ışını Gözlemevi, uzaya fırlatıldı ve çeşitli kozmik kaynaklardan X-ışını emisyonlarına ilişkin değerli veriler sağladı."
           },{
             "eventId": "102",
-            "eventCategory": "HISTORY",
+            "eventCategory": "POLITICS",
             "eventDate": "1999/07/23",
             "eventImg": null,
             "eventDescriptionEn": "Abkhazia, a region located in the South Caucasus, declared its independence from Georgia.",
@@ -811,6 +811,39 @@
             "eventDescriptionEs": "Abjasia, una región ubicada en el Cáucaso Sur, declaró su independencia de Georgia.",
             "eventDescriptionIt": "Abkhazia, una regione situata nel Caucaso meridionale, ha dichiarato la propria indipendenza dalla Georgia.",
             "eventDescriptionFr": "L'Abkhazie, une région située dans le Caucase du Sud, a déclaré son indépendance de la Géorgie."
-          }          
+          },{
+            "eventId": "103",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1981/05/11",
+            "eventImg": null,
+            "eventDescriptionEn": "Bob Marley, the Jamaican reggae musician, passed away.",
+            "eventDescriptionTr": "Jamaikalı reggae müzisyeni Bob Marley, hayatını kaybetti.",
+            "eventDescriptionDe": "Bob Marley, der jamaikanische Reggae-Musiker, verstarb.",
+            "eventDescriptionEs": "Bob Marley, el músico de reggae jamaiquino, falleció.",
+            "eventDescriptionIt": "Bob Marley, il musicista giamaicano di reggae, è scomparso.",
+            "eventDescriptionFr": "Bob Marley, le musicien de reggae jamaïcain, est décédé."
+          },{
+            "eventId": "104",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1955/04/18",
+            "eventImg": null,
+            "eventDescriptionEn": "Albert Einstein, the renowned physicist, passed away.",
+            "eventDescriptionTr": "Ünlü fizikçi Albert Einstein, hayatını kaybetti.",
+            "eventDescriptionDe": "Albert Einstein, der berühmte Physiker, verstarb.",
+            "eventDescriptionEs": "Albert Einstein, el renombrado físico, falleció.",
+            "eventDescriptionIt": "Albert Einstein, il rinomato fisico, è scomparso.",
+            "eventDescriptionFr": "Albert Einstein, le célèbre physicien, est décédé."
+          },{
+            "eventId": "105",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1865/04/15",
+            "eventImg": null,
+            "eventDescriptionEn": "Abraham Lincoln, the 16th President of the United States, passed away.",
+            "eventDescriptionTr": "Amerika Birleşik Devletleri'nin 16. Başkanı Abraham Lincoln, hayatını kaybetti.",
+            "eventDescriptionDe": "Abraham Lincoln, der 16. Präsident der Vereinigten Staaten, ist verstorben.",
+            "eventDescriptionEs": "Abraham Lincoln, el 16º Presidente de los Estados Unidos, falleció.",
+            "eventDescriptionIt": "Abraham Lincoln, il 16° Presidente degli Stati Uniti, è deceduto.",
+            "eventDescriptionFr": "Abraham Lincoln, le 16ème président des États-Unis, est décédé."
+          }
     ]
 }
