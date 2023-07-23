@@ -943,6 +943,17 @@
             "eventDescriptionEs": "Jamaica se convirtió en una nación independiente dentro de la Commonwealth de Naciones.",
             "eventDescriptionIt": "La Giamaica è diventata una nazione indipendente all'interno del Commonwealth delle Nazioni.",
             "eventDescriptionFr": "La Jamaïque est devenue une nation indépendante au sein du Commonwealth des Nations."
+          },{
+            "eventId": "117",
+            "eventCategory": "HISTORY",
+            "eventDate": "1953/07/27",
+            "eventImg": null,
+            "eventDescriptionEn": "On July 27, 1953, the Korean War Armistice was signed, ending the active hostilities of the Korean War.",
+            "eventDescriptionTr": "27 Temmuz 1953 tarihinde Kore Savaşı Ateşkesi imzalandı ve Kore Savaşı'nın aktif düşmanlıkları sona erdi.",
+            "eventDescriptionDe": "Am 27. Juli 1953 wurde der Waffenstillstand des Korea-Krieges unterzeichnet, der die aktiven Feindseligkeiten beendete.",
+            "eventDescriptionEs": "El 27 de julio de 1953, se firmó el Armisticio de la Guerra de Corea, poniendo fin a las hostilidades activas de la guerra.",
+            "eventDescriptionIt": "Il 27 luglio 1953 fu firmato l'armistizio della guerra di Corea, ponendo fine agli ostilità attive della guerra.",
+            "eventDescriptionFr": "Le 27 juillet 1953, l'armistice de la guerre de Corée a été signé, mettant fin aux hostilités actives de la guerre."
           }
     ]
 }
