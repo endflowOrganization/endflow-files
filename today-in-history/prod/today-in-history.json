@@ -944,7 +944,7 @@
             "eventDescriptionIt": "La Giamaica è diventata una nazione indipendente all'interno del Commonwealth delle Nazioni.",
             "eventDescriptionFr": "La Jamaïque est devenue une nation indépendante au sein du Commonwealth des Nations."
           },{
-            "eventId": "117",
+            "eventId": "115",
             "eventCategory": "HISTORY",
             "eventDate": "1953/07/27",
             "eventImg": null,
@@ -954,6 +954,17 @@
             "eventDescriptionEs": "El 27 de julio de 1953, se firmó el Armisticio de la Guerra de Corea, poniendo fin a las hostilidades activas de la guerra.",
             "eventDescriptionIt": "Il 27 luglio 1953 fu firmato l'armistizio della guerra di Corea, ponendo fine agli ostilità attive della guerra.",
             "eventDescriptionFr": "Le 27 juillet 1953, l'armistice de la guerre de Corée a été signé, mettant fin aux hostilités actives de la guerre."
+          },{
+            "eventId": "116",
+            "eventCategory": "HISTORY",
+            "eventDate": "1991/07/31",
+            "eventImg": null,
+            "eventDescriptionEn": "On July 31, 1991, the United States and the Soviet Union signed the START I treaty, which aimed to reduce strategic nuclear weapons.",
+            "eventDescriptionTr": "31 Temmuz 1991 tarihinde, Amerika Birleşik Devletleri ve Sovyetler Birliği START I antlaşmasını imzalayarak stratejik nükleer silahları azaltmayı amaçladı.",
+            "eventDescriptionDe": "Am 31. Juli 1991 unterzeichneten die Vereinigten Staaten und die Sowjetunion den START I-Vertrag, der darauf abzielte, strategische Atomwaffen zu reduzieren.",
+            "eventDescriptionEs": "El 31 de julio de 1991, Estados Unidos y la Unión Soviética firmaron el tratado START I, que tenía como objetivo reducir las armas nucleares estratégicas.",
+            "eventDescriptionIt": "Il 31 luglio 1991, gli Stati Uniti e l'Unione Sovietica firmarono il trattato START I, che mirava a ridurre le armi nucleari strategiche.",
+            "eventDescriptionFr": "Le 31 juillet 1991, les États-Unis et l'Union soviétique ont signé le traité START I, qui visait à réduire les armes nucléaires stratégiques."
           }
     ]
 }
