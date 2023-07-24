@@ -7,11 +7,11 @@
             "eventImg": null,
             "eventDescriptionEn": "On June 12, 1990, Russia officially declared its independence.",
             "eventDescriptionTr": "12 Haziran 1990'da Rusya resmen bağımsızlığını ilan etti.",
-            "eventDescriptionDe": "",
-            "eventDescriptionEs": "",
-            "eventDescriptionIt": "",
-            "eventDescriptionFr": ""
-        },
+            "eventDescriptionDe": "Am 12. Juni 1990 erklärte Russland offiziell seine Unabhängigkeit.",
+            "eventDescriptionEs": "El 12 de junio de 1990, Rusia declaró oficialmente su independencia.",
+            "eventDescriptionIt": "Il 12 giugno 1990, la Russia dichiarò ufficialmente la sua indipendenza.",
+            "eventDescriptionFr": "Le 12 juin 1990, la Russie a officiellement déclaré son indépendance."
+          },
         {
             "eventId": "1",
             "eventCategory": "SCIENCE",
