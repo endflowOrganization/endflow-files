@@ -976,6 +976,17 @@
             "eventDescriptionEs": "El 25 de diciembre de 1977, falleció Charlie Chaplin.",
             "eventDescriptionIt": "Il 25 dicembre 1977 è scomparso Charlie Chaplin.",
             "eventDescriptionFr": "Le 25 décembre 1977, Charlie Chaplin est décédé."
+          },{
+            "eventId": "118",
+            "eventCategory": "HISTORY",
+            "eventDate": "YYYY/MM/DD",
+            "eventImg": null,
+            "eventDescriptionEn": "On July 26, 1953, the Cuban Revolution began with an attack on the Moncada Barracks by Fidel Castro and his followers.",
+            "eventDescriptionTr": "26 Temmuz 1953 tarihinde, Fidel Castro ve takipçileri tarafından Moncada Kışlası'na yapılan saldırıyla Küba Devrimi başladı.",
+            "eventDescriptionDe": "Am 26. Juli 1953 begann die Kubanische Revolution mit einem Angriff von Fidel Castro und seinen Anhängern auf die Moncada-Kaserne.",
+            "eventDescriptionEs": "El 26 de julio de 1953, comenzó la Revolución Cubana con un ataque a los cuarteles de Moncada por parte de Fidel Castro y sus seguidores.",
+            "eventDescriptionIt": "Il 26 luglio 1953, iniziò la Rivoluzione Cubana con un attacco alla caserma di Moncada da parte di Fidel Castro e dei suoi seguaci.",
+            "eventDescriptionFr": "Le 26 juillet 1953, la Révolution cubaine a commencé par une attaque de Fidel Castro et de ses partisans sur la caserne de Moncada."
           }
     ]
 }
