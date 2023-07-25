@@ -978,7 +978,7 @@
             "eventDescriptionFr": "Le 25 décembre 1977, Charlie Chaplin est décédé."
           },{
             "eventId": "118",
-            "eventCategory": "HISTORY",
+            "eventCategory": "POLITICS",
             "eventDate": "1953/07/26",
             "eventImg": null,
             "eventDescriptionEn": "On July 26, 1953, the Cuban Revolution began with an attack on the Moncada Barracks by Fidel Castro and his followers.",
@@ -989,7 +989,7 @@
             "eventDescriptionFr": "Le 26 juillet 1953, la Révolution cubaine a commencé par une attaque de Fidel Castro et de ses partisans sur la caserne de Moncada."
           },{
             "eventId": "119",
-            "eventCategory": "HISTORY",
+            "eventCategory": "PEOPLE",
             "eventDate": "1951/07/26",
             "eventImg": null,
             "eventDescriptionEn": "Walt Disney's 13th animated film, Alice in Wonderland, premieres in London, England, United Kingdom.",
@@ -998,6 +998,28 @@
             "eventDescriptionEs": "La 13ª película de animación de Walt Disney, Alicia en el país de las maravillas, se estrena en Londres, Inglaterra.",
             "eventDescriptionIt": "Il 13° film d'animazione di Walt Disney, Alice nel Paese delle Meraviglie, ha debuttato a Londra, in Inghilterra.",
             "eventDescriptionFr": "Le 13e film d'animation de Walt Disney, Alice au pays des merveilles, a été présenté en première à Londres, en Angleterre."
+          },{
+            "eventId": "120",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1890/07/27",
+            "eventImg": null,
+            "eventDescriptionEn": "Vincent van Gogh shot himself and died two days later.",
+            "eventDescriptionTr": "Vincent van Gogh kendini vurdu ve iki gün sonra öldü.",
+            "eventDescriptionDe": "Vincent van Gogh erschoss sich und starb zwei Tage später.",
+            "eventDescriptionEs": "Vincent van Gogh se suicidó y murió dos días después.",
+            "eventDescriptionIt": "Vincent van Gogh si sparò e morì due giorni dopo.",
+            "eventDescriptionFr": "Vincent van Gogh se suicida et mourut deux jours plus tard."
+          },{
+            "eventId": "121",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1890/07/29",
+            "eventImg": null,
+            "eventDescriptionEn": "On July 29, 1890, Vincent van Gogh, the renowned Dutch painter, died at the age of 37. He was known for his significant contributions to the art world and his unique and expressive style of painting.",
+            "eventDescriptionTr": "29 Temmuz 1890 tarihinde, ünlü Hollandalı ressam Vincent van Gogh, 37 yaşında vefat etti. Sanat dünyasına önemli katkılarda bulunmuş ve benzersiz ve ifade dolu resim tarzıyla tanınıyordu.",
+            "eventDescriptionDe": "Am 29. Juli 1890 verstarb der renommierte niederländische Maler Vincent van Gogh im Alter von 37 Jahren. Er war bekannt für seine bedeutenden Beiträge zur Kunstwelt und seinen einzigartigen und ausdrucksstarken Malstil.",
+            "eventDescriptionEs": "El 29 de julio de 1890, falleció Vincent van Gogh, el reconocido pintor neerlandés, a la edad de 37 años. Fue conocido por sus importantes contribuciones al mundo del arte y su estilo único y expresivo de pintura.",
+            "eventDescriptionIt": "Il 29 luglio 1890, Vincent van Gogh, il rinomato pittore olandese, morì all'età di 37 anni. Era noto per i suoi significativi contributi al mondo dell'arte e il suo stile unico ed espressivo di pittura.",
+            "eventDescriptionFr": "Le 29 juillet 1890, Vincent van Gogh, le célèbre peintre néerlandais, est décédé à l'âge de 37 ans. Il était connu pour ses importantes contributions au monde de l'art et son style unique et expressif de peinture."
           }
     ]
 }
