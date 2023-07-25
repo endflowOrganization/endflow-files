@@ -1031,7 +1031,19 @@
             "eventDescriptionEs": "El 27 de julio de 1949, el de Havilland Comet, el primer avión de pasajeros propulsado por motores a reacción, realizó su vuelo inaugural. Esta aeronave revolucionaria marcó un avance significativo en la aviación comercial y abrió el camino para los viajes modernos en jet.",
             "eventDescriptionIt": "Il 27 luglio 1949, il de Havilland Comet, il primo aereo di linea con motore a reazione, effettuò il suo volo inaugurale. Questo aereo rivoluzionario segnò un significativo avanzamento nell'aviazione commerciale e aprì la strada ai viaggi moderni in jet.",
             "eventDescriptionFr": "Le 27 juillet 1949, le de Havilland Comet, le premier avion de ligne à réaction, effectua son vol inaugural. Cet avion révolutionnaire marqua une avancée significative dans l'aviation commerciale et ouvrit la voie aux voyages en jet modernes."
+          },{
+            "eventId": "123",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1931/10/18",
+            "eventImg": null,
+            "eventDescriptionEn": "On October 18, 1931, Thomas Edison, the renowned American inventor and businessman, passed away at the age of 84. Edison is best known for his significant contributions to the development of the electric light bulb, phonograph, and numerous other innovations that revolutionized modern technology.",
+            "eventDescriptionTr": "18 Ekim 1931 tarihinde, ünlü Amerikalı mucit ve iş insanı Thomas Edison, 84 yaşında vefat etti. Edison, elektrik ampulü, fonograf ve birçok diğer yeniliklerin geliştirilmesine yaptığı önemli katkılarla tanınır ve modern teknolojiyi devrimleştirmiştir.",
+            "eventDescriptionDe": "Am 18. Oktober 1931 verstarb der renommierte amerikanische Erfinder und Geschäftsmann Thomas Edison im Alter von 84 Jahren. Edison ist vor allem für seine bedeutenden Beiträge zur Entwicklung der Glühbirne, des Phonographen und zahlreicher anderer Innovationen bekannt, die die moderne Technologie revolutionierten.",
+            "eventDescriptionEs": "El 18 de octubre de 1931, falleció Thomas Edison, el famoso inventor y empresario estadounidense, a la edad de 84 años. Edison es conocido por sus importantes contribuciones al desarrollo de la bombilla eléctrica, el fonógrafo y numerosas otras innovaciones que revolucionaron la tecnología moderna.",
+            "eventDescriptionIt": "Il 18 ottobre 1931, Thomas Edison, il famoso inventore e imprenditore americano, morì all'età di 84 anni. Edison è principalmente noto per i suoi significativi contributi allo sviluppo della lampadina elettrica, del fonografo e di numerose altre innovazioni che hanno rivoluzionato la tecnologia moderna.",
+            "eventDescriptionFr": "Le 18 octobre 1931, Thomas Edison, le célèbre inventeur et homme d'affaires américain, est décédé à l'âge de 84 ans. Edison est surtout connu pour ses contributions importantes au développement de l'ampoule électrique, du phonographe et de nombreuses autres innovations qui ont révolutionné la technologie moderne."
           }
+          
           
     ]
 }
