@@ -1020,6 +1020,18 @@
             "eventDescriptionEs": "El 29 de julio de 1890, falleció Vincent van Gogh, el reconocido pintor neerlandés, a la edad de 37 años. Fue conocido por sus importantes contribuciones al mundo del arte y su estilo único y expresivo de pintura.",
             "eventDescriptionIt": "Il 29 luglio 1890, Vincent van Gogh, il rinomato pittore olandese, morì all'età di 37 anni. Era noto per i suoi significativi contributi al mondo dell'arte e il suo stile unico ed espressivo di pittura.",
             "eventDescriptionFr": "Le 29 juillet 1890, Vincent van Gogh, le célèbre peintre néerlandais, est décédé à l'âge de 37 ans. Il était connu pour ses importantes contributions au monde de l'art et son style unique et expressif de peinture."
+          },{
+            "eventId": "122",
+            "eventCategory": "TECH",
+            "eventDate": "1949/07/27",
+            "eventImg": null,
+            "eventDescriptionEn": "On July 27, 1949, the de Havilland Comet, the world's first jet-powered airliner, made its inaugural flight. This revolutionary aircraft marked a significant advancement in commercial aviation and paved the way for modern jet travel.",
+            "eventDescriptionTr": "27 Temmuz 1949 tarihinde, de Havilland Comet, dünyanın ilk jet motorlu yolcu uçağı, ilk uçuşunu gerçekleştirdi. Bu devrim niteliğindeki uçak, ticari havacılıkta önemli bir ilerleme kaydetti ve modern jet seyahatlerinin yolunu açtı.",
+            "eventDescriptionDe": "Am 27. Juli 1949 absolvierte die de Havilland Comet, das weltweit erste Strahltriebwerk-Verkehrsflugzeug, ihren Erstflug. Dieses revolutionäre Flugzeug markierte einen bedeutenden Fortschritt in der kommerziellen Luftfahrt und ebnete den Weg für moderne Jet-Reisen.",
+            "eventDescriptionEs": "El 27 de julio de 1949, el de Havilland Comet, el primer avión de pasajeros propulsado por motores a reacción, realizó su vuelo inaugural. Esta aeronave revolucionaria marcó un avance significativo en la aviación comercial y abrió el camino para los viajes modernos en jet.",
+            "eventDescriptionIt": "Il 27 luglio 1949, il de Havilland Comet, il primo aereo di linea con motore a reazione, effettuò il suo volo inaugurale. Questo aereo rivoluzionario segnò un significativo avanzamento nell'aviazione commerciale e aprì la strada ai viaggi moderni in jet.",
+            "eventDescriptionFr": "Le 27 juillet 1949, le de Havilland Comet, le premier avion de ligne à réaction, effectua son vol inaugural. Cet avion révolutionnaire marqua une avancée significative dans l'aviation commerciale et ouvrit la voie aux voyages en jet modernes."
           }
+          
     ]
 }
