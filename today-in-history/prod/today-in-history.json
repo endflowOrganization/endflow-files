@@ -987,6 +987,17 @@
             "eventDescriptionEs": "El 26 de julio de 1953, comenzó la Revolución Cubana con un ataque a los cuarteles de Moncada por parte de Fidel Castro y sus seguidores.",
             "eventDescriptionIt": "Il 26 luglio 1953, iniziò la Rivoluzione Cubana con un attacco alla caserma di Moncada da parte di Fidel Castro e dei suoi seguaci.",
             "eventDescriptionFr": "Le 26 juillet 1953, la Révolution cubaine a commencé par une attaque de Fidel Castro et de ses partisans sur la caserne de Moncada."
+          },{
+            "eventId": "119",
+            "eventCategory": "HISTORY",
+            "eventDate": "1951/07/26",
+            "eventImg": null,
+            "eventDescriptionEn": "Walt Disney's 13th animated film, Alice in Wonderland, premieres in London, England, United Kingdom.",
+            "eventDescriptionTr": "Walt Disney'nin 13. animasyon filmi Alice Harikalar Diyarında, Londra, İngiltere'de prömiyerini yaptı.",
+            "eventDescriptionDe": "Der 13. animierte Film von Walt Disney, Alice im Wunderland, hat in London, England, Premiere.",
+            "eventDescriptionEs": "La 13ª película de animación de Walt Disney, Alicia en el país de las maravillas, se estrena en Londres, Inglaterra.",
+            "eventDescriptionIt": "Il 13° film d'animazione di Walt Disney, Alice nel Paese delle Meraviglie, ha debuttato a Londra, in Inghilterra.",
+            "eventDescriptionFr": "Le 13e film d'animation de Walt Disney, Alice au pays des merveilles, a été présenté en première à Londres, en Angleterre."
           }
     ]
 }
