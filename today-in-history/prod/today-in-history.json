@@ -1079,6 +1079,18 @@
             "eventDescriptionEs": "El 27 de julio de 1694, se otorgó una Carta Real al Banco de Inglaterra por parte del Rey Guillermo III y la Reina María II. La carta estableció al Banco de Inglaterra como el banco central de Inglaterra y le otorgó diversos privilegios, incluida la capacidad de emitir billetes de banco. El Banco de Inglaterra desempeñó un papel crucial en el desarrollo de la economía y el sistema monetario británico.",
             "eventDescriptionIt": "Il 27 luglio 1694 fu concessa una Carta Reale alla Banca d'Inghilterra da parte del Re Guglielmo III e della Regina Maria II. La carta istituì la Banca d'Inghilterra come banca centrale d'Inghilterra e le conferì vari privilegi, inclusa la possibilità di emettere banconote. La Banca d'Inghilterra svolse un ruolo cruciale nello sviluppo dell'economia e del sistema monetario britannico.",
             "eventDescriptionFr": "Le 27 juillet 1694, une charte royale a été accordée à la Banque d'Angleterre par le roi Guillaume III et la reine Marie II. La charte a établi la Banque d'Angleterre en tant que banque centrale de l'Angleterre et lui a accordé divers privilèges, dont la capacité d'émettre des billets de banque. La Banque d'Angleterre a joué un rôle crucial dans le développement de l'économie britannique et du système monétaire."
-        }
+        },{
+            "eventId": "125",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1967/02/18",
+            "eventImg": null,
+            "eventDescriptionEn": "On February 18, 1967, J. Robert Oppenheimer, the renowned American theoretical physicist and leader of the Manhattan Project during World War II, passed away at the age of 62. His contributions to the development of the atomic bomb had a profound impact on history and science.",
+            "eventDescriptionTr": "18 Şubat 1967 tarihinde, ünlü Amerikalı teorik fizikçi ve II. Dünya Savaşı sırasında Manhattan Projesi'nin lideri J. Robert Oppenheimer, 62 yaşında vefat etti. Atom bombasının gelişimine yaptığı katkılar tarih ve bilim alanında derin etkiler yaratmıştır.",
+            "eventDescriptionDe": "Am 18. Februar 1967 verstarb der renommierte amerikanische theoretische Physiker und Leiter des Manhattan-Projekts während des Zweiten Weltkriegs, J. Robert Oppenheimer, im Alter von 62 Jahren. Seine Beiträge zur Entwicklung der Atombombe hatten eine tiefgreifende Auswirkung auf Geschichte und Wissenschaft.",
+            "eventDescriptionEs": "El 18 de febrero de 1967, falleció J. Robert Oppenheimer, el renombrado físico teórico estadounidense y líder del Proyecto Manhattan durante la Segunda Guerra Mundial, a la edad de 62 años. Sus contribuciones al desarrollo de la bomba atómica tuvieron un profundo impacto en la historia y la ciencia.",
+            "eventDescriptionIt": "Il 18 febbraio 1967, J. Robert Oppenheimer, il rinomato fisico teorico americano e leader del Progetto Manhattan durante la Seconda Guerra Mondiale, morì all'età di 62 anni. I suoi contributi allo sviluppo della bomba atomica ebbero un profondo impatto sulla storia e sulla scienza.",
+            "eventDescriptionFr": "Le 18 février 1967, J. Robert Oppenheimer, le célèbre physicien théoricien américain et chef du Projet Manhattan pendant la Seconde Guerre mondiale, est décédé à l'âge de 62 ans. Ses contributions au développement de la bombe atomique ont eu un impact profond sur l'histoire et la science."
+          }
+          
     ]
 }
