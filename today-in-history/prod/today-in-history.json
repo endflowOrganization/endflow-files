@@ -1134,8 +1134,17 @@
             "eventDescriptionEs": "El 28 de julio de 1883, un terremoto moderado de magnitud 4.3-5.2 sacudió la isla italiana de Ischia. El terremoto resultó en una devastadora pérdida de vidas, con más de 2.300 personas fallecidas en el desastre.",
             "eventDescriptionIt": "Il 28 luglio 1883, un terremoto moderato con magnitudo compresa tra 4.3 e 5.2 colpì l'isola italiana di Ischia. Il terremoto causò una devastante perdita di vite umane, con oltre 2.300 persone riportate decedute nella tragedia.",
             "eventDescriptionFr": "Le 28 juillet 1883, un séisme modéré d'une magnitude de 4,3 à 5,2 a frappé l'île italienne d'Ischia. Le séisme a entraîné une perte dévastatrice de vies humaines, avec plus de 2 300 personnes signalées comme décédées dans la catastrophe."
-          }
-          
-          
+          },{
+            "eventId": "130",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2002/07/28",
+            "eventImg": null,
+            "eventDescriptionEn": "On July 28, 2002, nine coal miners were trapped in the flooded Quecreek Mine in Somerset County, Pennsylvania, USA. After a harrowing ordeal of 77 hours underground, all nine miners were successfully rescued in a remarkable operation that garnered international attention and relief.",
+            "eventDescriptionTr": "28 Temmuz 2002 tarihinde, Amerika Birleşik Devletleri'nin Pennsylvania eyaletinin Somerset County bölgesindeki Quecreek Madeni'nde dokuz kömür işçisi su baskınına maruz kaldı. 77 saatlik korkunç bir sürenin ardından, tüm dokuz madenci uluslararası dikkat ve sevinçle karşılanan başarılı bir operasyonla kurtarıldı.",
+            "eventDescriptionDe": "Am 28. Juli 2002 wurden neun Kohlenarbeiter in der überfluteten Quecreek Mine im Somerset County, Pennsylvania, USA, eingeschlossen. Nach einer beängstigenden 77-stündigen Odyssee unter Tage wurden alle neun Bergleute erfolgreich in einer bemerkenswerten Operation gerettet, die internationale Aufmerksamkeit und Erleichterung hervorrief.",
+            "eventDescriptionEs": "El 28 de julio de 2002, nueve mineros de carbón quedaron atrapados en la inundada Mina Quecreek en el condado de Somerset, Pensilvania, Estados Unidos. Después de una angustiosa odisea de 77 horas bajo tierra, todos los nueve mineros fueron rescatados con éxito en una notable operación que captó la atención y alivio internacional.",
+            "eventDescriptionIt": "Il 28 luglio 2002, nove minatori del carbone rimasero intrappolati nella Mina Quecreek allagata nella Contea di Somerset, Pennsylvania, Stati Uniti. Dopo un'angosciosa esperienza di 77 ore sottoterra, tutti e nove i minatori furono salvati con successo in un'operazione straordinaria che attirò l'attenzione e il sollievo internazionale.",
+            "eventDescriptionFr": "Le 28 juillet 2002, neuf mineurs de charbon ont été piégés dans la mine inondée de Quecreek dans le comté de Somerset, en Pennsylvanie, aux États-Unis. Après une épreuve éprouvante de 77 heures sous terre, tous les neuf mineurs ont été sauvés avec succès lors d'une opération remarquable qui a suscité l'attention et le soulagement international."
+          }          
     ]
 }
