@@ -1256,7 +1256,50 @@
             "eventDescriptionEs": "El 30 de julio de 1966, Inglaterra venció a Alemania Occidental para ganar la Copa Mundial de la FIFA de 1966 en el Estadio de Wembley después de tiempo extra.",
             "eventDescriptionIt": "Il 30 luglio 1966, l'Inghilterra sconfisse la Germania Ovest per vincere la Coppa del Mondo FIFA del 1966 allo Stadio di Wembley dopo i tempi supplementari.",
             "eventDescriptionFr": "Le 30 juillet 1966, l'Angleterre a battu l'Allemagne de l'Ouest pour remporter la Coupe du Monde de la FIFA 1966 au Stade de Wembley après prolongation."
+          },{
+            "eventId": "140",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1947/04/07",
+            "eventImg": null,
+            "eventDescriptionEn": "On April 7, 1947, Henry Ford, the pioneering American industrialist and founder of Ford Motor Company, passed away at the age of 83.",
+            "eventDescriptionTr": "7 Nisan 1947 tarihinde, Amerika'nın öncü sanayicisi ve Ford Motor Company'nin kurucusu Henry Ford, 83 yaşında hayatını kaybetti.",
+            "eventDescriptionDe": "Am 7. April 1947 verstarb Henry Ford, der bahnbrechende amerikanische Industrielle und Gründer der Ford Motor Company, im Alter von 83 Jahren.",
+            "eventDescriptionEs": "El 7 de abril de 1947, falleció Henry Ford, el pionero industrial estadounidense y fundador de Ford Motor Company, a la edad de 83 años.",
+            "eventDescriptionIt": "Il 7 aprile 1947 morì Henry Ford, il pioniere industriale americano e fondatore della Ford Motor Company, all'età di 83 anni.",
+            "eventDescriptionFr": "Le 7 avril 1947, Henry Ford, l'industriel américain pionnier et fondateur de Ford Motor Company, décéda à l'âge de 83 ans."
+          },{
+            "eventId": "141",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1774/08/01",
+            "eventImg": null,
+            "eventDescriptionEn": "Joseph Priestley discovers oxygen gas, although he did not identify it as oxygen at that time.",
+            "eventDescriptionTr": "Joseph Priestley, o dönemde onu oksijen olarak tanımlamasa da, 1 Ağustos 1774 tarihinde oksijen gazını keşfetmiştir.",
+            "eventDescriptionDe": "Joseph Priestley entdeckt 1774/08/01 Sauerstoffgas, obwohl er es zu dieser Zeit nicht als Sauerstoff identifizierte.",
+            "eventDescriptionEs": "Joseph Priestley descubre el gas de oxígeno, aunque en ese momento no lo identificó como oxígeno.",
+            "eventDescriptionIt": "Joseph Priestley scopre il gas ossigeno, anche se all'epoca non lo identifica come ossigeno.",
+            "eventDescriptionFr": "Joseph Priestley découvre le gaz d'oxygène, bien qu'il ne l'identifie pas comme de l'oxygène à l'époque."
+          },{
+            "eventId": "142",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1498/08/01",
+            "eventImg": null,
+            "eventDescriptionEn": "Christopher Columbus becomes the first European to set foot on the mainland of South America when he lands in what is now Venezuela.",
+            "eventDescriptionTr": "Christopher Columbus, şu anda Venezuela olarak bilinen bölgeye ayak basarak Güney Amerika anakarasına ilk Avrupalı olur.",
+            "eventDescriptionDe": "Christopher Kolumbus betritt am 01.08.1498 erstmals das Festland Südamerikas, als er in dem Gebiet landet, das heute als Venezuela bekannt ist.",
+            "eventDescriptionEs": "Cristóbal Colón se convierte en el primer europeo en poner pie en el continente de América del Sur cuando desembarca en lo que ahora es Venezuela.",
+            "eventDescriptionIt": "Cristoforo Colombo diventa il primo europeo a mettere piede sulla terraferma del Sud America quando sbarca in quella che ora è la Venezuela.",
+            "eventDescriptionFr": "Christophe Colomb devient le premier Européen à poser le pied sur le continent de l'Amérique du Sud lorsqu'il débarque dans ce qui est aujourd'hui le Venezuela."
+          },{
+            "eventId": "143",
+            "eventCategory": "MUSIC",
+            "eventDate": "1981/08/01",
+            "eventImg": null,
+            "eventDescriptionEn": "MTV, the first 24-hour music television channel, is launched in the United States.",
+            "eventDescriptionTr": "MTV, ilk 24 saatlik müzik televizyon kanalı, Amerika Birleşik Devletleri'nde yayın hayatına başladı.",
+            "eventDescriptionDe": "MTV, der erste 24-Stunden-Musikfernsehsender, wird in den Vereinigten Staaten gestartet.",
+            "eventDescriptionEs": "MTV, el primer canal de televisión musical las 24 horas, se lanzó en los Estados Unidos.",
+            "eventDescriptionIt": "MTV, il primo canale televisivo musicale 24 ore su 24, viene lanciato negli Stati Uniti.",
+            "eventDescriptionFr": "MTV, la première chaîne de télévision musicale 24 heures sur 24, est lancée aux États-Unis."
           }
-          
     ]
 }
