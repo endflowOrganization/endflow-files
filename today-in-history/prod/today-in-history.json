@@ -1225,7 +1225,7 @@
             "eventDescriptionFr": "Le 30 juillet 1962, la Trans-Canada Highway, alors la plus longue autoroute nationale du monde, a été officiellement ouverte. S'étendant sur environ 7 821 kilomètres (4 860 miles), elle relie différentes provinces et régions du Canada, jouant un rôle essentiel dans la facilitation des déplacements, du commerce et des affaires à travers le pays."
         },{
             "eventId": "137",
-            "eventCategory": "DEATH",
+            "eventCategory": "PEOPLE",
             "eventDate": "1973/07/20",
             "eventImg": null,
             "eventDescriptionEn": "On July 20, 1973, Bruce Lee, the legendary martial artist, actor, and filmmaker, passed away at the age of 32.",
@@ -1234,6 +1234,28 @@
             "eventDescriptionEs": "El 20 de julio de 1973, Bruce Lee, el legendario artista marcial, actor y cineasta, falleció a los 32 años.",
             "eventDescriptionIt": "Il 20 luglio 1973 morì Bruce Lee, il leggendario artista marziale, attore e regista, all'età di 32 anni.",
             "eventDescriptionFr": "Le 20 juillet 1973, Bruce Lee, le légendaire artiste martial, acteur et réalisateur, décéda à l'âge de 32 ans."
+          },{
+            "eventId": "138",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1954/07/13",
+            "eventImg": null,
+            "eventDescriptionEn": "On July 13, 1954, Frida Kahlo, the renowned Mexican artist, passed away, leaving a significant impact on art and culture.",
+            "eventDescriptionTr": "13 Temmuz 1954 tarihinde, ünlü Meksikalı sanatçı Frida Kahlo vefat etti ve sanat ve kültür üzerinde önemli bir etki bıraktı.",
+            "eventDescriptionDe": "Am 13. Juli 1954 verstarb die renommierte mexikanische Künstlerin Frida Kahlo und hinterließ einen bedeutenden Einfluss auf Kunst und Kultur.",
+            "eventDescriptionEs": "El 13 de julio de 1954, falleció Frida Kahlo, la famosa artista mexicana, dejando un impacto significativo en el arte y la cultura.",
+            "eventDescriptionIt": "Il 13 luglio 1954 morì Frida Kahlo, la rinomata artista messicana, lasciando un significativo impatto sull'arte e la cultura.",
+            "eventDescriptionFr": "Le 13 juillet 1954, Frida Kahlo, la célèbre artiste mexicaine, décéda, laissant une empreinte significative sur l'art et la culture."
+          },{
+            "eventId": "139",
+            "eventCategory": "SPORT",
+            "eventDate": "1966/07/30",
+            "eventImg": null,
+            "eventDescriptionEn": "On July 30, 1966, England defeated West Germany to win the 1966 FIFA World Cup at Wembley Stadium after extra time.",
+            "eventDescriptionTr": "30 Temmuz 1966 tarihinde, İngiltere, uzatma süresi sonunda Wembley Stadyumu'nda Batı Almanya'yı yenerek 1966 FIFA Dünya Kupası'nı kazandı.",
+            "eventDescriptionDe": "Am 30. Juli 1966 besiegte England Westdeutschland nach Verlängerung im Wembley-Stadion und gewann die FIFA-Weltmeisterschaft 1966.",
+            "eventDescriptionEs": "El 30 de julio de 1966, Inglaterra venció a Alemania Occidental para ganar la Copa Mundial de la FIFA de 1966 en el Estadio de Wembley después de tiempo extra.",
+            "eventDescriptionIt": "Il 30 luglio 1966, l'Inghilterra sconfisse la Germania Ovest per vincere la Coppa del Mondo FIFA del 1966 allo Stadio di Wembley dopo i tempi supplementari.",
+            "eventDescriptionFr": "Le 30 juillet 1966, l'Angleterre a battu l'Allemagne de l'Ouest pour remporter la Coupe du Monde de la FIFA 1966 au Stade de Wembley après prolongation."
           }
           
     ]
