@@ -1223,7 +1223,8 @@
             "eventDescriptionEs": "El 30 de julio de 1962, se inauguró oficialmente la Carretera Trans-Canada, la entonces carretera nacional más larga del mundo. Con una extensión de aproximadamente 7,821 kilómetros (4,860 millas), la Carretera Trans-Canada conecta diversas provincias y regiones de Canadá, desempeñando un papel vital en facilitar los viajes, el comercio y el comercio en todo el país.",
             "eventDescriptionIt": "Il 30 luglio 1962 fu ufficialmente inaugurata la Trans-Canada Highway, all'epoca la strada nazionale più lunga del mondo. Con una lunghezza di circa 7.821 chilometri (4.860 miglia), la Trans-Canada Highway collega diverse province e regioni del Canada, svolgendo un ruolo vitale nel facilitare i viaggi, il commercio e il commercio in tutto il paese.",
             "eventDescriptionFr": "Le 30 juillet 1962, la Trans-Canada Highway, alors la plus longue autoroute nationale du monde, a été officiellement ouverte. S'étendant sur environ 7 821 kilomètres (4 860 miles), elle relie différentes provinces et régions du Canada, jouant un rôle essentiel dans la facilitation des déplacements, du commerce et des affaires à travers le pays."
-        },{
+        },
+        {
             "eventId": "137",
             "eventCategory": "PEOPLE",
             "eventDate": "1973/07/20",
@@ -1234,7 +1235,8 @@
             "eventDescriptionEs": "El 20 de julio de 1973, Bruce Lee, el legendario artista marcial, actor y cineasta, falleció a los 32 años.",
             "eventDescriptionIt": "Il 20 luglio 1973 morì Bruce Lee, il leggendario artista marziale, attore e regista, all'età di 32 anni.",
             "eventDescriptionFr": "Le 20 juillet 1973, Bruce Lee, le légendaire artiste martial, acteur et réalisateur, décéda à l'âge de 32 ans."
-          },{
+        },
+        {
             "eventId": "138",
             "eventCategory": "PEOPLE",
             "eventDate": "1954/07/13",
@@ -1245,7 +1247,8 @@
             "eventDescriptionEs": "El 13 de julio de 1954, falleció Frida Kahlo, la famosa artista mexicana, dejando un impacto significativo en el arte y la cultura.",
             "eventDescriptionIt": "Il 13 luglio 1954 morì Frida Kahlo, la rinomata artista messicana, lasciando un significativo impatto sull'arte e la cultura.",
             "eventDescriptionFr": "Le 13 juillet 1954, Frida Kahlo, la célèbre artiste mexicaine, décéda, laissant une empreinte significative sur l'art et la culture."
-          },{
+        },
+        {
             "eventId": "139",
             "eventCategory": "SPORT",
             "eventDate": "1966/07/30",
@@ -1256,7 +1259,8 @@
             "eventDescriptionEs": "El 30 de julio de 1966, Inglaterra venció a Alemania Occidental para ganar la Copa Mundial de la FIFA de 1966 en el Estadio de Wembley después de tiempo extra.",
             "eventDescriptionIt": "Il 30 luglio 1966, l'Inghilterra sconfisse la Germania Ovest per vincere la Coppa del Mondo FIFA del 1966 allo Stadio di Wembley dopo i tempi supplementari.",
             "eventDescriptionFr": "Le 30 juillet 1966, l'Angleterre a battu l'Allemagne de l'Ouest pour remporter la Coupe du Monde de la FIFA 1966 au Stade de Wembley après prolongation."
-          },{
+        },
+        {
             "eventId": "140",
             "eventCategory": "PEOPLE",
             "eventDate": "1947/04/07",
@@ -1267,7 +1271,8 @@
             "eventDescriptionEs": "El 7 de abril de 1947, falleció Henry Ford, el pionero industrial estadounidense y fundador de Ford Motor Company, a la edad de 83 años.",
             "eventDescriptionIt": "Il 7 aprile 1947 morì Henry Ford, il pioniere industriale americano e fondatore della Ford Motor Company, all'età di 83 anni.",
             "eventDescriptionFr": "Le 7 avril 1947, Henry Ford, l'industriel américain pionnier et fondateur de Ford Motor Company, décéda à l'âge de 83 ans."
-          },{
+        },
+        {
             "eventId": "141",
             "eventCategory": "SCIENCE",
             "eventDate": "1774/08/01",
@@ -1278,7 +1283,8 @@
             "eventDescriptionEs": "Joseph Priestley descubre el gas de oxígeno, aunque en ese momento no lo identificó como oxígeno.",
             "eventDescriptionIt": "Joseph Priestley scopre il gas ossigeno, anche se all'epoca non lo identifica come ossigeno.",
             "eventDescriptionFr": "Joseph Priestley découvre le gaz d'oxygène, bien qu'il ne l'identifie pas comme de l'oxygène à l'époque."
-          },{
+        },
+        {
             "eventId": "142",
             "eventCategory": "PEOPLE",
             "eventDate": "1498/08/01",
@@ -1289,7 +1295,8 @@
             "eventDescriptionEs": "Cristóbal Colón se convierte en el primer europeo en poner pie en el continente de América del Sur cuando desembarca en lo que ahora es Venezuela.",
             "eventDescriptionIt": "Cristoforo Colombo diventa il primo europeo a mettere piede sulla terraferma del Sud America quando sbarca in quella che ora è la Venezuela.",
             "eventDescriptionFr": "Christophe Colomb devient le premier Européen à poser le pied sur le continent de l'Amérique du Sud lorsqu'il débarque dans ce qui est aujourd'hui le Venezuela."
-          },{
+        },
+        {
             "eventId": "143",
             "eventCategory": "MUSIC",
             "eventDate": "1981/08/01",
@@ -1300,7 +1307,8 @@
             "eventDescriptionEs": "MTV, el primer canal de televisión musical las 24 horas, se lanzó en los Estados Unidos.",
             "eventDescriptionIt": "MTV, il primo canale televisivo musicale 24 ore su 24, viene lanciato negli Stati Uniti.",
             "eventDescriptionFr": "MTV, la première chaîne de télévision musicale 24 heures sur 24, est lancée aux États-Unis."
-          },{
+        },
+        {
             "eventId": "144",
             "eventCategory": "POLITICS",
             "eventDate": "1934/08/02",
@@ -1311,7 +1319,8 @@
             "eventDescriptionEs": "El 2 de agosto de 1934, muere el presidente alemán Paul von Hindenburg y Adolf Hitler se convierte en el Führer (líder) de Alemania.",
             "eventDescriptionIt": "Il 2 agosto 1934, muore il presidente tedesco Paul von Hindenburg e Adolf Hitler diventa il Führer (leader) della Germania.",
             "eventDescriptionFr": "Le 2 août 1934, le président allemand Paul von Hindenburg décède et Adolf Hitler devient le Führer (leader) de l'Allemagne."
-          },{
+        },
+        {
             "eventId": "145",
             "eventCategory": "TECH",
             "eventDate": "1946/05/07",
@@ -1322,7 +1331,8 @@
             "eventDescriptionEs": "Sony Corporation fue fundada el 7 de mayo de 1946.",
             "eventDescriptionIt": "La Sony Corporation è stata fondata il 7 maggio 1946.",
             "eventDescriptionFr": "La Sony Corporation a été fondée le 7 mai 1946."
-          },{
+        },
+        {
             "eventId": "146",
             "eventCategory": "TECH",
             "eventDate": "1916/03/07",
@@ -1333,7 +1343,8 @@
             "eventDescriptionEs": "BMW (Bayerische Motoren Werke AG) es fundada el 7 de marzo de 1916.",
             "eventDescriptionIt": "BMW (Bayerische Motoren Werke AG) è stata fondata il 7 marzo 1916.",
             "eventDescriptionFr": "BMW (Bayerische Motoren Werke AG) est fondée le 7 mars 1916."
-          },{
+        },
+        {
             "eventId": "147",
             "eventCategory": "SPORT",
             "eventDate": "2012/07/31",
@@ -1344,19 +1355,30 @@
             "eventDescriptionEs": "El 31 de julio de 2012, Michael Phelps rompe el récord establecido en 1964 por Larisa Latynina al ganar la mayor cantidad de medallas en los Juegos Olímpicos.",
             "eventDescriptionIt": "Il 31 luglio 2012, Michael Phelps batte il record stabilito nel 1964 da Larisa Latynina per il maggior numero di medaglie vinte alle Olimpiadi.",
             "eventDescriptionFr": "Le 31 juillet 2012, Michael Phelps bat le record établi en 1964 par Larisa Latynina pour le plus grand nombre de médailles remportées aux Jeux olympiques."
-          },{
+        },
+        {
             "eventId": "148",
             "eventCategory": "PEOPLE",
             "eventDate": "1987/07/31",
             "eventImg": null,
-            "eventDescriptionEn": "On July 31, 1987, a tornado occurs in Edmonton, Alberta, killing 27 people.",
-            "eventDescriptionTr": "31 Temmuz 1987 tarihinde, Edmonton, Alberta'da meydana gelen bir tornado 27 kişinin hayatını kaybetmesine neden olur.",
-            "eventDescriptionDe": "Am 31. Juli 1987 kommt es in Edmonton, Alberta, zu einem Tornado, bei dem 27 Menschen ums Leben kommen.",
-            "eventDescriptionEs": "El 31 de julio de 1987, se produce un tornado en Edmonton, Alberta, que causa la muerte de 27 personas.",
-            "eventDescriptionIt": "Il 31 luglio 1987 si verifica un tornado a Edmonton, Alberta, che provoca la morte di 27 persone.",
-            "eventDescriptionFr": "Le 31 juillet 1987, une tornade frappe Edmonton, en Alberta, faisant 27 morts."
-          }
-          
-          
+            "eventDescriptionEn": "On July 31, 1987, a tornado occurred in Edmonton, Alberta, killing 27 people.",
+            "eventDescriptionTr": "31 Temmuz 1987 tarihinde, Edmonton, Alberta'da meydana gelen bir tornado 27 kişinin hayatını kaybetmesine neden oldu.",
+            "eventDescriptionDe": "Am 31. Juli 1987 kam es in Edmonton, Alberta, zu einem Tornado, bei dem 27 Menschen ums Leben kamen.",
+            "eventDescriptionEs": "El 31 de julio de 1987, se produjo un tornado en Edmonton, Alberta, que causó la muerte de 27 personas.",
+            "eventDescriptionIt": "Il 31 luglio 1987 si è verificato un tornado a Edmonton, Alberta, che ha provocato la morte di 27 persone.",
+            "eventDescriptionFr": "Le 31 juillet 1987, une tornade a frappé Edmonton, en Alberta, faisant 27 morts."
+        },
+        {
+            "eventId": "149",
+            "eventCategory": "POLITICS",
+            "eventDate": "1992/07/31",
+            "eventImg": null,
+            "eventDescriptionEn": "On July 31, 1992, the nation of Georgia joined the United Nations.",
+            "eventDescriptionTr": "31 Temmuz 1992 tarihinde, Gürcistan Birleşmiş Milletler'e katıldı.",
+            "eventDescriptionDe": "Am 31. Juli 1992 trat die Nation Georgien den Vereinten Nationen bei.",
+            "eventDescriptionEs": "El 31 de julio de 1992, la nación de Georgia se unió a las Naciones Unidas.",
+            "eventDescriptionIt": "Il 31 luglio 1992 la nazione della Georgia è entrata a far parte delle Nazioni Unite.",
+            "eventDescriptionFr": "Le 31 juillet 1992, la nation de Géorgie a rejoint les Nations Unies."
+        }
     ]
 }
