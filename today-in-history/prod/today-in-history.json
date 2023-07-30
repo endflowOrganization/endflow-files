@@ -1423,6 +1423,18 @@
             "eventDescriptionEs": "El 3 de julio de 1985 se estrenó la primera película 'Back to the Future', dirigida por Robert Zemeckis y protagonizada por Michael J. Fox y Christopher Lloyd.",
             "eventDescriptionIt": "Il 3 luglio 1985 fu rilasciato il primo film 'Ritorno al futuro', diretto da Robert Zemeckis e interpretato da Michael J. Fox e Christopher Lloyd.",
             "eventDescriptionFr": "Le 3 juillet 1985, le premier film 'Retour vers le futur' a été publié, réalisé par Robert Zemeckis avec Michael J. Fox et Christopher Lloyd dans les rôles principaux."
-          }     
+          },{
+            "eventId": "154",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2020/11/25",
+            "eventImg": null,
+            "eventDescriptionEn": "On November 25, 2020, Diego Maradona, the legendary Argentine footballer, passed away.",
+            "eventDescriptionTr": "25 Kasım 2020'de, efsanevi Arjantin futbolcu Diego Maradona vefat etti.",
+            "eventDescriptionDe": "Am 25. November 2020 verstarb Diego Maradona, der legendäre argentinische Fußballspieler.",
+            "eventDescriptionEs": "El 25 de noviembre de 2020, falleció Diego Maradona, el legendario futbolista argentino.",
+            "eventDescriptionIt": "Il 25 novembre 2020 è scomparso Diego Maradona, il leggendario calciatore argentino.",
+            "eventDescriptionFr": "Le 25 novembre 2020, Diego Maradona, le légendaire footballeur argentin, décéda."
+          }
+          
     ]
 }
