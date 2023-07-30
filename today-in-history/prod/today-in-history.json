@@ -1445,6 +1445,17 @@
             "eventDescriptionEs": "El 3 de agosto de 1960, Níger obtuvo la independencia de Francia.",
             "eventDescriptionIt": "Il 3 agosto 1960, il Niger ottenne l'indipendenza dalla Francia.",
             "eventDescriptionFr": "Le 3 août 1960, le Niger obtint son indépendance vis-à-vis de la France."
+          },{
+            "eventId": "156",
+            "eventCategory": "TECH",
+            "eventDate": "2007/06/29",
+            "eventImg": null,
+            "eventDescriptionEn": "On June 29, 2007, the first iPhone model (iPhone 2G) was produced and released by Apple Inc.",
+            "eventDescriptionTr": "29 Haziran 2007'de, Apple Inc. tarafından ilk iPhone modeli (iPhone 2G) üretildi ve piyasaya sürüldü.",
+            "eventDescriptionDe": "Am 29. Juni 2007 wurde das erste iPhone-Modell (iPhone 2G) von Apple Inc. produziert und veröffentlicht.",
+            "eventDescriptionEs": "El 29 de junio de 2007, Apple Inc. produjo y lanzó el primer modelo de iPhone (iPhone 2G).",
+            "eventDescriptionIt": "Il 29 giugno 2007, Apple Inc. ha prodotto e rilasciato il primo modello di iPhone (iPhone 2G).",
+            "eventDescriptionFr": "Le 29 juin 2007, le premier modèle d'iPhone (iPhone 2G) a été produit et publié par Apple Inc."
           }
     ]
 }
