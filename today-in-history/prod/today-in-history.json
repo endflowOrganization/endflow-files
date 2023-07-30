@@ -1333,6 +1333,30 @@
             "eventDescriptionEs": "BMW (Bayerische Motoren Werke AG) es fundada el 7 de marzo de 1916.",
             "eventDescriptionIt": "BMW (Bayerische Motoren Werke AG) è stata fondata il 7 marzo 1916.",
             "eventDescriptionFr": "BMW (Bayerische Motoren Werke AG) est fondée le 7 mars 1916."
+          },{
+            "eventId": "147",
+            "eventCategory": "SPORT",
+            "eventDate": "2012/07/31",
+            "eventImg": null,
+            "eventDescriptionEn": "On July 31, 2012, Michael Phelps breaks the record set in 1964 by Larisa Latynina for the most medals won at the Olympics.",
+            "eventDescriptionTr": "31 Temmuz 2012 tarihinde, Michael Phelps, Olimpiyatlar'da en fazla madalya kazanan rekorunu 1964'te Larisa Latynina tarafından kırar.",
+            "eventDescriptionDe": "Am 31. Juli 2012 bricht Michael Phelps den Rekord, den Larisa Latynina 1964 für die meisten Medaillen bei den Olympischen Spielen aufgestellt hat.",
+            "eventDescriptionEs": "El 31 de julio de 2012, Michael Phelps rompe el récord establecido en 1964 por Larisa Latynina al ganar la mayor cantidad de medallas en los Juegos Olímpicos.",
+            "eventDescriptionIt": "Il 31 luglio 2012, Michael Phelps batte il record stabilito nel 1964 da Larisa Latynina per il maggior numero di medaglie vinte alle Olimpiadi.",
+            "eventDescriptionFr": "Le 31 juillet 2012, Michael Phelps bat le record établi en 1964 par Larisa Latynina pour le plus grand nombre de médailles remportées aux Jeux olympiques."
+          },{
+            "eventId": "148",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1987/07/31",
+            "eventImg": null,
+            "eventDescriptionEn": "On July 31, 1987, a tornado occurs in Edmonton, Alberta, killing 27 people.",
+            "eventDescriptionTr": "31 Temmuz 1987 tarihinde, Edmonton, Alberta'da meydana gelen bir tornado 27 kişinin hayatını kaybetmesine neden olur.",
+            "eventDescriptionDe": "Am 31. Juli 1987 kommt es in Edmonton, Alberta, zu einem Tornado, bei dem 27 Menschen ums Leben kommen.",
+            "eventDescriptionEs": "El 31 de julio de 1987, se produce un tornado en Edmonton, Alberta, que causa la muerte de 27 personas.",
+            "eventDescriptionIt": "Il 31 luglio 1987 si verifica un tornado a Edmonton, Alberta, che provoca la morte di 27 persone.",
+            "eventDescriptionFr": "Le 31 juillet 1987, une tornade frappe Edmonton, en Alberta, faisant 27 morts."
           }
+          
+          
     ]
 }
