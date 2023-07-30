@@ -1379,6 +1379,18 @@
             "eventDescriptionEs": "El 31 de julio de 1992, la nación de Georgia se unió a las Naciones Unidas.",
             "eventDescriptionIt": "Il 31 luglio 1992 la nazione della Georgia è entrata a far parte delle Nazioni Unite.",
             "eventDescriptionFr": "Le 31 juillet 1992, la nation de Géorgie a rejoint les Nations Unies."
-        }
+        },{
+            "eventId": "150",
+            "eventCategory": "POLITICS",
+            "eventDate": "2006/07/31",
+            "eventImg": null,
+            "eventDescriptionEn": "On July 31, 2006, Fidel Castro handed over power to his brother, Raúl.",
+            "eventDescriptionTr": "31 Temmuz 2006 tarihinde, Fidel Castro gücü kardeşi Raúl'a devretti.",
+            "eventDescriptionDe": "Am 31. Juli 2006 übergab Fidel Castro die Macht an seinen Bruder Raúl.",
+            "eventDescriptionEs": "El 31 de julio de 2006, Fidel Castro entregó el poder a su hermano Raúl.",
+            "eventDescriptionIt": "Il 31 luglio 2006, Fidel Castro ha ceduto il potere a suo fratello Raúl.",
+            "eventDescriptionFr": "Le 31 juillet 2006, Fidel Castro a remis le pouvoir à son frère Raúl."
+          }
+          
     ]
 }
