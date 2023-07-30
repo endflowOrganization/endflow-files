@@ -1434,7 +1434,17 @@
             "eventDescriptionEs": "El 25 de noviembre de 2020, falleció Diego Maradona, el legendario futbolista argentino.",
             "eventDescriptionIt": "Il 25 novembre 2020 è scomparso Diego Maradona, il leggendario calciatore argentino.",
             "eventDescriptionFr": "Le 25 novembre 2020, Diego Maradona, le légendaire footballeur argentin, décéda."
+          },{
+            "eventId": "155",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1960/08/03",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 3, 1960, Niger gained independence from France.",
+            "eventDescriptionTr": "3 Ağustos 1960'ta, Nijer Fransa'dan bağımsızlığını kazandı.",
+            "eventDescriptionDe": "Am 3. August 1960 erlangte Niger die Unabhängigkeit von Frankreich.",
+            "eventDescriptionEs": "El 3 de agosto de 1960, Níger obtuvo la independencia de Francia.",
+            "eventDescriptionIt": "Il 3 agosto 1960, il Niger ottenne l'indipendenza dalla Francia.",
+            "eventDescriptionFr": "Le 3 août 1960, le Niger obtint son indépendance vis-à-vis de la France."
           }
-          
     ]
 }
