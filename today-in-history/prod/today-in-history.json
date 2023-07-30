@@ -1390,6 +1390,28 @@
             "eventDescriptionEs": "El 31 de julio de 2006, Fidel Castro entregó el poder a su hermano Raúl.",
             "eventDescriptionIt": "Il 31 luglio 2006, Fidel Castro ha ceduto il potere a suo fratello Raúl.",
             "eventDescriptionFr": "Le 31 juillet 2006, Fidel Castro a remis le pouvoir à son frère Raúl."
+          },{
+            "eventId": "151",
+            "eventCategory": "MUSIC",
+            "eventDate": "1977/08/16",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 16, 1977, Elvis Presley, the legendary singer and actor, passed away at the age of 42.",
+            "eventDescriptionTr": "16 Ağustos 1977'de, efsanevi şarkıcı ve oyuncu Elvis Presley, 42 yaşında vefat etti.",
+            "eventDescriptionDe": "Am 16. August 1977 verstarb Elvis Presley, der legendäre Sänger und Schauspieler, im Alter von 42 Jahren.",
+            "eventDescriptionEs": "El 16 de agosto de 1977, falleció Elvis Presley, el legendario cantante y actor, a la edad de 42 años.",
+            "eventDescriptionIt": "Il 16 agosto 1977, Elvis Presley, il leggendario cantante e attore, è scomparso all'età di 42 anni.",
+            "eventDescriptionFr": "Le 16 août 1977, Elvis Presley, le chanteur et acteur légendaire, décéda à l'âge de 42 ans."
+          },{
+            "eventId": "152",
+            "eventCategory": "MUSIC",
+            "eventDate": "1998/05/14",
+            "eventImg": null,
+            "eventDescriptionEn": "On May 14, 1998, Frank Sinatra, the legendary singer and actor, passed away at the age of 82.",
+            "eventDescriptionTr": "14 Mayıs 1998'de, efsanevi şarkıcı ve oyuncu Frank Sinatra, 82 yaşında vefat etti.",
+            "eventDescriptionDe": "Am 14. Mai 1998 verstarb Frank Sinatra, der legendäre Sänger und Schauspieler, im Alter von 82 Jahren.",
+            "eventDescriptionEs": "El 14 de mayo de 1998, falleció Frank Sinatra, el legendario cantante y actor, a la edad de 82 años.",
+            "eventDescriptionIt": "Il 14 maggio 1998, Frank Sinatra, il leggendario cantante e attore, è scomparso all'età di 82 anni.",
+            "eventDescriptionFr": "Le 14 mai 1998, Frank Sinatra, le chanteur et acteur légendaire, décéda à l'âge de 82 ans."
           }
           
     ]
