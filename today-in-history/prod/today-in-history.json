@@ -1412,7 +1412,17 @@
             "eventDescriptionEs": "El 14 de mayo de 1998, falleció Frank Sinatra, el legendario cantante y actor, a la edad de 82 años.",
             "eventDescriptionIt": "Il 14 maggio 1998, Frank Sinatra, il leggendario cantante e attore, è scomparso all'età di 82 anni.",
             "eventDescriptionFr": "Le 14 mai 1998, Frank Sinatra, le chanteur et acteur légendaire, décéda à l'âge de 82 ans."
-          }
-          
+          },{
+            "eventId": "153",
+            "eventCategory": "MOVIE",
+            "eventDate": "1985/07/03",
+            "eventImg": null,
+            "eventDescriptionEn": "On July 3, 1985, the first 'Back to the Future' movie was released, directed by Robert Zemeckis and starring Michael J. Fox and Christopher Lloyd.",
+            "eventDescriptionTr": "3 Temmuz 1985'te, ilk 'Back to the Future' filmi gösterime girdi, yönetmenliğini Robert Zemeckis üstlendi ve başrollerde Michael J. Fox ile Christopher Lloyd yer aldı.",
+            "eventDescriptionDe": "Am 3. Juli 1985 wurde der erste Film 'Zurück in die Zukunft' veröffentlicht, unter der Regie von Robert Zemeckis und mit Michael J. Fox und Christopher Lloyd in den Hauptrollen.",
+            "eventDescriptionEs": "El 3 de julio de 1985 se estrenó la primera película 'Back to the Future', dirigida por Robert Zemeckis y protagonizada por Michael J. Fox y Christopher Lloyd.",
+            "eventDescriptionIt": "Il 3 luglio 1985 fu rilasciato il primo film 'Ritorno al futuro', diretto da Robert Zemeckis e interpretato da Michael J. Fox e Christopher Lloyd.",
+            "eventDescriptionFr": "Le 3 juillet 1985, le premier film 'Retour vers le futur' a été publié, réalisé par Robert Zemeckis avec Michael J. Fox et Christopher Lloyd dans les rôles principaux."
+          }     
     ]
 }
