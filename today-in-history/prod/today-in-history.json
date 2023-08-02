@@ -1511,7 +1511,19 @@
             "eventDescriptionEs": "El 6 de enero de 2004, comenzó la construcción del Burj Khalifa, el edificio más alto del mundo, en Dubái, Emiratos Árabes Unidos.",
             "eventDescriptionIt": "Il 6 gennaio 2004 è iniziata la costruzione del Burj Khalifa, l'edificio più alto del mondo, a Dubai, Emirati Arabi Uniti.",
             "eventDescriptionFr": "Le 6 janvier 2004, la construction du Burj Khalifa, le plus haut bâtiment du monde, a débuté à Dubaï, aux Émirats arabes unis."
+          },{
+            "eventId": "162",
+            "eventCategory": "TECH",
+            "eventDate": "1977/08/03",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 3, 1977, Tandy Corporation announced the TRS-80, one of the world's first mass-produced personal computers.",
+            "eventDescriptionTr": "3 Ağustos 1977'de, Tandy Corporation TRS-80'i duyurarak dünyanın ilk seri üretim kişisel bilgisayarlarından birini tanıttı.",
+            "eventDescriptionDe": "Am 3. August 1977 gab die Tandy Corporation die Einführung des TRS-80 bekannt, einem der weltweit ersten in Massenproduktion hergestellten Personalcomputer.",
+            "eventDescriptionEs": "El 3 de agosto de 1977, Tandy Corporation anunció el TRS-80, uno de los primeros ordenadores personales producidos en masa en el mundo.",
+            "eventDescriptionIt": "Il 3 agosto 1977, la Tandy Corporation ha annunciato il TRS-80, uno dei primi personal computer prodotti in serie al mondo.",
+            "eventDescriptionFr": "Le 3 août 1977, la Tandy Corporation a annoncé le TRS-80, l'un des premiers ordinateurs personnels produits en série dans le monde."
           }
+          
           
           
     ]
