@@ -1489,6 +1489,30 @@
             "eventDescriptionEs": "El 3 de agosto de 1492, Cristóbal Colón zarpó desde Palos de la Frontera, España, con tres barcos en su histórico viaje en busca de una ruta hacia Asia por el oeste.",
             "eventDescriptionIt": "Il 3 agosto 1492, Cristoforo Colombo salpò da Palos de la Frontera, Spagna, con tre navi per il suo storico viaggio alla ricerca di una rotta occidentale verso l'Asia.",
             "eventDescriptionFr": "Le 3 août 1492, Christophe Colomb partit de Palos de la Frontera, en Espagne, avec trois navires pour son voyage historique à la recherche d'une route occidentale vers l'Asie."
+          },{
+            "eventId": "160",
+            "eventCategory": "HISTORY",
+            "eventDate": "2010/01/04",
+            "eventImg": null,
+            "eventDescriptionEn": "On January 4, 2010, Burj Khalifa, the tallest building in the world, was officially opened in Dubai, United Arab Emirates.",
+            "eventDescriptionTr": "4 Ocak 2010 tarihinde, Dünya'nın en yüksek binası olan Burj Khalifa, Birleşik Arap Emirlikleri'nin Dubai şehrinde resmi olarak açıldı.",
+            "eventDescriptionDe": "Am 4. Januar 2010 wurde der Burj Khalifa, das höchste Gebäude der Welt, offiziell in Dubai, Vereinigte Arabische Emirate, eröffnet.",
+            "eventDescriptionEs": "El 4 de enero de 2010, se inauguró oficialmente el Burj Khalifa, el edificio más alto del mundo, en Dubái, Emiratos Árabes Unidos.",
+            "eventDescriptionIt": "Il 4 gennaio 2010, è stato ufficialmente inaugurato il Burj Khalifa, l'edificio più alto del mondo, a Dubai, Emirati Arabi Uniti.",
+            "eventDescriptionFr": "Le 4 janvier 2010, le Burj Khalifa, le plus haut bâtiment du monde, a été officiellement inauguré à Dubaï, aux Émirats arabes unis."
+          },{
+            "eventId": "161",
+            "eventCategory": "HISTORY",
+            "eventDate": "2004/01/06",
+            "eventImg": null,
+            "eventDescriptionEn": "On January 6, 2004, construction started on Burj Khalifa, the tallest building in the world, in Dubai, United Arab Emirates.",
+            "eventDescriptionTr": "6 Ocak 2004 tarihinde, Dünya'nın en yüksek binası olan Burj Khalifa'nın inşaatı Birleşik Arap Emirlikleri'nin Dubai şehrinde başladı.",
+            "eventDescriptionDe": "Am 6. Januar 2004 begann der Bau des Burj Khalifa, das höchste Gebäude der Welt, in Dubai, Vereinigte Arabische Emirate.",
+            "eventDescriptionEs": "El 6 de enero de 2004, comenzó la construcción del Burj Khalifa, el edificio más alto del mundo, en Dubái, Emiratos Árabes Unidos.",
+            "eventDescriptionIt": "Il 6 gennaio 2004 è iniziata la costruzione del Burj Khalifa, l'edificio più alto del mondo, a Dubai, Emirati Arabi Uniti.",
+            "eventDescriptionFr": "Le 6 janvier 2004, la construction du Burj Khalifa, le plus haut bâtiment du monde, a débuté à Dubaï, aux Émirats arabes unis."
           }
+          
+          
     ]
 }
