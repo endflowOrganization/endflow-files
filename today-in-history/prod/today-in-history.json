@@ -1478,8 +1478,17 @@
             "eventDescriptionEs": "El 3 de agosto de 1958, el USS Nautilus, el primer submarino de propulsión nuclear del mundo, completó su histórico viaje submarino al navegar con éxito bajo la capa de hielo del Ártico y cruzar el Polo Norte.",
             "eventDescriptionIt": "Il 3 agosto 1958, l'USS Nautilus, il primo sottomarino a propulsione nucleare del mondo, completò la sua storica traversata sottomarina navigando con successo sotto la calotta di ghiaccio artica e attraversando il Polo Nord.",
             "eventDescriptionFr": "Le 3 août 1958, l'USS Nautilus, le premier sous-marin à propulsion nucléaire au monde, a achevé son voyage historique sous-marin en naviguant avec succès sous la calotte glaciaire de l'Arctique et en traversant le pôle Nord."
+          },{
+            "eventId": "159",
+            "eventCategory": "HISTORY",
+            "eventDate": "1492/08/03",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 3, 1492, Christopher Columbus set sail from Palos de la Frontera, Spain, with three ships on his historic voyage to find a western route to Asia.",
+            "eventDescriptionTr": "3 Ağustos 1492'de, Christopher Columbus, üç gemisiyle birlikte, Asya'ya batıdan bir yol bulmak için Palos de la Frontera, İspanya'dan denize açıldı.",
+            "eventDescriptionDe": "Am 3. August 1492 stach Christopher Columbus mit drei Schiffen von Palos de la Frontera, Spanien, in See, um auf seiner historischen Reise einen westlichen Weg nach Asien zu finden.",
+            "eventDescriptionEs": "El 3 de agosto de 1492, Cristóbal Colón zarpó desde Palos de la Frontera, España, con tres barcos en su histórico viaje en busca de una ruta hacia Asia por el oeste.",
+            "eventDescriptionIt": "Il 3 agosto 1492, Cristoforo Colombo salpò da Palos de la Frontera, Spagna, con tre navi per il suo storico viaggio alla ricerca di una rotta occidentale verso l'Asia.",
+            "eventDescriptionFr": "Le 3 août 1492, Christophe Colomb partit de Palos de la Frontera, en Espagne, avec trois navires pour son voyage historique à la recherche d'une route occidentale vers l'Asie."
           }
-          
-          
     ]
 }
