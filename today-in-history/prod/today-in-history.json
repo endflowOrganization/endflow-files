@@ -1456,6 +1456,18 @@
             "eventDescriptionEs": "El 29 de junio de 2007, Apple Inc. produjo y lanzó el primer modelo de iPhone (iPhone 2G).",
             "eventDescriptionIt": "Il 29 giugno 2007, Apple Inc. ha prodotto e rilasciato il primo modello di iPhone (iPhone 2G).",
             "eventDescriptionFr": "Le 29 juin 2007, le premier modèle d'iPhone (iPhone 2G) a été produit et publié par Apple Inc."
+          },{
+            "eventId": "157",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1918/08/02",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 2, 1918, the first general strike in Canadian history took place in Vancouver.",
+            "eventDescriptionTr": "2 Ağustos 1918'de, Kanada tarihindeki ilk genel grev Vancouver'da gerçekleşti.",
+            "eventDescriptionDe": "Am 2. August 1918 fand in Vancouver der erste Generalstreik in der kanadischen Geschichte statt.",
+            "eventDescriptionEs": "El 2 de agosto de 1918, tuvo lugar la primera huelga general en la historia de Canadá en Vancouver.",
+            "eventDescriptionIt": "Il 2 agosto 1918 si verificò il primo sciopero generale nella storia del Canada a Vancouver.",
+            "eventDescriptionFr": "Le 2 août 1918, la première grève générale de l'histoire canadienne a eu lieu à Vancouver."
           }
+          
     ]
 }
