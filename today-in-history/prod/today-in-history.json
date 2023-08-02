@@ -1467,7 +1467,19 @@
             "eventDescriptionEs": "El 2 de agosto de 1918, tuvo lugar la primera huelga general en la historia de Canadá en Vancouver.",
             "eventDescriptionIt": "Il 2 agosto 1918 si verificò il primo sciopero generale nella storia del Canada a Vancouver.",
             "eventDescriptionFr": "Le 2 août 1918, la première grève générale de l'histoire canadienne a eu lieu à Vancouver."
+          },{
+            "eventId": "158",
+            "eventCategory": "HISTORY",
+            "eventDate": "1958/08/03",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 3, 1958, the USS Nautilus, the world's first nuclear-powered submarine, completed its historic undersea journey by successfully navigating under the Arctic ice cap and crossing the North Pole.",
+            "eventDescriptionTr": "3 Ağustos 1958'de, dünyanın ilk nükleer enerjili denizaltısı olan USS Nautilus, Arktik buz örtüsü altından başarıyla geçerek Kuzey Kutbu'nu aşarak tarihi bir denizaltı yolculuğunu tamamladı.",
+            "eventDescriptionDe": "Am 3. August 1958 hat das USS Nautilus, das erste nuklearbetriebene U-Boot der Welt, seine historische Unterwasserreise erfolgreich beendet, indem es unter dem Arktischen Eis durchfuhr und den Nordpol überquerte.",
+            "eventDescriptionEs": "El 3 de agosto de 1958, el USS Nautilus, el primer submarino de propulsión nuclear del mundo, completó su histórico viaje submarino al navegar con éxito bajo la capa de hielo del Ártico y cruzar el Polo Norte.",
+            "eventDescriptionIt": "Il 3 agosto 1958, l'USS Nautilus, il primo sottomarino a propulsione nucleare del mondo, completò la sua storica traversata sottomarina navigando con successo sotto la calotta di ghiaccio artica e attraversando il Polo Nord.",
+            "eventDescriptionFr": "Le 3 août 1958, l'USS Nautilus, le premier sous-marin à propulsion nucléaire au monde, a achevé son voyage historique sous-marin en naviguant avec succès sous la calotte glaciaire de l'Arctique et en traversant le pôle Nord."
           }
+          
           
     ]
 }
