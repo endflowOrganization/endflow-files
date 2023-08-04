@@ -1655,6 +1655,18 @@
             "eventDescriptionEs": "El 10 de marzo de 1876, Alexander Graham Bell realizó la primera llamada telefónica a su asistente, Thomas Watson, diciendo las famosas palabras: 'Mr. Watson, venga aquí, quiero verlo.' Esto marcó la primera transmisión exitosa de sonido a través de un cable eléctrico.",
             "eventDescriptionIt": "Il 10 marzo 1876, Alexander Graham Bell effettuò la prima telefonata al suo assistente, Thomas Watson, dicendo le famose parole: 'Mr. Watson, vieni qui, voglio vederti.' Questo segnò la prima trasmissione di successo del suono su un cavo elettrico.",
             "eventDescriptionFr": "Le 10 mars 1876, Alexander Graham Bell a passé le premier appel téléphonique à son assistant, Thomas Watson, en prononçant les célèbres mots : 'Mr. Watson, venez ici, je veux vous voir.' Cela marqua la première transmission réussie du son sur un fil électrique."
+        },
+        {
+            "eventId": "173",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1922/08/02",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 2, 1922, Alexander Graham Bell, the inventor of the telephone, passed away.",
+            "eventDescriptionTr": "2 Ağustos 1922'de, telefonun mucidi Alexander Graham Bell vefat etti.",
+            "eventDescriptionDe": "Am 2. August 1922 verstarb Alexander Graham Bell, der Erfinder des Telefons.",
+            "eventDescriptionEs": "El 2 de agosto de 1922, falleció Alexander Graham Bell, el inventor del teléfono.",
+            "eventDescriptionIt": "Il 2 agosto 1922, morì Alexander Graham Bell, l'inventore del telefono.",
+            "eventDescriptionFr": "Le 2 août 1922, Alexander Graham Bell, l'inventeur du téléphone, décéda."
         }
     ]
 }
