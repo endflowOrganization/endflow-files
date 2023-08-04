@@ -1555,7 +1555,17 @@
             "eventDescriptionEs": "El 4 de agosto de 2020, la explosión en el puerto de Beirut, Líbano, resultó en al menos 220 personas muertas y más de 5.000 heridas cuando explotaron 2.700 toneladas de nitrato de amonio.",
             "eventDescriptionIt": "Il 4 agosto 2020, l'esplosione nel porto di Beirut, Libano, ha causato almeno 220 morti e oltre 5.000 feriti quando sono esplose 2.700 tonnellate di nitrato di ammonio.",
             "eventDescriptionFr": "Le 4 août 2020, l'explosion du port de Beyrouth, au Liban, a causé la mort d'au moins 220 personnes et blessé plus de 5 000 personnes lorsque 2 700 tonnes de nitrate d'ammonium ont explosé."
-          }          
-          
+          },{
+            "eventId": "166",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1962/08/05",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 5, 1962, Marilyn Monroe, the iconic American actress, singer, and model, passed away at the age of 36.",
+            "eventDescriptionTr": "5 Ağustos 1962'de, efsanevi Amerikalı oyuncu, şarkıcı ve model Marilyn Monroe, 36 yaşında hayata veda etti.",
+            "eventDescriptionDe": "Am 5. August 1962 verstarb Marilyn Monroe, die legendäre amerikanische Schauspielerin, Sängerin und Model, im Alter von 36 Jahren.",
+            "eventDescriptionEs": "El 5 de agosto de 1962, Marilyn Monroe, la icónica actriz, cantante y modelo estadounidense, falleció a los 36 años.",
+            "eventDescriptionIt": "Il 5 agosto 1962, Marilyn Monroe, l'iconica attrice, cantante e modella statunitense, è deceduta all'età di 36 anni.",
+            "eventDescriptionFr": "Le 5 août 1962, Marilyn Monroe, l'icône américaine légendaire en tant qu'actrice, chanteuse et mannequin, est décédée à l'âge de 36 ans."
+          }
     ]
 }
