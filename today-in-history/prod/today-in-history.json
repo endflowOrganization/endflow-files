@@ -1533,6 +1533,18 @@
             "eventDescriptionEs": "El 4 de agosto de 1984, la República de Alto Volta cambió su nombre a Burkina Faso.",
             "eventDescriptionIt": "Il 4 agosto 1984, la Repubblica dell'Alto Volta cambiò il suo nome in Burkina Faso.",
             "eventDescriptionFr": "Le 4 août 1984, la République de Haute-Volta changea son nom pour devenir le Burkina Faso."
-          }         
+          },{
+            "eventId": "164",
+            "eventCategory": "HISTORY",
+            "eventDate": "1889/08/04",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 4, 1889, The Great Fire of Spokane, Washington, destroyed some 32 blocks of the city, prompting a mass rebuilding project.",
+            "eventDescriptionTr": "4 Ağustos 1889'da, Spokane, Washington'daki Büyük Yangın, şehrin 32 blokunu yok ederek kitlesel bir yeniden yapılanma projesine neden oldu.",
+            "eventDescriptionDe": "Am 4. August 1889 zerstörte das Große Feuer von Spokane, Washington, etwa 32 Häuserblocks der Stadt und löste ein umfangreiches Wiederaufbauprojekt aus.",
+            "eventDescriptionEs": "El 4 de agosto de 1889, el Gran Incendio de Spokane, Washington, destruyó aproximadamente 32 manzanas de la ciudad, lo que llevó a un masivo proyecto de reconstrucción.",
+            "eventDescriptionIt": "Il 4 agosto 1889, il Grande Incendio di Spokane, Washington, distrusse circa 32 isolati della città, dando il via a un massiccio progetto di ricostruzione.",
+            "eventDescriptionFr": "Le 4 août 1889, le Grand Incendie de Spokane, Washington, a détruit environ 32 pâtés de maisons de la ville, entraînant un vaste projet de reconstruction."
+          }
+          
     ]
 }
