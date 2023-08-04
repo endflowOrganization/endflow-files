@@ -1544,7 +1544,18 @@
             "eventDescriptionEs": "El 4 de agosto de 1889, el Gran Incendio de Spokane, Washington, destruyó aproximadamente 32 manzanas de la ciudad, lo que llevó a un masivo proyecto de reconstrucción.",
             "eventDescriptionIt": "Il 4 agosto 1889, il Grande Incendio di Spokane, Washington, distrusse circa 32 isolati della città, dando il via a un massiccio progetto di ricostruzione.",
             "eventDescriptionFr": "Le 4 août 1889, le Grand Incendie de Spokane, Washington, a détruit environ 32 pâtés de maisons de la ville, entraînant un vaste projet de reconstruction."
-          }
+          },{
+            "eventId": "165",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2020/08/04",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 4, 2020, the Beirut Port explosion in Lebanon resulted in at least 220 people being killed and over 5,000 wounded when 2,700 tons of ammonium nitrate exploded.",
+            "eventDescriptionTr": "4 Ağustos 2020'de, Lübnan'daki Beyrut Limanı patlamasında, 2.700 ton amonyum nitratın patlaması sonucu en az 220 kişi öldü ve 5.000'den fazla kişi yaralandı.",
+            "eventDescriptionDe": "Am 4. August 2020 wurden bei der Hafenexplosion in Beirut, Libanon, mindestens 220 Menschen getötet und über 5.000 verletzt, als 2.700 Tonnen Ammoniumnitrat explodierten.",
+            "eventDescriptionEs": "El 4 de agosto de 2020, la explosión en el puerto de Beirut, Líbano, resultó en al menos 220 personas muertas y más de 5.000 heridas cuando explotaron 2.700 toneladas de nitrato de amonio.",
+            "eventDescriptionIt": "Il 4 agosto 2020, l'esplosione nel porto di Beirut, Libano, ha causato almeno 220 morti e oltre 5.000 feriti quando sono esplose 2.700 tonnellate di nitrato di ammonio.",
+            "eventDescriptionFr": "Le 4 août 2020, l'explosion du port de Beyrouth, au Liban, a causé la mort d'au moins 220 personnes et blessé plus de 5 000 personnes lorsque 2 700 tonnes de nitrate d'ammonium ont explosé."
+          }          
           
     ]
 }
