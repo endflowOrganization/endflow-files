@@ -1595,6 +1595,18 @@
             "eventDescriptionEs": "El 14 de diciembre de 1799, falleció George Washington, el primer Presidente de los Estados Unidos.",
             "eventDescriptionIt": "Il 14 dicembre 1799 morì George Washington, il primo Presidente degli Stati Uniti.",
             "eventDescriptionFr": "Le 14 décembre 1799, George Washington, le premier président des États-Unis, décéda."
+        },
+        {
+            "eventId": "168",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1962/08/05",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 5, 1962, Nelson Mandela is arrested by the South African police, beginning his 27-year imprisonment.",
+            "eventDescriptionTr": "5 Ağustos 1962'de, Nelson Mandela Güney Afrika polisi tarafından gözaltına alınarak 27 yıl sürecek hapis cezasına başladı.",
+            "eventDescriptionDe": "Am 5. August 1962 wurde Nelson Mandela von der südafrikanischen Polizei festgenommen und begann seine 27-jährige Haftzeit.",
+            "eventDescriptionEs": "El 5 de agosto de 1962, Nelson Mandela es arrestado por la policía sudafricana, comenzando su encarcelamiento de 27 años.",
+            "eventDescriptionIt": "Il 5 agosto 1962, Nelson Mandela viene arrestato dalla polizia sudafricana, iniziando la sua imprigionamento di 27 anni.",
+            "eventDescriptionFr": "Le 5 août 1962, Nelson Mandela est arrêté par la police sud-africaine, commençant ainsi ses 27 ans d'emprisonnement."
         }
     ]
 }
