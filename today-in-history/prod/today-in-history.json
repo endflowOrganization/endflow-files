@@ -1634,7 +1634,7 @@
         },
         {
             "eventId": "171",
-            "eventCategory": "TECHNOLOGY",
+            "eventCategory": "TECH",
             "eventDate": "1914/08/05",
             "eventImg": null,
             "eventDescriptionEn": "On August 5, 1914, the first electric traffic light is installed in Cleveland, Ohio.",
@@ -1643,6 +1643,18 @@
             "eventDescriptionEs": "El 5 de agosto de 1914 se instaló el primer semáforo eléctrico en Cleveland, Ohio.",
             "eventDescriptionIt": "Il 5 agosto 1914 venne installato il primo semaforo elettrico a Cleveland, Ohio.",
             "eventDescriptionFr": "Le 5 août 1914, le premier feu de circulation électrique a été installé à Cleveland, Ohio."
+        },
+        {
+            "eventId": "172",
+            "eventCategory": "TECH",
+            "eventDate": "1876/03/10",
+            "eventImg": null,
+            "eventDescriptionEn": "On March 10, 1876, Alexander Graham Bell made the first phone call to his assistant, Thomas Watson, saying the famous words, 'Mr. Watson, come here, I want to see you.' This marked the first successful transmission of sound over an electrical wire.",
+            "eventDescriptionTr": "10 Mart 1876'da Alexander Graham Bell, asistanı Thomas Watson'a telefonla, 'Bay Watson, buraya gelin, sizi görmek istiyorum.' şeklinde seslenerek tarihi ilk telefon görüşmesini gerçekleştirdi. Bu, sesin başarılı bir şekilde elektrik telleri üzerinden iletilmesinin ilk adımıydı.",
+            "eventDescriptionDe": "Am 10. März 1876 führte Alexander Graham Bell das erste Telefongespräch mit seinem Assistenten Thomas Watson und sagte die berühmten Worte: 'Mr. Watson, kommen Sie bitte hierher, ich möchte Sie sehen.' Dies markierte die erste erfolgreiche Übertragung von Klang über eine elektrische Leitung.",
+            "eventDescriptionEs": "El 10 de marzo de 1876, Alexander Graham Bell realizó la primera llamada telefónica a su asistente, Thomas Watson, diciendo las famosas palabras: 'Mr. Watson, venga aquí, quiero verlo.' Esto marcó la primera transmisión exitosa de sonido a través de un cable eléctrico.",
+            "eventDescriptionIt": "Il 10 marzo 1876, Alexander Graham Bell effettuò la prima telefonata al suo assistente, Thomas Watson, dicendo le famose parole: 'Mr. Watson, vieni qui, voglio vederti.' Questo segnò la prima trasmissione di successo del suono su un cavo elettrico.",
+            "eventDescriptionFr": "Le 10 mars 1876, Alexander Graham Bell a passé le premier appel téléphonique à son assistant, Thomas Watson, en prononçant les célèbres mots : 'Mr. Watson, venez ici, je veux vous voir.' Cela marqua la première transmission réussie du son sur un fil électrique."
         }
     ]
 }
