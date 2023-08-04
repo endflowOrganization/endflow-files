@@ -1607,7 +1607,8 @@
             "eventDescriptionEs": "El 5 de agosto de 1962, Nelson Mandela es arrestado por la policía sudafricana, comenzando su encarcelamiento de 27 años.",
             "eventDescriptionIt": "Il 5 agosto 1962, Nelson Mandela viene arrestato dalla polizia sudafricana, iniziando la sua imprigionamento di 27 anni.",
             "eventDescriptionFr": "Le 5 août 1962, Nelson Mandela est arrêté par la police sud-africaine, commençant ainsi ses 27 ans d'emprisonnement."
-        },{
+        },
+        {
             "eventId": "169",
             "eventCategory": "POLITICS",
             "eventDate": "1960/08/05",
@@ -1618,7 +1619,8 @@
             "eventDescriptionEs": "El 5 de agosto de 1960, Burkina Faso, entonces conocido como Alto Volta, obtiene su independencia de Francia.",
             "eventDescriptionIt": "Il 5 agosto 1960, Burkina Faso, allora noto come Alto Volta, ottiene l'indipendenza dalla Francia.",
             "eventDescriptionFr": "Le 5 août 1960, le Burkina Faso, alors connu sous le nom de Haute-Volta, devient indépendant de la France."
-          },{
+        },
+        {
             "eventId": "170",
             "eventCategory": "POLITICS",
             "eventDate": "1963/08/05",
@@ -1629,7 +1631,18 @@
             "eventDescriptionEs": "El 5 de agosto de 1963, Estados Unidos, el Reino Unido y la Unión Soviética firmaron el Tratado de Prohibición Parcial de Ensayos Nucleares, que prohíbe las pruebas nucleares en la atmósfera, bajo el agua y en el espacio.",
             "eventDescriptionIt": "Il 5 agosto 1963, gli Stati Uniti, il Regno Unito e l'Unione Sovietica hanno firmato il Trattato di divieto parziale dei test nucleari, che vieta i test nucleari nell'atmosfera, sott'acqua e nello spazio.",
             "eventDescriptionFr": "Le 5 août 1963, les États-Unis, le Royaume-Uni et l'Union soviétique signent le Traité d'interdiction partielle des essais nucléaires, interdisant les essais nucléaires dans l'atmosphère, sous l'eau et dans l'espace."
-            }
-          
+        },
+        {
+            "eventId": "171",
+            "eventCategory": "TECHNOLOGY",
+            "eventDate": "1914/08/05",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 5, 1914, the first electric traffic light is installed in Cleveland, Ohio.",
+            "eventDescriptionTr": "5 Ağustos 1914'te, ilk elektrikli trafik lambası Cleveland, Ohio'da kuruldu.",
+            "eventDescriptionDe": "Am 5. August 1914 wurde in Cleveland, Ohio, die erste elektrische Ampel installiert.",
+            "eventDescriptionEs": "El 5 de agosto de 1914 se instaló el primer semáforo eléctrico en Cleveland, Ohio.",
+            "eventDescriptionIt": "Il 5 agosto 1914 venne installato il primo semaforo elettrico a Cleveland, Ohio.",
+            "eventDescriptionFr": "Le 5 août 1914, le premier feu de circulation électrique a été installé à Cleveland, Ohio."
+        }
     ]
 }
