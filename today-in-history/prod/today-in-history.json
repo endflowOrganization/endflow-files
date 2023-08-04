@@ -1607,6 +1607,29 @@
             "eventDescriptionEs": "El 5 de agosto de 1962, Nelson Mandela es arrestado por la policía sudafricana, comenzando su encarcelamiento de 27 años.",
             "eventDescriptionIt": "Il 5 agosto 1962, Nelson Mandela viene arrestato dalla polizia sudafricana, iniziando la sua imprigionamento di 27 anni.",
             "eventDescriptionFr": "Le 5 août 1962, Nelson Mandela est arrêté par la police sud-africaine, commençant ainsi ses 27 ans d'emprisonnement."
-        }
+        },{
+            "eventId": "169",
+            "eventCategory": "POLITICS",
+            "eventDate": "1960/08/05",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 5, 1960, Burkina Faso, then known as Upper Volta, becomes independent from France.",
+            "eventDescriptionTr": "5 Ağustos 1960'ta, o zamanlar Yukarı Volta olarak bilinen Burkina Faso, Fransa'dan bağımsızlığını kazandı.",
+            "eventDescriptionDe": "Am 5. August 1960 erlangte Burkina Faso, damals bekannt als Obervolta, seine Unabhängigkeit von Frankreich.",
+            "eventDescriptionEs": "El 5 de agosto de 1960, Burkina Faso, entonces conocido como Alto Volta, obtiene su independencia de Francia.",
+            "eventDescriptionIt": "Il 5 agosto 1960, Burkina Faso, allora noto come Alto Volta, ottiene l'indipendenza dalla Francia.",
+            "eventDescriptionFr": "Le 5 août 1960, le Burkina Faso, alors connu sous le nom de Haute-Volta, devient indépendant de la France."
+          },{
+            "eventId": "170",
+            "eventCategory": "POLITICS",
+            "eventDate": "1963/08/05",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 5, 1963, the United States, the United Kingdom, and the Soviet Union sign the Partial Nuclear Test Ban Treaty, prohibiting nuclear tests in the atmosphere, underwater, and in space.",
+            "eventDescriptionTr": "5 Ağustos 1963'te, ABD, İngiltere ve Sovyetler Birliği Kısmi Nükleer Deneme Yasağı Anlaşması'nı imzalayarak atmosferde, su altında ve uzayda nükleer denemeleri yasakladılar.",
+            "eventDescriptionDe": "Am 5. August 1963 unterzeichneten die Vereinigten Staaten, das Vereinigte Königreich und die Sowjetunion den Teilweisen Kernwaffenteststoppvertrag, der Nukleartests in der Atmosphäre, unter Wasser und im Weltraum verbietet.",
+            "eventDescriptionEs": "El 5 de agosto de 1963, Estados Unidos, el Reino Unido y la Unión Soviética firmaron el Tratado de Prohibición Parcial de Ensayos Nucleares, que prohíbe las pruebas nucleares en la atmósfera, bajo el agua y en el espacio.",
+            "eventDescriptionIt": "Il 5 agosto 1963, gli Stati Uniti, il Regno Unito e l'Unione Sovietica hanno firmato il Trattato di divieto parziale dei test nucleari, che vieta i test nucleari nell'atmosfera, sott'acqua e nello spazio.",
+            "eventDescriptionFr": "Le 5 août 1963, les États-Unis, le Royaume-Uni et l'Union soviétique signent le Traité d'interdiction partielle des essais nucléaires, interdisant les essais nucléaires dans l'atmosphère, sous l'eau et dans l'espace."
+            }
+          
     ]
 }
