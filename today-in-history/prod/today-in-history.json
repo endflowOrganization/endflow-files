@@ -1379,7 +1379,8 @@
             "eventDescriptionEs": "El 31 de julio de 1992, la nación de Georgia se unió a las Naciones Unidas.",
             "eventDescriptionIt": "Il 31 luglio 1992 la nazione della Georgia è entrata a far parte delle Nazioni Unite.",
             "eventDescriptionFr": "Le 31 juillet 1992, la nation de Géorgie a rejoint les Nations Unies."
-        },{
+        },
+        {
             "eventId": "150",
             "eventCategory": "POLITICS",
             "eventDate": "2006/07/31",
@@ -1390,7 +1391,8 @@
             "eventDescriptionEs": "El 31 de julio de 2006, Fidel Castro entregó el poder a su hermano Raúl.",
             "eventDescriptionIt": "Il 31 luglio 2006, Fidel Castro ha ceduto il potere a suo fratello Raúl.",
             "eventDescriptionFr": "Le 31 juillet 2006, Fidel Castro a remis le pouvoir à son frère Raúl."
-          },{
+        },
+        {
             "eventId": "151",
             "eventCategory": "MUSIC",
             "eventDate": "1977/08/16",
@@ -1401,7 +1403,8 @@
             "eventDescriptionEs": "El 16 de agosto de 1977, falleció Elvis Presley, el legendario cantante y actor, a la edad de 42 años.",
             "eventDescriptionIt": "Il 16 agosto 1977, Elvis Presley, il leggendario cantante e attore, è scomparso all'età di 42 anni.",
             "eventDescriptionFr": "Le 16 août 1977, Elvis Presley, le chanteur et acteur légendaire, décéda à l'âge de 42 ans."
-          },{
+        },
+        {
             "eventId": "152",
             "eventCategory": "MUSIC",
             "eventDate": "1998/05/14",
@@ -1412,7 +1415,8 @@
             "eventDescriptionEs": "El 14 de mayo de 1998, falleció Frank Sinatra, el legendario cantante y actor, a la edad de 82 años.",
             "eventDescriptionIt": "Il 14 maggio 1998, Frank Sinatra, il leggendario cantante e attore, è scomparso all'età di 82 anni.",
             "eventDescriptionFr": "Le 14 mai 1998, Frank Sinatra, le chanteur et acteur légendaire, décéda à l'âge de 82 ans."
-          },{
+        },
+        {
             "eventId": "153",
             "eventCategory": "MOVIE",
             "eventDate": "1985/07/03",
@@ -1423,7 +1427,8 @@
             "eventDescriptionEs": "El 3 de julio de 1985 se estrenó la primera película 'Back to the Future', dirigida por Robert Zemeckis y protagonizada por Michael J. Fox y Christopher Lloyd.",
             "eventDescriptionIt": "Il 3 luglio 1985 fu rilasciato il primo film 'Ritorno al futuro', diretto da Robert Zemeckis e interpretato da Michael J. Fox e Christopher Lloyd.",
             "eventDescriptionFr": "Le 3 juillet 1985, le premier film 'Retour vers le futur' a été publié, réalisé par Robert Zemeckis avec Michael J. Fox et Christopher Lloyd dans les rôles principaux."
-          },{
+        },
+        {
             "eventId": "154",
             "eventCategory": "PEOPLE",
             "eventDate": "2020/11/25",
@@ -1434,7 +1439,8 @@
             "eventDescriptionEs": "El 25 de noviembre de 2020, falleció Diego Maradona, el legendario futbolista argentino.",
             "eventDescriptionIt": "Il 25 novembre 2020 è scomparso Diego Maradona, il leggendario calciatore argentino.",
             "eventDescriptionFr": "Le 25 novembre 2020, Diego Maradona, le légendaire footballeur argentin, décéda."
-          },{
+        },
+        {
             "eventId": "155",
             "eventCategory": "PEOPLE",
             "eventDate": "1960/08/03",
@@ -1445,7 +1451,8 @@
             "eventDescriptionEs": "El 3 de agosto de 1960, Níger obtuvo la independencia de Francia.",
             "eventDescriptionIt": "Il 3 agosto 1960, il Niger ottenne l'indipendenza dalla Francia.",
             "eventDescriptionFr": "Le 3 août 1960, le Niger obtint son indépendance vis-à-vis de la France."
-          },{
+        },
+        {
             "eventId": "156",
             "eventCategory": "TECH",
             "eventDate": "2007/06/29",
@@ -1456,7 +1463,8 @@
             "eventDescriptionEs": "El 29 de junio de 2007, Apple Inc. produjo y lanzó el primer modelo de iPhone (iPhone 2G).",
             "eventDescriptionIt": "Il 29 giugno 2007, Apple Inc. ha prodotto e rilasciato il primo modello di iPhone (iPhone 2G).",
             "eventDescriptionFr": "Le 29 juin 2007, le premier modèle d'iPhone (iPhone 2G) a été produit et publié par Apple Inc."
-          },{
+        },
+        {
             "eventId": "157",
             "eventCategory": "PEOPLE",
             "eventDate": "1918/08/02",
@@ -1467,7 +1475,8 @@
             "eventDescriptionEs": "El 2 de agosto de 1918, tuvo lugar la primera huelga general en la historia de Canadá en Vancouver.",
             "eventDescriptionIt": "Il 2 agosto 1918 si verificò il primo sciopero generale nella storia del Canada a Vancouver.",
             "eventDescriptionFr": "Le 2 août 1918, la première grève générale de l'histoire canadienne a eu lieu à Vancouver."
-          },{
+        },
+        {
             "eventId": "158",
             "eventCategory": "HISTORY",
             "eventDate": "1958/08/03",
@@ -1478,7 +1487,8 @@
             "eventDescriptionEs": "El 3 de agosto de 1958, el USS Nautilus, el primer submarino de propulsión nuclear del mundo, completó su histórico viaje submarino al navegar con éxito bajo la capa de hielo del Ártico y cruzar el Polo Norte.",
             "eventDescriptionIt": "Il 3 agosto 1958, l'USS Nautilus, il primo sottomarino a propulsione nucleare del mondo, completò la sua storica traversata sottomarina navigando con successo sotto la calotta di ghiaccio artica e attraversando il Polo Nord.",
             "eventDescriptionFr": "Le 3 août 1958, l'USS Nautilus, le premier sous-marin à propulsion nucléaire au monde, a achevé son voyage historique sous-marin en naviguant avec succès sous la calotte glaciaire de l'Arctique et en traversant le pôle Nord."
-          },{
+        },
+        {
             "eventId": "159",
             "eventCategory": "HISTORY",
             "eventDate": "1492/08/03",
@@ -1489,7 +1499,8 @@
             "eventDescriptionEs": "El 3 de agosto de 1492, Cristóbal Colón zarpó desde Palos de la Frontera, España, con tres barcos en su histórico viaje en busca de una ruta hacia Asia por el oeste.",
             "eventDescriptionIt": "Il 3 agosto 1492, Cristoforo Colombo salpò da Palos de la Frontera, Spagna, con tre navi per il suo storico viaggio alla ricerca di una rotta occidentale verso l'Asia.",
             "eventDescriptionFr": "Le 3 août 1492, Christophe Colomb partit de Palos de la Frontera, en Espagne, avec trois navires pour son voyage historique à la recherche d'une route occidentale vers l'Asie."
-          },{
+        },
+        {
             "eventId": "160",
             "eventCategory": "HISTORY",
             "eventDate": "2010/01/04",
@@ -1500,7 +1511,8 @@
             "eventDescriptionEs": "El 4 de enero de 2010, se inauguró oficialmente el Burj Khalifa, el edificio más alto del mundo, en Dubái, Emiratos Árabes Unidos.",
             "eventDescriptionIt": "Il 4 gennaio 2010, è stato ufficialmente inaugurato il Burj Khalifa, l'edificio più alto del mondo, a Dubai, Emirati Arabi Uniti.",
             "eventDescriptionFr": "Le 4 janvier 2010, le Burj Khalifa, le plus haut bâtiment du monde, a été officiellement inauguré à Dubaï, aux Émirats arabes unis."
-          },{
+        },
+        {
             "eventId": "161",
             "eventCategory": "HISTORY",
             "eventDate": "2004/01/06",
@@ -1511,7 +1523,8 @@
             "eventDescriptionEs": "El 6 de enero de 2004, comenzó la construcción del Burj Khalifa, el edificio más alto del mundo, en Dubái, Emiratos Árabes Unidos.",
             "eventDescriptionIt": "Il 6 gennaio 2004 è iniziata la costruzione del Burj Khalifa, l'edificio più alto del mondo, a Dubai, Emirati Arabi Uniti.",
             "eventDescriptionFr": "Le 6 janvier 2004, la construction du Burj Khalifa, le plus haut bâtiment du monde, a débuté à Dubaï, aux Émirats arabes unis."
-          },{
+        },
+        {
             "eventId": "162",
             "eventCategory": "TECH",
             "eventDate": "1977/08/03",
@@ -1522,7 +1535,8 @@
             "eventDescriptionEs": "El 3 de agosto de 1977, Tandy Corporation anunció el TRS-80, uno de los primeros ordenadores personales producidos en masa en el mundo.",
             "eventDescriptionIt": "Il 3 agosto 1977, la Tandy Corporation ha annunciato il TRS-80, uno dei primi personal computer prodotti in serie al mondo.",
             "eventDescriptionFr": "Le 3 août 1977, la Tandy Corporation a annoncé le TRS-80, l'un des premiers ordinateurs personnels produits en série dans le monde."
-          },{
+        },
+        {
             "eventId": "163",
             "eventCategory": "HISTORY",
             "eventDate": "1984/08/04",
@@ -1533,7 +1547,8 @@
             "eventDescriptionEs": "El 4 de agosto de 1984, la República de Alto Volta cambió su nombre a Burkina Faso.",
             "eventDescriptionIt": "Il 4 agosto 1984, la Repubblica dell'Alto Volta cambiò il suo nome in Burkina Faso.",
             "eventDescriptionFr": "Le 4 août 1984, la République de Haute-Volta changea son nom pour devenir le Burkina Faso."
-          },{
+        },
+        {
             "eventId": "164",
             "eventCategory": "HISTORY",
             "eventDate": "1889/08/04",
@@ -1544,7 +1559,8 @@
             "eventDescriptionEs": "El 4 de agosto de 1889, el Gran Incendio de Spokane, Washington, destruyó aproximadamente 32 manzanas de la ciudad, lo que llevó a un masivo proyecto de reconstrucción.",
             "eventDescriptionIt": "Il 4 agosto 1889, il Grande Incendio di Spokane, Washington, distrusse circa 32 isolati della città, dando il via a un massiccio progetto di ricostruzione.",
             "eventDescriptionFr": "Le 4 août 1889, le Grand Incendie de Spokane, Washington, a détruit environ 32 pâtés de maisons de la ville, entraînant un vaste projet de reconstruction."
-          },{
+        },
+        {
             "eventId": "165",
             "eventCategory": "PEOPLE",
             "eventDate": "2020/08/04",
@@ -1555,7 +1571,8 @@
             "eventDescriptionEs": "El 4 de agosto de 2020, la explosión en el puerto de Beirut, Líbano, resultó en al menos 220 personas muertas y más de 5.000 heridas cuando explotaron 2.700 toneladas de nitrato de amonio.",
             "eventDescriptionIt": "Il 4 agosto 2020, l'esplosione nel porto di Beirut, Libano, ha causato almeno 220 morti e oltre 5.000 feriti quando sono esplose 2.700 tonnellate di nitrato di ammonio.",
             "eventDescriptionFr": "Le 4 août 2020, l'explosion du port de Beyrouth, au Liban, a causé la mort d'au moins 220 personnes et blessé plus de 5 000 personnes lorsque 2 700 tonnes de nitrate d'ammonium ont explosé."
-          },{
+        },
+        {
             "eventId": "166",
             "eventCategory": "PEOPLE",
             "eventDate": "1962/08/04",
@@ -1566,6 +1583,18 @@
             "eventDescriptionEs": "El 4 de agosto de 1962, Marilyn Monroe, la icónica actriz, cantante y modelo estadounidense, falleció a los 36 años.",
             "eventDescriptionIt": "Il 4 agosto 1962, Marilyn Monroe, l'iconica attrice, cantante e modella statunitense, è deceduta all'età di 36 anni.",
             "eventDescriptionFr": "Le 4 août 1962, Marilyn Monroe, l'icône américaine légendaire en tant qu'actrice, chanteuse et mannequin, est décédée à l'âge de 36 ans."
-          }
+        },
+        {
+            "eventId": "167",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1799/12/14",
+            "eventImg": null,
+            "eventDescriptionEn": "On December 14, 1799, George Washington, the first President of the United States, passed away.",
+            "eventDescriptionTr": "14 Aralık 1799'da, Amerika Birleşik Devletleri'nin ilk Başkanı George Washington vefat etti.",
+            "eventDescriptionDe": "Am 14. Dezember 1799 verstarb George Washington, der erste Präsident der Vereinigten Staaten.",
+            "eventDescriptionEs": "El 14 de diciembre de 1799, falleció George Washington, el primer Presidente de los Estados Unidos.",
+            "eventDescriptionIt": "Il 14 dicembre 1799 morì George Washington, il primo Presidente degli Stati Uniti.",
+            "eventDescriptionFr": "Le 14 décembre 1799, George Washington, le premier président des États-Unis, décéda."
+        }
     ]
 }
