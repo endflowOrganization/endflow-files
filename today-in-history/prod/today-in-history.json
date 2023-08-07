@@ -1719,8 +1719,9 @@
             "eventDescriptionEs": "El 12 de abril de 1961, Yuri Gagarin, un cosmonauta soviético, se convierte en el primer humano en viajar al espacio, orbitando la Tierra a bordo de la nave espacial Vostok 1.",
             "eventDescriptionIt": "Il 12 aprile 1961, lo cosmonauta sovietico Yuri Gagarin diventa il primo essere umano a viaggiare nello spazio, orbitando intorno alla Terra a bordo del veicolo spaziale Vostok 1.",
             "eventDescriptionFr": "Le 12 avril 1961, le cosmonaute soviétique Youri Gagarine devient le premier humain à voyager dans l'espace, orbitant autour de la Terre à bord du vaisseau spatial Vostok 1."
-        },{
-            "eventId": "202",
+        },
+        {
+            "eventId": "178",
             "eventCategory": "POLITICS",
             "eventDate": "1968/04/04",
             "eventImg": null,
@@ -1730,6 +1731,29 @@
             "eventDescriptionEs": "El 4 de abril de 1968, el líder de los derechos civiles Martin Luther King Jr. fue asesinado en Memphis, Tennessee, lo que provocó un luto generalizado y un impacto significativo en el Movimiento de Derechos Civiles.",
             "eventDescriptionIt": "Il 4 aprile 1968, il leader dei diritti civili Martin Luther King Jr. fu assassinato a Memphis, Tennessee, provocando un lutto diffuso e un impatto significativo sul Movimento per i Diritti Civili.",
             "eventDescriptionFr": "Le 4 avril 1968, le leader des droits civils Martin Luther King Jr. est assassiné à Memphis, dans le Tennessee, entraînant un deuil généralisé et un impact significatif sur le mouvement des droits civils."
-          }
+        },
+        {
+            "eventId": "179",
+            "eventCategory": "POLITICS",
+            "eventDate": "1920/08/18",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 18, 1920, the 19th Amendment to the U.S. Constitution was ratified, granting women the right to vote, marking a significant milestone in the fight for women's suffrage.",
+            "eventDescriptionTr": "18 Ağustos 1920'de, ABD Anayasası'na 19. Değişiklik onaylandı ve kadınlara oy hakkı verildi, kadınların seçme hakkı için verilen mücadelede önemli bir kilometre taşı olarak kabul edildi.",
+            "eventDescriptionDe": "Am 18. August 1920 wurde der 19. Zusatzartikel zur US-Verfassung ratifiziert, der Frauen das Wahlrecht gewährte und einen bedeutenden Meilenstein im Kampf für das Frauenwahlrecht markierte.",
+            "eventDescriptionEs": "El 18 de agosto de 1920, se ratificó la 19ª Enmienda a la Constitución de los Estados Unidos, otorgando a las mujeres el derecho al voto, marcando un hito significativo en la lucha por el sufragio femenino.",
+            "eventDescriptionIt": "Il 18 agosto 1920 venne ratificato il 19° Emendamento della Costituzione degli Stati Uniti, concedendo alle donne il diritto di voto, segnando una tappa significativa nella lotta per il suffragio femminile.",
+            "eventDescriptionFr": "Le 18 août 1920, le 19e amendement de la Constitution des États-Unis fut ratifié, accordant le droit de vote aux femmes, marquant ainsi une étape importante dans la lutte pour le suffrage féminin."
+        },{
+            "eventId": "180",
+            "eventCategory": "SPORT",
+            "eventDate": "1858/08/07",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 7, 1858, the first Australian rules football match was played between Melbourne Grammar School and Scotch College in Melbourne, Australia, marking the beginning of the popular sport of Australian rules football.",
+            "eventDescriptionTr": "7 Ağustos 1858'de, ilk Avustralya futbolu maçı Melbourne, Avustralya'da Melbourne Grammar Okulu ve Scotch Koleji arasında oynandı ve bu, Avustralya futbolunun popüler sporu başlangıcını işaret etti.",
+            "eventDescriptionDe": "Am 7. August 1858 wurde das erste Australian Rules Football-Match zwischen der Melbourne Grammar School und dem Scotch College in Melbourne, Australien, ausgetragen und markierte den Beginn des beliebten Sports Australian Rules Football.",
+            "eventDescriptionEs": "El 7 de agosto de 1858 se jugó el primer partido de fútbol australiano entre la Melbourne Grammar School y el Scotch College en Melbourne, Australia, marcando el inicio del popular deporte del fútbol australiano.",
+            "eventDescriptionIt": "Il 7 agosto 1858 si è disputata la prima partita di football australiano tra la Melbourne Grammar School e il Scotch College a Melbourne, Australia, segnando l'inizio del popolare sport del football australiano.",
+            "eventDescriptionFr": "Le 7 août 1858, le premier match de football australien a été joué entre la Melbourne Grammar School et le Scotch College à Melbourne, en Australie, marquant le début du sport populaire du football australien."
+            }
     ]
 }
