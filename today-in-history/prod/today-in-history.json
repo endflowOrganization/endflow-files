@@ -1667,9 +1667,10 @@
             "eventDescriptionEs": "El 2 de agosto de 1922, falleció Alexander Graham Bell, el inventor del teléfono.",
             "eventDescriptionIt": "Il 2 agosto 1922, morì Alexander Graham Bell, l'inventore del telefono.",
             "eventDescriptionFr": "Le 2 août 1922, Alexander Graham Bell, l'inventeur du téléphone, décéda."
-        },{
+        },
+        {
             "eventId": "174",
-            "eventCategory": "DEATH",
+            "eventCategory": "PEOPLE",
             "eventDate": "2020/01/26",
             "eventImg": null,
             "eventDescriptionEn": "On January 26, 2020, Kobe Bryant, the American basketball legend, tragically passed away in a helicopter crash in Calabasas, California, along with his daughter Gianna and seven others.",
@@ -1678,6 +1679,30 @@
             "eventDescriptionEs": "El 26 de enero de 2020, Kobe Bryant, la leyenda del baloncesto estadounidense, falleció trágicamente en un accidente de helicóptero en Calabasas, California, junto a su hija Gianna y otras siete personas.",
             "eventDescriptionIt": "Il 26 gennaio 2020, Kobe Bryant, la leggenda del basket americano, è morto tragicamente in un incidente in elicottero a Calabasas, California, insieme a sua figlia Gianna e altre sette persone.",
             "eventDescriptionFr": "Le 26 janvier 2020, Kobe Bryant, la légende du basket-ball américain, est décédé tragiquement dans un accident d'hélicoptère à Calabasas, en Californie, avec sa fille Gianna et sept autres personnes."
-            }
+        },
+        {
+            "eventId": "199",
+            "eventCategory": "HISTORY",
+            "eventDate": "1981/08/07",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 7, 1981, The Washington Star, a prominent newspaper, ceases all operations after 128 years of publication.",
+            "eventDescriptionTr": "7 Ağustos 1981'de, 128 yıllık yayın süresinin ardından önde gelen gazete The Washington Star tüm faaliyetlerini durdurur.",
+            "eventDescriptionDe": "Am 7. August 1981 stellt die angesehene Zeitung The Washington Star nach 128 Jahren ihres Bestehens den Betrieb vollständig ein.",
+            "eventDescriptionEs": "El 7 de agosto de 1981, The Washington Star, un periódico prominente, cesó todas sus operaciones después de 128 años de publicación.",
+            "eventDescriptionIt": "Il 7 agosto 1981, The Washington Star, un importante giornale, cessa tutte le operazioni dopo 128 anni di pubblicazione.",
+            "eventDescriptionFr": "Le 7 août 1981, The Washington Star, un journal de premier plan, cesse toutes ses activités après 128 ans de publication."
+        },
+        {
+            "eventId": "200",
+            "eventCategory": "TECH",
+            "eventDate": "1944/08/07",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 7, 1944, IBM dedicates the first program-controlled calculator, known as the Automatic Sequence Controlled Calculator (Harvard Mark I), marking a significant milestone in computing history.",
+            "eventDescriptionTr": "7 Ağustos 1944'te IBM, programlı ilk hesap makinesi olan Otomatik Sıralama Kontrollü Hesap Makinesi (Harvard Mark I)ni adar. Bu, bilgisayar tarihinde önemli bir kilometre taşıdır.",
+            "eventDescriptionDe": "Am 7. August 1944 widmet IBM den ersten programmgesteuerten Rechner, der als Automatic Sequence Controlled Calculator (Harvard Mark I) bekannt ist, und markiert damit einen bedeutenden Meilenstein in der Computergeschichte.",
+            "eventDescriptionEs": "El 7 de agosto de 1944, IBM dedica la primera calculadora controlada por programas, conocida como el Calculador Controlado por Secuencia Automática (Harvard Mark I), marcando un hito significativo en la historia de la computación.",
+            "eventDescriptionIt": "Il 7 agosto 1944, IBM dedica il primo calcolatore controllato da programma, conosciuto come Automatic Sequence Controlled Calculator (Harvard Mark I), segnando una tappa significativa nella storia dell'informatica.",
+            "eventDescriptionFr": "Le 7 août 1944, IBM dédie le premier calculateur contrôlé par programme, connu sous le nom de Calculateur Contrôlé par Séquence Automatique (Harvard Mark I), marquant une étape importante dans l'histoire de l'informatique."
+        }
     ]
 }
