@@ -1667,6 +1667,17 @@
             "eventDescriptionEs": "El 2 de agosto de 1922, falleció Alexander Graham Bell, el inventor del teléfono.",
             "eventDescriptionIt": "Il 2 agosto 1922, morì Alexander Graham Bell, l'inventore del telefono.",
             "eventDescriptionFr": "Le 2 août 1922, Alexander Graham Bell, l'inventeur du téléphone, décéda."
-        }
+        },{
+            "eventId": "174",
+            "eventCategory": "DEATH",
+            "eventDate": "2020/01/26",
+            "eventImg": null,
+            "eventDescriptionEn": "On January 26, 2020, Kobe Bryant, the American basketball legend, tragically passed away in a helicopter crash in Calabasas, California, along with his daughter Gianna and seven others.",
+            "eventDescriptionTr": "26 Ocak 2020'de Amerikan basketbol efsanesi Kobe Bryant, kızı Gianna ve yedi kişiyle birlikte Calabasas, California'da meydana gelen helikopter kazasında trajik bir şekilde hayatını kaybetti.",
+            "eventDescriptionDe": "Am 26. Januar 2020 verstarb der amerikanische Basketball-Legende Kobe Bryant bei einem tragischen Hubschrauberabsturz in Calabasas, Kalifornien, zusammen mit seiner Tochter Gianna und sieben weiteren Personen.",
+            "eventDescriptionEs": "El 26 de enero de 2020, Kobe Bryant, la leyenda del baloncesto estadounidense, falleció trágicamente en un accidente de helicóptero en Calabasas, California, junto a su hija Gianna y otras siete personas.",
+            "eventDescriptionIt": "Il 26 gennaio 2020, Kobe Bryant, la leggenda del basket americano, è morto tragicamente in un incidente in elicottero a Calabasas, California, insieme a sua figlia Gianna e altre sette persone.",
+            "eventDescriptionFr": "Le 26 janvier 2020, Kobe Bryant, la légende du basket-ball américain, est décédé tragiquement dans un accident d'hélicoptère à Calabasas, en Californie, avec sa fille Gianna et sept autres personnes."
+            }
     ]
 }
