@@ -1779,6 +1779,17 @@
             "eventDescriptionEs": "El 10 de agosto de 1944, la Batalla de Guam durante la Segunda Guerra Mundial llegó a su fin de manera efectiva, con Estados Unidos recapturando la isla de las fuerzas japonesas. La batalla fue un hito significativo en el teatro del Pacífico de la guerra.",
             "eventDescriptionIt": "Il 10 agosto 1944, la Battaglia di Guam durante la Seconda guerra mondiale giunse a una conclusione efficace, con gli Stati Uniti che riconquistarono l'isola dalle forze giapponesi. La battaglia fu una pietra miliare significativa nel teatro del Pacifico della guerra.",
             "eventDescriptionFr": "Le 10 août 1944, la bataille de Guam pendant la Seconde Guerre mondiale prit fin de manière efficace, les États-Unis reprenant l'île aux forces japonaises. La bataille marqua une étape importante dans le théâtre du Pacifique de la guerre."
-        }
+        },{
+            "eventId": "183",
+            "eventCategory": "HISTORY",
+            "eventDate": "1944/08/10",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 10, 1944, the Battle of Narva during World War II came to an end with a defensive victory for German forces. The battle took place between German and Soviet troops and was a significant engagement on the Eastern Front of the war.",
+            "eventDescriptionTr": "10 Ağustos 1944 tarihinde, II. Dünya Savaşı sırasında Narva Muharebesi Alman güçleri için savunma zaferi ile sona erdi. Muharebe, Alman ve Sovyet birlikleri arasında gerçekleşti ve savaşın Doğu Cephesi'nde önemli bir çatışmaydı.",
+            "eventDescriptionDe": "Am 10. August 1944 endete die Schlacht von Narva im Zweiten Weltkrieg mit einem defensiven Sieg für die deutschen Streitkräfte. Die Schlacht fand zwischen deutschen und sowjetischen Truppen statt und war eine bedeutende Auseinandersetzung an der Ostfront des Krieges.",
+            "eventDescriptionEs": "El 10 de agosto de 1944, la Batalla de Narva durante la Segunda Guerra Mundial llegó a su fin con una victoria defensiva para las fuerzas alemanas. La batalla tuvo lugar entre tropas alemanas y soviéticas y fue un enfrentamiento significativo en el Frente Oriental de la guerra.",
+            "eventDescriptionIt": "Il 10 agosto 1944, la Battaglia di Narva durante la Seconda guerra mondiale si concluse con una vittoria difensiva delle forze tedesche. La battaglia ebbe luogo tra truppe tedesche e sovietiche ed è stata un importante scontro sul Fronte Orientale della guerra.",
+            "eventDescriptionFr": "Le 10 août 1944, la bataille de Narva pendant la Seconde Guerre mondiale se termina par une victoire défensive des forces allemandes. La bataille eut lieu entre les troupes allemandes et soviétiques et fut un engagement significatif sur le Front de l'Est de la guerre."
+          }
     ]
 }
