@@ -1801,6 +1801,17 @@
             "eventDescriptionEs": "El 10 de agosto de 2001, ocurrió el ataque al tren en Angola, resultando en un trágico incidente en el que un tren fue emboscado y atacado por rebeldes armados. El ataque provocó la muerte de 252 personas.",
             "eventDescriptionIt": "Il 10 agosto 2001 si verificò l'attacco al treno in Angola, causando un tragico incidente in cui un treno venne assalito e attaccato da ribelli armati. L'attacco causò la morte di 252 persone.",
             "eventDescriptionFr": "Le 10 août 2001, l'attaque du train en Angola a eu lieu, entraînant un incident tragique où un train a été pris en embuscade et attaqué par des rebelles armés. L'attaque a causé la mort de 252 personnes."
+          },{
+            "eventId": "185",
+            "eventCategory": "HISTORY",
+            "eventDate": "1680/08/10",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 10, 1680, the Pueblo Revolt began in New Mexico. Native Puebloan people rose against Spanish colonial rule, leading to a coordinated uprising and the expulsion of Spanish settlers from the region.",
+            "eventDescriptionTr": "10 Ağustos 1680 tarihinde, Pueblo Ayaklanması Yeni Meksika'da başladı. Yerli Pueblo halkı, İspanyol koloniyal yönetimine karşı ayaklandı ve koordineli bir isyanla bölgedeki İspanyol yerleşimcilerin sürülmesine neden oldu.",
+            "eventDescriptionDe": "Am 10. August 1680 begann der Pueblo-Aufstand in New Mexico. Die einheimischen Pueblo-Völker erhoben sich gegen die spanische Kolonialherrschaft, was zu einem koordinierten Aufstand führte und zur Vertreibung der spanischen Siedler aus der Region führte.",
+            "eventDescriptionEs": "El 10 de agosto de 1680, comenzó la Revuelta de los Pueblo en Nuevo México. El pueblo indígena Puebloan se alzó contra el dominio colonial español, lo que llevó a una revuelta coordinada y a la expulsión de los colonos españoles de la región.",
+            "eventDescriptionIt": "Il 10 agosto 1680 iniziò la Rivolta Pueblo in Nuovo Messico. I nativi puebloani si ribellarono al dominio coloniale spagnolo, portando a una rivolta coordinata e all'espulsione dei coloni spagnoli dalla regione.",
+            "eventDescriptionFr": "Le 10 août 1680, le soulèvement des Pueblos a commencé au Nouveau-Mexique. Les peuples autochtones Pueblos se sont soulevés contre la domination coloniale espagnole, ce qui a entraîné une révolte coordonnée et l'expulsion des colons espagnols de la région."
           }
     ]
 }
