@@ -1743,7 +1743,8 @@
             "eventDescriptionEs": "El 18 de agosto de 1920, se ratificó la 19ª Enmienda a la Constitución de los Estados Unidos, otorgando a las mujeres el derecho al voto, marcando un hito significativo en la lucha por el sufragio femenino.",
             "eventDescriptionIt": "Il 18 agosto 1920 venne ratificato il 19° Emendamento della Costituzione degli Stati Uniti, concedendo alle donne il diritto di voto, segnando una tappa significativa nella lotta per il suffragio femminile.",
             "eventDescriptionFr": "Le 18 août 1920, le 19e amendement de la Constitution des États-Unis fut ratifié, accordant le droit de vote aux femmes, marquant ainsi une étape importante dans la lutte pour le suffrage féminin."
-        },{
+        },
+        {
             "eventId": "180",
             "eventCategory": "SPORT",
             "eventDate": "1858/08/07",
@@ -1754,6 +1755,30 @@
             "eventDescriptionEs": "El 7 de agosto de 1858 se jugó el primer partido de fútbol australiano entre la Melbourne Grammar School y el Scotch College en Melbourne, Australia, marcando el inicio del popular deporte del fútbol australiano.",
             "eventDescriptionIt": "Il 7 agosto 1858 si è disputata la prima partita di football australiano tra la Melbourne Grammar School e il Scotch College a Melbourne, Australia, segnando l'inizio del popolare sport del football australiano.",
             "eventDescriptionFr": "Le 7 août 1858, le premier match de football australien a été joué entre la Melbourne Grammar School et le Scotch College à Melbourne, en Australie, marquant le début du sport populaire du football australien."
-            }
+        },
+        {
+            "eventId": "181",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1990/08/10",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 10, 1990, the Magellan space probe reached Venus, beginning its mission to map the surface of the planet using radar and providing valuable insights into Venus's geological features.",
+            "eventDescriptionTr": "10 Ağustos 1990'da Magellan uzay aracı Venüs'e ulaştı ve gezegenin yüzeyini radar kullanarak haritalamak amacıyla görevine başladı, Venüs'ün jeolojik özellikleri hakkında değerli bilgiler sağladı.",
+            "eventDescriptionDe": "Am 10. August 1990 erreichte die Raumsonde Magellan die Venus und begann ihre Mission, die Oberfläche des Planeten mit Radar zu kartieren und wertvolle Einblicke in die geologischen Merkmale der Venus zu liefern.",
+            "eventDescriptionEs": "El 10 de agosto de 1990, la sonda espacial Magallanes llegó a Venus, comenzando su misión de mapear la superficie del planeta utilizando radar y proporcionando información valiosa sobre las características geológicas de Venus.",
+            "eventDescriptionIt": "Il 10 agosto 1990, la sonda spaziale Magellan raggiunse Venere, iniziando la sua missione di mappare la superficie del pianeta utilizzando il radar e fornendo preziose informazioni sulle caratteristiche geologiche di Venere.",
+            "eventDescriptionFr": "Le 10 août 1990, la sonde spatiale Magellan atteignit Vénus, entamant sa mission de cartographier la surface de la planète à l'aide d'un radar et fournissant des informations précieuses sur les caractéristiques géologiques de Vénus."
+        },
+        {
+            "eventId": "182",
+            "eventCategory": "POLITICS",
+            "eventDate": "1944/08/10",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 10, 1944, the Battle of Guam during World War II came to an effective end, with the United States recapturing the island from Japanese forces. The battle was a significant milestone in the Pacific theater of the war.",
+            "eventDescriptionTr": "10 Ağustos 1944 tarihinde, II. Dünya Savaşı sırasında Guam Muharebesi etkili bir sona erdi ve Amerika Birleşik Devletleri, Japon güçlerinden adayı geri aldı. Muharebe, savaşın Pasifik cephesinde önemli bir kilometre taşıydı.",
+            "eventDescriptionDe": "Am 10. August 1944 endete die Schlacht um Guam im Zweiten Weltkrieg effektiv, wobei die Vereinigten Staaten die Insel von den japanischen Streitkräften zurückeroberten. Die Schlacht war ein bedeutender Meilenstein im Pazifikkrieg.",
+            "eventDescriptionEs": "El 10 de agosto de 1944, la Batalla de Guam durante la Segunda Guerra Mundial llegó a su fin de manera efectiva, con Estados Unidos recapturando la isla de las fuerzas japonesas. La batalla fue un hito significativo en el teatro del Pacífico de la guerra.",
+            "eventDescriptionIt": "Il 10 agosto 1944, la Battaglia di Guam durante la Seconda guerra mondiale giunse a una conclusione efficace, con gli Stati Uniti che riconquistarono l'isola dalle forze giapponesi. La battaglia fu una pietra miliare significativa nel teatro del Pacifico della guerra.",
+            "eventDescriptionFr": "Le 10 août 1944, la bataille de Guam pendant la Seconde Guerre mondiale prit fin de manière efficace, les États-Unis reprenant l'île aux forces japonaises. La bataille marqua une étape importante dans le théâtre du Pacifique de la guerre."
+        }
     ]
 }
