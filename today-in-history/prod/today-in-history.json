@@ -1790,6 +1790,17 @@
             "eventDescriptionEs": "El 10 de agosto de 1944, la Batalla de Narva durante la Segunda Guerra Mundial llegó a su fin con una victoria defensiva para las fuerzas alemanas. La batalla tuvo lugar entre tropas alemanas y soviéticas y fue un enfrentamiento significativo en el Frente Oriental de la guerra.",
             "eventDescriptionIt": "Il 10 agosto 1944, la Battaglia di Narva durante la Seconda guerra mondiale si concluse con una vittoria difensiva delle forze tedesche. La battaglia ebbe luogo tra truppe tedesche e sovietiche ed è stata un importante scontro sul Fronte Orientale della guerra.",
             "eventDescriptionFr": "Le 10 août 1944, la bataille de Narva pendant la Seconde Guerre mondiale se termina par une victoire défensive des forces allemandes. La bataille eut lieu entre les troupes allemandes et soviétiques et fut un engagement significatif sur le Front de l'Est de la guerre."
+          },{
+            "eventId": "184",
+            "eventCategory": "TRAGEDY",
+            "eventDate": "2001/08/10",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 10, 2001, the Angola train attack took place, resulting in a tragic incident where a train was ambushed and attacked by armed rebels. The attack led to the deaths of 252 people.",
+            "eventDescriptionTr": "10 Ağustos 2001 tarihinde, Angola tren saldırısı gerçekleşti ve bir tren silahlı isyancılar tarafından pusuya düşürüldü ve saldırıya uğradı. Bu saldırı 252 kişinin ölümüne neden oldu.",
+            "eventDescriptionDe": "Am 10. August 2001 ereignete sich der Zugüberfall in Angola, bei dem ein Zug von bewaffneten Rebellen überfallen und angegriffen wurde. Der Angriff führte zum Tod von 252 Menschen.",
+            "eventDescriptionEs": "El 10 de agosto de 2001, ocurrió el ataque al tren en Angola, resultando en un trágico incidente en el que un tren fue emboscado y atacado por rebeldes armados. El ataque provocó la muerte de 252 personas.",
+            "eventDescriptionIt": "Il 10 agosto 2001 si verificò l'attacco al treno in Angola, causando un tragico incidente in cui un treno venne assalito e attaccato da ribelli armati. L'attacco causò la morte di 252 persone.",
+            "eventDescriptionFr": "Le 10 août 2001, l'attaque du train en Angola a eu lieu, entraînant un incident tragique où un train a été pris en embuscade et attaqué par des rebelles armés. L'attaque a causé la mort de 252 personnes."
           }
     ]
 }
