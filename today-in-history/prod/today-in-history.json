@@ -1812,6 +1812,17 @@
             "eventDescriptionEs": "El 10 de agosto de 1680, comenzó la Revuelta de los Pueblo en Nuevo México. El pueblo indígena Puebloan se alzó contra el dominio colonial español, lo que llevó a una revuelta coordinada y a la expulsión de los colonos españoles de la región.",
             "eventDescriptionIt": "Il 10 agosto 1680 iniziò la Rivolta Pueblo in Nuovo Messico. I nativi puebloani si ribellarono al dominio coloniale spagnolo, portando a una rivolta coordinata e all'espulsione dei coloni spagnoli dalla regione.",
             "eventDescriptionFr": "Le 10 août 1680, le soulèvement des Pueblos a commencé au Nouveau-Mexique. Les peuples autochtones Pueblos se sont soulevés contre la domination coloniale espagnole, ce qui a entraîné une révolte coordonnée et l'expulsion des colons espagnols de la région."
+          },{
+            "eventId": "186",
+            "eventCategory": "HISTORY",
+            "eventDate": "1960/08/11",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 11, 1960, Chad declared its independence from France. This marked a significant step towards self-governance for the African nation.",
+            "eventDescriptionTr": "11 Ağustos 1960 tarihinde, Çad Fransa'dan bağımsızlığını ilan etti. Bu, Afrika ulusu için öz yönetim yolunda önemli bir adım olarak kabul edildi.",
+            "eventDescriptionDe": "Am 11. August 1960 erklärte Tschad seine Unabhängigkeit von Frankreich. Dies war ein bedeutender Schritt in Richtung Selbstverwaltung für die afrikanische Nation.",
+            "eventDescriptionEs": "El 11 de agosto de 1960, Chad declaró su independencia de Francia. Esto marcó un paso significativo hacia la autogestión para la nación africana.",
+            "eventDescriptionIt": "L'11 agosto 1960, il Ciad dichiarò la sua indipendenza dalla Francia. Questo segnò un passo significativo verso l'autogoverno per la nazione africana.",
+            "eventDescriptionFr": "Le 11 août 1960, le Tchad a déclaré son indépendance vis-à-vis de la France. Cela a marqué une étape importante vers l'autonomie de cette nation africaine."
           }
     ]
 }
