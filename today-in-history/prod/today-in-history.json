@@ -1900,7 +1900,17 @@
             "eventDescriptionEs": "El 13 de agosto de 1913, Harry Brearley logró la primera producción de acero inoxidable en el Reino Unido. Esto marcó un hito significativo en la metalurgia, ya que la resistencia del acero inoxidable a la corrosión y las manchas revolucionó diversas industrias.",
             "eventDescriptionIt": "Il 13 agosto 1913, Harry Brearley ha ottenuto la prima produzione di acciaio inossidabile nel Regno Unito. Questo segnò una tappa significativa nella metallurgia, poiché la resistenza dell'acciaio inossidabile alla corrosione e alle macchie ha rivoluzionato diverse industrie.",
             "eventDescriptionFr": "Le 13 août 1913, Harry Brearley a réalisé la première production d'acier inoxydable au Royaume-Uni. Cela a marqué une étape significative en métallurgie, car la résistance de l'acier inoxydable à la corrosion et aux taches a révolutionné diverses industries."
+          },{
+            "eventId": "194",
+            "eventCategory": "HISTORY",
+            "eventDate": "1960/08/13",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 13, 1960, the Central African Republic declared its independence from France. This significant event marked a new chapter in the country's history and its journey toward self-governance and sovereignty.",
+            "eventDescriptionTr": "13 Ağustos 1960 tarihinde, Orta Afrika Cumhuriyeti Fransa'dan bağımsızlığını ilan etti. Bu önemli olay, ülkenin tarihinde yeni bir dönemin başlangıcını işaret etti ve öz yönetim ve egemenliğe doğru bir yolculuğa işaret etti.",
+            "eventDescriptionDe": "Am 13. August 1960 erklärte die Zentralafrikanische Republik ihre Unabhängigkeit von Frankreich. Dieses bedeutende Ereignis markierte ein neues Kapitel in der Geschichte des Landes und seinen Weg zur Selbstverwaltung und Souveränität.",
+            "eventDescriptionEs": "El 13 de agosto de 1960, la República Centroafricana declaró su independencia de Francia. Este evento significativo marcó un nuevo capítulo en la historia del país y su camino hacia la autogobernanza y la soberanía.",
+            "eventDescriptionIt": "Il 13 agosto 1960, la Repubblica Centrafricana ha dichiarato la sua indipendenza dalla Francia. Questo evento significativo ha segnato un nuovo capitolo nella storia del paese e nel suo percorso verso l'autogoverno e la sovranità.",
+            "eventDescriptionFr": "Le 13 août 1960, la République centrafricaine a proclamé son indépendance vis-à-vis de la France. Cet événement important a marqué un nouveau chapitre de l'histoire du pays et son cheminement vers l'autogouvernance et la souveraineté."
           }
-
     ]
 }
