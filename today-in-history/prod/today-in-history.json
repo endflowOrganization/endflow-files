@@ -2019,6 +2019,18 @@
             "eventDescriptionEs": "El 14 de agosto de 1885, Japón otorgó su primera patente al inventor de una pintura anticorrosiva. Esto marcó un desarrollo importante en el campo de los recubrimientos y la protección contra la corrosión.",
             "eventDescriptionIt": "Il 14 agosto 1885, il Giappone rilasciò il suo primo brevetto all'inventore di una vernice antiruggine. Questo segnò un importante sviluppo nel campo dei rivestimenti e della protezione dalla corrosione.",
             "eventDescriptionFr": "Le 14 août 1885, le Japon a délivré son premier brevet à l'inventeur d'une peinture antirouille. Cela a marqué un développement important dans le domaine des revêtements et de la protection contre la corrosion."
+        },
+        {
+            "eventId": "203",
+            "eventCategory": "HISTORY",
+            "eventDate": "1947/08/14",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 14, 1947, Pakistan gained independence from the British Empire. This marked a significant moment in the history of the Indian subcontinent as Pakistan emerged as a sovereign nation.",
+            "eventDescriptionTr": "14 Ağustos 1947 tarihinde, Pakistan Britanya İmparatorluğu'ndan bağımsızlığını kazandı. Bu, Hindistan altkıtasının tarihinde önemli bir anı olarak kabul edildi, çünkü Pakistan bağımsız bir ulus olarak ortaya çıktı.",
+            "eventDescriptionDe": "Am 14. August 1947 erlangte Pakistan seine Unabhängigkeit vom britischen Empire. Dies markierte einen bedeutsamen Moment in der Geschichte des indischen Subkontinents, da Pakistan als souveräne Nation entstand.",
+            "eventDescriptionEs": "El 14 de agosto de 1947, Pakistán obtuvo su independencia del Imperio Británico. Esto marcó un momento significativo en la historia del subcontinente indio, ya que Pakistán emergió como una nación soberana.",
+            "eventDescriptionIt": "Il 14 agosto 1947, il Pakistan ottenne l'indipendenza dall'Impero britannico. Questo segnò un momento significativo nella storia del subcontinente indiano poiché il Pakistan emerse come nazione sovrana.",
+            "eventDescriptionFr": "Le 14 août 1947, le Pakistan a obtenu son indépendance de l'Empire britannique. Cela a marqué un moment significatif dans l'histoire du sous-continent indien alors que le Pakistan émergeait en tant que nation souveraine."
         }
     ]
 }
