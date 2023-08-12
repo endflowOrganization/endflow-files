@@ -1834,6 +1834,17 @@
             "eventDescriptionEs": "El 12 de agosto de 1981, IBM lanzó la IBM Personal Computer (IBM PC), marcando un hito significativo en la historia de la informática personal. La IBM PC desempeñó un papel crucial en la popularización de las computadoras personales y en la formación de la industria informática moderna.",
             "eventDescriptionIt": "Il 12 agosto 1981, IBM ha rilasciato l'IBM Personal Computer (IBM PC), segnando una tappa significativa nella storia dell'informatica personale. L'IBM PC ha svolto un ruolo cruciale nella diffusione dei personal computer e nella modellazione dell'industria informatica moderna.",
             "eventDescriptionFr": "Le 12 août 1981, IBM a lancé l'IBM Personal Computer (IBM PC), marquant une étape importante dans l'histoire de l'informatique personnelle. L'IBM PC a joué un rôle crucial dans la popularisation des ordinateurs personnels et dans la formation de l'industrie informatique moderne."
+          },{
+            "eventId": "188",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1727/03/31",
+            "eventImg": null,
+            "eventDescriptionEn": "On March 31, 1727, Sir Isaac Newton, the renowned mathematician, physicist, and astronomer, passed away, leaving behind a legacy of groundbreaking scientific discoveries and contributions.",
+            "eventDescriptionTr": "31 Mart 1727 tarihinde ünlü matematikçi, fizikçi ve astronom Sir Isaac Newton hayatını kaybetti, bilimsel keşifler ve katkılar alanında çığır açan bir miras bıraktı.",
+            "eventDescriptionDe": "Am 31. März 1727 verstarb Sir Isaac Newton, der renommierte Mathematiker, Physiker und Astronom, und hinterließ ein Erbe bahnbrechender wissenschaftlicher Entdeckungen und Beiträge.",
+            "eventDescriptionEs": "El 31 de marzo de 1727, falleció Sir Isaac Newton, el renombrado matemático, físico y astrónomo, dejando un legado de descubrimientos científicos innovadores y contribuciones.",
+            "eventDescriptionIt": "Il 31 marzo 1727 morì Sir Isaac Newton, il rinomato matematico, fisico e astronomo, lasciando un'eredità di scoperte scientifiche rivoluzionarie e contributi.",
+            "eventDescriptionFr": "Le 31 mars 1727, Sir Isaac Newton, le célèbre mathématicien, physicien et astronome, est décédé, laissant derrière lui un héritage de découvertes scientifiques révolutionnaires et de contributions."
           }
 
     ]
