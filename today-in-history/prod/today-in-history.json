@@ -1889,6 +1889,17 @@
             "eventDescriptionEs": "El 12 de agosto de 1960, la NASA lanzó con éxito Echo 1A, su primer satélite de comunicaciones exitoso. Echo 1A desempeñó un papel fundamental en las telecomunicaciones tempranas al reflejar y transmitir señales de radio, lo que marcó un logro significativo en la tecnología espacial.",
             "eventDescriptionIt": "Il 12 agosto 1960, la NASA ha lanciato con successo Echo 1A, il suo primo satellite di comunicazioni di successo. Echo 1A ha svolto un ruolo cruciale nelle prime telecomunicazioni riflettendo e trasmettendo segnali radio, segnando un risultato significativo nella tecnologia spaziale.",
             "eventDescriptionFr": "Le 12 août 1960, la NASA a lancé avec succès Echo 1A, son premier satellite de communication réussi. Echo 1A a joué un rôle clé dans les premières télécommunications en reflétant et en relayant des signaux radio, marquant une avancée significative dans la technologie spatiale."
+          },{
+            "eventId": "193",
+            "eventCategory": "TECH",
+            "eventDate": "1913/08/13",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 13, 1913, Harry Brearley achieved the first production of stainless steel in the UK. This marked a significant milestone in metallurgy, as stainless steel's resistance to corrosion and staining revolutionized various industries.",
+            "eventDescriptionTr": "13 Ağustos 1913 tarihinde, Harry Brearley Birleşik Krallık'ta paslanmaz çelik üretimini gerçekleştirdi. Bu, metalurjide önemli bir kilometre taşı oldu, çünkü paslanmaz çeliğin korozyona ve lekelere karşı direnci çeşitli endüstrileri devrimleştirdi.",
+            "eventDescriptionDe": "Am 13. August 1913 gelang es Harry Brearley, die erste Produktion von rostfreiem Stahl im Vereinigten Königreich zu erreichen. Dies markierte einen bedeutenden Meilenstein in der Metallurgie, da die Beständigkeit von rostfreiem Stahl gegen Korrosion und Fleckenbildung verschiedene Branchen revolutionierte.",
+            "eventDescriptionEs": "El 13 de agosto de 1913, Harry Brearley logró la primera producción de acero inoxidable en el Reino Unido. Esto marcó un hito significativo en la metalurgia, ya que la resistencia del acero inoxidable a la corrosión y las manchas revolucionó diversas industrias.",
+            "eventDescriptionIt": "Il 13 agosto 1913, Harry Brearley ha ottenuto la prima produzione di acciaio inossidabile nel Regno Unito. Questo segnò una tappa significativa nella metallurgia, poiché la resistenza dell'acciaio inossidabile alla corrosione e alle macchie ha rivoluzionato diverse industrie.",
+            "eventDescriptionFr": "Le 13 août 1913, Harry Brearley a réalisé la première production d'acier inoxydable au Royaume-Uni. Cela a marqué une étape significative en métallurgie, car la résistance de l'acier inoxydable à la corrosion et aux taches a révolutionné diverses industries."
           }
 
     ]
