@@ -1971,6 +1971,18 @@
             "eventDescriptionEs": "El 11 de agosto de 2014, Robin Williams, el querido comediante y actor, falleció trágicamente, dejando un vacío en el mundo del entretenimiento.",
             "eventDescriptionIt": "Il 11 agosto 2014, Robin Williams, il celebre comico e attore, è tragicamente scomparso, lasciando un vuoto nel mondo dello spettacolo.",
             "eventDescriptionFr": "Le 11 août 2014, Robin Williams, le comédien et acteur bien-aimé, est tragiquement décédé, laissant un vide dans le monde du divertissement."
+        },
+        {
+            "eventId": "199",
+            "eventCategory": "HISTORY",
+            "eventDate": "1961/08/13",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 13, 1961, as part of the Cold War conflict, East Germany closed the border between the eastern and western sectors of Berlin to prevent residents from escaping to the West. This marked the beginning of the construction of the Berlin Wall, a symbol of the divided city and the larger ideological conflict of the era. The day is known as Barbed Wire Sunday.",
+            "eventDescriptionTr": "13 Ağustos 1961'de Soğuk Savaş döneminde, Doğu Almanya Batı'ya kaçma girişimlerini engellemek için Berlin'in doğu ve batı sektörleri arasındaki sınırları kapattı. Bu, Berlin Duvarı'nın inşasının başlangıcını işaret etti ve şehrin bölünmüşlüğünün ve dönemin daha geniş ideolojik çatışmasının bir sembolü haline geldi. Bu gün Barbed Wire Sunday olarak bilinir.",
+            "eventDescriptionDe": "Am 13. August 1961 schloss die DDR im Rahmen des Kalten Krieges die Grenze zwischen den östlichen und westlichen Sektoren von Berlin, um Bewohner am Fluchtversuch in den Westen zu hindern. Dies markierte den Beginn des Baus der Berliner Mauer, ein Symbol für die geteilte Stadt und den größeren ideologischen Konflikt der Ära. Der Tag ist als Stacheldrahtsonntag bekannt.",
+            "eventDescriptionEs": "El 13 de agosto de 1961, como parte del conflicto de la Guerra Fría, la Alemania Oriental cerró la frontera entre los sectores este y oeste de Berlín para evitar que los residentes escaparan al Oeste. Esto marcó el comienzo de la construcción del Muro de Berlín, símbolo de la ciudad dividida y del conflicto ideológico más amplio de la época. El día se conoce como el Domingo del Alambre de Púas.",
+            "eventDescriptionIt": "Il 13 agosto 1961, nell'ambito del conflitto della Guerra Fredda, la Germania Est chiuse il confine tra i settori orientale e occidentale di Berlino per impedire ai residenti di fuggire verso ovest. Questo segnò l'inizio della costruzione del Muro di Berlino, simbolo della città divisa e del più ampio conflitto ideologico dell'epoca. Il giorno è conosciuto come Domenica del Filo Spinato.",
+            "eventDescriptionFr": "Le 13 août 1961, dans le contexte du conflit de la Guerre froide, l'Allemagne de l'Est ferme la frontière entre les secteurs est et ouest de Berlin pour empêcher les habitants de s'échapper vers l'Ouest. Cela marque le début de la construction du Mur de Berlin, symbole de la ville divisée et du conflit idéologique plus large de l'époque. Le jour est connu sous le nom de Dimanche du Fil de Fer Barbelé."
         }
     ]
 }
