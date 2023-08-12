@@ -1823,7 +1823,18 @@
             "eventDescriptionEs": "El 11 de agosto de 1960, Chad declaró su independencia de Francia. Esto marcó un paso significativo hacia la autogestión para la nación africana.",
             "eventDescriptionIt": "L'11 agosto 1960, il Ciad dichiarò la sua indipendenza dalla Francia. Questo segnò un passo significativo verso l'autogoverno per la nazione africana.",
             "eventDescriptionFr": "Le 11 août 1960, le Tchad a déclaré son indépendance vis-à-vis de la France. Cela a marqué une étape importante vers l'autonomie de cette nation africaine."
+          },{
+            "eventId": "187",
+            "eventCategory": "TECH",
+            "eventDate": "1981/08/12",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 12, 1981, IBM released the IBM Personal Computer (IBM PC), marking a significant milestone in the history of personal computing. The IBM PC played a crucial role in popularizing personal computers and shaping the modern computer industry.",
+            "eventDescriptionTr": "12 Ağustos 1981 tarihinde, IBM IBM Kişisel Bilgisayar'ı (IBM PC) piyasaya sürdü ve kişisel bilgisayar tarihinde önemli bir kilometre taşını işaretledi. IBM PC, kişisel bilgisayarları popülerleştirmede ve modern bilgisayar endüstrisini şekillendirmede kritik bir rol oynadı.",
+            "eventDescriptionDe": "Am 12. August 1981 brachte IBM den IBM Personal Computer (IBM PC) auf den Markt und markierte einen wichtigen Meilenstein in der Geschichte der persönlichen Computertechnologie. Der IBM PC spielte eine entscheidende Rolle bei der Popularisierung von Personal Computern und prägte die moderne Computerindustrie.",
+            "eventDescriptionEs": "El 12 de agosto de 1981, IBM lanzó la IBM Personal Computer (IBM PC), marcando un hito significativo en la historia de la informática personal. La IBM PC desempeñó un papel crucial en la popularización de las computadoras personales y en la formación de la industria informática moderna.",
+            "eventDescriptionIt": "Il 12 agosto 1981, IBM ha rilasciato l'IBM Personal Computer (IBM PC), segnando una tappa significativa nella storia dell'informatica personale. L'IBM PC ha svolto un ruolo cruciale nella diffusione dei personal computer e nella modellazione dell'industria informatica moderna.",
+            "eventDescriptionFr": "Le 12 août 1981, IBM a lancé l'IBM Personal Computer (IBM PC), marquant une étape importante dans l'histoire de l'informatique personnelle. L'IBM PC a joué un rôle crucial dans la popularisation des ordinateurs personnels et dans la formation de l'industrie informatique moderne."
           }
-          
+
     ]
 }
