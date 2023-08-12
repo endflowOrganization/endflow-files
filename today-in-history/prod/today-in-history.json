@@ -1856,6 +1856,17 @@
             "eventDescriptionEs": "El 29 de mayo de 2010, Lena Meyer-Landrut de Alemania ganó el Festival de la Canción de Eurovisión con la canción 'Satellite'. Conquistó los corazones del público y emergió como la vencedora en Oslo, Noruega.",
             "eventDescriptionIt": "Il 29 maggio 2010, Lena Meyer-Landrut dalla Germania ha vinto l'Eurovision Song Contest con la canzone 'Satellite'. Ha conquistato i cuori del pubblico ed è emersa vittoriosa a Oslo, in Norvegia.",
             "eventDescriptionFr": "Le 29 mai 2010, Lena Meyer-Landrut d'Allemagne a remporté le Concours Eurovision de la chanson avec la chanson 'Satellite'. Elle a conquis les cœurs du public et est sortie victorieuse à Oslo, en Norvège."
+          },{
+            "eventId": "190",
+            "eventCategory": "SPACE",
+            "eventDate": "1977/08/12",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 12, 1977, the Space Shuttle Enterprise, a prototype orbiter, conducted its first free flight atop the NASA 905 Shuttle Carrier Aircraft. This marked a significant step in the development of the Space Shuttle program.",
+            "eventDescriptionTr": "12 Ağustos 1977 tarihinde, Uzay Mekiği Enterprise, bir prototip uzay aracı, NASA 905 Uzay Aracı Taşıyıcı Uçağı'nın üstünde ilk serbest uçuşunu gerçekleştirdi. Bu, Uzay Mekiği programının gelişiminde önemli bir adımı temsil etti.",
+            "eventDescriptionDe": "Am 12. August 1977 unternahm das Space Shuttle Enterprise, ein Prototyp eines Orbiters, seinen ersten freien Flug auf dem NASA 905 Shuttle Carrier Aircraft. Dies markierte einen bedeutenden Schritt in der Entwicklung des Space Shuttle-Programms.",
+            "eventDescriptionEs": "El 12 de agosto de 1977, el Transbordador Espacial Enterprise, un prototipo de orbitador, realizó su primer vuelo libre en la parte superior del Avión Portador del Transbordador NASA 905. Esto marcó un paso significativo en el desarrollo del programa del Transbordador Espacial.",
+            "eventDescriptionIt": "Il 12 agosto 1977, lo Space Shuttle Enterprise, un prototipo di orbiter, effettuò il suo primo volo libero sopra il NASA 905 Shuttle Carrier Aircraft. Questo segnò un passo significativo nello sviluppo del programma dello Space Shuttle.",
+            "eventDescriptionFr": "Le 12 août 1977, la navette spatiale Enterprise, un prototype d'orbiteur, a effectué son premier vol libre au sommet du NASA 905 Shuttle Carrier Aircraft. Cela a marqué une étape importante dans le développement du programme de la navette spatiale."
           }
 
     ]
