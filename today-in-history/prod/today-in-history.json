@@ -1867,6 +1867,28 @@
             "eventDescriptionEs": "El 12 de agosto de 1977, el Transbordador Espacial Enterprise, un prototipo de orbitador, realizó su primer vuelo libre en la parte superior del Avión Portador del Transbordador NASA 905. Esto marcó un paso significativo en el desarrollo del programa del Transbordador Espacial.",
             "eventDescriptionIt": "Il 12 agosto 1977, lo Space Shuttle Enterprise, un prototipo di orbiter, effettuò il suo primo volo libero sopra il NASA 905 Shuttle Carrier Aircraft. Questo segnò un passo significativo nello sviluppo del programma dello Space Shuttle.",
             "eventDescriptionFr": "Le 12 août 1977, la navette spatiale Enterprise, un prototype d'orbiteur, a effectué son premier vol libre au sommet du NASA 905 Shuttle Carrier Aircraft. Cela a marqué une étape importante dans le développement du programme de la navette spatiale."
+          },{
+            "eventId": "191",
+            "eventCategory": "INVENTION",
+            "eventDate": "1851/08/12",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 12, 1851, Isaac Singer was granted a patent for his sewing machine, which revolutionized the textile industry and had a profound impact on the way clothes and fabrics were produced.",
+            "eventDescriptionTr": "12 Ağustos 1851 tarihinde, Isaac Singer, tekstil endüstrisini devrim yaratan dikiş makinesi için bir patent aldı ve giysilerin ve kumaşların üretim şeklinde derin etkiler yarattı.",
+            "eventDescriptionDe": "Am 12. August 1851 erhielt Isaac Singer ein Patent für seine Nähmaschine, die die Textilindustrie revolutionierte und einen tiefgreifenden Einfluss auf die Herstellung von Kleidung und Stoffen hatte.",
+            "eventDescriptionEs": "El 12 de agosto de 1851, a Isaac Singer se le otorgó una patente por su máquina de coser, que revolucionó la industria textil y tuvo un profundo impacto en la forma en que se producían la ropa y los tejidos.",
+            "eventDescriptionIt": "Il 12 agosto 1851, a Isaac Singer fu concesso un brevetto per la sua macchina da cucire, che rivoluzionò l'industria tessile e ebbe un profondo impatto sul modo in cui venivano prodotti i vestiti e i tessuti.",
+            "eventDescriptionFr": "Le 12 août 1851, Isaac Singer obtient un brevet pour sa machine à coudre, qui a révolutionné l'industrie textile et a eu un impact profond sur la manière dont les vêtements et les tissus étaient produits."
+          },{
+            "eventId": "192",
+            "eventCategory": "SPACE",
+            "eventDate": "1960/08/12",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 12, 1960, NASA successfully launched Echo 1A, its first successful communications satellite. Echo 1A played a pivotal role in early telecommunications by reflecting and relaying radio signals, marking a significant achievement in space technology.",
+            "eventDescriptionTr": "12 Ağustos 1960 tarihinde, NASA başarılı bir şekilde Echo 1A'yı fırlattı, bu ajansın ilk başarılı iletişim uydusuydu. Echo 1A, erken dönem iletişiminde radyo sinyallerini yansıtarak ve ileterek önemli bir rol oynadı, uzay teknolojisinde önemli bir başarıyı temsil etti.",
+            "eventDescriptionDe": "Am 12. August 1960 startete die NASA erfolgreich Echo 1A, ihren ersten erfolgreichen Kommunikationssatelliten. Echo 1A spielte eine entscheidende Rolle in der frühen Telekommunikation, indem es Radiosignale reflektierte und übermittelte und somit einen bedeutenden Fortschritt in der Raumfahrttechnologie markierte.",
+            "eventDescriptionEs": "El 12 de agosto de 1960, la NASA lanzó con éxito Echo 1A, su primer satélite de comunicaciones exitoso. Echo 1A desempeñó un papel fundamental en las telecomunicaciones tempranas al reflejar y transmitir señales de radio, lo que marcó un logro significativo en la tecnología espacial.",
+            "eventDescriptionIt": "Il 12 agosto 1960, la NASA ha lanciato con successo Echo 1A, il suo primo satellite di comunicazioni di successo. Echo 1A ha svolto un ruolo cruciale nelle prime telecomunicazioni riflettendo e trasmettendo segnali radio, segnando un risultato significativo nella tecnologia spaziale.",
+            "eventDescriptionFr": "Le 12 août 1960, la NASA a lancé avec succès Echo 1A, son premier satellite de communication réussi. Echo 1A a joué un rôle clé dans les premières télécommunications en reflétant et en relayant des signaux radio, marquant une avancée significative dans la technologie spatiale."
           }
 
     ]
