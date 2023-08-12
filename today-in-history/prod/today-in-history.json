@@ -1935,6 +1935,42 @@
             "eventDescriptionEs": "El 31 de enero de 2020, el Reino Unido abandonó oficialmente la Unión Europea, marcando un momento significativo en la historia del país y su relación con la UE.",
             "eventDescriptionIt": "Il 31 gennaio 2020, il Regno Unito ha ufficialmente lasciato l'Unione Europea, segnando un momento significativo nella storia del paese e nel suo rapporto con l'UE.",
             "eventDescriptionFr": "Le 31 janvier 2020, le Royaume-Uni a officiellement quitté l'Union européenne, marquant un moment significatif dans l'histoire du pays et dans sa relation avec l'UE."
+        },
+        {
+            "eventId": "196",
+            "eventCategory": "HISTORY",
+            "eventDate": "1918/08/13",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 13, 1918, women enlisted in the United States Marine Corps for the first time. Opha May Johnson became the first woman to enlist, marking a historic milestone in the integration of women into the U.S. military.",
+            "eventDescriptionTr": "13 Ağustos 1918 tarihinde, kadınlar ilk kez Amerika Birleşik Devletleri Deniz Kuvvetleri'ne katıldı. Opha May Johnson, ilk kadın olarak katılan kişi oldu ve bu, kadınların ABD askeri gücüne entegrasyonunda tarihi bir kilometre taşıydı.",
+            "eventDescriptionDe": "Am 13. August 1918 meldeten sich erstmals Frauen beim United States Marine Corps. Opha May Johnson war die erste Frau, die sich meldete, und markierte damit einen historischen Meilenstein in der Integration von Frauen in das US-Militär.",
+            "eventDescriptionEs": "El 13 de agosto de 1918, las mujeres se enlistaron en el Cuerpo de Marines de los Estados Unidos por primera vez. Opha May Johnson fue la primera mujer en alistarse, marcando un hito histórico en la integración de las mujeres en las fuerzas armadas de EE. UU.",
+            "eventDescriptionIt": "Il 13 agosto 1918, le donne si arruolarono per la prima volta nel Corpo dei Marines degli Stati Uniti. Opha May Johnson fu la prima donna a arruolarsi, segnando una pietra miliare storica nell'integrazione delle donne nelle forze armate degli Stati Uniti.",
+            "eventDescriptionFr": "Le 13 août 1918, des femmes se sont enrôlées dans le Corps des Marines des États-Unis pour la première fois. Opha May Johnson est devenue la première femme à s'enrôler, marquant une étape historique dans l'intégration des femmes dans l'armée américaine."
+        },
+        {
+            "eventId": "197",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2012/08/25",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 25, 2012, Neil Armstrong, the first person to walk on the Moon, passed away, leaving a lasting legacy in space exploration.",
+            "eventDescriptionTr": "25 Ağustos 2012 tarihinde, Ay'a ilk adımı atan ilk insan olan Neil Armstrong hayatını kaybetti, uzay keşfinde kalıcı bir miras bıraktı.",
+            "eventDescriptionDe": "Am 25. August 2012 verstarb Neil Armstrong, der erste Mensch, der auf dem Mond spazierte, und hinterließ ein bleibendes Erbe in der Raumfahrt.",
+            "eventDescriptionEs": "El 25 de agosto de 2012, Neil Armstrong, la primera persona en caminar sobre la Luna, falleció, dejando un legado duradero en la exploración espacial.",
+            "eventDescriptionIt": "Il 25 agosto 2012, Neil Armstrong, la prima persona a camminare sulla Luna, è deceduto, lasciando un duraturo lascito nell'esplorazione spaziale.",
+            "eventDescriptionFr": "Le 25 août 2012, Neil Armstrong, la première personne à marcher sur la Lune, est décédé, laissant un héritage durable dans l'exploration spatiale."
+        },
+        {
+            "eventId": "198",
+            "eventCategory": "DEATH",
+            "eventDate": "2014/08/11",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 11, 2014, Robin Williams, the beloved comedian and actor, tragically passed away, leaving a void in the world of entertainment.",
+            "eventDescriptionTr": "11 Ağustos 2014 tarihinde, sevilen komedyen ve oyuncu Robin Williams trajik bir şekilde hayatını kaybetti, eğlence dünyasında büyük bir boşluk bıraktı.",
+            "eventDescriptionDe": "Am 11. August 2014 verstarb der beliebte Komiker und Schauspieler Robin Williams tragischerweise und hinterließ eine Lücke in der Unterhaltungswelt.",
+            "eventDescriptionEs": "El 11 de agosto de 2014, Robin Williams, el querido comediante y actor, falleció trágicamente, dejando un vacío en el mundo del entretenimiento.",
+            "eventDescriptionIt": "Il 11 agosto 2014, Robin Williams, il celebre comico e attore, è tragicamente scomparso, lasciando un vuoto nel mondo dello spettacolo.",
+            "eventDescriptionFr": "Le 11 août 2014, Robin Williams, le comédien et acteur bien-aimé, est tragiquement décédé, laissant un vide dans le monde du divertissement."
         }
     ]
 }
