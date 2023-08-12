@@ -1858,7 +1858,7 @@
             "eventDescriptionFr": "Le 29 mai 2010, Lena Meyer-Landrut d'Allemagne a remporté le Concours Eurovision de la chanson avec la chanson 'Satellite'. Elle a conquis les cœurs du public et est sortie victorieuse à Oslo, en Norvège."
           },{
             "eventId": "190",
-            "eventCategory": "SPACE",
+            "eventCategory": "SCIENCE",
             "eventDate": "1977/08/12",
             "eventImg": null,
             "eventDescriptionEn": "On August 12, 1977, the Space Shuttle Enterprise, a prototype orbiter, conducted its first free flight atop the NASA 905 Shuttle Carrier Aircraft. This marked a significant step in the development of the Space Shuttle program.",
@@ -1869,7 +1869,7 @@
             "eventDescriptionFr": "Le 12 août 1977, la navette spatiale Enterprise, un prototype d'orbiteur, a effectué son premier vol libre au sommet du NASA 905 Shuttle Carrier Aircraft. Cela a marqué une étape importante dans le développement du programme de la navette spatiale."
           },{
             "eventId": "191",
-            "eventCategory": "INVENTION",
+            "eventCategory": "TECH",
             "eventDate": "1851/08/12",
             "eventImg": null,
             "eventDescriptionEn": "On August 12, 1851, Isaac Singer was granted a patent for his sewing machine, which revolutionized the textile industry and had a profound impact on the way clothes and fabrics were produced.",
@@ -1880,7 +1880,7 @@
             "eventDescriptionFr": "Le 12 août 1851, Isaac Singer obtient un brevet pour sa machine à coudre, qui a révolutionné l'industrie textile et a eu un impact profond sur la manière dont les vêtements et les tissus étaient produits."
           },{
             "eventId": "192",
-            "eventCategory": "SPACE",
+            "eventCategory": "SCIENCE",
             "eventDate": "1960/08/12",
             "eventImg": null,
             "eventDescriptionEn": "On August 12, 1960, NASA successfully launched Echo 1A, its first successful communications satellite. Echo 1A played a pivotal role in early telecommunications by reflecting and relaying radio signals, marking a significant achievement in space technology.",
