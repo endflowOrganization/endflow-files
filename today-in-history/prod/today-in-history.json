@@ -1962,7 +1962,7 @@
         },
         {
             "eventId": "198",
-            "eventCategory": "DEATH",
+            "eventCategory": "PEOPLE",
             "eventDate": "2014/08/11",
             "eventImg": null,
             "eventDescriptionEn": "On August 11, 2014, Robin Williams, the beloved comedian and actor, tragically passed away, leaving a void in the world of entertainment.",
@@ -1983,6 +1983,42 @@
             "eventDescriptionEs": "El 13 de agosto de 1961, como parte del conflicto de la Guerra Fría, la Alemania Oriental cerró la frontera entre los sectores este y oeste de Berlín para evitar que los residentes escaparan al Oeste. Esto marcó el comienzo de la construcción del Muro de Berlín, símbolo de la ciudad dividida y del conflicto ideológico más amplio de la época. El día se conoce como el Domingo del Alambre de Púas.",
             "eventDescriptionIt": "Il 13 agosto 1961, nell'ambito del conflitto della Guerra Fredda, la Germania Est chiuse il confine tra i settori orientale e occidentale di Berlino per impedire ai residenti di fuggire verso ovest. Questo segnò l'inizio della costruzione del Muro di Berlino, simbolo della città divisa e del più ampio conflitto ideologico dell'epoca. Il giorno è conosciuto come Domenica del Filo Spinato.",
             "eventDescriptionFr": "Le 13 août 1961, dans le contexte du conflit de la Guerre froide, l'Allemagne de l'Est ferme la frontière entre les secteurs est et ouest de Berlin pour empêcher les habitants de s'échapper vers l'Ouest. Cela marque le début de la construction du Mur de Berlin, symbole de la ville divisée et du conflit idéologique plus large de l'époque. Le jour est connu sous le nom de Dimanche du Fil de Fer Barbelé."
+        },
+        {
+            "eventId": "200",
+            "eventCategory": "HISTORY",
+            "eventDate": "1645/08/13",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 13, 1645, Sweden and Denmark signed the Peace of Brömsebro, ending the Torstenson War. This treaty established new borders and terms between the two countries.",
+            "eventDescriptionTr": "13 Ağustos 1645 tarihinde, İsveç ve Danimarka, Torstenson Savaşı'nı sona erdiren Brömsebro Barışı'nı imzaladı. Bu antlaşma, iki ülke arasında yeni sınırlar ve koşullar belirledi.",
+            "eventDescriptionDe": "Am 13. August 1645 unterzeichneten Schweden und Dänemark den Frieden von Brömsebro, der den Torstenson-Krieg beendete. Dieser Vertrag legte neue Grenzen und Bedingungen zwischen den beiden Ländern fest.",
+            "eventDescriptionEs": "El 13 de agosto de 1645, Suecia y Dinamarca firmaron la Paz de Brömsebro, poniendo fin a la Guerra de Torstenson. Este tratado estableció nuevos límites y condiciones entre los dos países.",
+            "eventDescriptionIt": "Il 13 agosto 1645, Svezia e Danimarca firmarono la Pace di Brömsebro, ponendo fine alla Guerra di Torstenson. Questo trattato stabilì nuovi confini e condizioni tra i due paesi.",
+            "eventDescriptionFr": "Le 13 août 1645, la Suède et le Danemark signèrent la Paix de Brömsebro, mettant fin à la Guerre de Torstenson. Ce traité établit de nouvelles frontières et conditions entre les deux pays."
+        },
+        {
+            "eventId": "201",
+            "eventCategory": "HISTORY",
+            "eventDate": "1971/08/14",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 14, 1971, Bahrain declared its independence from Britain. This marked a significant milestone in Bahrain's history as it gained sovereignty and self-governance.",
+            "eventDescriptionTr": "14 Ağustos 1971 tarihinde, Bahreyn Britanya'dan bağımsızlığını ilan etti. Bu, Bahreyn'in tarihinde önemli bir kilometre taşı olarak kabul edildi, çünkü ülke egemenlik ve kendi kendini yönetme hakkını kazandı.",
+            "eventDescriptionDe": "Am 14. August 1971 erklärte Bahrain seine Unabhängigkeit von Großbritannien. Dies markierte einen bedeutenden Meilenstein in der Geschichte Bahrains, da es Souveränität und Selbstverwaltung erlangte.",
+            "eventDescriptionEs": "El 14 de agosto de 1971, Baréin declaró su independencia de Gran Bretaña. Esto marcó un hito significativo en la historia de Baréin, ya que obtuvo soberanía y autogobierno.",
+            "eventDescriptionIt": "Il 14 agosto 1971, il Bahrein dichiarò la sua indipendenza dalla Gran Bretagna. Questo segnò una tappa significativa nella storia del Bahrein poiché ottenne sovranità e autogoverno.",
+            "eventDescriptionFr": "Le 14 août 1971, Bahreïn a déclaré son indépendance vis-à-vis de la Grande-Bretagne. Cela a marqué une étape importante dans l'histoire de Bahreïn car il a acquis sa souveraineté et son autogouvernance."
+        },
+        {
+            "eventId": "202",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1885/08/14",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 14, 1885, Japan issued its first patent to the inventor of a rust-proof paint. This marked an important development in the field of coatings and corrosion protection.",
+            "eventDescriptionTr": "14 Ağustos 1885 tarihinde, Japonya ilk patentini pas önleyici boya icadına verdi. Bu, kaplama ve korozyon koruma alanında önemli bir gelişmeyi işaret etti.",
+            "eventDescriptionDe": "Am 14. August 1885 erteilte Japan sein erstes Patent an den Erfinder einer rostfreien Farbe. Dies markierte eine wichtige Entwicklung auf dem Gebiet der Beschichtungen und Korrosionsschutz.",
+            "eventDescriptionEs": "El 14 de agosto de 1885, Japón otorgó su primera patente al inventor de una pintura anticorrosiva. Esto marcó un desarrollo importante en el campo de los recubrimientos y la protección contra la corrosión.",
+            "eventDescriptionIt": "Il 14 agosto 1885, il Giappone rilasciò il suo primo brevetto all'inventore di una vernice antiruggine. Questo segnò un importante sviluppo nel campo dei rivestimenti e della protezione dalla corrosione.",
+            "eventDescriptionFr": "Le 14 août 1885, le Japon a délivré son premier brevet à l'inventeur d'une peinture antirouille. Cela a marqué un développement important dans le domaine des revêtements et de la protection contre la corrosion."
         }
     ]
 }
