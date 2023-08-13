@@ -2078,6 +2078,28 @@
             "eventDescriptionEs": "El 15 de agosto de 1948, se estableció la Primera República de Corea (Corea del Sur) en la mitad sur de la península coreana. Esto marcó el comienzo de una nueva era para Corea del Sur al obtener la independencia y establecer su propio gobierno.",
             "eventDescriptionIt": "Il 15 agosto 1948, è stata istituita la Prima Repubblica di Corea (Corea del Sud) nella metà meridionale della penisola coreana. Questo segnò l'inizio di una nuova era per la Corea del Sud poiché ottenne l'indipendenza ed istituì il proprio governo.",
             "eventDescriptionFr": "Le 15 août 1948, la Première République de Corée (Corée du Sud) a été établie dans la moitié sud de la péninsule coréenne. Cela a marqué le début d'une nouvelle ère pour la Corée du Sud car elle a acquis son indépendance et établi son propre gouvernement."
+          },{
+            "eventId": "208",
+            "eventCategory": "MUSIC",
+            "eventDate": "1965/08/15",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 15, 1965, The Beatles played to nearly 60,000 fans at Shea Stadium in New York City, an event later regarded as the birth of stadium rock. This iconic performance marked a significant moment in music history, setting the stage for larger-than-life stadium concerts.",
+            "eventDescriptionTr": "15 Ağustos 1965 tarihinde, The Beatles, New York Şehri'nde Shea Stadyumu'nda yaklaşık 60,000 hayranın önünde sahne aldı. Bu olay daha sonra stadyum rock'ın doğuşu olarak kabul edilen önemli bir anı temsil eder. Bu ikonik performans, müzik tarihinde önemli bir anı işaret ederek devasa stadyum konserlerinin temellerini attı.",
+            "eventDescriptionDe": "Am 15. August 1965 traten die Beatles vor fast 60.000 Fans im Shea Stadium in New York City auf, ein Ereignis, das später als Geburt des Stadionrocks angesehen wurde. Diese ikonische Performance markierte einen bedeutenden Moment in der Musikgeschichte und legte den Grundstein für gigantische Stadionkonzerte.",
+            "eventDescriptionEs": "El 15 de agosto de 1965, The Beatles tocaron ante casi 60,000 fanáticos en el Shea Stadium de la ciudad de Nueva York, un evento que luego se consideró el nacimiento del rock de estadio. Esta icónica presentación marcó un momento significativo en la historia de la música, sentando las bases para conciertos masivos en estadios.",
+            "eventDescriptionIt": "Il 15 agosto 1965, i Beatles si esibirono davanti a quasi 60.000 fan allo Shea Stadium di New York, un evento successivamente considerato la nascita del rock da stadio. Questa performance iconica segnò un momento significativo nella storia della musica, aprendo la strada a concerti in stadi su vasta scala.",
+            "eventDescriptionFr": "Le 15 août 1965, les Beatles ont joué devant près de 60 000 fans au Shea Stadium de New York, un événement ultérieurement considéré comme la naissance du rock de stade. Cette performance emblématique a marqué un moment important dans l'histoire de la musique, ouvrant la voie aux concerts monumentaux en stade."
+          },{
+            "eventId": "209",
+            "eventCategory": "HISTORY",
+            "eventDate": "1914/08/15",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 15, 1914, the Panama Canal opened to traffic with the transit of the cargo ship SS Ancon. This engineering marvel connected the Atlantic and Pacific Oceans, revolutionizing global trade and maritime transportation.",
+            "eventDescriptionTr": "15 Ağustos 1914 tarihinde, Panama Kanalı, yük gemisi SS Ancon'un geçişiyle trafiğe açıldı. Bu mühendislik harikası, Atlantik ve Pasifik Okyanuslarını birleştirerek küresel ticareti ve deniz taşımacılığını devrimleştirdi.",
+            "eventDescriptionDe": "Am 15. August 1914 wurde der Panamakanal für den Verkehr geöffnet, als das Frachtschiff SS Ancon ihn passierte. Dieses technische Meisterwerk verband den Atlantik und den Pazifik miteinander und revolutionierte den globalen Handel und die maritime Transportwirtschaft.",
+            "eventDescriptionEs": "El 15 de agosto de 1914, el Canal de Panamá se abrió al tráfico con el tránsito del buque de carga SS Ancon. Esta maravilla de la ingeniería conectó los océanos Atlántico y Pacífico, revolucionando el comercio global y el transporte marítimo.",
+            "eventDescriptionIt": "Il 15 agosto 1914, il Canale di Panama venne aperto al traffico con il transito della nave da carico SS Ancon. Questo prodigio ingegneristico collegò gli oceani Atlantico e Pacifico, rivoluzionando il commercio globale e il trasporto marittimo.",
+            "eventDescriptionFr": "Le 15 août 1914, le canal de Panama a été ouvert à la circulation avec le passage du navire cargo SS Ancon. Ce prodige de l'ingénierie a relié les océans Atlantique et Pacifique, révolutionnant le commerce mondial et le transport maritime."
           }
     ]
 }
