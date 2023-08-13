@@ -2055,6 +2055,29 @@
             "eventDescriptionEs": "El 15 de agosto de 1998, Apple presentó la computadora iMac. Esta icónica e innovadora computadora marcó un paso significativo en la historia de Apple, con un diseño elegante y tecnologías pioneras.",
             "eventDescriptionIt": "Il 15 agosto 1998, Apple ha introdotto il computer iMac. Questo iconico e innovativo computer ha segnato un passo significativo nella storia di Apple, presentando un design elegante e tecnologie all'avanguardia.",
             "eventDescriptionFr": "Le 15 août 1998, Apple a introduit l'ordinateur iMac. Cet ordinateur emblématique et novateur a marqué une étape importante dans l'histoire d'Apple, avec un design élégant et des technologies pionnières."
-        }
+        },
+        {
+            "eventId": "206",
+            "eventCategory": "POLITICS",
+            "eventDate": "1960/08/15",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 15, 1960, the Republic of the Congo (Brazzaville) became independent from France. This marked a significant milestone in the nation's history as it gained sovereignty and self-governance.",
+            "eventDescriptionTr": "15 Ağustos 1960 tarihinde, Kongo Cumhuriyeti (Brazzaville) Fransa'dan bağımsızlığını kazandı. Bu, ülkenin tarihinde önemli bir dönüm noktasını temsil ederek egemenlik ve öz yönetim kazandığı anı işaret eder.",
+            "eventDescriptionDe": "Am 15. August 1960 erlangte die Republik Kongo (Brazzaville) ihre Unabhängigkeit von Frankreich. Dies markierte einen bedeutsamen Meilenstein in der Geschichte des Landes, da es Souveränität und Selbstverwaltung erlangte.",
+            "eventDescriptionEs": "El 15 de agosto de 1960, la República del Congo (Brazzaville) obtuvo su independencia de Francia. Esto marcó un hito significativo en la historia de la nación al obtener soberanía y autogobierno.",
+            "eventDescriptionIt": "Il 15 agosto 1960, la Repubblica del Congo (Brazzaville) ottenne l'indipendenza dalla Francia. Questo segnò una tappa significativa nella storia della nazione poiché ottenne sovranità e autogoverno.",
+            "eventDescriptionFr": "Le 15 août 1960, la République du Congo (Brazzaville) est devenue indépendante de la France. Cela a marqué une étape importante dans l'histoire de la nation car elle a acquis la souveraineté et l'autonomie."
+        },{
+            "eventId": "207",
+            "eventCategory": "POLITICS",
+            "eventDate": "1948/08/15",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 15, 1948, the First Republic of Korea (South Korea) was established in the southern half of the Korean peninsula. This marked the beginning of a new era for South Korea as it gained independence and established its own government.",
+            "eventDescriptionTr": "15 Ağustos 1948 tarihinde, Kore Yarımadası'nın güney yarısında Kore Cumhuriyeti (Güney Kore) kuruldu. Bu, Güney Kore için yeni bir dönemin başlangıcını temsil ederken bağımsızlık kazanıldı ve kendi hükümeti kuruldu.",
+            "eventDescriptionDe": "Am 15. August 1948 wurde die Erste Republik Korea (Südkorea) in der südlichen Hälfte der koreanischen Halbinsel gegründet. Dies markierte den Beginn einer neuen Ära für Südkorea, da es Unabhängigkeit erlangte und seine eigene Regierung etablierte.",
+            "eventDescriptionEs": "El 15 de agosto de 1948, se estableció la Primera República de Corea (Corea del Sur) en la mitad sur de la península coreana. Esto marcó el comienzo de una nueva era para Corea del Sur al obtener la independencia y establecer su propio gobierno.",
+            "eventDescriptionIt": "Il 15 agosto 1948, è stata istituita la Prima Repubblica di Corea (Corea del Sud) nella metà meridionale della penisola coreana. Questo segnò l'inizio di una nuova era per la Corea del Sud poiché ottenne l'indipendenza ed istituì il proprio governo.",
+            "eventDescriptionFr": "Le 15 août 1948, la Première République de Corée (Corée du Sud) a été établie dans la moitié sud de la péninsule coréenne. Cela a marqué le début d'une nouvelle ère pour la Corée du Sud car elle a acquis son indépendance et établi son propre gouvernement."
+          }
     ]
 }
