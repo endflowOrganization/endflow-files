@@ -2100,6 +2100,17 @@
             "eventDescriptionEs": "El 15 de agosto de 1914, el Canal de Panamá se abrió al tráfico con el tránsito del buque de carga SS Ancon. Esta maravilla de la ingeniería conectó los océanos Atlántico y Pacífico, revolucionando el comercio global y el transporte marítimo.",
             "eventDescriptionIt": "Il 15 agosto 1914, il Canale di Panama venne aperto al traffico con il transito della nave da carico SS Ancon. Questo prodigio ingegneristico collegò gli oceani Atlantico e Pacifico, rivoluzionando il commercio globale e il trasporto marittimo.",
             "eventDescriptionFr": "Le 15 août 1914, le canal de Panama a été ouvert à la circulation avec le passage du navire cargo SS Ancon. Ce prodige de l'ingénierie a relié les océans Atlantique et Pacifique, révolutionnant le commerce mondial et le transport maritime."
+          },{
+            "eventId": "210",
+            "eventCategory": "SPORT",
+            "eventDate": "1970/08/15",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 15, 1970, Patricia Palinkas became the first woman to play professionally in an American football game. Her participation marked a significant milestone in breaking gender barriers in sports.",
+            "eventDescriptionTr": "15 Ağustos 1970 tarihinde, Patricia Palinkas, Amerikan futbolunda profesyonel olarak oynayan ilk kadın oldu. Katılımı, spor alanında cinsiyet engellerini aşmada önemli bir kilometre taşını simgeliyor.",
+            "eventDescriptionDe": "Am 15. August 1970 wurde Patricia Palinkas die erste Frau, die professionell in einem American-Football-Spiel spielte. Ihre Teilnahme markierte einen bedeutenden Meilenstein bei der Überwindung von Geschlechterbarrieren im Sport.",
+            "eventDescriptionEs": "El 15 de agosto de 1970, Patricia Palinkas se convirtió en la primera mujer en jugar profesionalmente en un partido de fútbol americano. Su participación marcó un hito significativo en la ruptura de barreras de género en el deporte.",
+            "eventDescriptionIt": "Il 15 agosto 1970, Patricia Palinkas è diventata la prima donna a giocare professionalmente in una partita di football americano. La sua partecipazione segnò una tappa significativa nella rottura delle barriere di genere nello sport.",
+            "eventDescriptionFr": "Le 15 août 1970, Patricia Palinkas est devenue la première femme à jouer professionnellement lors d'un match de football américain. Sa participation a marqué une étape importante dans la rupture des barrières de genre dans le sport."
           }
     ]
 }
