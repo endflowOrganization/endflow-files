@@ -2031,7 +2031,8 @@
             "eventDescriptionEs": "El 14 de agosto de 1947, Pakistán obtuvo su independencia del Imperio Británico. Esto marcó un momento significativo en la historia del subcontinente indio, ya que Pakistán emergió como una nación soberana.",
             "eventDescriptionIt": "Il 14 agosto 1947, il Pakistan ottenne l'indipendenza dall'Impero britannico. Questo segnò un momento significativo nella storia del subcontinente indiano poiché il Pakistan emerse come nazione sovrana.",
             "eventDescriptionFr": "Le 14 août 1947, le Pakistan a obtenu son indépendance de l'Empire britannique. Cela a marqué un moment significatif dans l'histoire du sous-continent indien alors que le Pakistan émergeait en tant que nation souveraine."
-        },{
+        },
+        {
             "eventId": "204",
             "eventCategory": "PEOPLE",
             "eventDate": "2003/08/14",
@@ -2042,6 +2043,18 @@
             "eventDescriptionEs": "El 14 de agosto de 2003, un apagón de gran magnitud afectó al noreste de Estados Unidos y Canadá, causando una amplia interrupción y dejando a millones de personas sin electricidad.",
             "eventDescriptionIt": "Il 14 agosto 2003, un'ampia interruzione di corrente ha colpito il nord-est degli Stati Uniti e il Canada, causando una diffusa interruzione e lasciando milioni di persone senza elettricità.",
             "eventDescriptionFr": "Le 14 août 2003, une panne de courant généralisée a touché le nord-est des États-Unis et le Canada, causant de vastes perturbations et privant des millions de personnes d'électricité."
-          }
+        },
+        {
+            "eventId": "205",
+            "eventCategory": "TECH",
+            "eventDate": "1998/08/15",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 15, 1998, Apple introduced the iMac computer. This iconic and innovative computer marked a significant step in Apple's history, featuring a sleek design and pioneering technologies.",
+            "eventDescriptionTr": "15 Ağustos 1998 tarihinde, Apple iMac bilgisayarını tanıttı. Bu ikonik ve yenilikçi bilgisayar, Apple'ın tarihinde önemli bir adımı temsil ederek şık bir tasarım ve öncü teknolojiler sunuyordu.",
+            "eventDescriptionDe": "Am 15. August 1998 stellte Apple den iMac-Computer vor. Dieser ikonische und innovative Computer markierte einen bedeutenden Schritt in der Geschichte von Apple und zeichnete sich durch ein schlankes Design und bahnbrechende Technologien aus.",
+            "eventDescriptionEs": "El 15 de agosto de 1998, Apple presentó la computadora iMac. Esta icónica e innovadora computadora marcó un paso significativo en la historia de Apple, con un diseño elegante y tecnologías pioneras.",
+            "eventDescriptionIt": "Il 15 agosto 1998, Apple ha introdotto il computer iMac. Questo iconico e innovativo computer ha segnato un passo significativo nella storia di Apple, presentando un design elegante e tecnologie all'avanguardia.",
+            "eventDescriptionFr": "Le 15 août 1998, Apple a introduit l'ordinateur iMac. Cet ordinateur emblématique et novateur a marqué une étape importante dans l'histoire d'Apple, avec un design élégant et des technologies pionnières."
+        }
     ]
 }
