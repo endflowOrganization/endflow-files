@@ -2247,7 +2247,8 @@
             "eventDescriptionEs": "El 17 de agosto de 1945, Indonesia declaró su independencia de Japón, marcando el fin de la ocupación japonesa en la región.",
             "eventDescriptionIt": "Il 17 agosto 1945, l'Indonesia dichiarò la sua indipendenza dal Giappone, segnando la fine dell'occupazione giapponese nella regione.",
             "eventDescriptionFr": "Le 17 août 1945, l'Indonésie a déclaré son indépendance vis-à-vis du Japon, marquant la fin de l'occupation japonaise dans la région."
-        },{
+        },
+        {
             "eventId": "222",
             "eventCategory": "POLITICS",
             "eventDate": "1960/08/17",
@@ -2258,7 +2259,8 @@
             "eventDescriptionEs": "El 17 de agosto de 1960, Gabón obtuvo su independencia de Francia, convirtiéndose en una nación soberana y autónoma.",
             "eventDescriptionIt": "Il 17 agosto 1960, il Gabon ottenne l'indipendenza dalla Francia, diventando una nazione sovrana e autogovernante.",
             "eventDescriptionFr": "Le 17 août 1960, le Gabon a obtenu son indépendance vis-à-vis de la France, devenant ainsi une nation souveraine et autonome."
-          },{
+        },
+        {
             "eventId": "223",
             "eventCategory": "HISTORY",
             "eventDate": "1945/08/17",
@@ -2269,7 +2271,8 @@
             "eventDescriptionEs": "El 17 de agosto de 1945, se publicó por primera vez la novela 'Rebelión en la granja' de George Orwell, presentando una alegoría satírica de los eventos que llevaron a la Revolución Rusa y los primeros años de la Unión Soviética.",
             "eventDescriptionIt": "Il 17 agosto 1945, la novella 'La fattoria degli animali' di George Orwell venne pubblicata per la prima volta, presentando un'allegra allegoria satirica degli eventi che portarono alla Rivoluzione Russa e ai primi anni dell'Unione Sovietica.",
             "eventDescriptionFr": "Le 17 août 1945, la nouvelle 'La Ferme des animaux' de George Orwell a été publiée pour la première fois, présentant une allégorie satirique des événements menant à la Révolution russe et aux premières années de l'Union soviétique."
-          },{
+        },
+        {
             "eventId": "224",
             "eventCategory": "SCIENCE",
             "eventDate": "1868/08/18",
@@ -2280,9 +2283,18 @@
             "eventDescriptionEs": "El 18 de agosto de 1868, el astrónomo francés Pierre Janssen descubrió el helio, un elemento que previamente era desconocido en la Tierra y que fue identificado por primera vez en el espectro del Sol.",
             "eventDescriptionIt": "Il 18 agosto 1868, l'astronomo francese Pierre Janssen scoprì l'elio, un elemento che precedentemente era sconosciuto sulla Terra e fu identificato per la prima volta nello spettro del Sole.",
             "eventDescriptionFr": "Le 18 août 1868, l'astronome français Pierre Janssen a découvert l'hélium, un élément qui était auparavant inconnu sur Terre et qui a été identifié pour la première fois dans le spectre du Soleil."
-          }
-          
-          
-          
+        },
+        {
+            "eventId": "225",
+            "eventCategory": "HISTORY",
+            "eventDate": "1917/08/18",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 18, 1917, a Great Fire in Thessaloniki, Greece, destroyed 32% of the city, leaving 70,000 individuals homeless.",
+            "eventDescriptionTr": "18 Ağustos 1917 tarihinde, Yunanistan'ın Selanik kentinde Büyük Bir Yangın meydana geldi ve şehrin yüzde 32'si tahrip oldu, 70,000 kişi evsiz kaldı.",
+            "eventDescriptionDe": "Am 18. August 1917 zerstörte ein Großbrand in Thessaloniki, Griechenland, 32% der Stadt und hinterließ 70.000 obdachlose Menschen.",
+            "eventDescriptionEs": "El 18 de agosto de 1917, un Gran Incendio en Tesalónica, Grecia, destruyó el 32% de la ciudad, dejando a 70,000 personas sin hogar.",
+            "eventDescriptionIt": "Il 18 agosto 1917, un Grande Incendio a Salonicco, Grecia, distrusse il 32% della città, lasciando 70.000 persone senza casa.",
+            "eventDescriptionFr": "Le 18 août 1917, un Grand Incendie à Thessalonique, en Grèce, a détruit 32 % de la ville, laissant 70 000 personnes sans abri."
+        }
     ]
 }
