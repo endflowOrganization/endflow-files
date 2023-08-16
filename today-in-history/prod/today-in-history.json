@@ -2222,7 +2222,19 @@
             "eventDescriptionEs": "El 17 de agosto de 1999, el terremoto de İzmit de magnitud 7.6 Mw sacudió el noroeste de Turquía con una intensidad máxima de Mercalli de IX (Violento), dejando 17,118–17,127 muertos y 43,953–50,000 heridos.",
             "eventDescriptionIt": "Il 17 agosto 1999, il terremoto di magnitudo 7.6 Mw di İzmit ha scosso il nord-ovest della Turchia con una massima intensità di Mercalli di IX (Violenta), lasciando 17.118–17.127 morti e 43.953–50.000 feriti.",
             "eventDescriptionFr": "Le 17 août 1999, le séisme de magnitude 7,6 Mw d'İzmit a secoué le nord-ouest de la Turquie avec une intensité maximale de Mercalli de IX (Violent), faisant 17.118–17.127 morts et 43.953–50.000 blessés."
+          },{
+            "eventId": "220",
+            "eventCategory": "POLITICS",
+            "eventDate": "2006/12/30",
+            "eventImg": null,
+            "eventDescriptionEn": "On December 30, 2006, Saddam Hussein, the former President of Iraq, was executed.",
+            "eventDescriptionTr": "30 Aralık 2006 tarihinde, eski Irak Devlet Başkanı Saddam Hüseyin idam edildi.",
+            "eventDescriptionDe": "Am 30. Dezember 2006 wurde Saddam Hussein, der ehemalige Präsident des Irak, hingerichtet.",
+            "eventDescriptionEs": "El 30 de diciembre de 2006, Saddam Hussein, el ex presidente de Irak, fue ejecutado.",
+            "eventDescriptionIt": "Il 30 dicembre 2006, Saddam Hussein, l'ex presidente dell'Iraq, è stato giustiziato.",
+            "eventDescriptionFr": "Le 30 décembre 2006, Saddam Hussein, l'ancien président de l'Irak, a été exécuté."
           }
+          
           
     ]
 }
