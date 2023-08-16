@@ -2178,7 +2178,7 @@
         },
         {
             "eventId": "216",
-            "eventCategory": "EXPLORATION",
+            "eventCategory": "TECH",
             "eventDate": "1978/08/17",
             "eventImg": null,
             "eventDescriptionEn": "On August 17, 1978, the Double Eagle II becomes the first balloon to cross the Atlantic Ocean when it lands in Miserey, France near Paris, 137 hours after leaving Presque Isle, Maine.",
@@ -2187,6 +2187,18 @@
             "eventDescriptionEs": "El 17 de agosto de 1978, el Double Eagle II se convierte en el primer globo en cruzar el océano Atlántico cuando aterriza en Miserey, Francia, cerca de París, 137 horas después de partir de Presque Isle, Maine.",
             "eventDescriptionIt": "Il 17 agosto 1978, il Double Eagle II diventa il primo pallone a attraversare l'Oceano Atlantico quando atterra a Miserey, in Francia, vicino a Parigi, 137 ore dopo aver lasciato Presque Isle, nel Maine.",
             "eventDescriptionFr": "Le 17 août 1978, le Double Eagle II devient le premier ballon à traverser l'océan Atlantique lorsqu'il atterrit à Miserey, en France, près de Paris, 137 heures après avoir quitté Presque Isle, dans le Maine."
-        }
+        },{
+            "eventId": "217",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1943/08/17",
+            "eventImg": null,
+            "eventDescriptionEn": "Robert De Niro, the renowned actor, is born on August 17, 1943.",
+            "eventDescriptionTr": "Ünlü aktör Robert De Niro, 17 Ağustos 1943 tarihinde doğdu.",
+            "eventDescriptionDe": "Der renommierte Schauspieler Robert De Niro wird am 17. August 1943 geboren.",
+            "eventDescriptionEs": "El renombrado actor Robert De Niro nace el 17 de agosto de 1943.",
+            "eventDescriptionIt": "Il rinomato attore Robert De Niro nasce il 17 agosto 1943.",
+            "eventDescriptionFr": "Le célèbre acteur Robert De Niro naît le 17 août 1943."
+          }
+          
     ]
 }
