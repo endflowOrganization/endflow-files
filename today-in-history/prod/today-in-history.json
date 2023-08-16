@@ -2258,7 +2258,19 @@
             "eventDescriptionEs": "El 17 de agosto de 1960, Gabón obtuvo su independencia de Francia, convirtiéndose en una nación soberana y autónoma.",
             "eventDescriptionIt": "Il 17 agosto 1960, il Gabon ottenne l'indipendenza dalla Francia, diventando una nazione sovrana e autogovernante.",
             "eventDescriptionFr": "Le 17 août 1960, le Gabon a obtenu son indépendance vis-à-vis de la France, devenant ainsi une nation souveraine et autonome."
+          },{
+            "eventId": "223",
+            "eventCategory": "HISTORY",
+            "eventDate": "1945/08/17",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 17, 1945, the novella 'Animal Farm' by George Orwell was first published, presenting a satirical allegory of the events leading up to the Russian Revolution and the early years of the Soviet Union.",
+            "eventDescriptionTr": "17 Ağustos 1945 tarihinde, George Orwell'in novellası 'Hayvan Çiftliği' ilk kez yayımlandı ve Rus Devrimi'ne ve Sovyetler Birliği'nin ilk yıllarına dair olayları hicivsel bir alegori ile sunuyordu.",
+            "eventDescriptionDe": "Am 17. August 1945 wurde die Novelle 'Animal Farm' von George Orwell erstmals veröffentlicht. Sie präsentiert eine satirische Allegorie der Ereignisse, die zur Russischen Revolution führten, sowie der frühen Jahre der Sowjetunion.",
+            "eventDescriptionEs": "El 17 de agosto de 1945, se publicó por primera vez la novela 'Rebelión en la granja' de George Orwell, presentando una alegoría satírica de los eventos que llevaron a la Revolución Rusa y los primeros años de la Unión Soviética.",
+            "eventDescriptionIt": "Il 17 agosto 1945, la novella 'La fattoria degli animali' di George Orwell venne pubblicata per la prima volta, presentando un'allegra allegoria satirica degli eventi che portarono alla Rivoluzione Russa e ai primi anni dell'Unione Sovietica.",
+            "eventDescriptionFr": "Le 17 août 1945, la nouvelle 'La Ferme des animaux' de George Orwell a été publiée pour la première fois, présentant une allégorie satirique des événements menant à la Révolution russe et aux premières années de l'Union soviétique."
           }
+          
           
     ]
 }
