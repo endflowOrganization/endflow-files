@@ -2175,6 +2175,18 @@
             "eventDescriptionEs": "El 17 de agosto de 2008, el nadador estadounidense Michael Phelps se convierte en la primera persona en ganar ocho medallas de oro en unos Juegos Olímpicos.",
             "eventDescriptionIt": "Il 17 agosto 2008, il nuotatore statunitense Michael Phelps diventa la prima persona a vincere otto medaglie d'oro in un'unica edizione dei Giochi Olimpici.",
             "eventDescriptionFr": "Le 17 août 2008, le nageur américain Michael Phelps devient la première personne à remporter huit médailles d'or lors d'une seule édition des Jeux olympiques."
+        },
+        {
+            "eventId": "216",
+            "eventCategory": "EXPLORATION",
+            "eventDate": "1978/08/17",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 17, 1978, the Double Eagle II becomes the first balloon to cross the Atlantic Ocean when it lands in Miserey, France near Paris, 137 hours after leaving Presque Isle, Maine.",
+            "eventDescriptionTr": "17 Ağustos 1978 tarihinde, Double Eagle II, Presque Isle, Maine'den ayrıldıktan 137 saat sonra Miserey, Fransa yakınlarındaki Paris'e iniş yaparak Atlantik Okyanusu'nu geçen ilk balon olur.",
+            "eventDescriptionDe": "Am 17. August 1978 wird der Double Eagle II der erste Ballon, der den Atlantik überquert, als er nach 137 Stunden in Miserey, Frankreich, nahe Paris landet, nachdem er Presque Isle, Maine verlassen hat.",
+            "eventDescriptionEs": "El 17 de agosto de 1978, el Double Eagle II se convierte en el primer globo en cruzar el océano Atlántico cuando aterriza en Miserey, Francia, cerca de París, 137 horas después de partir de Presque Isle, Maine.",
+            "eventDescriptionIt": "Il 17 agosto 1978, il Double Eagle II diventa il primo pallone a attraversare l'Oceano Atlantico quando atterra a Miserey, in Francia, vicino a Parigi, 137 ore dopo aver lasciato Presque Isle, nel Maine.",
+            "eventDescriptionFr": "Le 17 août 1978, le Double Eagle II devient le premier ballon à traverser l'océan Atlantique lorsqu'il atterrit à Miserey, en France, près de Paris, 137 heures après avoir quitté Presque Isle, dans le Maine."
         }
     ]
 }
