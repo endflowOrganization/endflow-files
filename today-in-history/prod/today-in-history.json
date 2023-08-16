@@ -2247,6 +2247,18 @@
             "eventDescriptionEs": "El 17 de agosto de 1945, Indonesia declaró su independencia de Japón, marcando el fin de la ocupación japonesa en la región.",
             "eventDescriptionIt": "Il 17 agosto 1945, l'Indonesia dichiarò la sua indipendenza dal Giappone, segnando la fine dell'occupazione giapponese nella regione.",
             "eventDescriptionFr": "Le 17 août 1945, l'Indonésie a déclaré son indépendance vis-à-vis du Japon, marquant la fin de l'occupation japonaise dans la région."
-        }
+        },{
+            "eventId": "222",
+            "eventCategory": "POLITICS",
+            "eventDate": "1960/08/17",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 17, 1960, Gabon gained its independence from France, becoming a sovereign and self-governing nation.",
+            "eventDescriptionTr": "17 Ağustos 1960 tarihinde, Gabon Fransa'dan bağımsızlığını kazanarak egemen ve özerk bir ulus haline geldi.",
+            "eventDescriptionDe": "Am 17. August 1960 erlangte Gabun seine Unabhängigkeit von Frankreich und wurde zu einer souveränen und selbstverwalteten Nation.",
+            "eventDescriptionEs": "El 17 de agosto de 1960, Gabón obtuvo su independencia de Francia, convirtiéndose en una nación soberana y autónoma.",
+            "eventDescriptionIt": "Il 17 agosto 1960, il Gabon ottenne l'indipendenza dalla Francia, diventando una nazione sovrana e autogovernante.",
+            "eventDescriptionFr": "Le 17 août 1960, le Gabon a obtenu son indépendance vis-à-vis de la France, devenant ainsi une nation souveraine et autonome."
+          }
+          
     ]
 }
