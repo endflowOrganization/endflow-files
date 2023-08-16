@@ -2067,7 +2067,8 @@
             "eventDescriptionEs": "El 15 de agosto de 1960, la República del Congo (Brazzaville) obtuvo su independencia de Francia. Esto marcó un hito significativo en la historia de la nación al obtener soberanía y autogobierno.",
             "eventDescriptionIt": "Il 15 agosto 1960, la Repubblica del Congo (Brazzaville) ottenne l'indipendenza dalla Francia. Questo segnò una tappa significativa nella storia della nazione poiché ottenne sovranità e autogoverno.",
             "eventDescriptionFr": "Le 15 août 1960, la République du Congo (Brazzaville) est devenue indépendante de la France. Cela a marqué une étape importante dans l'histoire de la nation car elle a acquis la souveraineté et l'autonomie."
-        },{
+        },
+        {
             "eventId": "207",
             "eventCategory": "POLITICS",
             "eventDate": "1948/08/15",
@@ -2078,7 +2079,8 @@
             "eventDescriptionEs": "El 15 de agosto de 1948, se estableció la Primera República de Corea (Corea del Sur) en la mitad sur de la península coreana. Esto marcó el comienzo de una nueva era para Corea del Sur al obtener la independencia y establecer su propio gobierno.",
             "eventDescriptionIt": "Il 15 agosto 1948, è stata istituita la Prima Repubblica di Corea (Corea del Sud) nella metà meridionale della penisola coreana. Questo segnò l'inizio di una nuova era per la Corea del Sud poiché ottenne l'indipendenza ed istituì il proprio governo.",
             "eventDescriptionFr": "Le 15 août 1948, la Première République de Corée (Corée du Sud) a été établie dans la moitié sud de la péninsule coréenne. Cela a marqué le début d'une nouvelle ère pour la Corée du Sud car elle a acquis son indépendance et établi son propre gouvernement."
-          },{
+        },
+        {
             "eventId": "208",
             "eventCategory": "MUSIC",
             "eventDate": "1965/08/15",
@@ -2089,7 +2091,8 @@
             "eventDescriptionEs": "El 15 de agosto de 1965, The Beatles tocaron ante casi 60,000 fanáticos en el Shea Stadium de la ciudad de Nueva York, un evento que luego se consideró el nacimiento del rock de estadio. Esta icónica presentación marcó un momento significativo en la historia de la música, sentando las bases para conciertos masivos en estadios.",
             "eventDescriptionIt": "Il 15 agosto 1965, i Beatles si esibirono davanti a quasi 60.000 fan allo Shea Stadium di New York, un evento successivamente considerato la nascita del rock da stadio. Questa performance iconica segnò un momento significativo nella storia della musica, aprendo la strada a concerti in stadi su vasta scala.",
             "eventDescriptionFr": "Le 15 août 1965, les Beatles ont joué devant près de 60 000 fans au Shea Stadium de New York, un événement ultérieurement considéré comme la naissance du rock de stade. Cette performance emblématique a marqué un moment important dans l'histoire de la musique, ouvrant la voie aux concerts monumentaux en stade."
-          },{
+        },
+        {
             "eventId": "209",
             "eventCategory": "HISTORY",
             "eventDate": "1914/08/15",
@@ -2100,7 +2103,8 @@
             "eventDescriptionEs": "El 15 de agosto de 1914, el Canal de Panamá se abrió al tráfico con el tránsito del buque de carga SS Ancon. Esta maravilla de la ingeniería conectó los océanos Atlántico y Pacífico, revolucionando el comercio global y el transporte marítimo.",
             "eventDescriptionIt": "Il 15 agosto 1914, il Canale di Panama venne aperto al traffico con il transito della nave da carico SS Ancon. Questo prodigio ingegneristico collegò gli oceani Atlantico e Pacifico, rivoluzionando il commercio globale e il trasporto marittimo.",
             "eventDescriptionFr": "Le 15 août 1914, le canal de Panama a été ouvert à la circulation avec le passage du navire cargo SS Ancon. Ce prodige de l'ingénierie a relié les océans Atlantique et Pacifique, révolutionnant le commerce mondial et le transport maritime."
-          },{
+        },
+        {
             "eventId": "210",
             "eventCategory": "SPORT",
             "eventDate": "1970/08/15",
@@ -2111,7 +2115,8 @@
             "eventDescriptionEs": "El 15 de agosto de 1970, Patricia Palinkas se convirtió en la primera mujer en jugar profesionalmente en un partido de fútbol americano. Su participación marcó un hito significativo en la ruptura de barreras de género en el deporte.",
             "eventDescriptionIt": "Il 15 agosto 1970, Patricia Palinkas è diventata la prima donna a giocare professionalmente in una partita di football americano. La sua partecipazione segnò una tappa significativa nella rottura delle barriere di genere nello sport.",
             "eventDescriptionFr": "Le 15 août 1970, Patricia Palinkas est devenue la première femme à jouer professionnellement lors d'un match de football américain. Sa participation a marqué une étape importante dans la rupture des barrières de genre dans le sport."
-          },{
+        },
+        {
             "eventId": "211",
             "eventCategory": "PEOPLE",
             "eventDate": "1910/08/14",
@@ -2122,7 +2127,8 @@
             "eventDescriptionEs": "El 14 de agosto de 1910 nació la astrónoma y matemática turca Nüzhet Gökdoğan. Es ampliamente reconocida como una de las primeras astrónomas femeninas de Turquía y ha realizado contribuciones significativas en el campo de la astronomía.",
             "eventDescriptionIt": "Il 14 agosto 1910 è nata la astronomo e matematica turca Nüzhet Gökdoğan. È ampiamente riconosciuta come una delle prime astronome femminili della Turchia e ha apportato contributi significativi nel campo dell'astronomia.",
             "eventDescriptionFr": "Le 14 août 1910, l'astronome et mathématicienne turque Nüzhet Gökdoğan est née. Elle est largement reconnue comme l'une des premières astronomes féminines de Turquie et a apporté d'importantes contributions dans le domaine de l'astronomie."
-          },{
+        },
+        {
             "eventId": "212",
             "eventCategory": "TECH",
             "eventDate": "1930/08/16",
@@ -2133,8 +2139,30 @@
             "eventDescriptionEs": "El 16 de agosto de 1930 se estrenó el primer dibujo animado en color con sonido, Fiddlesticks, realizado por Ub Iwerks.",
             "eventDescriptionIt": "Il 16 agosto 1930 viene rilasciato il primo cartone animato a colori e sonoro, Fiddlesticks, prodotto da Ub Iwerks.",
             "eventDescriptionFr": "Le 16 août 1930, le premier dessin animé en couleur avec son, Fiddlesticks, est sorti sous la direction d'Ub Iwerks."
+        },
+        {
+            "eventId": "213",
+            "eventCategory": "HISTORY",
+            "eventDate": "1960/08/16",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 16, 1960, Cyprus gains its independence from the United Kingdom.",
+            "eventDescriptionTr": "16 Ağustos 1960 tarihinde, Kıbrıs Birleşik Krallık'tan bağımsızlığını kazandı.",
+            "eventDescriptionDe": "Am 16. August 1960 erlangt Zypern seine Unabhängigkeit vom Vereinigten Königreich.",
+            "eventDescriptionEs": "El 16 de agosto de 1960, Chipre obtiene su independencia del Reino Unido.",
+            "eventDescriptionIt": "Il 16 agosto 1960 Cipro ottiene l'indipendenza dal Regno Unito.",
+            "eventDescriptionFr": "Le 16 août 1960, Chypre obtient son indépendance du Royaume-Uni."
+        },{
+            "eventId": "214",
+            "eventCategory": "TECH",
+            "eventDate": "1989/08/17",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 17, 1989, a solar particle event affects computers at the Toronto Stock Exchange, forcing a halt to trading.",
+            "eventDescriptionTr": "17 Ağustos 1989 tarihinde, bir güneş parçacık olayı Toronto Borsası'ndaki bilgisayarlara etki ederek ticareti durdurdu.",
+            "eventDescriptionDe": "Am 17. August 1989 beeinflusst ein Sonnenpartikelereignis die Computer an der Toronto Stock Exchange und zwingt zu einem Handelsstopp.",
+            "eventDescriptionEs": "El 17 de agosto de 1989, un evento de partículas solares afecta las computadoras en la Bolsa de Valores de Toronto, forzando una suspensión del comercio.",
+            "eventDescriptionIt": "Il 17 agosto 1989 un evento di particelle solari influisce sui computer alla Borsa di Toronto, costringendo a interrompere le negoziazioni.",
+            "eventDescriptionFr": "Le 17 août 1989, un événement de particules solaires affecte les ordinateurs à la Bourse de Toronto, forçant l'arrêt des échanges."
           }
-          
           
     ]
 }
