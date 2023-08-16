@@ -2187,7 +2187,8 @@
             "eventDescriptionEs": "El 17 de agosto de 1978, el Double Eagle II se convierte en el primer globo en cruzar el océano Atlántico cuando aterriza en Miserey, Francia, cerca de París, 137 horas después de partir de Presque Isle, Maine.",
             "eventDescriptionIt": "Il 17 agosto 1978, il Double Eagle II diventa il primo pallone a attraversare l'Oceano Atlantico quando atterra a Miserey, in Francia, vicino a Parigi, 137 ore dopo aver lasciato Presque Isle, nel Maine.",
             "eventDescriptionFr": "Le 17 août 1978, le Double Eagle II devient le premier ballon à traverser l'océan Atlantique lorsqu'il atterrit à Miserey, en France, près de Paris, 137 heures après avoir quitté Presque Isle, dans le Maine."
-        },{
+        },
+        {
             "eventId": "217",
             "eventCategory": "PEOPLE",
             "eventDate": "1943/08/17",
@@ -2198,7 +2199,18 @@
             "eventDescriptionEs": "El renombrado actor Robert De Niro nace el 17 de agosto de 1943.",
             "eventDescriptionIt": "Il rinomato attore Robert De Niro nasce il 17 agosto 1943.",
             "eventDescriptionFr": "Le célèbre acteur Robert De Niro naît le 17 août 1943."
-          }
-          
+        },
+        {
+            "eventId": "218",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1896/08/17",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 17, 1896, Bridget Driscoll became the first recorded case of a pedestrian killed in a collision with a motor car in the United Kingdom.",
+            "eventDescriptionTr": "17 Ağustos 1896 tarihinde, Bridget Driscoll, Birleşik Krallık'ta bir motor aracıyla çarpışma sonucu hayatını kaybeden ilk yayalı olarak kaydedildi.",
+            "eventDescriptionDe": "Am 17. August 1896 wurde Bridget Driscoll der erste dokumentierte Fall eines Fußgängers, der in Großbritannien bei einem Zusammenstoß mit einem Motorwagen getötet wurde.",
+            "eventDescriptionEs": "El 17 de agosto de 1896, Bridget Driscoll se convirtió en el primer caso registrado de un peatón muerto en una colisión con un automóvil en el Reino Unido.",
+            "eventDescriptionIt": "Il 17 agosto 1896, Bridget Driscoll divenne il primo caso registrato di un pedone ucciso in una collisione con un'auto nel Regno Unito.",
+            "eventDescriptionFr": "Le 17 août 1896, Bridget Driscoll est devenue le premier cas enregistré d'un piéton tué dans une collision avec une voiture au Royaume-Uni."
+        }
     ]
 }
