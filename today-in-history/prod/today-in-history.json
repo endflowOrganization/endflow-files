@@ -2295,6 +2295,18 @@
             "eventDescriptionEs": "El 18 de agosto de 1917, un Gran Incendio en Tesalónica, Grecia, destruyó el 32% de la ciudad, dejando a 70,000 personas sin hogar.",
             "eventDescriptionIt": "Il 18 agosto 1917, un Grande Incendio a Salonicco, Grecia, distrusse il 32% della città, lasciando 70.000 persone senza casa.",
             "eventDescriptionFr": "Le 18 août 1917, un Grand Incendie à Thessalonique, en Grèce, a détruit 32 % de la ville, laissant 70 000 personnes sans abri."
+        },
+        {
+            "eventId": "226",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1954/06/07",
+            "eventImg": null,
+            "eventDescriptionEn": "On June 7, 1954, Alan Turing, the British mathematician, logician, and computer scientist, passed away.",
+            "eventDescriptionTr": "7 Haziran 1954 tarihinde, İngiliz matematikçi, mantıkçı ve bilgisayar bilimcisi Alan Turing hayatını kaybetti.",
+            "eventDescriptionDe": "Am 7. Juni 1954 verstarb Alan Turing, der britische Mathematiker, Logiker und Informatiker.",
+            "eventDescriptionEs": "El 7 de junio de 1954, Alan Turing, el matemático, lógico y científico de la computación británico, falleció.",
+            "eventDescriptionIt": "Il 7 giugno 1954, Alan Turing, il matematico, logico e informatico britannico, è scomparso.",
+            "eventDescriptionFr": "Le 7 juin 1954, Alan Turing, le mathématicien, logicien et informaticien britannique, est décédé."
         }
     ]
 }
