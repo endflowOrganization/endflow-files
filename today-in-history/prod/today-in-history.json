@@ -2269,7 +2269,19 @@
             "eventDescriptionEs": "El 17 de agosto de 1945, se publicó por primera vez la novela 'Rebelión en la granja' de George Orwell, presentando una alegoría satírica de los eventos que llevaron a la Revolución Rusa y los primeros años de la Unión Soviética.",
             "eventDescriptionIt": "Il 17 agosto 1945, la novella 'La fattoria degli animali' di George Orwell venne pubblicata per la prima volta, presentando un'allegra allegoria satirica degli eventi che portarono alla Rivoluzione Russa e ai primi anni dell'Unione Sovietica.",
             "eventDescriptionFr": "Le 17 août 1945, la nouvelle 'La Ferme des animaux' de George Orwell a été publiée pour la première fois, présentant une allégorie satirique des événements menant à la Révolution russe et aux premières années de l'Union soviétique."
+          },{
+            "eventId": "224",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1868/08/18",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 18, 1868, French astronomer Pierre Janssen discovered helium, an element that had previously been unknown on Earth and was first identified in the spectrum of the Sun.",
+            "eventDescriptionTr": "18 Ağustos 1868 tarihinde, Fransız astronom Pierre Janssen helyumu keşfetti. Daha önce Dünya'da bilinmeyen bu element ilk kez Güneş'in spektrumunda tespit edildi.",
+            "eventDescriptionDe": "Am 18. August 1868 entdeckte der französische Astronom Pierre Janssen Helium, ein Element, das zuvor auf der Erde unbekannt war und erstmals im Spektrum der Sonne identifiziert wurde.",
+            "eventDescriptionEs": "El 18 de agosto de 1868, el astrónomo francés Pierre Janssen descubrió el helio, un elemento que previamente era desconocido en la Tierra y que fue identificado por primera vez en el espectro del Sol.",
+            "eventDescriptionIt": "Il 18 agosto 1868, l'astronomo francese Pierre Janssen scoprì l'elio, un elemento che precedentemente era sconosciuto sulla Terra e fu identificato per la prima volta nello spettro del Sole.",
+            "eventDescriptionFr": "Le 18 août 1868, l'astronome français Pierre Janssen a découvert l'hélium, un élément qui était auparavant inconnu sur Terre et qui a été identifié pour la première fois dans le spectre du Soleil."
           }
+          
           
           
     ]
