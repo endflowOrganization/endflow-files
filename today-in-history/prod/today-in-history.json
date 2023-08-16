@@ -2211,7 +2211,8 @@
             "eventDescriptionEs": "El 17 de agosto de 1896, Bridget Driscoll se convirtió en el primer caso registrado de un peatón muerto en una colisión con un automóvil en el Reino Unido.",
             "eventDescriptionIt": "Il 17 agosto 1896, Bridget Driscoll divenne il primo caso registrato di un pedone ucciso in una collisione con un'auto nel Regno Unito.",
             "eventDescriptionFr": "Le 17 août 1896, Bridget Driscoll est devenue le premier cas enregistré d'un piéton tué dans une collision avec une voiture au Royaume-Uni."
-        },{
+        },
+        {
             "eventId": "219",
             "eventCategory": "HISTORY",
             "eventDate": "1999/08/17",
@@ -2222,7 +2223,8 @@
             "eventDescriptionEs": "El 17 de agosto de 1999, el terremoto de İzmit de magnitud 7.6 Mw sacudió el noroeste de Turquía con una intensidad máxima de Mercalli de IX (Violento), dejando 17,118–17,127 muertos y 43,953–50,000 heridos.",
             "eventDescriptionIt": "Il 17 agosto 1999, il terremoto di magnitudo 7.6 Mw di İzmit ha scosso il nord-ovest della Turchia con una massima intensità di Mercalli di IX (Violenta), lasciando 17.118–17.127 morti e 43.953–50.000 feriti.",
             "eventDescriptionFr": "Le 17 août 1999, le séisme de magnitude 7,6 Mw d'İzmit a secoué le nord-ouest de la Turquie avec une intensité maximale de Mercalli de IX (Violent), faisant 17.118–17.127 morts et 43.953–50.000 blessés."
-          },{
+        },
+        {
             "eventId": "220",
             "eventCategory": "POLITICS",
             "eventDate": "2006/12/30",
@@ -2233,8 +2235,18 @@
             "eventDescriptionEs": "El 30 de diciembre de 2006, Saddam Hussein, el ex presidente de Irak, fue ejecutado.",
             "eventDescriptionIt": "Il 30 dicembre 2006, Saddam Hussein, l'ex presidente dell'Iraq, è stato giustiziato.",
             "eventDescriptionFr": "Le 30 décembre 2006, Saddam Hussein, l'ancien président de l'Irak, a été exécuté."
-          }
-          
-          
+        },
+        {
+            "eventId": "221",
+            "eventCategory": "POLITICS",
+            "eventDate": "1945/08/17",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 17, 1945, Indonesia declared its independence from Japan, marking the end of Japanese occupation in the region.",
+            "eventDescriptionTr": "17 Ağustos 1945 tarihinde, Endonezya Japonya'dan bağımsızlığını ilan etti ve bölgedeki Japon işgali sona erdi.",
+            "eventDescriptionDe": "Am 17. August 1945 erklärte Indonesien seine Unabhängigkeit von Japan und beendete die japanische Besatzung in der Region.",
+            "eventDescriptionEs": "El 17 de agosto de 1945, Indonesia declaró su independencia de Japón, marcando el fin de la ocupación japonesa en la región.",
+            "eventDescriptionIt": "Il 17 agosto 1945, l'Indonesia dichiarò la sua indipendenza dal Giappone, segnando la fine dell'occupazione giapponese nella regione.",
+            "eventDescriptionFr": "Le 17 août 1945, l'Indonésie a déclaré son indépendance vis-à-vis du Japon, marquant la fin de l'occupation japonaise dans la région."
+        }
     ]
 }
