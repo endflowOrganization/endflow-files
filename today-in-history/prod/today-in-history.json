@@ -2122,7 +2122,19 @@
             "eventDescriptionEs": "El 14 de agosto de 1910 nació la astrónoma y matemática turca Nüzhet Gökdoğan. Es ampliamente reconocida como una de las primeras astrónomas femeninas de Turquía y ha realizado contribuciones significativas en el campo de la astronomía.",
             "eventDescriptionIt": "Il 14 agosto 1910 è nata la astronomo e matematica turca Nüzhet Gökdoğan. È ampiamente riconosciuta come una delle prime astronome femminili della Turchia e ha apportato contributi significativi nel campo dell'astronomia.",
             "eventDescriptionFr": "Le 14 août 1910, l'astronome et mathématicienne turque Nüzhet Gökdoğan est née. Elle est largement reconnue comme l'une des premières astronomes féminines de Turquie et a apporté d'importantes contributions dans le domaine de l'astronomie."
+          },{
+            "eventId": "212",
+            "eventCategory": "TECH",
+            "eventDate": "1930/08/16",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 16, 1930, the first color sound cartoon, Fiddlesticks, is released by Ub Iwerks.",
+            "eventDescriptionTr": "16 Ağustos 1930 tarihinde, ilk renkli sesli çizgi film olan Fiddlesticks, Ub Iwerks tarafından yayınlandı.",
+            "eventDescriptionDe": "Am 16. August 1930 wurde der erste farbige Ton-Cartoon Fiddlesticks von Ub Iwerks veröffentlicht.",
+            "eventDescriptionEs": "El 16 de agosto de 1930 se estrenó el primer dibujo animado en color con sonido, Fiddlesticks, realizado por Ub Iwerks.",
+            "eventDescriptionIt": "Il 16 agosto 1930 viene rilasciato il primo cartone animato a colori e sonoro, Fiddlesticks, prodotto da Ub Iwerks.",
+            "eventDescriptionFr": "Le 16 août 1930, le premier dessin animé en couleur avec son, Fiddlesticks, est sorti sous la direction d'Ub Iwerks."
           }
+          
           
     ]
 }
