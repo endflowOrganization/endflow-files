@@ -2151,7 +2151,8 @@
             "eventDescriptionEs": "El 16 de agosto de 1960, Chipre obtiene su independencia del Reino Unido.",
             "eventDescriptionIt": "Il 16 agosto 1960 Cipro ottiene l'indipendenza dal Regno Unito.",
             "eventDescriptionFr": "Le 16 août 1960, Chypre obtient son indépendance du Royaume-Uni."
-        },{
+        },
+        {
             "eventId": "214",
             "eventCategory": "TECH",
             "eventDate": "1989/08/17",
@@ -2162,7 +2163,18 @@
             "eventDescriptionEs": "El 17 de agosto de 1989, un evento de partículas solares afecta las computadoras en la Bolsa de Valores de Toronto, forzando una suspensión del comercio.",
             "eventDescriptionIt": "Il 17 agosto 1989 un evento di particelle solari influisce sui computer alla Borsa di Toronto, costringendo a interrompere le negoziazioni.",
             "eventDescriptionFr": "Le 17 août 1989, un événement de particules solaires affecte les ordinateurs à la Bourse de Toronto, forçant l'arrêt des échanges."
-          }
-          
+        },
+        {
+            "eventId": "215",
+            "eventCategory": "SPORT",
+            "eventDate": "2008/08/17",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 17, 2008, American swimmer Michael Phelps becomes the first person to win eight gold medals at one Olympic Games.",
+            "eventDescriptionTr": "17 Ağustos 2008 tarihinde, Amerikalı yüzücü Michael Phelps, bir Olimpiyat Oyunu'nda sekiz altın madalya kazanan ilk kişi olur.",
+            "eventDescriptionDe": "Am 17. August 2008 wird der amerikanische Schwimmer Michael Phelps die erste Person, die bei Olympischen Spielen acht Goldmedaillen gewinnt.",
+            "eventDescriptionEs": "El 17 de agosto de 2008, el nadador estadounidense Michael Phelps se convierte en la primera persona en ganar ocho medallas de oro en unos Juegos Olímpicos.",
+            "eventDescriptionIt": "Il 17 agosto 2008, il nuotatore statunitense Michael Phelps diventa la prima persona a vincere otto medaglie d'oro in un'unica edizione dei Giochi Olimpici.",
+            "eventDescriptionFr": "Le 17 août 2008, le nageur américain Michael Phelps devient la première personne à remporter huit médailles d'or lors d'une seule édition des Jeux olympiques."
+        }
     ]
 }
