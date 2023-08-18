@@ -2366,7 +2366,19 @@
             "eventDescriptionEs": "El 20 de agosto de 1960, Senegal se separa de la Federación de Malí, declarando su independencia.",
             "eventDescriptionIt": "Il 20 agosto 1960, il Senegal si stacca dalla Federazione del Mali, dichiarando la propria indipendenza.",
             "eventDescriptionFr": "Le 20 août 1960, le Sénégal rompt avec la Fédération du Mali et proclame son indépendance."
+          },{
+            "eventId": "232",
+            "eventCategory": "TECH",
+            "eventDate": "1920/08/20",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 20, 1920, the first commercial radio station, 8MK (now WWJ), begins operations in Detroit.",
+            "eventDescriptionTr": "20 Ağustos 1920 tarihinde, ilk ticari radyo istasyonu 8MK (şimdi WWJ), Detroit'ta yayın yapmaya başladı.",
+            "eventDescriptionDe": "Am 20. August 1920 nahm der erste kommerzielle Radiosender, 8MK (jetzt WWJ), in Detroit seinen Betrieb auf.",
+            "eventDescriptionEs": "El 20 de agosto de 1920, la primera emisora de radio comercial, 8MK (ahora WWJ), comienza sus operaciones en Detroit.",
+            "eventDescriptionIt": "Il 20 agosto 1920, la prima stazione radio commerciale, 8MK (ora WWJ), inizia le sue operazioni a Detroit.",
+            "eventDescriptionFr": "Le 20 août 1920, la première station de radio commerciale, 8MK (maintenant WWJ), commence ses opérations à Détroit."
           }
+          
           
     ]
 }
