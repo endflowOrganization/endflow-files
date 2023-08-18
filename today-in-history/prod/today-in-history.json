@@ -2318,7 +2318,19 @@
             "eventDescriptionEs": "El 19 de agosto de 2004, Google Inc. realizó su oferta pública inicial (OPI) en la bolsa de valores Nasdaq.",
             "eventDescriptionIt": "Il 19 agosto 2004, Google Inc. ha avuto la sua offerta pubblica iniziale (IPO) sulla borsa Nasdaq.",
             "eventDescriptionFr": "Le 19 août 2004, Google Inc. a réalisé son introduction en bourse (IPO) à la bourse Nasdaq."
+          },{
+            "eventId": "228",
+            "eventCategory": "POLITICS",
+            "eventDate": "1934/08/19",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 19, 1934, the German referendum approves Adolf Hitler's appointment as head of state with the title of Führer.",
+            "eventDescriptionTr": "19 Ağustos 1934 tarihinde, Alman referandumu Adolf Hitler'in devlet başkanı olarak atanmasını ve Führer unvanını onaylar.",
+            "eventDescriptionDe": "Am 19. August 1934 wurde im deutschen Referendum die Ernennung von Adolf Hitler zum Staatsoberhaupt mit dem Titel Führer genehmigt.",
+            "eventDescriptionEs": "El 19 de agosto de 1934, el referéndum alemán aprueba el nombramiento de Adolf Hitler como jefe de estado con el título de Führer.",
+            "eventDescriptionIt": "Il 19 agosto 1934, il referendum tedesco approva la nomina di Adolf Hitler a capo di stato con il titolo di Führer.",
+            "eventDescriptionFr": "Le 19 août 1934, le référendum allemand approuve la nomination d'Adolf Hitler à la tête de l'État avec le titre de Führer."
           }
+          
           
     ]
 }
