@@ -2307,7 +2307,8 @@
             "eventDescriptionEs": "El 7 de junio de 1954, Alan Turing, el matemático, lógico y científico de la computación británico, falleció.",
             "eventDescriptionIt": "Il 7 giugno 1954, Alan Turing, il matematico, logico e informatico britannico, è scomparso.",
             "eventDescriptionFr": "Le 7 juin 1954, Alan Turing, le mathématicien, logicien et informaticien britannique, est décédé."
-        },{
+        },
+        {
             "eventId": "227",
             "eventCategory": "TECH",
             "eventDate": "2004/08/19",
@@ -2318,7 +2319,8 @@
             "eventDescriptionEs": "El 19 de agosto de 2004, Google Inc. realizó su oferta pública inicial (OPI) en la bolsa de valores Nasdaq.",
             "eventDescriptionIt": "Il 19 agosto 2004, Google Inc. ha avuto la sua offerta pubblica iniziale (IPO) sulla borsa Nasdaq.",
             "eventDescriptionFr": "Le 19 août 2004, Google Inc. a réalisé son introduction en bourse (IPO) à la bourse Nasdaq."
-          },{
+        },
+        {
             "eventId": "228",
             "eventCategory": "POLITICS",
             "eventDate": "1934/08/19",
@@ -2329,7 +2331,8 @@
             "eventDescriptionEs": "El 19 de agosto de 1934, el referéndum alemán aprueba el nombramiento de Adolf Hitler como jefe de estado con el título de Führer.",
             "eventDescriptionIt": "Il 19 agosto 1934, il referendum tedesco approva la nomina di Adolf Hitler a capo di stato con il titolo di Führer.",
             "eventDescriptionFr": "Le 19 août 1934, le référendum allemand approuve la nomination d'Adolf Hitler à la tête de l'État avec le titre de Führer."
-          },{
+        },
+        {
             "eventId": "229",
             "eventCategory": "SCIENCE",
             "eventDate": "1964/08/19",
@@ -2340,6 +2343,18 @@
             "eventDescriptionEs": "El 19 de agosto de 1964, se lanzó el primer satélite de comunicaciones geoestacionario Syncom 3. Dos meses después, permitiría la cobertura en vivo de los Juegos Olímpicos de Verano de 1964.",
             "eventDescriptionIt": "Il 19 agosto 1964 è stato lanciato il primo satellite per comunicazioni geostazionarie, il Syncom 3. Due mesi dopo, avrebbe permesso la copertura in diretta delle Olimpiadi estive del 1964.",
             "eventDescriptionFr": "Le 19 août 1964, Syncom 3, le premier satellite de communication géostationnaire, est lancé. Deux mois plus tard, il permettrait la couverture en direct des Jeux olympiques d'été de 1964."
-          }
+        },
+        {
+            "eventId": "230",
+            "eventCategory": "HISTORY",
+            "eventDate": "1991/08/19",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 19, 1991, the Crown Heights riot begins.",
+            "eventDescriptionTr": "19 Ağustos 1991 tarihinde, Crown Heights ayaklanması başladı.",
+            "eventDescriptionDe": "Am 19. August 1991 begannen die Ausschreitungen in Crown Heights.",
+            "eventDescriptionEs": "El 19 de agosto de 1991, comienza el disturbio de Crown Heights.",
+            "eventDescriptionIt": "Il 19 agosto 1991, ha inizio la rivolta di Crown Heights.",
+            "eventDescriptionFr": "Le 19 août 1991, éclate l'émeute de Crown Heights."
+        }
     ]
 }
