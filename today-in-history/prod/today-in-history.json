@@ -2355,6 +2355,18 @@
             "eventDescriptionEs": "El 19 de agosto de 1991, comienza el disturbio de Crown Heights.",
             "eventDescriptionIt": "Il 19 agosto 1991, ha inizio la rivolta di Crown Heights.",
             "eventDescriptionFr": "Le 19 août 1991, éclate l'émeute de Crown Heights."
-        }
+        },{
+            "eventId": "231",
+            "eventCategory": "POLITICS",
+            "eventDate": "1960/08/20",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 20, 1960, Senegal breaks from the Mali Federation, declaring its independence.",
+            "eventDescriptionTr": "20 Ağustos 1960 tarihinde Senegal, Mali Federasyonu'ndan ayrılarak bağımsızlığını ilan etti.",
+            "eventDescriptionDe": "Am 20. August 1960 löst sich Senegal von der Mali-Föderation und erklärt seine Unabhängigkeit.",
+            "eventDescriptionEs": "El 20 de agosto de 1960, Senegal se separa de la Federación de Malí, declarando su independencia.",
+            "eventDescriptionIt": "Il 20 agosto 1960, il Senegal si stacca dalla Federazione del Mali, dichiarando la propria indipendenza.",
+            "eventDescriptionFr": "Le 20 août 1960, le Sénégal rompt avec la Fédération du Mali et proclame son indépendance."
+          }
+          
     ]
 }
