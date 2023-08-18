@@ -2329,8 +2329,17 @@
             "eventDescriptionEs": "El 19 de agosto de 1934, el referéndum alemán aprueba el nombramiento de Adolf Hitler como jefe de estado con el título de Führer.",
             "eventDescriptionIt": "Il 19 agosto 1934, il referendum tedesco approva la nomina di Adolf Hitler a capo di stato con il titolo di Führer.",
             "eventDescriptionFr": "Le 19 août 1934, le référendum allemand approuve la nomination d'Adolf Hitler à la tête de l'État avec le titre de Führer."
+          },{
+            "eventId": "229",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1964/08/19",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 19, 1964, Syncom 3, the first geostationary communication satellite, is launched. Two months later, it would enable live coverage of the 1964 Summer Olympics.",
+            "eventDescriptionTr": "19 Ağustos 1964 tarihinde, ilk yörüngesel iletişim uydusu olan Syncom 3 fırlatıldı. İki ay sonra, 1964 Yaz Olimpiyatları'nın canlı yayınını mümkün kılacaktı.",
+            "eventDescriptionDe": "Am 19. August 1964 wurde der erste geostationäre Kommunikationssatellit Syncom 3 gestartet. Zwei Monate später ermöglichte er die Live-Übertragung der Olympischen Sommerspiele 1964.",
+            "eventDescriptionEs": "El 19 de agosto de 1964, se lanzó el primer satélite de comunicaciones geoestacionario Syncom 3. Dos meses después, permitiría la cobertura en vivo de los Juegos Olímpicos de Verano de 1964.",
+            "eventDescriptionIt": "Il 19 agosto 1964 è stato lanciato il primo satellite per comunicazioni geostazionarie, il Syncom 3. Due mesi dopo, avrebbe permesso la copertura in diretta delle Olimpiadi estive del 1964.",
+            "eventDescriptionFr": "Le 19 août 1964, Syncom 3, le premier satellite de communication géostationnaire, est lancé. Deux mois plus tard, il permettrait la couverture en direct des Jeux olympiques d'été de 1964."
           }
-          
-          
     ]
 }
