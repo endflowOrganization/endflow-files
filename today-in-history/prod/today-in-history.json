@@ -2307,6 +2307,18 @@
             "eventDescriptionEs": "El 7 de junio de 1954, Alan Turing, el matemático, lógico y científico de la computación británico, falleció.",
             "eventDescriptionIt": "Il 7 giugno 1954, Alan Turing, il matematico, logico e informatico britannico, è scomparso.",
             "eventDescriptionFr": "Le 7 juin 1954, Alan Turing, le mathématicien, logicien et informaticien britannique, est décédé."
-        }
+        },{
+            "eventId": "227",
+            "eventCategory": "TECH",
+            "eventDate": "2004/08/19",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 19, 2004, Google Inc. has its initial public offering (IPO) on the Nasdaq stock exchange.",
+            "eventDescriptionTr": "19 Ağustos 2004 tarihinde, Google Inc., ilk halka arzını (IPO) Nasdaq borsasında gerçekleştirdi.",
+            "eventDescriptionDe": "Am 19. August 2004 führte Google Inc. seinen Börsengang (IPO) an der Nasdaq-Börse durch.",
+            "eventDescriptionEs": "El 19 de agosto de 2004, Google Inc. realizó su oferta pública inicial (OPI) en la bolsa de valores Nasdaq.",
+            "eventDescriptionIt": "Il 19 agosto 2004, Google Inc. ha avuto la sua offerta pubblica iniziale (IPO) sulla borsa Nasdaq.",
+            "eventDescriptionFr": "Le 19 août 2004, Google Inc. a réalisé son introduction en bourse (IPO) à la bourse Nasdaq."
+          }
+          
     ]
 }
