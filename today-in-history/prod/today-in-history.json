@@ -2485,8 +2485,40 @@
             "eventDescriptionEs": "El 22 de agosto de 1902, Theodore Roosevelt se convierte en el primer presidente de Estados Unidos en hacer una aparición pública en un automóvil.",
             "eventDescriptionIt": "Il 22 agosto 1902, Theodore Roosevelt diventa il primo Presidente degli Stati Uniti a fare una comparsa pubblica in un'automobile.",
             "eventDescriptionFr": "Le 22 août 1902, Theodore Roosevelt devient le premier président des États-Unis à faire une apparition publique dans une automobile."
+          },{
+            "eventId": "242",
+            "eventCategory": "HISTORY",
+            "eventDate": "1942/08/22",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 22, 1942, Brazil declares war on Germany, Japan, and Italy.",
+            "eventDescriptionTr": "22 Ağustos 1942 tarihinde, Brezilya Almanya, Japonya ve İtalya'ya savaş ilan etti.",
+            "eventDescriptionDe": "Am 22. August 1942 erklärte Brasilien Deutschland, Japan und Italien den Krieg.",
+            "eventDescriptionEs": "El 22 de agosto de 1942, Brasil declara la guerra a Alemania, Japón e Italia.",
+            "eventDescriptionIt": "Il 22 agosto 1942, il Brasile dichiara guerra a Germania, Giappone e Italia.",
+            "eventDescriptionFr": "Le 22 août 1942, le Brésil déclare la guerre à l'Allemagne, au Japon et à l'Italie."
+          },{
+            "eventId": "243",
+            "eventCategory": "HISTORY",
+            "eventDate": "1991/08/29",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 29, 1991, Iceland becomes the first nation in the world to recognize the independence of the Baltic states.",
+            "eventDescriptionTr": "29 Ağustos 1991 tarihinde, İzlanda, Bağımsız Baltık Devletleri'ni tanıyan dünyadaki ilk ülke oldu.",
+            "eventDescriptionDe": "Am 29. August 1991 erkannte Island als erstes Land der Welt die Unabhängigkeit der baltischen Staaten an.",
+            "eventDescriptionEs": "El 29 de agosto de 1991, Islandia se convierte en la primera nación en el mundo en reconocer la independencia de los estados bálticos.",
+            "eventDescriptionIt": "Il 29 agosto 1991, l'Islanda diventa la prima nazione al mondo a riconoscere l'indipendenza degli Stati baltici.",
+            "eventDescriptionFr": "Le 29 août 1991, l'Islande devient la première nation au monde à reconnaître l'indépendance des États baltes."
+          },{
+            "eventId": "244",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1999/08/22",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 22, 1999, China Airlines Flight 642 crashes at Hong Kong International Airport, killing three people and injuring 208 more.",
+            "eventDescriptionTr": "22 Ağustos 1999 tarihinde, China Airlines Uçuşu 642 Hong Kong Uluslararası Havalimanı'nda düşerek üç kişinin ölümüne ve 208 kişinin yaralanmasına neden oldu.",
+            "eventDescriptionDe": "Am 22. August 1999 stürzte China Airlines Flug 642 am internationalen Flughafen Hongkong ab und tötete drei Personen sowie 208 weitere wurden verletzt.",
+            "eventDescriptionEs": "El 22 de agosto de 1999, el Vuelo 642 de China Airlines se estrella en el Aeropuerto Internacional de Hong Kong, matando a tres personas e hiriendo a otras 208.",
+            "eventDescriptionIt": "Il 22 agosto 1999, il Volo 642 della China Airlines si schianta all'Aeroporto Internazionale di Hong Kong, causando la morte di tre persone e ferendo altre 208.",
+            "eventDescriptionFr": "Le 22 août 1999, le vol 642 de la China Airlines s'est écrasé à l'aéroport international de Hong Kong, tuant trois personnes et en blessant 208 autres."
           }
-          
           
     ]
 }
