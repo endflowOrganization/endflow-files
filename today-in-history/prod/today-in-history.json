@@ -2427,7 +2427,8 @@
             "eventDescriptionEs": "El 21 de agosto de 2013, se informó que cientos de personas murieron en ataques químicos en la región de Ghouta en Siria.",
             "eventDescriptionIt": "Il 21 agosto 2013, centinaia di persone sono state segnalate uccise in attacchi chimici nella regione di Ghouta in Siria.",
             "eventDescriptionFr": "Le 21 août 2013, des centaines de personnes ont été tuées par des attaques chimiques dans la région de Ghouta en Syrie."
-        },{
+        },
+        {
             "eventId": "237",
             "eventCategory": "PEOPLE",
             "eventDate": "1986/08/21",
@@ -2438,7 +2439,8 @@
             "eventDescriptionEs": "El 21 de agosto de 1986, el gas dióxido de carbono eruptó del lago volcánico Nyos en Camerún, matando a hasta 1,800 personas en un radio de 20 kilómetros.",
             "eventDescriptionIt": "Il 21 agosto 1986, il gas di anidride carbonica eruttò dal lago vulcanico Nyos in Camerun, uccidendo fino a 1.800 persone in un raggio di 20 chilometri.",
             "eventDescriptionFr": "Le 21 août 1986, du gaz de dioxyde de carbone a éclaté du lac volcanique Nyos au Cameroun, tuant jusqu'à 1 800 personnes dans un rayon de 20 kilomètres."
-          },{
+        },
+        {
             "eventId": "238",
             "eventCategory": "POLITICS",
             "eventDate": "1991/08/21",
@@ -2449,8 +2451,18 @@
             "eventDescriptionEs": "El 21 de agosto de 1991, Letonia declaró la renovación de su plena independencia después de su ocupación por la Unión Soviética desde 1940.",
             "eventDescriptionIt": "Il 21 agosto 1991, la Lettonia dichiarò il rinnovo della sua piena indipendenza dopo l'occupazione da parte dell'Unione Sovietica dal 1940.",
             "eventDescriptionFr": "Le 21 août 1991, la Lettonie a déclaré le renouvellement de sa pleine indépendance après son occupation par l'Union soviétique depuis 1940."
-          }
-          
-          
+        },
+        {
+            "eventId": "239",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1993/08/21",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 21, 1993, NASA lost contact with the Mars Observer spacecraft.",
+            "eventDescriptionTr": "21 Ağustos 1993 tarihinde, NASA Mars Observer uzay aracıyla iletişimini kaybetti.",
+            "eventDescriptionDe": "Am 21. August 1993 verlor die NASA den Kontakt zum Mars Observer-Raumschiff.",
+            "eventDescriptionEs": "El 21 de agosto de 1993, la NASA perdió contacto con la nave espacial Mars Observer.",
+            "eventDescriptionIt": "Il 21 agosto 1993, la NASA perse il contatto con la sonda spaziale Mars Observer.",
+            "eventDescriptionFr": "Le 21 août 1993, la NASA a perdu le contact avec la sonde spatiale Mars Observer."
+        }
     ]
 }
