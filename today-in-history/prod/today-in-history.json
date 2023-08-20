@@ -2393,7 +2393,7 @@
             "eventDescriptionFr": "Le 20 août 1949, la Hongrie a adopté la Constitution hongroise de 1949 et est devenue une République populaire."
         },
         {
-            "eventId": "262",
+            "eventId": "234",
             "eventCategory": "PEOPLE",
             "eventDate": "1821/08/21",
             "eventImg": null,
@@ -2403,6 +2403,18 @@
             "eventDescriptionEs": "El 21 de agosto de 1821, la Isla Jarvis fue descubierta por la tripulación del barco Eliza Frances.",
             "eventDescriptionIt": "Il 21 agosto 1821, l'Isola Jarvis fu scoperta dall'equipaggio della nave Eliza Frances.",
             "eventDescriptionFr": "Le 21 août 1821, l'île Jarvis a été découverte par l'équipage du navire Eliza Frances."
+        },
+        {
+            "eventId": "235",
+            "eventCategory": "TECH",
+            "eventDate": "1888/08/21",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 21, 1888, the first successful adding machine in the United States was patented by William Seward Burroughs.",
+            "eventDescriptionTr": "21 Ağustos 1888 tarihinde, Birleşik Devletler'de ilk başarılı toplama makinesi William Seward Burroughs tarafından patente alındı.",
+            "eventDescriptionDe": "Am 21. August 1888 wurde die erste erfolgreiche Rechenmaschine in den Vereinigten Staaten von William Seward Burroughs patentiert.",
+            "eventDescriptionEs": "El 21 de agosto de 1888, se patentó la primera máquina sumadora exitosa en los Estados Unidos por William Seward Burroughs.",
+            "eventDescriptionIt": "Il 21 agosto 1888, la prima calcolatrice di successo negli Stati Uniti è stata brevettata da William Seward Burroughs.",
+            "eventDescriptionFr": "Le 21 août 1888, la première machine à additionner réussie aux États-Unis a été brevetée par William Seward Burroughs."
         }
     ]
 }
