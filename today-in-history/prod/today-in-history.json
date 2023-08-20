@@ -2415,6 +2415,18 @@
             "eventDescriptionEs": "El 21 de agosto de 1888, se patentó la primera máquina sumadora exitosa en los Estados Unidos por William Seward Burroughs.",
             "eventDescriptionIt": "Il 21 agosto 1888, la prima calcolatrice di successo negli Stati Uniti è stata brevettata da William Seward Burroughs.",
             "eventDescriptionFr": "Le 21 août 1888, la première machine à additionner réussie aux États-Unis a été brevetée par William Seward Burroughs."
+        },
+        {
+            "eventId": "236",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2013/08/21",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 21, 2013, hundreds of people were reported killed by chemical attacks in the Ghouta region of Syria.",
+            "eventDescriptionTr": "21 Ağustos 2013 tarihinde, Suriye'nin Ghouta bölgesinde kimyasal saldırılarda yüzlerce kişinin öldüğü bildirildi.",
+            "eventDescriptionDe": "Am 21. August 2013 wurden Hunderte von Menschen in der Ghouta-Region in Syrien durch chemische Angriffe getötet.",
+            "eventDescriptionEs": "El 21 de agosto de 2013, se informó que cientos de personas murieron en ataques químicos en la región de Ghouta en Siria.",
+            "eventDescriptionIt": "Il 21 agosto 2013, centinaia di persone sono state segnalate uccise in attacchi chimici nella regione di Ghouta in Siria.",
+            "eventDescriptionFr": "Le 21 août 2013, des centaines de personnes ont été tuées par des attaques chimiques dans la région de Ghouta en Syrie."
         }
     ]
 }
