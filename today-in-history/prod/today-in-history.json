@@ -2355,7 +2355,8 @@
             "eventDescriptionEs": "El 19 de agosto de 1991, comienza el disturbio de Crown Heights.",
             "eventDescriptionIt": "Il 19 agosto 1991, ha inizio la rivolta di Crown Heights.",
             "eventDescriptionFr": "Le 19 août 1991, éclate l'émeute de Crown Heights."
-        },{
+        },
+        {
             "eventId": "231",
             "eventCategory": "POLITICS",
             "eventDate": "1960/08/20",
@@ -2366,7 +2367,8 @@
             "eventDescriptionEs": "El 20 de agosto de 1960, Senegal se separa de la Federación de Malí, declarando su independencia.",
             "eventDescriptionIt": "Il 20 agosto 1960, il Senegal si stacca dalla Federazione del Mali, dichiarando la propria indipendenza.",
             "eventDescriptionFr": "Le 20 août 1960, le Sénégal rompt avec la Fédération du Mali et proclame son indépendance."
-          },{
+        },
+        {
             "eventId": "232",
             "eventCategory": "TECH",
             "eventDate": "1920/08/20",
@@ -2377,7 +2379,8 @@
             "eventDescriptionEs": "El 20 de agosto de 1920, la primera emisora de radio comercial, 8MK (ahora WWJ), comienza sus operaciones en Detroit.",
             "eventDescriptionIt": "Il 20 agosto 1920, la prima stazione radio commerciale, 8MK (ora WWJ), inizia le sue operazioni a Detroit.",
             "eventDescriptionFr": "Le 20 août 1920, la première station de radio commerciale, 8MK (maintenant WWJ), commence ses opérations à Détroit."
-          },{
+        },
+        {
             "eventId": "233",
             "eventCategory": "HISTORY",
             "eventDate": "1949/08/20",
@@ -2388,9 +2391,18 @@
             "eventDescriptionEs": "El 20 de agosto de 1949, Hungría adoptó la Constitución Húngara de 1949 y se convirtió en una República Popular.",
             "eventDescriptionIt": "Il 20 agosto 1949, l'Ungheria ha adottato la Costituzione Ungherese del 1949 ed è diventata una Repubblica Popolare.",
             "eventDescriptionFr": "Le 20 août 1949, la Hongrie a adopté la Constitution hongroise de 1949 et est devenue une République populaire."
-          }
-          
-          
-          
+        },
+        {
+            "eventId": "262",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1821/08/21",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 21, 1821, Jarvis Island was discovered by the crew of the ship Eliza Frances.",
+            "eventDescriptionTr": "21 Ağustos 1821 tarihinde, Jarvis Adası Eliza Frances gemisinin mürettebatı tarafından keşfedildi.",
+            "eventDescriptionDe": "Am 21. August 1821 wurde die Jarvis-Insel von der Besatzung des Schiffes Eliza Frances entdeckt.",
+            "eventDescriptionEs": "El 21 de agosto de 1821, la Isla Jarvis fue descubierta por la tripulación del barco Eliza Frances.",
+            "eventDescriptionIt": "Il 21 agosto 1821, l'Isola Jarvis fu scoperta dall'equipaggio della nave Eliza Frances.",
+            "eventDescriptionFr": "Le 21 août 1821, l'île Jarvis a été découverte par l'équipage du navire Eliza Frances."
+        }
     ]
 }
