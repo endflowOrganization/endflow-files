@@ -2463,6 +2463,30 @@
             "eventDescriptionEs": "El 21 de agosto de 1993, la NASA perdió contacto con la nave espacial Mars Observer.",
             "eventDescriptionIt": "Il 21 agosto 1993, la NASA perse il contatto con la sonda spaziale Mars Observer.",
             "eventDescriptionFr": "Le 21 août 1993, la NASA a perdu le contact avec la sonde spatiale Mars Observer."
-        }
+        },{
+            "eventId": "240",
+            "eventCategory": "TECH",
+            "eventDate": "1902/08/22",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 22, 1902, the Cadillac Motor Company is founded.",
+            "eventDescriptionTr": "22 Ağustos 1902 tarihinde, Cadillac Motor Şirketi kuruldu.",
+            "eventDescriptionDe": "Am 22. August 1902 wurde die Cadillac Motor Company gegründet.",
+            "eventDescriptionEs": "El 22 de agosto de 1902 se fundó la compañía Cadillac Motor.",
+            "eventDescriptionIt": "Il 22 agosto 1902 è stata fondata la Cadillac Motor Company.",
+            "eventDescriptionFr": "Le 22 août 1902, la Cadillac Motor Company a été fondée."
+          },{
+            "eventId": "241",
+            "eventCategory": "HISTORY",
+            "eventDate": "1902/08/22",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 22, 1902, Theodore Roosevelt becomes the first President of the United States to make a public appearance in an automobile.",
+            "eventDescriptionTr": "22 Ağustos 1902 tarihinde, Theodore Roosevelt Amerika Birleşik Devletleri'nin ilk otomobilde halka açık bir şekilde görünen başkanı oldu.",
+            "eventDescriptionDe": "Am 22. August 1902 wurde Theodore Roosevelt der erste Präsident der Vereinigten Staaten, der in einem Auto öffentlich auftrat.",
+            "eventDescriptionEs": "El 22 de agosto de 1902, Theodore Roosevelt se convierte en el primer presidente de Estados Unidos en hacer una aparición pública en un automóvil.",
+            "eventDescriptionIt": "Il 22 agosto 1902, Theodore Roosevelt diventa il primo Presidente degli Stati Uniti a fare una comparsa pubblica in un'automobile.",
+            "eventDescriptionFr": "Le 22 août 1902, Theodore Roosevelt devient le premier président des États-Unis à faire une apparition publique dans une automobile."
+          }
+          
+          
     ]
 }
