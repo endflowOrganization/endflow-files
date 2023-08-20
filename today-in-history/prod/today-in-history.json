@@ -2438,7 +2438,19 @@
             "eventDescriptionEs": "El 21 de agosto de 1986, el gas dióxido de carbono eruptó del lago volcánico Nyos en Camerún, matando a hasta 1,800 personas en un radio de 20 kilómetros.",
             "eventDescriptionIt": "Il 21 agosto 1986, il gas di anidride carbonica eruttò dal lago vulcanico Nyos in Camerun, uccidendo fino a 1.800 persone in un raggio di 20 chilometri.",
             "eventDescriptionFr": "Le 21 août 1986, du gaz de dioxyde de carbone a éclaté du lac volcanique Nyos au Cameroun, tuant jusqu'à 1 800 personnes dans un rayon de 20 kilomètres."
+          },{
+            "eventId": "238",
+            "eventCategory": "POLITICS",
+            "eventDate": "1991/08/21",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 21, 1991, Latvia declared the renewal of its full independence after its occupation by the Soviet Union since 1940.",
+            "eventDescriptionTr": "21 Ağustos 1991 tarihinde, Letonya, 1940'tan beri Sovyetler Birliği tarafından işgal edilmesinin ardından tam bağımsızlığını yeniden ilan etti.",
+            "eventDescriptionDe": "Am 21. August 1991 erklärte Lettland die Wiederherstellung seiner vollen Unabhängigkeit nach der Besetzung durch die Sowjetunion seit 1940.",
+            "eventDescriptionEs": "El 21 de agosto de 1991, Letonia declaró la renovación de su plena independencia después de su ocupación por la Unión Soviética desde 1940.",
+            "eventDescriptionIt": "Il 21 agosto 1991, la Lettonia dichiarò il rinnovo della sua piena indipendenza dopo l'occupazione da parte dell'Unione Sovietica dal 1940.",
+            "eventDescriptionFr": "Le 21 août 1991, la Lettonie a déclaré le renouvellement de sa pleine indépendance après son occupation par l'Union soviétique depuis 1940."
           }
+          
           
     ]
 }
