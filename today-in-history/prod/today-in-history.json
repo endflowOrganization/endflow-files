@@ -2678,6 +2678,16 @@
             "eventDescriptionEs": "La NASA lanza con éxito el Telescopio Espacial Spitzer al espacio.",
             "eventDescriptionIt": "La NASA ha lanciato con successo il Telescopio Spaziale Spitzer nello spazio.",
             "eventDescriptionFr": "La NASA lance avec succès le télescope spatial Spitzer dans l'espace."
+          },{
+            "eventId": "260",
+            "eventCategory": "HISTORY",
+            "eventDate": "1830/08/25",
+            "eventDescriptionEn": "The Belgian Revolution began.",
+            "eventDescriptionTr": "Belçika Devrimi başladı.",
+            "eventDescriptionDe": "Die Belgische Revolution begann.",
+            "eventDescriptionEs": "Comenzó la Revolución Belga.",
+            "eventDescriptionIt": "Iniziò la Rivoluzione Belga.",
+            "eventDescriptionFr": "La Révolution belge a commencé."
           }
           
           
