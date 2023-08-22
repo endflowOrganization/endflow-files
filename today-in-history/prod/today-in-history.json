@@ -2588,7 +2588,18 @@
             "eventDescriptionEs": "El líder libio Muamar el Gadafi es derrocado después de que las fuerzas del Consejo Nacional de Transición tomen el control del complejo de Bab al-Azizia durante la Guerra Civil Libia.",
             "eventDescriptionIt": "Il leader libico Muammar Gheddafi viene rovesciato dopo che le forze del Consiglio Nazionale di Transizione prendono il controllo del complesso di Bab al-Azizia durante la Guerra Civile Libica.",
             "eventDescriptionFr": "Le dirigeant libyen Mouammar Kadhafi est renversé après que les forces du Conseil national de transition prennent le contrôle du complexe de Bab al-Azizia lors de la Guerre civile libyenne."
+          },{
+            "eventId": "251",
+            "eventCategory": "HISTORY",
+            "eventDate": "1628/08/23",
+            "eventDescriptionEn": "George Villiers, the first Duke of Buckingham, is assassinated by John Felton.",
+            "eventDescriptionTr": "George Villiers, Buckingham Düklüğü'nün ilk dükü, John Felton tarafından suikast sonucu öldürüldü.",
+            "eventDescriptionDe": "George Villiers, der erste Herzog von Buckingham, wird von John Felton ermordet.",
+            "eventDescriptionEs": "George Villiers, el primer duque de Buckingham, es asesinado por John Felton.",
+            "eventDescriptionIt": "George Villiers, il primo Duca di Buckingham, viene assassinato da John Felton.",
+            "eventDescriptionFr": "George Villiers, le premier duc de Buckingham, est assassiné par John Felton."
           }
+          
           
           
     ]
