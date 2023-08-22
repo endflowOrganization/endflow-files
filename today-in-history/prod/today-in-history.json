@@ -2658,6 +2658,16 @@
             "eventDescriptionEs": "Bielorrusia obtiene su independencia de la Unión Soviética.",
             "eventDescriptionIt": "La Bielorussia ottiene l'indipendenza dall'Unione Sovietica.",
             "eventDescriptionFr": "La Biélorussie accède à l'indépendance vis-à-vis de l'Union soviétique."
+          },{
+            "eventId": "258",
+            "eventCategory": "POLITICS",
+            "eventDate": "1980/08/25",
+            "eventDescriptionEn": "Zimbabwe joins the United Nations.",
+            "eventDescriptionTr": "Zimbabve Birleşmiş Milletler'e katılır.",
+            "eventDescriptionDe": "Simbabwe tritt den Vereinten Nationen bei.",
+            "eventDescriptionEs": "Zimbabue se une a las Naciones Unidas.",
+            "eventDescriptionIt": "Lo Zimbabwe si unisce alle Nazioni Unite.",
+            "eventDescriptionFr": "Le Zimbabwe rejoint les Nations unies."
           }
           
           
