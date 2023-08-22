@@ -2557,6 +2557,17 @@
             "eventDescriptionEs": "El 23 de agosto de 1991, se abrió al público la World Wide Web (WWW), marcando un hito significativo en el desarrollo de Internet y en la forma en que se comparte y accede a la información a nivel global.",
             "eventDescriptionIt": "Il 23 agosto 1991 è stato aperto al pubblico il World Wide Web (WWW), segnando una pietra miliare significativa nello sviluppo di Internet e nel modo in cui le informazioni vengono condivise e accessate a livello globale.",
             "eventDescriptionFr": "Le 23 août 1991, le World Wide Web (WWW) a été ouvert au public, marquant une étape significative dans le développement d'Internet et dans la manière dont les informations sont partagées et accessibles à l'échelle mondiale."
+          },{
+            "eventId": "248",
+            "eventCategory": "POLITICS",
+            "eventDate": "1991/08/23",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 23, 1991, Armenia declared its independence from the Soviet Union, marking a significant step in the dissolution of the Soviet bloc and the emergence of independent nations.",
+            "eventDescriptionTr": "23 Ağustos 1991 tarihinde, Ermenistan Sovyetler Birliği'nden bağımsızlığını ilan etti ve bu, Sovyet bloğunun çözülmesinde ve bağımsız ulusların ortaya çıkmasında önemli bir adımı işaret etti.",
+            "eventDescriptionDe": "Am 23. August 1991 erklärte Armenien seine Unabhängigkeit von der Sowjetunion und markierte damit einen bedeutenden Schritt in der Auflösung des sowjetischen Blocks und dem Aufkommen unabhängiger Nationen.",
+            "eventDescriptionEs": "El 23 de agosto de 1991, Armenia declaró su independencia de la Unión Soviética, marcando un paso significativo en la disolución del bloque soviético y la aparición de naciones independientes.",
+            "eventDescriptionIt": "Il 23 agosto 1991 l'Armenia ha dichiarato la sua indipendenza dall'Unione Sovietica, segnando un passo significativo nella dissoluzione del blocco sovietico e nell'emergere di nazioni indipendenti.",
+            "eventDescriptionFr": "Le 23 août 1991, l'Arménie a déclaré son indépendance vis-à-vis de l'Union soviétique, marquant une étape significative dans la dissolution du bloc soviétique et l'émergence de nations indépendantes."
           }
     ]
 }
