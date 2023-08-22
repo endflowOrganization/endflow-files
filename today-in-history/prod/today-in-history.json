@@ -2535,6 +2535,28 @@
             "eventDescriptionEs": "El 23 de agosto de 1873, se inauguró el puente Albert en Chelsea, Londres. El puente es conocido por su diseño distintivo y es una parte importante de la infraestructura de transporte de la ciudad.",
             "eventDescriptionIt": "Il 23 agosto 1873, il ponte Albert a Chelsea, Londra, fu aperto al pubblico. Il ponte è noto per il suo design distintivo ed è una parte importante dell'infrastruttura di trasporto della città.",
             "eventDescriptionFr": "Le 23 août 1873, le pont Albert à Chelsea, Londres, a été ouvert au public. Le pont est connu pour son design distinctif et constitue une partie importante de l'infrastructure de transport de la ville."
-        }
+        },{
+            "eventId": "246",
+            "eventCategory": "HISTORY",
+            "eventDate": "1904/08/23",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 23, 1904, the patent for the automobile tire chain was granted. This invention played a significant role in improving traction and safety for vehicles during winter and icy conditions.",
+            "eventDescriptionTr": "23 Ağustos 1904 tarihinde, otomobil lastik zincirinin patenti verildi. Bu icat, kış ve buzlu koşullarda araçların çekişini ve güvenliğini artırmada önemli bir rol oynadı.",
+            "eventDescriptionDe": "Am 23. August 1904 wurde das Patent für die Autoreifenkette erteilt. Diese Erfindung spielte eine wichtige Rolle bei der Verbesserung von Traktion und Sicherheit für Fahrzeuge während winterlicher und eisiger Bedingungen.",
+            "eventDescriptionEs": "El 23 de agosto de 1904 se otorgó la patente de la cadena de neumáticos para automóviles. Esta invención desempeñó un papel significativo en la mejora de la tracción y la seguridad de los vehículos durante condiciones invernales y heladas.",
+            "eventDescriptionIt": "Il 23 agosto 1904 è stata concessa la patente per la catena per pneumatici per automobili. Questa invenzione ha giocato un ruolo significativo nel migliorare la trazione e la sicurezza dei veicoli durante le condizioni invernali e ghiacciate.",
+            "eventDescriptionFr": "Le 23 août 1904, le brevet de la chaîne de pneus pour automobiles a été accordé. Cette invention a joué un rôle important dans l'amélioration de la traction et de la sécurité des véhicules par temps hivernal et glacé."
+          },{
+            "eventId": "247",
+            "eventCategory": "TECH",
+            "eventDate": "1991/08/23",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 23, 1991, the World Wide Web (WWW) was opened to the public, marking a significant milestone in the development of the internet and the way information is shared and accessed globally.",
+            "eventDescriptionTr": "23 Ağustos 1991 tarihinde, Dünya Çapında Ağ (World Wide Web) halka açıldı ve bu, internetin gelişiminde ve küresel olarak bilginin paylaşılma ve erişilme şeklinde önemli bir kilometre taşıydı.",
+            "eventDescriptionDe": "Am 23. August 1991 wurde das World Wide Web (WWW) für die Öffentlichkeit zugänglich gemacht, was einen bedeutenden Meilenstein in der Entwicklung des Internets und der Art und Weise, wie Informationen global geteilt und abgerufen werden, darstellt.",
+            "eventDescriptionEs": "El 23 de agosto de 1991, se abrió al público la World Wide Web (WWW), marcando un hito significativo en el desarrollo de Internet y en la forma en que se comparte y accede a la información a nivel global.",
+            "eventDescriptionIt": "Il 23 agosto 1991 è stato aperto al pubblico il World Wide Web (WWW), segnando una pietra miliare significativa nello sviluppo di Internet e nel modo in cui le informazioni vengono condivise e accessate a livello globale.",
+            "eventDescriptionFr": "Le 23 août 1991, le World Wide Web (WWW) a été ouvert au public, marquant une étape significative dans le développement d'Internet et dans la manière dont les informations sont partagées et accessibles à l'échelle mondiale."
+          }
     ]
 }
