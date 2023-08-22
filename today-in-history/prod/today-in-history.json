@@ -2638,6 +2638,16 @@
             "eventDescriptionEs": "Se crea el Territorio Antártico Australiano.",
             "eventDescriptionIt": "Viene creato il Territorio Antartico Australiano.",
             "eventDescriptionFr": "Le Territoire Antarctique Australien est créé."
+          },{
+            "eventId": "256",
+            "eventCategory": "POLITICS",
+            "eventDate": "1950/08/25",
+            "eventDescriptionEn": "Edith Sampson becomes the first black U.S. delegate to the United Nations.",
+            "eventDescriptionTr": "Edith Sampson, Amerika Birleşik Devletleri'nin Birleşmiş Milletler'e ilk siyah delege olarak atanır.",
+            "eventDescriptionDe": "Edith Sampson wird die erste schwarze US-Delegierte bei den Vereinten Nationen.",
+            "eventDescriptionEs": "Edith Sampson se convierte en la primera delegada negra de Estados Unidos en las Naciones Unidas.",
+            "eventDescriptionIt": "Edith Sampson diventa la prima delegata nera degli Stati Uniti alle Nazioni Unite.",
+            "eventDescriptionFr": "Edith Sampson devient la première déléguée noire des États-Unis auprès des Nations Unies."
           }
           
           
