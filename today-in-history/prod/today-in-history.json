@@ -2568,6 +2568,17 @@
             "eventDescriptionEs": "El 23 de agosto de 1991, Armenia declaró su independencia de la Unión Soviética, marcando un paso significativo en la disolución del bloque soviético y la aparición de naciones independientes.",
             "eventDescriptionIt": "Il 23 agosto 1991 l'Armenia ha dichiarato la sua indipendenza dall'Unione Sovietica, segnando un passo significativo nella dissoluzione del blocco sovietico e nell'emergere di nazioni indipendenti.",
             "eventDescriptionFr": "Le 23 août 1991, l'Arménie a déclaré son indépendance vis-à-vis de l'Union soviétique, marquant une étape significative dans la dissolution du bloc soviétique et l'émergence de nations indépendantes."
+          },{
+            "eventId": "249",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1769/08/23",
+            "eventDescriptionEn": "Georges Cuvier, the French naturalist and zoologist, was born on August 23, 1769.",
+            "eventDescriptionTr": "Fransız doğa bilimci ve zoolog Georges Cuvier, 23 Ağustos 1769 tarihinde doğdu.",
+            "eventDescriptionDe": "Georges Cuvier, der französische Naturforscher und Zoologe, wurde am 23. August 1769 geboren.",
+            "eventDescriptionEs": "Georges Cuvier, el naturalista y zoólogo francés, nació el 23 de agosto de 1769.",
+            "eventDescriptionIt": "Georges Cuvier, il naturalista e zoologo francese, è nato il 23 agosto 1769.",
+            "eventDescriptionFr": "Georges Cuvier, le naturaliste et zoologiste français, est né le 23 août 1769."
           }
+          
     ]
 }
