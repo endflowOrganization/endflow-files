@@ -2688,6 +2688,16 @@
             "eventDescriptionEs": "Comenzó la Revolución Belga.",
             "eventDescriptionIt": "Iniziò la Rivoluzione Belga.",
             "eventDescriptionFr": "La Révolution belge a commencé."
+          },{
+            "eventId": "261",
+            "eventCategory": "TECH",
+            "eventDate": "1991/08/25",
+            "eventDescriptionEn": "Linus Torvalds announces the first version of what will become Linux.",
+            "eventDescriptionTr": "Linus Torvalds, Linux'un ilk versiyonunu duyurdu.",
+            "eventDescriptionDe": "Linus Torvalds kündigt die erste Version von dem an, was später zu Linux wird.",
+            "eventDescriptionEs": "Linus Torvalds anuncia la primera versión de lo que se convertirá en Linux.",
+            "eventDescriptionIt": "Linus Torvalds annuncia la prima versione di ciò che diventerà Linux.",
+            "eventDescriptionFr": "Linus Torvalds annonce la première version de ce qui deviendra Linux."
           }
           
           
