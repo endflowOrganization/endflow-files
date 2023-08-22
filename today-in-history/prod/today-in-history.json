@@ -2668,6 +2668,16 @@
             "eventDescriptionEs": "Zimbabue se une a las Naciones Unidas.",
             "eventDescriptionIt": "Lo Zimbabwe si unisce alle Nazioni Unite.",
             "eventDescriptionFr": "Le Zimbabwe rejoint les Nations unies."
+          },{
+            "eventId": "259",
+            "eventCategory": "SCIENCE",
+            "eventDate": "2003/08/25",
+            "eventDescriptionEn": "NASA successfully launches the Spitzer Space Telescope into space.",
+            "eventDescriptionTr": "NASA, Spitzer Uzay Teleskobunu başarıyla uzaya fırlatır.",
+            "eventDescriptionDe": "Die NASA startet erfolgreich das Spitzer Weltraumteleskop ins All.",
+            "eventDescriptionEs": "La NASA lanza con éxito el Telescopio Espacial Spitzer al espacio.",
+            "eventDescriptionIt": "La NASA ha lanciato con successo il Telescopio Spaziale Spitzer nello spazio.",
+            "eventDescriptionFr": "La NASA lance avec succès le télescope spatial Spitzer dans l'espace."
           }
           
           
