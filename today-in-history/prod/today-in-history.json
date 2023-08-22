@@ -2578,7 +2578,18 @@
             "eventDescriptionEs": "Georges Cuvier, el naturalista y zoólogo francés, nació el 23 de agosto de 1769.",
             "eventDescriptionIt": "Georges Cuvier, il naturalista e zoologo francese, è nato il 23 agosto 1769.",
             "eventDescriptionFr": "Georges Cuvier, le naturaliste et zoologiste français, est né le 23 août 1769."
+          },{
+            "eventId": "250",
+            "eventCategory": "POLITICS",
+            "eventDate": "2011/08/23",
+            "eventDescriptionEn": "Libyan leader Muammar Gaddafi is overthrown after the National Transitional Council forces take control of Bab al-Azizia compound during the Libyan Civil War.",
+            "eventDescriptionTr": "Libya lideri Muammer Kaddafi, Libya İç Savaşı sırasında Ulusal Geçiş Konseyi güçlerinin Bab el-Aziziye üssünü ele geçirmesi sonucu devrildi.",
+            "eventDescriptionDe": "Der libysche Führer Muammar al-Gaddafi wird gestürzt, nachdem die Kräfte des Nationalen Übergangsrats die Kontrolle über das Bab al-Azizia-Gelände im Verlauf des libyschen Bürgerkriegs übernehmen.",
+            "eventDescriptionEs": "El líder libio Muamar el Gadafi es derrocado después de que las fuerzas del Consejo Nacional de Transición tomen el control del complejo de Bab al-Azizia durante la Guerra Civil Libia.",
+            "eventDescriptionIt": "Il leader libico Muammar Gheddafi viene rovesciato dopo che le forze del Consiglio Nazionale di Transizione prendono il controllo del complesso di Bab al-Azizia durante la Guerra Civile Libica.",
+            "eventDescriptionFr": "Le dirigeant libyen Mouammar Kadhafi est renversé après que les forces du Conseil national de transition prennent le contrôle du complexe de Bab al-Azizia lors de la Guerre civile libyenne."
           }
+          
           
     ]
 }
