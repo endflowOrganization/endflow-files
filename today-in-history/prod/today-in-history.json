@@ -2618,6 +2618,16 @@
             "eventDescriptionEs": "Ucrania declaró su independencia de la Unión Soviética.",
             "eventDescriptionIt": "L'Ucraina ha dichiarato l'indipendenza dall'Unione Sovietica.",
             "eventDescriptionFr": "L'Ukraine a déclaré son indépendance vis-à-vis de l'Union soviétique."
+          },{
+            "eventId": "254",
+            "eventCategory": "TECH",
+            "eventDate": "1995/08/24",
+            "eventDescriptionEn": "Microsoft Windows 95 was released to the public in North America.",
+            "eventDescriptionTr": "Microsoft Windows 95, Kuzey Amerika'da halka açık olarak yayınlandı.",
+            "eventDescriptionDe": "Microsoft Windows 95 wurde in Nordamerika für die Öffentlichkeit freigegeben.",
+            "eventDescriptionEs": "Microsoft Windows 95 fue lanzado al público en América del Norte.",
+            "eventDescriptionIt": "Microsoft Windows 95 è stato rilasciato al pubblico in Nord America.",
+            "eventDescriptionFr": "Microsoft Windows 95 a été publié pour le public en Amérique du Nord."
           }
           
           
