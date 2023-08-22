@@ -2731,6 +2731,18 @@
             "eventDescriptionEs": "El 27 de agosto de 1955 se publicó la primera edición del Libro Guinness de los Récords en Gran Bretaña.",
             "eventDescriptionIt": "Il 27 agosto 1955, è stata pubblicata la prima edizione del Libro Guinness dei Primati in Gran Bretagna.",
             "eventDescriptionFr": "Le 27 août 1955, la première édition du Livre Guinness des records a été publiée au Royaume-Uni."
+          },{
+            "eventId": "265",
+            "eventCategory": "HISTORY",
+            "eventDate": "1898/08/28",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 28, 1898, Caleb Bradham's beverage 'Brad's Drink' was renamed 'Pepsi-Cola'.",
+            "eventDescriptionTr": "28 Ağustos 1898 tarihinde, Caleb Bradham'ın içeceği 'Brad's Drink' 'Pepsi-Cola' olarak adlandırıldı.",
+            "eventDescriptionDe": "Am 28. August 1898 wurde das Getränk 'Brad's Drink' von Caleb Bradham in 'Pepsi-Cola' umbenannt.",
+            "eventDescriptionEs": "El 28 de agosto de 1898, la bebida 'Brad's Drink' de Caleb Bradham fue renombrada como 'Pepsi-Cola'.",
+            "eventDescriptionIt": "Il 28 agosto 1898, la bevanda 'Brad's Drink' di Caleb Bradham è stata rinominata 'Pepsi-Cola'.",
+            "eventDescriptionFr": "Le 28 août 1898, la boisson 'Brad's Drink' de Caleb Bradham a été renommée 'Pepsi-Cola'."
           }
+          
     ]
 }
