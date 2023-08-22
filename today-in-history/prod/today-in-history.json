@@ -2628,6 +2628,16 @@
             "eventDescriptionEs": "Microsoft Windows 95 fue lanzado al público en América del Norte.",
             "eventDescriptionIt": "Microsoft Windows 95 è stato rilasciato al pubblico in Nord America.",
             "eventDescriptionFr": "Microsoft Windows 95 a été publié pour le public en Amérique du Nord."
+          },{
+            "eventId": "255",
+            "eventCategory": "HISTORY",
+            "eventDate": "1933/08/24",
+            "eventDescriptionEn": "The Australian Antarctic Territory is created.",
+            "eventDescriptionTr": "Avustralya Antarktika Bölgesi oluşturuldu.",
+            "eventDescriptionDe": "Das Australische Antarktis-Territorium wurde geschaffen.",
+            "eventDescriptionEs": "Se crea el Territorio Antártico Australiano.",
+            "eventDescriptionIt": "Viene creato il Territorio Antartico Australiano.",
+            "eventDescriptionFr": "Le Territoire Antarctique Australien est créé."
           }
           
           
