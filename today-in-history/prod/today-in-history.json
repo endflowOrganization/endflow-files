@@ -2931,7 +2931,18 @@
             "eventDescriptionDe": "Am 31. August 1991 erklärte Kirgisistan seine Unabhängigkeit von der Sowjetunion. Das Oberste Sowjet der Kirgisischen Sozialistischen Sowjetrepublik stimmte einstimmig für die Unabhängigkeit.",
             "eventDescriptionEs": "El 31 de agosto de 1991, Kirguistán declaró su independencia de la Unión Soviética. El Soviet Supremo de la República Socialista Soviética de Kirguistán votó unánimemente a favor de la independencia.",
             "eventDescriptionIt": "Il 31 agosto 1991, il Kirghizistan ha dichiarato la sua indipendenza dall'Unione Sovietica. Il Soviet Supremo della Repubblica Socialista Sovietica Kirghisa ha votato all'unanimità per l'indipendenza."
+          },{
+            "eventId": "284",
+            "eventCategory": "HISTORY",
+            "eventDate": "1957/08/31",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 31, 1957, the Federation of Malaya (now Malaysia) gained its independence from the United Kingdom. The ceremony was held in Kuala Lumpur, the capital of Malaya. The Union Jack was lowered and the Malayan flag was raised for the first time.",
+            "eventDescriptionTr": "31 Ağustos 1957'de, Malaya Federasyonu (şimdi Malezya) Birleşik Krallık'tan bağımsızlığını kazandı. Tören, Malaya'nın başkenti Kuala Lumpur'da yapıldı. Birleşik Krallık bayrağı indirildi ve Malezya bayrağı ilk kez kaldırıldı.",
+            "eventDescriptionDe": "Am 31. August 1957 erlangte die Föderation Malaya (heute Malaysia) ihre Unabhängigkeit von Großbritannien. Die Zeremonie fand in Kuala Lumpur, der Hauptstadt von Malaya, statt. Die britische Flagge wurde eingeholt und die malaysische Flagge wurde zum ersten Mal gehisst.",
+            "eventDescriptionEs": "El 31 de agosto de 1957, la Federación de Malaya (actualmente Malasia) obtuvo su independencia del Reino Unido. La ceremonia se llevó a cabo en Kuala Lumpur, la capital de Malaya. La bandera del Reino Unido fue arriada y la bandera de Malasia fue izada por primera vez.",
+            "eventDescriptionIt": "Il 31 agosto 1957, la Federazione della Malaya (ora Malaysia) ottenne l'indipendenza dal Regno Unito. La cerimonia si è svolta a Kuala Lumpur, la capitale della Malaya. La bandiera del Regno Unito è stata ammainata e la bandiera della Malesia è stata issata per la prima volta."
           }
+          
           
     ]
 }
