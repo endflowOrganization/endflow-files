@@ -2994,6 +2994,17 @@
             "eventDescriptionDe": "Am 1. September 1939 marschierte Deutschland in Polen ein und markierte damit den Beginn des Zweiten Weltkriegs.",
             "eventDescriptionEs": "El 1 de septiembre de 1939, Alemania invadió Polonia, lo que marcó el inicio de la Segunda Guerra Mundial.",
             "eventDescriptionIt": "Il 1 settembre 1939, la Germania invase la Polonia, segnando l'inizio della seconda guerra mondiale."
-        }
+        },{
+            "eventId": "287",
+            "eventCategory": "HISTORY",
+            "eventDate": "1838/09/01",
+            "eventImg": null,
+            "eventDescriptionEn": "Saint Andrew's Scots School, the oldest school of British origin in South America, is established in Buenos Aires, Argentina.",
+            "eventDescriptionTr": "Güney Amerika'nın en eski İngiliz kökenli okulu olan Saint Andrew's Scots School, Arjantin'in Buenos Aires şehrinde kuruldu.",
+            "eventDescriptionDe": "Die Saint Andrew's Scots School, die älteste Schule britischer Herkunft in Südamerika, wurde in Buenos Aires, Argentinien, gegründet.",
+            "eventDescriptionEs": "El Saint Andrew's Scots School, la escuela de origen británico más antigua de América del Sur, se estableció en Buenos Aires, Argentina.",
+            "eventDescriptionIt": "La Saint Andrew's Scots School, la scuola di origine britannica più antica dell'America del Sud, è stata fondata a Buenos Aires, in Argentina."
+          }
+          
     ]
 }
