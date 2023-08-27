@@ -2851,7 +2851,18 @@
             "eventDescriptionDe": "Chadwick Boseman, der Schauspieler, der Black Panther im Marvel Cinematic Universe spielte, starb am 28. August 2020 im Alter von 43 Jahren an Darmkrebs. Er war vier Jahre zuvor an Krebs diagnostiziert worden.",
             "eventDescriptionEs": "Chadwick Boseman, el actor que interpretó a Black Panther en el Universo Cinematográfico de Marvel, murió el 28 de agosto de 2020 a los 43 años de cáncer de colon. Le habían diagnosticado la enfermedad cuatro años antes.",
             "eventDescriptionIt": "Chadwick Boseman, l'attore che ha interpretato Black Panther nell'Universo Cinematografico Marvel, è morto il 28 agosto 2020 all'età di 43 anni per un cancro al colon. Gli era stato diagnosticato la malattia quattro anni prima."
+          },{
+            "eventId": "276",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1845/08/28",
+            "eventImg": null,
+            "eventDescriptionEn": "The first issue of Scientific American magazine was published on August 28, 1845. It was founded by Rufus Porter, an inventor and publisher. The magazine's goal was to popularize science and technology.",
+            "eventDescriptionTr": "Scientific American dergisinin ilk sayısı, 28 Ağustos 1845'te yayınlandı. Dergi, mucit ve yayıncı Rufus Porter tarafından kuruldu. Derginin amacı, bilim ve teknolojiyi popüler hale getirmekti.",
+            "eventDescriptionDe": "Die erste Ausgabe des Scientific American Magazins wurde am 28. August 1845 veröffentlicht. Es wurde von Rufus Porter, einem Erfinder und Verleger, gegründet. Das Ziel des Magazins war es, Wissenschaft und Technologie zu popularisieren.",
+            "eventDescriptionEs": "La primera edición de la revista Scientific American se publicó el 28 de agosto de 1845. Fue fundada por Rufus Porter, un inventor y editor. El objetivo de la revista era popularizar la ciencia y la tecnología.",
+            "eventDescriptionIt": "Il primo numero della rivista Scientific American è stato pubblicato il 28 agosto 1845. È stato fondato da Rufus Porter, un inventore e editore. L'obiettivo della rivista era quello di rendere popolare la scienza e la tecnologia."
           }
+          
           
     ]
 }
