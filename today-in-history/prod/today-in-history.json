@@ -2830,7 +2830,17 @@
             "eventDescriptionEs": "Marte hizo su acercamiento más cercano a la Tierra el 31 de julio de 2023, pasando a 34.646.418 millas (55.758.005 km) de distancia. Este fue el acercamiento más cercano entre los dos planetas desde el 27 de agosto de 2003, y el acercamiento más cercano que ocurrirá hasta el 22 de agosto de 2287.",
             "eventDescriptionIt": "Marte ha fatto il suo avvicinamento più vicino alla Terra il 31 luglio 2023, passando a 34.646.418 miglia (55.758.005 km) di distanza. Questo è stato l'avvicinamento più vicino tra i due pianeti dal 27 agosto 2003 e l'avvicinamento più vicino che avverrà fino al 22 agosto 2287.",
             "eventDescriptionFr": "Mars a fait son approche la plus proche de la Terre le 31 juillet 2023, passant à 34.646.418 miles (55.758.005 km) de distance. C'était l'approche la plus proche entre les deux planètes depuis le 27 août 2003, et l'approche la plus proche qui se produira jusqu'au 22 août 2287."
+          },{
+            "eventId": "274",
+            "eventCategory": "HISTORY",
+            "eventDate": "1609/08/28",
+            "eventImg": null,
+            "eventDescriptionEn": "English explorer Henry Hudson discovered Delaware Bay on August 28, 1609, while sailing for the Dutch East India Company. He named it \"New Netherland\" and explored the area for several weeks.",
+            "eventDescriptionTr": "İngiliz kaşif Henry Hudson, 1609/08/28 tarihinde Hollanda Doğu Hindistan Şirketi için seyir halindeyken Delaware Körfezi'ni keşfetti. Ona \"Yeni Hollanda\" adını verdi ve birkaç hafta boyunca bölgeyi araştırdı.",
+            "eventDescriptionDe": "Der englische Entdecker Henry Hudson entdeckte am 28. August 1609 die Delaware Bay, als er für die Niederländische Ostindien-Kompanie segelte. Er nannte sie \"Neu-Niederlande\" und erforschte die Region mehrere Wochen lang.",
+            "eventDescriptionEs": "El explorador inglés Henry Hudson descubrió la Bahía de Delaware el 28 de agosto de 1609, mientras navegaba para la Compañía Holandesa de las Indias Orientales. La llamó \"Nueva Holanda\" y exploró la zona durante varias semanas.",
+            "eventDescriptionIt": "L'esploratore inglese Henry Hudson scoprì la Baia di Delaware il 28 agosto 1609, mentre navigava per la Compagnia Olandese delle Indie Orientali. La chiamò \"Nuova Olanda\" e esplorò la zona per diverse settimane.",
+            "eventDescriptionFr": "L'explorateur anglais Henry Hudson a découvert la baie de Delaware le 28 août 1609, alors qu'il naviguait pour la Compagnie néerlandaise des Indes orientales. Il l'a baptisée \"Nouvelle-Hollande\" et a exploré la région pendant plusieurs semaines."
           }
-          
     ]
 }
