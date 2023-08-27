@@ -2841,6 +2841,17 @@
             "eventDescriptionEs": "El explorador inglés Henry Hudson descubrió la Bahía de Delaware el 28 de agosto de 1609, mientras navegaba para la Compañía Holandesa de las Indias Orientales. La llamó \"Nueva Holanda\" y exploró la zona durante varias semanas.",
             "eventDescriptionIt": "L'esploratore inglese Henry Hudson scoprì la Baia di Delaware il 28 agosto 1609, mentre navigava per la Compagnia Olandese delle Indie Orientali. La chiamò \"Nuova Olanda\" e esplorò la zona per diverse settimane.",
             "eventDescriptionFr": "L'explorateur anglais Henry Hudson a découvert la baie de Delaware le 28 août 1609, alors qu'il naviguait pour la Compagnie néerlandaise des Indes orientales. Il l'a baptisée \"Nouvelle-Hollande\" et a exploré la région pendant plusieurs semaines."
+          },{
+            "eventId": "275",
+            "eventCategory": "HISTORY",
+            "eventDate": "2020/08/28",
+            "eventImg": null,
+            "eventDescriptionEn": "Chadwick Boseman, the actor who played Black Panther in the Marvel Cinematic Universe, died on August 28, 2020, at the age of 43. He had been diagnosed with colon cancer four years earlier.",
+            "eventDescriptionTr": "Chadwick Boseman, Marvel Sinematik Evreni'nde Black Panther'ı oynayan aktör, 2020 yılının 28 Ağustos'unda 43 yaşında kolon kanserinden öldü. Dört yıl önce kanser teşhisi konmuştu.",
+            "eventDescriptionDe": "Chadwick Boseman, der Schauspieler, der Black Panther im Marvel Cinematic Universe spielte, starb am 28. August 2020 im Alter von 43 Jahren an Darmkrebs. Er war vier Jahre zuvor an Krebs diagnostiziert worden.",
+            "eventDescriptionEs": "Chadwick Boseman, el actor que interpretó a Black Panther en el Universo Cinematográfico de Marvel, murió el 28 de agosto de 2020 a los 43 años de cáncer de colon. Le habían diagnosticado la enfermedad cuatro años antes.",
+            "eventDescriptionIt": "Chadwick Boseman, l'attore che ha interpretato Black Panther nell'Universo Cinematografico Marvel, è morto il 28 agosto 2020 all'età di 43 anni per un cancro al colon. Gli era stato diagnosticato la malattia quattro anni prima."
           }
+          
     ]
 }
