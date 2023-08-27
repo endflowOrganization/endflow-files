@@ -2881,6 +2881,17 @@
             "eventDescriptionDe": "Gottlieb Daimler erhielt am 29. August 1885 ein Patent für das erste Motorrad. Das Motorrad, das Reitwagen genannt wurde, wurde von einem Einzylinder-Benzinmotor angetrieben. Es war ein großer Durchbruch in der Entwicklung des Motorrads und gilt als Vorfahre aller modernen Motorräder.",
             "eventDescriptionEs": "Gottlieb Daimler recibió una patente para la primera motocicleta el 29 de agosto de 1885. La motocicleta, llamada Reitwagen, estaba propulsada por un motor de gasolina de un solo cilindro. Fue un gran avance en el desarrollo de la motocicleta y se considera el antepasado de todas las motocicletas modernas.",
             "eventDescriptionIt": "Gottlieb Daimler ha ricevuto un brevetto per la prima motocicletta il 29 agosto 1885. La motocicletta, chiamata Reitwagen, era alimentata da un motore a benzina monocilindrico. È stato un grande passo avanti nello sviluppo della motocicletta ed è considerato l'antenato di tutte le moderne motociclette."
+          },{
+            "eventId": "279",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1831/08/29",
+            "eventImg": null,
+            "eventDescriptionEn": "Michael Faraday discovered electromagnetic induction on August 29, 1831. This discovery led to the invention of electric motors, generators, and transformers.",
+            "eventDescriptionTr": "Michael Faraday, 29 Ağustos 1831'de elektromanyetik indüksiyonu keşfetti. Bu keşif, elektrik motorları, jeneratörler ve transformatörlerin icadına yol açtı.",
+            "eventDescriptionDe": "Michael Faraday entdeckte die elektromagnetische Induktion am 29. August 1831. Diese Entdeckung führte zur Erfindung von Elektromotoren, Generatoren und Transformatoren.",
+            "eventDescriptionEs": "Michael Faraday descubrió la inducción electromagnética el 29 de agosto de 1831. Este descubrimiento condujo a la invención de motores eléctricos, generadores y transformadores.",
+            "eventDescriptionIt": "Michael Faraday ha scoperto l'induzione elettromagnetica il 29 agosto 1831. Questa scoperta ha portato all'invenzione di motori elettrici, generatori e trasformatori."
           }
+          
     ]
 }
