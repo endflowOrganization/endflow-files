@@ -12,8 +12,8 @@
             "wordId": 1,
             "describedWordTr": "ATOM BOMBASI",
             "tabuuWordsTr": "ÇEKİRDEK,HİROŞİMA,PATLAMAK,NAGAZAKİ,NÜKLEER",
-            "describedWordEn": "",
-            "tabuuWordsEn": "",
+            "describedWordEn": "ATOMIC BOMB",
+            "tabuuWordsEn": "CORE,HIROSHIMA,EXPLODE,NAGASAKI,NUCLEAR",
             "wordCategory": ""
         },
         {
@@ -180,8 +180,8 @@
             "wordId": 22,
             "describedWordTr": "STAJYER",
             "tabuuWordsTr": "ÖĞRENME,ÇALIŞMA,UYGULAMA,TECRÜBE,ÖĞRENCİ",
-            "describedWordEn": "",
-            "tabuuWordsEn": "",
+            "describedWordEn": "INTERN",
+            "tabuuWordsEn": "LEARNING,WORK,APPLICATION,EXPERIENCE,STUDENT",
             "wordCategory": ""
         },
         {

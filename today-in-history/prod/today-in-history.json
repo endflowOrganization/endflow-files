@@ -2901,7 +2901,18 @@
             "eventDescriptionDe": "Am 30. August 1991 erklärte Aserbaidschan seine Unabhängigkeit von der Sowjetunion. Dieses Ereignis war ein wichtiges Meilenstein im Zerfall der Sowjetunion.",
             "eventDescriptionEs": "El 30 de agosto de 1991, Azerbaiyán declaró su independencia de la Unión Soviética. Este evento fue un importante hito en la disolución de la Unión Soviética.",
             "eventDescriptionIt": "Il 30 agosto 1991, l'Azerbaigian ha dichiarato la sua indipendenza dall'Unione Sovietica. Questo evento è stato un importante punto di riferimento nel dissolversi dell'Unione Sovietica."
+          },{
+            "eventId": "281",
+            "eventCategory": "HISTORY",
+            "eventDate": "1962/08/31",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 31, 1962, Trinidad and Tobago became independent from the United Kingdom. This event was a major milestone in the decolonization of the Caribbean.",
+            "eventDescriptionTr": "31 Ağustos 1962'de Trinidad ve Tobago, Birleşik Krallık'tan bağımsızlığını kazandı. Bu olay, Karayipler'in dekolonizasyonunda önemli bir kilometre taşıydı.",
+            "eventDescriptionDe": "Am 31. August 1962 wurde Trinidad und Tobago von Großbritannien unabhängig. Dieses Ereignis war ein wichtiger Meilenstein in der Dekolonisation der Karibik.",
+            "eventDescriptionEs": "El 31 de agosto de 1962, Trinidad y Tobago se independizó del Reino Unido. Este evento fue un importante hito en la descolonización del Caribe.",
+            "eventDescriptionIt": "Il 31 agosto 1962, Trinidad e Tobago divennero indipendenti dal Regno Unito. Questo evento è stato un importante punto di riferimento nella decolonizzazione dei Caraibi."
           }
+          
           
           
     ]
