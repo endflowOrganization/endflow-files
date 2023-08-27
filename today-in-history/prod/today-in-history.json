@@ -3004,7 +3004,18 @@
             "eventDescriptionDe": "Die Saint Andrew's Scots School, die älteste Schule britischer Herkunft in Südamerika, wurde in Buenos Aires, Argentinien, gegründet.",
             "eventDescriptionEs": "El Saint Andrew's Scots School, la escuela de origen británico más antigua de América del Sur, se estableció en Buenos Aires, Argentina.",
             "eventDescriptionIt": "La Saint Andrew's Scots School, la scuola di origine britannica più antica dell'America del Sud, è stata fondata a Buenos Aires, in Argentina."
+          },{
+            "eventId": "288",
+            "eventCategory": "TECH",
+            "eventDate": "1897/09/01",
+            "eventImg": null,
+            "eventDescriptionEn": "The Tremont Street Subway in Boston opens, becoming the first underground rapid transit system in North America.",
+            "eventDescriptionTr": "Boston'da Tremont Street Metrosu açıldı ve Kuzey Amerika'daki ilk yeraltı hızlı transit sistemi oldu.",
+            "eventDescriptionDe": "Die Tremont Street Subway in Boston wird eröffnet und wird damit das erste unterirdische Schnelltransitsystem in Nordamerika.",
+            "eventDescriptionEs": "El Metro de la calle Tremont en Boston se abre, convirtiéndose en el primer sistema de tránsito rápido subterráneo en América del Norte.",
+            "eventDescriptionIt": "La metropolitana di Tremont Street a Boston apre, diventando il primo sistema di transito rapido sotterraneo in Nord America."
           }
+          
           
     ]
 }
