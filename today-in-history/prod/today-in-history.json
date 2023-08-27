@@ -293,14 +293,6 @@
             "eventDescriptionTr": "Amerika Birleşik Devletleri tarafından Hiroşima'ya atom bombası atıldı, bunun sonucunda büyük tahribatlar ve birçok can kaybı yaşandı."
         },
         {
-            "eventId": "39",
-            "eventCategory": "POLITICS",
-            "eventDate": "1939/09/01",
-            "eventImg": null,
-            "eventDescriptionEn": "World War II began with the German invasion of Poland, leading to a global conflict involving many nations.",
-            "eventDescriptionTr": "Almanya'nın Polonya'yı işgal etmesiyle İkinci Dünya Savaşı başladı ve birçok ülkeyi içeren küresel bir çatışma yaşandı."
-        },
-        {
             "eventId": "40",
             "eventCategory": "SCIENCE",
             "eventDate": "1983/06/18",
@@ -2991,6 +2983,17 @@
             "eventDescriptionDe": "Am 31. August 1895 ließ der deutsche Graf Ferdinand von Zeppelin seinen schiffbaren Zeppelin-Luftschiff patentieren. Der Zeppelin war ein starres Luftschiff, was bedeutete, dass es einen starren Rahmen hatte, der seine Form behielt. Dies machte es viel stabiler als ein herkömmliches Luftschiff.",
             "eventDescriptionEs": "El 31 de agosto de 1895, el conde alemán Ferdinand von Zeppelin patentó su dirigible. El Zeppelin era un dirigible rígido, lo que significa que tenía un marco rígido que mantenía su forma. Esto lo hizo mucho más estable que un globo tradicional.",
             "eventDescriptionIt": "Il 31 agosto 1895, il conte tedesco Ferdinand von Zeppelin brevettò il suo dirigibile Zeppelin. Il Zeppelin era un dirigibile rigido, il che significava che aveva una struttura rigida che manteneva la sua forma. Questo lo rese molto più stabile di un normale pallone aerostatico."
+        },
+        {
+            "eventId": "286",
+            "eventCategory": "POLITICS",
+            "eventDate": "1939/09/01",
+            "eventImg": null,
+            "eventDescriptionEn": "On September 1, 1939, Germany invaded Poland, marking the beginning of World War II.",
+            "eventDescriptionTr": "1 Eylül 1939'da Almanya Polonya'yı işgal etti ve bu II. Dünya Savaşı'nın başlangıcı oldu.",
+            "eventDescriptionDe": "Am 1. September 1939 marschierte Deutschland in Polen ein und markierte damit den Beginn des Zweiten Weltkriegs.",
+            "eventDescriptionEs": "El 1 de septiembre de 1939, Alemania invadió Polonia, lo que marcó el inicio de la Segunda Guerra Mundial.",
+            "eventDescriptionIt": "Il 1 settembre 1939, la Germania invase la Polonia, segnando l'inizio della seconda guerra mondiale."
         }
     ]
 }
