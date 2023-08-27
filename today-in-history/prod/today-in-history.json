@@ -2891,7 +2891,18 @@
             "eventDescriptionDe": "Michael Faraday entdeckte die elektromagnetische Induktion am 29. August 1831. Diese Entdeckung führte zur Erfindung von Elektromotoren, Generatoren und Transformatoren.",
             "eventDescriptionEs": "Michael Faraday descubrió la inducción electromagnética el 29 de agosto de 1831. Este descubrimiento condujo a la invención de motores eléctricos, generadores y transformadores.",
             "eventDescriptionIt": "Michael Faraday ha scoperto l'induzione elettromagnetica il 29 agosto 1831. Questa scoperta ha portato all'invenzione di motori elettrici, generatori e trasformatori."
+          },{
+            "eventId": "280",
+            "eventCategory": "HISTORY",
+            "eventDate": "1991/08/30",
+            "eventImg": null,
+            "eventDescriptionEn": "On August 30, 1991, Azerbaijan declared independence from the Soviet Union. This event was a major milestone in the dissolution of the Soviet Union.",
+            "eventDescriptionTr": "30 Ağustos 1991'de Azerbaycan, Sovyetler Birliği'nden bağımsızlığını ilan etti. Bu olay, Sovyetler Birliği'nin dağılmasının önemli bir kilometre taşıydı.",
+            "eventDescriptionDe": "Am 30. August 1991 erklärte Aserbaidschan seine Unabhängigkeit von der Sowjetunion. Dieses Ereignis war ein wichtiges Meilenstein im Zerfall der Sowjetunion.",
+            "eventDescriptionEs": "El 30 de agosto de 1991, Azerbaiyán declaró su independencia de la Unión Soviética. Este evento fue un importante hito en la disolución de la Unión Soviética.",
+            "eventDescriptionIt": "Il 30 agosto 1991, l'Azerbaigian ha dichiarato la sua indipendenza dall'Unione Sovietica. Questo evento è stato un importante punto di riferimento nel dissolversi dell'Unione Sovietica."
           }
+          
           
     ]
 }
