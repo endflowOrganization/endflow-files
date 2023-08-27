@@ -2819,6 +2819,18 @@
             "eventDescriptionEs": "La misión espacial no tripulada Mariner 2 fue lanzada a Venus por la NASA el 27 de agosto de 1962. Fue la primera nave espacial exitosa en informar con éxito de un encuentro planetario.",
             "eventDescriptionIt": "La missione spaziale senza pilota Mariner 2 è stata lanciata su Venere dalla NASA il 27 agosto 1962. È stata la prima nave spaziale di successo a riferire con successo di un incontro con un pianeta.",
             "eventDescriptionFr": "La mission spatiale non habitée Mariner 2 a été lancée vers Vénus par la NASA le 27 août 1962. C'était la première sonde spatiale réussie à signaler avec succès une rencontre avec une planète."
+          },{
+            "eventId": "273",
+            "eventCategory": "SCIENCE",
+            "eventDate": "2023/08/27",
+            "eventImg": null,
+            "eventDescriptionEn": "Mars made its closest approach to Earth on July 31, 2023, at a distance of 34,646,418 miles (55,758,005 km). This was the closest approach between the two planets since August 27, 2003, and the closest approach that will occur until August 22, 2287.",
+            "eventDescriptionTr": "Mars, 2023 Temmuz 31'inde Dünya'ya en yakın yaklaşımını gerçekleştirdi ve bu iki gezegen arasındaki en yakın yaklaşım, 2003 Ağustos 27'sinden bu yana ve 2287 Ağustos 22'sine kadar gerçekleşecek olan 34.646.418 mil (55.758.005 km) uzaklıktaydı.",
+            "eventDescriptionDe": "Mars, am 31. Juli 2023 seinen nächsten Anflug auf die Erde hatte und sich dabei in einer Entfernung von 34.646.418 Meilen (55.758.005 km) befand. Dies war der nächste Anflug zwischen den beiden Planeten seit dem 27. August 2003 und der nächste Anflug, der bis zum 22. August 2287 stattfinden wird.",
+            "eventDescriptionEs": "Marte hizo su acercamiento más cercano a la Tierra el 31 de julio de 2023, pasando a 34.646.418 millas (55.758.005 km) de distancia. Este fue el acercamiento más cercano entre los dos planetas desde el 27 de agosto de 2003, y el acercamiento más cercano que ocurrirá hasta el 22 de agosto de 2287.",
+            "eventDescriptionIt": "Marte ha fatto il suo avvicinamento più vicino alla Terra il 31 luglio 2023, passando a 34.646.418 miglia (55.758.005 km) di distanza. Questo è stato l'avvicinamento più vicino tra i due pianeti dal 27 agosto 2003 e l'avvicinamento più vicino che avverrà fino al 22 agosto 2287.",
+            "eventDescriptionFr": "Mars a fait son approche la plus proche de la Terre le 31 juillet 2023, passant à 34.646.418 miles (55.758.005 km) de distance. C'était l'approche la plus proche entre les deux planètes depuis le 27 août 2003, et l'approche la plus proche qui se produira jusqu'au 22 août 2287."
           }
+          
     ]
 }
