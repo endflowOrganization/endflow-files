@@ -3024,7 +3024,18 @@
             "eventDescriptionDe": "Ein Putsch in Libyen bringt Muammar Gaddafi an die Macht. Gaddafi war ein Offizier der Streitkräfte, der König Idris I. stürzte und die Libysche Arabische Republik gründete. Er regierte Libyen über 40 Jahre, bis er 2011 gestürzt und getötet wurde.",
             "eventDescriptionEs": "Un golpe de estado en Libia lleva a Muammar Gaddafi al poder. Gaddafi era un oficial militar que derrocó al rey Idris I e instituyó la República Árabe Libia. Gaddafi gobernó Libia durante más de 40 años hasta que fue derrocado y asesinado en 2011.",
             "eventDescriptionIt": "Un colpo di stato in Libia porta al potere Muammar Gheddafi. Gheddafi era un ufficiale militare che ha rovesciato il re Idris I e ha istituito la Repubblica Araba Libica. Gheddafi ha governato la Libia per oltre 40 anni fino a quando è stato rovesciato e ucciso nel 2011."
+          },{
+            "eventId": "290",
+            "eventCategory": "HISTORY",
+            "eventDate": "1922/08/30",
+            "eventImg": null,
+            "eventDescriptionEn": "The Battle of Dumlupınar, commanded by Marshal Gazi Mustafa Kemal Pasha, ended with the decisive victory of the Turkish Army. August 30 symbolically represents the day the country's territories were taken back and is celebrated every year as Victory Day.",
+            "eventDescriptionTr": "Dumlupınar Meydan Muharebesi, Başkomutan Mareşal Gazi Mustafa Kemal Paşa tarafından bizzat yönetildi ve Türk Ordusu'nun kesin zaferiyle sonuçlandı. 30 Ağustos sembolik olarak ülke topraklarının geri alındığı günü temsil eder ve her yıl Zafer Bayramı olarak kutlanır.",
+            "eventDescriptionDe": "Die Schlacht von Dumlupınar, kommandiert von Marschall Gazi Mustafa Kemal Pasha, endete mit dem entscheidenden Sieg der türkischen Armee. Der 30. August symbolisiert symbolisch den Tag, an dem die Landesterritorien zurückerobert wurden, und wird jedes Jahr als Tag des Sieges gefeiert.",
+            "eventDescriptionEs": "La Batalla de Dumlupınar, comandada por el Mariscal Gazi Mustafa Kemal Pasha, terminó con la victoria decisiva del Ejército turco. El 30 de agosto simboliza simbólicamente el día en que se recuperaron los territorios del país y se celebra cada año como el Día de la Victoria.",
+            "eventDescriptionIt": "La Battaglia di Dumlupınar, comandata dal Maresciallo Gazi Mustafa Kemal Pasha, si concluse con la vittoria decisiva dell'esercito turco. Il 30 agosto simboleggia simbolicamente il giorno in cui i territori del paese furono riconquistati e viene celebrato ogni anno come Giorno della Vittoria."
           }
+          
           
           
           
