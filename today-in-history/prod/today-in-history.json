@@ -3074,7 +3074,18 @@
             "eventDescriptionDe": "Die erste praktische öffentliche elektrische Straßenbahn der Welt wird in Blackpool, England, eröffnet. Die Straßenbahn wurde von Werner von Siemens erbaut und nutzte ein Kanalsystem zur Stromversorgung.",
             "eventDescriptionEs": "La primera tranvía público eléctrico práctico del mundo se abre en Blackpool, Inglaterra. El tranvía fue construido por Werner von Siemens y utilizó un sistema de recogida de canal.",
             "eventDescriptionIt": "Il primo tramvia pubblico elettrico pratico del mondo viene inaugurato a Blackpool, in Inghilterra. Il tram è stato costruito da Werner von Siemens e ha utilizzato un sistema di raccolta del canale."
+          },{
+            "eventId": "295",
+            "eventCategory": "HISTORY",
+            "eventDate": "1911/09/29",
+            "eventImg": null,
+            "eventDescriptionEn": "Italy declares war on the Ottoman Empire, beginning the Italo-Turkish War. The war was fought over control of Libya, which was then an Ottoman province. Italy won the war and annexed Libya.",
+            "eventDescriptionTr": "İtalya, Osmanlı İmparatorluğu'na savaş ilan etti ve İtalya-Osmanlı Savaşı başladı. Savaş, o zamanlar bir Osmanlı eyaleti olan Libya'nın kontrolünü ele geçirmek için yapıldı. İtalya savaşı kazandı ve Libya'yı ilhak etti.",
+            "eventDescriptionDe": "Italien erklärt dem Osmanischen Reich den Krieg und beginnt den Italienisch-Türkischen Krieg. Der Krieg wurde um die Kontrolle über Libyen geführt, das damals eine osmanische Provinz war. Italien gewann den Krieg und annektierte Libyen.",
+            "eventDescriptionEs": "Italia declara la guerra al Imperio Otomano, dando inicio a la Guerra ítalo-turca. La guerra se libró por el control de Libia, que entonces era una provincia otomana. Italia ganó la guerra y anexó Libia.",
+            "eventDescriptionIt": "L'Italia dichiara guerra all'Impero Ottomano, dando inizio alla Guerra italo-turca. La guerra fu combattuta per il controllo della Libia, che allora era una provincia ottomana. L'Italia vinse la guerra e annesse la Libia."
           }
+          
           
           
           
