@@ -3094,7 +3094,18 @@
             "eventDescriptionDe": "Pakistan tritt den Vereinten Nationen bei. Pakistan wurde am 14. August 1947 als Ergebnis der Teilung Indiens gegründet. Es wurde am 30. September 1947 Mitglied der Vereinten Nationen.",
             "eventDescriptionEs": "Pakistán se une a las Naciones Unidas. Pakistán se independizó el 14 de agosto de 1947 como resultado de la partición de la India. Se convirtió en miembro de las Naciones Unidas el 30 de septiembre de 1947.",
             "eventDescriptionIt": "Il Pakistan aderisce alle Nazioni Unite. Il Pakistan è stato fondato il 14 agosto 1947 a seguito della partizione dell'India. È diventato membro delle Nazioni Unite il 30 settembre 1947."
+          },{
+            "eventId": "297",
+            "eventCategory": "TECH",
+            "eventDate": "1882/09/30",
+            "eventImg": null,
+            "eventDescriptionEn": "Thomas Edison's first commercial hydroelectric power plant, the Vulcan Street Plant, begins operation in Appleton, Wisconsin. The plant was powered by the Fox River and generated electricity for 21 customers.",
+            "eventDescriptionTr": "Thomas Edison'in ilk ticari hidroelektrik santralin, Vulcan Street Plant'ın, Appleton, Wisconsin'de faaliyete geçtiği. Tesis, Fox Nehri tarafından desteklendi ve 21 müşteriye elektrik sağladı.",
+            "eventDescriptionDe": "Die erste kommerzielle Wasserkraftanlage von Thomas Edison, die Vulcan Street Plant, nimmt in Appleton, Wisconsin, ihren Betrieb auf. Das Kraftwerk wurde vom Fox River angetrieben und versorgte 21 Kunden mit Strom.",
+            "eventDescriptionEs": "La primera planta hidroeléctrica comercial de Thomas Edison, la Vulcan Street Plant, comienza a operar en Appleton, Wisconsin. La planta estaba alimentada por el río Fox y generaba electricidad para 21 clientes.",
+            "eventDescriptionIt": "La prima centrale idroelettrica commerciale di Thomas Edison, la Vulcan Street Plant, inizia a operare ad Appleton, Wisconsin. La centrale era alimentata dal fiume Fox e generava elettricità per 21 clienti."
           }
+          
           
           
           
