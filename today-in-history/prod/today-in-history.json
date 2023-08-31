@@ -3104,7 +3104,18 @@
             "eventDescriptionDe": "Die erste kommerzielle Wasserkraftanlage von Thomas Edison, die Vulcan Street Plant, nimmt in Appleton, Wisconsin, ihren Betrieb auf. Das Kraftwerk wurde vom Fox River angetrieben und versorgte 21 Kunden mit Strom.",
             "eventDescriptionEs": "La primera planta hidroeléctrica comercial de Thomas Edison, la Vulcan Street Plant, comienza a operar en Appleton, Wisconsin. La planta estaba alimentada por el río Fox y generaba electricidad para 21 clientes.",
             "eventDescriptionIt": "La prima centrale idroelettrica commerciale di Thomas Edison, la Vulcan Street Plant, inizia a operare ad Appleton, Wisconsin. La centrale era alimentata dal fiume Fox e generava elettricità per 21 clienti."
+          },{
+            "eventId": "298",
+            "eventCategory": "TECH",
+            "eventDate": "1901/12/12",
+            "eventImg": null,
+            "eventDescriptionEn": "Guglielmo Marconi begins the first commercial transatlantic wireless service. The service, between Poldhu, Cornwall, England, and St. John's, Newfoundland, was a major milestone in the development of telecommunications.",
+            "eventDescriptionTr": "Guglielmo Marconi, ilk ticari transatlantik telsiz hizmetini başlatır. Cornwall, İngiltere'nin Poldhu kenti ile Newfoundland, St. John's arasındaki hizmet, telekomünikasyon alanında önemli bir kilometre taşıydı.",
+            "eventDescriptionDe": "Guglielmo Marconi beginnt den ersten kommerziellen transatlantischen Funkdienst. Der Dienst zwischen Poldhu in Cornwall, England, und St. John's in Newfoundland war ein Meilenstein in der Entwicklung der Telekommunikation.",
+            "eventDescriptionEs": "Guglielmo Marconi inicia el primer servicio comercial transatlántico de radiotelegrafía. El servicio, entre Poldhu, Cornualles, Inglaterra, y San Juan de Terranova, fue un hito importante en el desarrollo de las telecomunicaciones.",
+            "eventDescriptionIt": "Guglielmo Marconi avvia il primo servizio commerciale transatlantico di telegrafia senza fili. Il servizio, tra Poldhu, Cornovaglia, Inghilterra, e San Giovanni di Terranova, è stato un importante traguardo nello sviluppo delle telecomunicazioni."
           }
+          
           
           
           
