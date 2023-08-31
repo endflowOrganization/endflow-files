@@ -3034,6 +3034,17 @@
             "eventDescriptionDe": "Die Schlacht von Dumlupınar, kommandiert von Marschall Gazi Mustafa Kemal Pasha, endete mit dem entscheidenden Sieg der türkischen Armee. Der 30. August symbolisiert symbolisch den Tag, an dem die Landesterritorien zurückerobert wurden, und wird jedes Jahr als Tag des Sieges gefeiert.",
             "eventDescriptionEs": "La Batalla de Dumlupınar, comandada por el Mariscal Gazi Mustafa Kemal Pasha, terminó con la victoria decisiva del Ejército turco. El 30 de agosto simboliza simbólicamente el día en que se recuperaron los territorios del país y se celebra cada año como el Día de la Victoria.",
             "eventDescriptionIt": "La Battaglia di Dumlupınar, comandata dal Maresciallo Gazi Mustafa Kemal Pasha, si concluse con la vittoria decisiva dell'esercito turco. Il 30 agosto simboleggia simbolicamente il giorno in cui i territori del paese furono riconquistati e viene celebrato ogni anno come Giorno della Vittoria."
+          },{
+            "eventId": "291",
+            "eventCategory": "POLITICS",
+            "eventDate": "1968/09/06",
+            "eventImg": null,
+            "eventDescriptionEn": "Swaziland becomes independent from the United Kingdom. King Sobhuza II becomes the first monarch of the independent Swaziland.",
+            "eventDescriptionTr": "Svaziland, Birleşik Krallık'tan bağımsız hale geldi. Kral Sobhuza II, bağımsız Svaziland'ın ilk hükümdarı oldu.",
+            "eventDescriptionDe": "Swaziland wird von Großbritannien unabhängig. König Sobhuza II. wird der erste Monarch des unabhängigen Swaziland.",
+            "eventDescriptionEs": "Suazilandia se independiza del Reino Unido. El rey Sobhuza II se convierte en el primer monarca de Suazilandia independiente.",
+            "eventDescriptionIt": "L'Swaziland ottiene l'indipendenza dal Regno Unito. Il re Sobhuza II diventa il primo monarca dell'Swaziland indipendente."
           }
+          
     ]
 }
