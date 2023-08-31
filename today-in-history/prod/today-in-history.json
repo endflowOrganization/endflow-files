@@ -3084,7 +3084,18 @@
             "eventDescriptionDe": "Italien erklärt dem Osmanischen Reich den Krieg und beginnt den Italienisch-Türkischen Krieg. Der Krieg wurde um die Kontrolle über Libyen geführt, das damals eine osmanische Provinz war. Italien gewann den Krieg und annektierte Libyen.",
             "eventDescriptionEs": "Italia declara la guerra al Imperio Otomano, dando inicio a la Guerra ítalo-turca. La guerra se libró por el control de Libia, que entonces era una provincia otomana. Italia ganó la guerra y anexó Libia.",
             "eventDescriptionIt": "L'Italia dichiara guerra all'Impero Ottomano, dando inizio alla Guerra italo-turca. La guerra fu combattuta per il controllo della Libia, che allora era una provincia ottomana. L'Italia vinse la guerra e annesse la Libia."
+          },{
+            "eventId": "296",
+            "eventCategory": "POLITICS",
+            "eventDate": "1947/09/30",
+            "eventImg": null,
+            "eventDescriptionEn": "Pakistan joins the United Nations. Pakistan was founded on August 14, 1947, as a result of the Partition of India. It became a member of the United Nations on September 30, 1947.",
+            "eventDescriptionTr": "Pakistan Birleşmiş Milletler'e katılır. Pakistan, Hindistan'ın 1947'de bölünmesi sonucunda 14 Ağustos 1947'de kuruldu. 30 Eylül 1947'de Birleşmiş Milletler'e üye oldu.",
+            "eventDescriptionDe": "Pakistan tritt den Vereinten Nationen bei. Pakistan wurde am 14. August 1947 als Ergebnis der Teilung Indiens gegründet. Es wurde am 30. September 1947 Mitglied der Vereinten Nationen.",
+            "eventDescriptionEs": "Pakistán se une a las Naciones Unidas. Pakistán se independizó el 14 de agosto de 1947 como resultado de la partición de la India. Se convirtió en miembro de las Naciones Unidas el 30 de septiembre de 1947.",
+            "eventDescriptionIt": "Il Pakistan aderisce alle Nazioni Unite. Il Pakistan è stato fondato il 14 agosto 1947 a seguito della partizione dell'India. È diventato membro delle Nazioni Unite il 30 settembre 1947."
           }
+          
           
           
           
