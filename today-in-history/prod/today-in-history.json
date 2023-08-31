@@ -3044,7 +3044,18 @@
             "eventDescriptionDe": "Swaziland wird von Großbritannien unabhängig. König Sobhuza II. wird der erste Monarch des unabhängigen Swaziland.",
             "eventDescriptionEs": "Suazilandia se independiza del Reino Unido. El rey Sobhuza II se convierte en el primer monarca de Suazilandia independiente.",
             "eventDescriptionIt": "L'Swaziland ottiene l'indipendenza dal Regno Unito. Il re Sobhuza II diventa il primo monarca dell'Swaziland indipendente."
+          },{
+            "eventId": "292",
+            "eventCategory": "POLITICS",
+            "eventDate": "1991/09/06",
+            "eventImg": null,
+            "eventDescriptionEn": "The Soviet Union recognizes the independence of the Baltic states Estonia, Latvia, and Lithuania. The Baltic states had been annexed by the Soviet Union in 1940, but they regained their independence after the collapse of the Soviet Union in 1991.",
+            "eventDescriptionTr": "Sovyetler Birliği, Estonya, Letonya ve Litvanya'nın bağımsızlığını tanıdı. Baltık ülkeleri 1940'ta Sovyetler Birliği tarafından ilhak edilmişti, ancak Sovyetler Birliği'nin 1991'de çöküşünden sonra bağımsızlıklarını yeniden kazandılar.",
+            "eventDescriptionDe": "Die Sowjetunion erkennt die Unabhängigkeit der baltischen Staaten Estland, Lettland und Litauen an. Die baltischen Staaten waren 1940 von der Sowjetunion annektiert worden, aber sie erlangten ihre Unabhängigkeit nach dem Zusammenbruch der Sowjetunion im Jahr 1991 zurück.",
+            "eventDescriptionEs": "La Unión Soviética reconoce la independencia de los estados bálticos Estonia, Letonia y Lituania. Los estados bálticos habían sido anexados por la Unión Soviética en 1940, pero recuperaron su independencia tras el colapso de la Unión Soviética en 1991.",
+            "eventDescriptionIt": "L'Unione Sovietica riconosce l'indipendenza degli stati baltici Estonia, Lettonia e Lituania. Gli stati baltici erano stati annessi dall'Unione Sovietica nel 1940, ma hanno riconquistato la loro indipendenza dopo il crollo dell'Unione Sovietica nel 1991."
           }
+          
           
     ]
 }
