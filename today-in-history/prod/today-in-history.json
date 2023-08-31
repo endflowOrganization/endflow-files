@@ -3054,7 +3054,18 @@
             "eventDescriptionDe": "Die Sowjetunion erkennt die Unabhängigkeit der baltischen Staaten Estland, Lettland und Litauen an. Die baltischen Staaten waren 1940 von der Sowjetunion annektiert worden, aber sie erlangten ihre Unabhängigkeit nach dem Zusammenbruch der Sowjetunion im Jahr 1991 zurück.",
             "eventDescriptionEs": "La Unión Soviética reconoce la independencia de los estados bálticos Estonia, Letonia y Lituania. Los estados bálticos habían sido anexados por la Unión Soviética en 1940, pero recuperaron su independencia tras el colapso de la Unión Soviética en 1991.",
             "eventDescriptionIt": "L'Unione Sovietica riconosce l'indipendenza degli stati baltici Estonia, Lettonia e Lituania. Gli stati baltici erano stati annessi dall'Unione Sovietica nel 1940, ma hanno riconquistato la loro indipendenza dopo il crollo dell'Unione Sovietica nel 1991."
+          },{
+            "eventId": "293",
+            "eventCategory": "POLITICS",
+            "eventDate": "2022/07/24",
+            "eventImg": null,
+            "eventDescriptionEn": "Boris Johnson resigns as Prime Minister of the United Kingdom, and is replaced by Liz Truss. Johnson had been under increasing pressure to resign following a series of scandals, including the Partygate scandal. Truss, the Foreign Secretary, was elected leader of the Conservative Party and became Prime Minister on September 6, 2022.",
+            "eventDescriptionTr": "Boris Johnson, Birleşik Krallık Başbakanı olarak istifa etti ve yerine Liz Truss geçti. Johnson, bir dizi skandalın ardından, özellikle Partigate skandalı nedeniyle istifaya zorlanmıştı. Truss, Dışişleri Bakanı, Muhafazakar Parti'nin lideri seçildi ve 6 Eylül 2022'de Başbakan oldu.",
+            "eventDescriptionDe": "Boris Johnson tritt als Premierminister des Vereinigten Königreichs zurück und wird von Liz Truss ersetzt. Johnson war nach einer Reihe von Skandalen, darunter der Partygate-Skandal, zunehmend unter Druck, zurückzutreten. Truss, die Außenministerin, wurde zur Vorsitzenden der Conservative Party gewählt und am 6. September 2022 Premierministerin.",
+            "eventDescriptionEs": "Boris Johnson dimite como Primer Ministro del Reino Unido y es reemplazado por Liz Truss. Johnson había estado bajo una presión cada vez mayor para dimitir tras una serie de escándalos, incluido el escándalo Partygate. Truss, la ministra de Relaciones Exteriores, fue elegida líder del Partido Conservador y se convirtió en primera ministra el 6 de septiembre de 2022.",
+            "eventDescriptionIt": "Boris Johnson si dimette da Primo Ministro del Regno Unito ed è sostituito da Liz Truss. Johnson era stato sotto una crescente pressione per dimettersi a seguito di una serie di scandali, tra cui lo scandalo Partygate. Truss, il ministro degli Esteri, è stato eletto leader del Partito Conservatore ed è diventato Primo Ministro il 6 settembre 2022."
           }
+          
           
           
     ]
