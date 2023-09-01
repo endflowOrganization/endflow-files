@@ -3189,7 +3189,18 @@
             "eventDescriptionDe": "Nino Farina wird der erste Formel-1-Fahrer-Weltmeister, nachdem er den Großen Preis von Italien 1950 gewonnen hat.",
             "eventDescriptionEs": "Nino Farina se convierte en el primer Campeón del Mundo de Pilotos de Fórmula 1 después de ganar el Gran Premio de Italia de 1950.",
             "eventDescriptionIt": "Nino Farina diventa il primo Campione del Mondo Piloti di Formula 1 dopo aver vinto il Gran Premio d'Italia del 1950."
+          },{
+            "eventId": "306",
+            "eventCategory": "POLITICS",
+            "eventDate": "1783/09/03",
+            "eventImg": null,
+            "eventDescriptionEn": "The United Kingdom recognizes the independence of the United States of America with the signing of the Treaty of Paris.",
+            "eventDescriptionTr": "İngiltere, Paris Antlaşması'nın imzalanmasıyla Amerika Birleşik Devletleri'nin bağımsızlığını tanıdı.",
+            "eventDescriptionDe": "Das Vereinigte Königreich erkennt die Unabhängigkeit der Vereinigten Staaten von Amerika mit der Unterzeichnung des Pariser Vertrages an.",
+            "eventDescriptionEs": "El Reino Unido reconoce la independencia de los Estados Unidos de América con la firma del Tratado de París.",
+            "eventDescriptionIt": "Il Regno Unito riconosce l'indipendenza degli Stati Uniti d'America con la firma del Trattato di Parigi."
           }
+          
           
           
           
