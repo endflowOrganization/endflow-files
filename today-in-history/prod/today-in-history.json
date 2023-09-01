@@ -3114,6 +3114,17 @@
             "eventDescriptionDe": "Guglielmo Marconi beginnt den ersten kommerziellen transatlantischen Funkdienst. Der Dienst zwischen Poldhu in Cornwall, England, und St. John's in Newfoundland war ein Meilenstein in der Entwicklung der Telekommunikation.",
             "eventDescriptionEs": "Guglielmo Marconi inicia el primer servicio comercial transatlántico de radiotelegrafía. El servicio, entre Poldhu, Cornualles, Inglaterra, y San Juan de Terranova, fue un hito importante en el desarrollo de las telecomunicaciones.",
             "eventDescriptionIt": "Guglielmo Marconi avvia il primo servizio commerciale transatlantico di telegrafia senza fili. Il servizio, tra Poldhu, Cornovaglia, Inghilterra, e San Giovanni di Terranova, è stato un importante traguardo nello sviluppo delle telecomunicazioni."
+          },{
+            "eventId": "299",
+            "eventCategory": "TECH",
+            "eventDate": "2008/09/29",
+            "eventImg": null,
+            "eventDescriptionEn": "Google launches its Google Chrome web browser. Chrome quickly became the most popular web browser in the world, thanks to its speed, security, and ease of use.",
+            "eventDescriptionTr": "Google, Google Chrome web tarayıcısını piyasaya sürüyor. Chrome, hızı, güvenliği ve kullanımının kolaylığı sayesinde kısa sürede dünyanın en popüler web tarayıcısı oldu.",
+            "eventDescriptionDe": "Google, Google Chrome Webbrowser veröffentlicht. Chrome wurde schnell der beliebteste Webbrowser der Welt, dank seiner Geschwindigkeit, Sicherheit und Benutzerfreundlichkeit.",
+            "eventDescriptionEs": "Google lanza su navegador web Google Chrome. Chrome se convirtió rápidamente en el navegador web más popular del mundo, gracias a su velocidad, seguridad y facilidad de uso.",
+            "eventDescriptionIt": "Google lancia il suo browser web Google Chrome. Chrome è diventato rapidamente il browser web più popolare al mondo, grazie alla sua velocità, sicurezza e facilità d'uso."
           }
+          
     ]
 }
