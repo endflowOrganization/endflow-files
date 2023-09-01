@@ -3124,7 +3124,18 @@
             "eventDescriptionDe": "Google, Google Chrome Webbrowser veröffentlicht. Chrome wurde schnell der beliebteste Webbrowser der Welt, dank seiner Geschwindigkeit, Sicherheit und Benutzerfreundlichkeit.",
             "eventDescriptionEs": "Google lanza su navegador web Google Chrome. Chrome se convirtió rápidamente en el navegador web más popular del mundo, gracias a su velocidad, seguridad y facilidad de uso.",
             "eventDescriptionIt": "Google lancia il suo browser web Google Chrome. Chrome è diventato rapidamente il browser web più popolare al mondo, grazie alla sua velocità, sicurezza e facilità d'uso."
+          },{
+            "eventId": "300",
+            "eventCategory": "TECH",
+            "eventDate": "1969/09/02",
+            "eventImg": null,
+            "eventDescriptionEn": "The first ATM device in the USA was installed in Rockville Centre, New York. The machine was manufactured by De La Rue and was called the 'Dedicated Cash Machine'.",
+            "eventDescriptionTr": "ABD'deki ilk ATM cihazı, New York'un Rockville Centre kentinde kuruldu. Makine De La Rue tarafından üretildi ve 'Özel Nakit Makinesi' olarak adlandırıldı.",
+            "eventDescriptionDe": "Der erste Geldautomat in den USA wurde in Rockville Centre, New York, installiert. Die Maschine wurde von De La Rue hergestellt und hieß 'Dedicated Cash Machine'.",
+            "eventDescriptionEs": "El primer cajero automático de EE. UU. se instaló en Rockville Centre, Nueva York. La máquina fue fabricada por De La Rue y se llamó 'Dedicated Cash Machine'.",
+            "eventDescriptionIt": "Il primo bancomat negli Stati Uniti è stato installato a Rockville Centre, New York. La macchina è stata prodotta da De La Rue e si chiamava 'Dedicated Cash Machine'."
           }
+          
           
     ]
 }
