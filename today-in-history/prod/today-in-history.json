@@ -3162,14 +3162,25 @@
           },{
             "eventId": "303",
             "eventCategory": "POLITICS",
-            "eventDate": "1971/09/02",
+            "eventDate": "1971/09/03",
             "eventImg": null,
             "eventDescriptionEn": "Qatar becomes an independent state, following the termination of its protectorate status by the United Kingdom.",
             "eventDescriptionTr": "Katar, Birleşik Krallık'ın himaye statüsünün sona ermesiyle bağımsız bir devlet haline gelir.",
             "eventDescriptionDe": "Katar, Großbritannien'ın himaye statüsünün sona ermesiyle bağımsız bir devlet haline gelir.",
             "eventDescriptionEs": "Qatar se independiza, tras la terminación de su estatus de protectorado por el Reino Unido.",
             "eventDescriptionIt": "Il Qatar diventa uno stato indipendente, a seguito della cessazione del suo status di protettorato da parte del Regno Unito."
+          },{
+            "eventId": "304",
+            "eventCategory": "HISTORY",
+            "eventDate": "1666/09/02",
+            "eventImg": null,
+            "eventDescriptionEn": "The Great Fire of London breaks out and burns for three days, destroying 10,000 buildings, including Old St Paul's Cathedral.",
+            "eventDescriptionTr": "Büyük Londra Yangını çıkar ve üç gün boyunca yanmaya devam eder, 10.000 bina yok olur, bunların arasında Eski St. Paul Katedrali de vardır.",
+            "eventDescriptionDe": "Der Große Brand von London bricht aus und brennt drei Tage lang, wobei 10.000 Gebäude zerstört werden, darunter der alte St. Pauls-Dom.",
+            "eventDescriptionEs": "El Gran Incendio de Londres se desata y arde durante tres días, destruyendo 10.000 edificios, incluido el antiguo de San Pablo.",
+            "eventDescriptionIt": "Il Grande incendio di Londra scoppia e brucia per tre giorni, distruggendo 10.000 edifici, tra cui la Cattedrale di San Paolo Vecchio."
           }
+          
           
           
           
