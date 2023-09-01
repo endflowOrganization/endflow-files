@@ -3144,7 +3144,18 @@
             "eventDescriptionDe": "Das Internationale Olympische Komitee verlieh den 'Sportler des Jahrhunderts'-Preis dem Gewichtheber Naim Süleymanoğlu. Süleymanoğlu war dreifacher Olympiasieger und neunfacher Weltmeister. Er war für seine unglaubliche Stärke und Athletik bekannt und wurde als einer der größten Gewichtheber aller Zeiten angesehen.",
             "eventDescriptionEs": "El Comité Olímpico Internacional otorgó el premio al 'Atleta del Siglo' al levantador de pesas Naim Süleymanoğlu. Süleymanoğlu fue tres veces medallista de oro olímpico y nueve veces campeón del mundo. Era conocido por su increíble fuerza y atletismo, y fue considerado uno de los mejores levantadores de pesas de todos los tiempos.",
             "eventDescriptionIt": "Il Comitato Olimpico Internazionale ha assegnato il premio al 'Giardiniere del Secolo' al sollevatore di pesi Naim Süleymanoğlu. Süleymanoğlu è stato tre volte campione olimpico e nove volte campione del mondo. Era noto per la sua incredibile forza e atletismo, ed è stato considerato uno dei più grandi sollevatori di pesi di tutti i tempi."
+          },{
+            "eventId": "302",
+            "eventCategory": "HISTORY",
+            "eventDate": "1945/09/02",
+            "eventImg": null,
+            "eventDescriptionEn": "Vietnam declared its independence from France. The declaration was made by Ho Chi Minh, the leader of the Viet Minh independence movement. The declaration was met with opposition from France, which led to the First Indochina War.",
+            "eventDescriptionTr": "Vietnam, Fransa'dan bağımsızlığını ilan etti. Bağımsızlık bildirgesi, Viet Minh bağımsızlık hareketinin lideri Ho Chi Minh tarafından yapıldı. Bildiri, Fransa'dan muhalefetle karşılandı ve Birinci Indochina Savaşı'na yol açtı.",
+            "eventDescriptionDe": "Vietnam erklärte sich von Frankreich unabhängig. Die Erklärung wurde von Ho Chi Minh, dem Führer der Viet Minh-Unabhängigkeitsbewegung, abgegeben. Die Erklärung wurde von Frankreich mit Widerstand konfrontiert, was zum Ersten Indochinakrieg führte.",
+            "eventDescriptionEs": "Vietnam declaró su independencia de Francia. La declaración fue hecha por Ho Chi Minh, líder del movimiento independentista vietnamita Viet Minh. La declaración fue recibida con oposición de Francia, lo que llevó a la Primera Guerra de Indochina.",
+            "eventDescriptionIt": "Il Vietnam dichiarò la sua indipendenza dalla Francia. La dichiarazione fu fatta da Ho Chi Minh, leader del movimento di indipendenza vietnamita Viet Minh. La dichiarazione fu accolta con opposizione dalla Francia, che portò alla Prima Guerra d'Indocina."
           }
+          
           
           
           
