@@ -3179,7 +3179,18 @@
             "eventDescriptionDe": "Der Große Brand von London bricht aus und brennt drei Tage lang, wobei 10.000 Gebäude zerstört werden, darunter der alte St. Pauls-Dom.",
             "eventDescriptionEs": "El Gran Incendio de Londres se desata y arde durante tres días, destruyendo 10.000 edificios, incluido el antiguo de San Pablo.",
             "eventDescriptionIt": "Il Grande incendio di Londra scoppia e brucia per tre giorni, distruggendo 10.000 edifici, tra cui la Cattedrale di San Paolo Vecchio."
+          },{
+            "eventId": "305",
+            "eventCategory": "SPORT",
+            "eventDate": "1950/09/03",
+            "eventImg": null,
+            "eventDescriptionEn": "Nino Farina becomes the first Formula One Drivers' champion after winning the 1950 Italian Grand Prix.",
+            "eventDescriptionTr": "Nino Farina, 1950 İtalya Grand Prix'sini kazandıktan sonra ilk Formula 1 Pilotlar Şampiyonu oldu.",
+            "eventDescriptionDe": "Nino Farina wird der erste Formel-1-Fahrer-Weltmeister, nachdem er den Großen Preis von Italien 1950 gewonnen hat.",
+            "eventDescriptionEs": "Nino Farina se convierte en el primer Campeón del Mundo de Pilotos de Fórmula 1 después de ganar el Gran Premio de Italia de 1950.",
+            "eventDescriptionIt": "Nino Farina diventa il primo Campione del Mondo Piloti di Formula 1 dopo aver vinto il Gran Premio d'Italia del 1950."
           }
+          
           
           
           
