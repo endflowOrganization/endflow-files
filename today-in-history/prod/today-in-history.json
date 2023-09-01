@@ -3159,7 +3159,18 @@
             "eventDescriptionDe": "Vietnam erklärte sich von Frankreich unabhängig. Die Erklärung wurde von Ho Chi Minh, dem Führer der Viet Minh-Unabhängigkeitsbewegung, abgegeben. Die Erklärung wurde von Frankreich mit Widerstand konfrontiert, was zum Ersten Indochinakrieg führte.",
             "eventDescriptionEs": "Vietnam declaró su independencia de Francia. La declaración fue hecha por Ho Chi Minh, líder del movimiento independentista vietnamita Viet Minh. La declaración fue recibida con oposición de Francia, lo que llevó a la Primera Guerra de Indochina.",
             "eventDescriptionIt": "Il Vietnam dichiarò la sua indipendenza dalla Francia. La dichiarazione fu fatta da Ho Chi Minh, leader del movimento di indipendenza vietnamita Viet Minh. La dichiarazione fu accolta con opposizione dalla Francia, che portò alla Prima Guerra d'Indocina."
+          },{
+            "eventId": "303",
+            "eventCategory": "POLITICS",
+            "eventDate": "1971/09/02",
+            "eventImg": null,
+            "eventDescriptionEn": "Qatar becomes an independent state, following the termination of its protectorate status by the United Kingdom.",
+            "eventDescriptionTr": "Katar, Birleşik Krallık'ın himaye statüsünün sona ermesiyle bağımsız bir devlet haline gelir.",
+            "eventDescriptionDe": "Katar, Großbritannien'ın himaye statüsünün sona ermesiyle bağımsız bir devlet haline gelir.",
+            "eventDescriptionEs": "Qatar se independiza, tras la terminación de su estatus de protectorado por el Reino Unido.",
+            "eventDescriptionIt": "Il Qatar diventa uno stato indipendente, a seguito della cessazione del suo status di protettorato da parte del Regno Unito."
           }
+          
           
           
           
