@@ -3134,7 +3134,18 @@
             "eventDescriptionDe": "Der erste Geldautomat in den USA wurde in Rockville Centre, New York, installiert. Die Maschine wurde von De La Rue hergestellt und hieß 'Dedicated Cash Machine'.",
             "eventDescriptionEs": "El primer cajero automático de EE. UU. se instaló en Rockville Centre, Nueva York. La máquina fue fabricada por De La Rue y se llamó 'Dedicated Cash Machine'.",
             "eventDescriptionIt": "Il primo bancomat negli Stati Uniti è stato installato a Rockville Centre, New York. La macchina è stata prodotta da De La Rue e si chiamava 'Dedicated Cash Machine'."
+          },{
+            "eventId": "301",
+            "eventCategory": "SPORT",
+            "eventDate": "1994/09/02",
+            "eventImg": null,
+            "eventDescriptionEn": "The International Olympic Committee awarded the 'Sportsman of the Century' award to weightlifter Naim Süleymanoğlu. Süleymanoğlu was a three-time Olympic gold medalist and a nine-time world champion. He was known for his incredible strength and athleticism, and he was considered to be one of the greatest weightlifters of all time.",
+            "eventDescriptionTr": "Uluslararası Olimpiyat Komitesi, halterci Naim Süleymanoğlu'na 'Yüzyılın En Güçlü Sporcusu' ödülünü verdi. Süleymanoğlu, üç kez olimpiyat altın madalyası ve dokuz kez dünya şampiyonu oldu. İnanılmaz gücü ve atletizmi ile tanınıyordu ve tüm zamanların en iyi haltercilerinden biri olarak kabul ediliyordu.",
+            "eventDescriptionDe": "Das Internationale Olympische Komitee verlieh den 'Sportler des Jahrhunderts'-Preis dem Gewichtheber Naim Süleymanoğlu. Süleymanoğlu war dreifacher Olympiasieger und neunfacher Weltmeister. Er war für seine unglaubliche Stärke und Athletik bekannt und wurde als einer der größten Gewichtheber aller Zeiten angesehen.",
+            "eventDescriptionEs": "El Comité Olímpico Internacional otorgó el premio al 'Atleta del Siglo' al levantador de pesas Naim Süleymanoğlu. Süleymanoğlu fue tres veces medallista de oro olímpico y nueve veces campeón del mundo. Era conocido por su increíble fuerza y atletismo, y fue considerado uno de los mejores levantadores de pesas de todos los tiempos.",
+            "eventDescriptionIt": "Il Comitato Olimpico Internazionale ha assegnato il premio al 'Giardiniere del Secolo' al sollevatore di pesi Naim Süleymanoğlu. Süleymanoğlu è stato tre volte campione olimpico e nove volte campione del mondo. Era noto per la sua incredibile forza e atletismo, ed è stato considerato uno dei più grandi sollevatori di pesi di tutti i tempi."
           }
+          
           
           
     ]
