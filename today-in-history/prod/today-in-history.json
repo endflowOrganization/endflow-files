@@ -160,10 +160,15 @@
             "eventId": "21",
             "eventCategory": "POLITICS",
             "eventDate": "1945/09/02",
-            "eventImg": null,
-            "eventDescriptionEn": "World War II came to an end with the official surrender of Japan, marking a significant turning point in global history.",
-            "eventDescriptionTr": "İkinci Dünya Savaşı, Japonya'nın resmi olarak teslim olmasıyla sona erdi ve küresel tarih açısından önemli bir dönüm noktasını işaret etti."
-        },
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/september%2Fending-the-second-world-war-21.jpeg?alt=media&token=5cfb28a2-4a34-4cd9-8de14c9-8de14cdc13f",
+            "eventDescriptionEn": "World War II came to an end with the official surrender of Japan on September 2, 1945, marking a significant turning point in global history. The surrender, signed on the deck of the USS Missouri in Tokyo Bay, brought an end to six years of global conflict that had claimed the lives of over 60 million people.",
+            "eventDescriptionTr": "İkinci Dünya Savaşı, Japonya'nın resmi olarak teslim olmasıyla 2 Eylül 1945'te sona erdi ve küresel tarih açısından önemli bir dönüm noktasını işaret etti. USS Missouri'nin güvertesinde imzalanan teslimiyet, 60 milyondan fazla insanın hayatını kaybettiği altı yıllık küresel çatışmanın sonunu getirdi.",
+            "eventDescriptionDe": "Der Zweite Weltkrieg endete am 2. September 1945 mit der offiziellen Kapitulation Japans, was einen bedeutenden Wendepunkt in der globalen Geschichte markierte. Die Kapitulation, die auf dem Deck der USS Missouri in der Bucht von Tokio unterzeichnet wurde, beendete sechs Jahre globalen Konflikts, bei dem über 60 Millionen Menschen ums Leben kamen.",
+            "eventDescriptionEs": "La Segunda Guerra Mundial llegó a su fin con la rendición oficial de Japón el 2 de septiembre de 1945, marcando un hito importante en la historia global. La rendición, firmada en la cubierta del USS Missouri en la bahía de Tokio, puso fin a seis años de conflicto global que se cobró la vida de más de 60 millones de personas.",
+            "eventDescriptionIt": "La Seconda Guerra Mondiale terminò il 2 settembre 1945 con la resa ufficiale del Giappone, segnando un punto di svolta significativo nella storia globale. La resa, firmata sul ponte della USS Missouri nella baia di Tokyo, pose fine a sei anni di conflitto globale che costò la vita a oltre 60 milioni di persone.",
+            "eventDescriptionFr": "La Seconde Guerre mondiale a pris fin le 2 septembre 1945 avec la capitulation officielle du Japon, marquant un tournant important dans l'histoire mondiale. La capitulation, signée sur le pont du USS Missouri dans la baie de Tokyo, a mis fin à six ans de conflit mondial qui ont coûté la vie à plus de 60 millions de personnes."
+          }
+          ,
         {
             "eventId": "23",
             "eventCategory": "POLITICS",
