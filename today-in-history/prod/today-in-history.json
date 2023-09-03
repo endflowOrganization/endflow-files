@@ -3279,6 +3279,17 @@
             "eventDescriptionDe": "Guinea-Bissau erlangt am 10. September 1974 die Unabhängigkeit von Portugal. Das Land war seit dem 15. Jahrhundert eine portugiesische Kolonie. Die Unabhängigkeitsbewegung wurde von Amilcar Cabral geführt, der 1973 ermordet wurde. Guinea-Bissau ist seit 1974 Mitglied der Vereinten Nationen.",
             "eventDescriptionEs": "Guinea-Bissau obtiene la independencia de Portugal el 10 de septiembre de 1974. El país había sido una colonia portuguesa desde el siglo XV. El movimiento de independencia fue liderado por Amilcar Cabral, quien fue asesinado en 1973. Guinea-Bissau es miembro de las Naciones Unidas desde 1974.",
             "eventDescriptionIt": "La Guinea-Bissau ottiene l'indipendenza dal Portogallo il 10 settembre 1974. Il paese era una colonia portoghese dal XV secolo. Il movimento per l'indipendenza è stato guidato da Amilcar Cabral, assassinato nel 1973. La Guinea-Bissau è membro delle Nazioni Unite dal 1974."
+          },{
+            "eventId": "315",
+            "eventCategory": "TECH",
+            "eventDate": "1935/09/05",
+            "eventImg": null,
+            "eventDescriptionEn": "The Istanbul Telephone Company is taken over by the government on September 5, 1935. The company had been privately owned since its founding in 1882. The government takeover is part of a broader effort to nationalize key industries in Turkey.",
+            "eventDescriptionTr": "İstanbul Telefon Şirketi, 5 Eylül 1935'te hükümet tarafından devralındı. Şirket, 1882'deki kuruluşundan bu yana özel mülkiyeteydi. Hükümetin devralımı, Türkiye'deki kilit sanayilerin millileştirilmesi çabalarının bir parçası.",
+            "eventDescriptionDe": "Die Istanbuler Telefongesellschaft wird am 5. September 1935 vom Staat übernommen. Das Unternehmen war seit seiner Gründung im Jahr 1882 in privater Hand. Die Übernahme durch den Staat ist Teil eines breiteren Bemühens, Schlüsselindustrien in der Türkei zu verstaatlichen.",
+            "eventDescriptionEs": "La compañía telefónica de Estambul es tomada por el gobierno el 5 de septiembre de 1935. La compañía había sido de propiedad privada desde su fundación en 1882. La toma de posesión por el gobierno es parte de un esfuerzo más amplio para nacionalizar industrias clave en Turquía.",
+            "eventDescriptionIt": "La società telefonica di Istanbul viene rilevata dal governo il 5 settembre 1935. La società era di proprietà privata dalla sua fondazione nel 1882. L'acquisizione da parte del governo è parte di un più ampio sforzo per nazionalizzare le industrie chiave in Turchia."
           }
+          
     ]
 }
