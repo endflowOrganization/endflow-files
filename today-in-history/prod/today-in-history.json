@@ -3289,7 +3289,18 @@
             "eventDescriptionDe": "Die Istanbuler Telefongesellschaft wird am 5. September 1935 vom Staat übernommen. Das Unternehmen war seit seiner Gründung im Jahr 1882 in privater Hand. Die Übernahme durch den Staat ist Teil eines breiteren Bemühens, Schlüsselindustrien in der Türkei zu verstaatlichen.",
             "eventDescriptionEs": "La compañía telefónica de Estambul es tomada por el gobierno el 5 de septiembre de 1935. La compañía había sido de propiedad privada desde su fundación en 1882. La toma de posesión por el gobierno es parte de un esfuerzo más amplio para nacionalizar industrias clave en Turquía.",
             "eventDescriptionIt": "La società telefonica di Istanbul viene rilevata dal governo il 5 settembre 1935. La società era di proprietà privata dalla sua fondazione nel 1882. L'acquisizione da parte del governo è parte di un più ampio sforzo per nazionalizzare le industrie chiave in Turchia."
+          },{
+            "eventId": "326",
+            "eventCategory": "HISTORY",
+            "eventDate": "1923/09/05",
+            "eventImg": null,
+            "eventDescriptionEn": "The first sports newspaper in Turkey, Fotospor, is launched on September 5, 1923. The newspaper is founded by Ahmet Selahattin Erol and is based in Istanbul. Fotospor quickly becomes one of the most popular sports newspapers in Turkey and is credited with helping to popularize sports in the country.",
+            "eventDescriptionTr": "Türkiye'nin ilk spor gazetesi Fotospor, 5 Eylül 1923'te yayın hayatına başladı. Gazete, Ahmet Selahattin Erol tarafından kuruldu ve İstanbul'da basıldı. Fotospor, kısa sürede Türkiye'nin en popüler spor gazetelerinden biri haline geldi ve ülkede sporun popülerleşmesine katkıda bulundu.",
+            "eventDescriptionDe": "Die erste Sportzeitung in der Türkei, Fotospor, wird am 5. September 1923 gegründet. Die Zeitung wurde von Ahmet Selahattin Erol gegründet und befindet sich in Istanbul. Fotospor wird schnell zu einer der beliebtesten Sportzeitungen in der Türkei und wird dafür gecreditiert, den Sport im Land populärer gemacht zu haben.",
+            "eventDescriptionEs": "El primer periódico deportivo de Turquía, Fotospor, se lanza el 5 de septiembre de 1923. El periódico fue fundado por Ahmet Selahattin Erol y tiene su sede en Estambul. Fotospor se convirtió rápidamente en uno de los periódicos deportivos más populares de Turquía y se le atribuye haber ayudado a popularizar el deporte en el país.",
+            "eventDescriptionIt": "Il primo giornale sportivo in Turchia, Fotospor, viene lanciato il 5 settembre 1923. Il giornale è fondato da Ahmet Selahattin Erol e ha sede a Istanbul. Fotospor diventa rapidamente uno dei giornali sportivi più popolari in Turchia ed è accreditato per aver contribuito a rendere il paese più popolare."
           }
+          
           
     ]
 }
