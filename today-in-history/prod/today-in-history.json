@@ -3393,7 +3393,18 @@
             "eventDescriptionDe": "Deutschland wurde am 7. September 1926 durch eine Resolution in den Völkerbund aufgenommen. Die Aufnahme Deutschlands war ein wichtiger Schritt in der Rehabilitation des Landes nach dem Ersten Weltkrieg.",
             "eventDescriptionEs": "Alemania fue admitida a la Liga de Naciones a través de una resolución aprobada el 7 de septiembre de 1926. La admisión de Alemania fue un paso importante en la rehabilitación del país después de la Primera Guerra Mundial.",
             "eventDescriptionIt": "La Germania fu ammessa alla Società delle Nazioni attraverso una risoluzione approvata il 7 settembre 1926. L'ammissione della Germania fu un passo importante nella riabilitazione del paese dopo la prima guerra mondiale."
+          },{
+            "eventId": "323",
+            "eventCategory": "POLITICS",
+            "eventDate": "2015/09/09",
+            "eventImg": null,
+            "eventDescriptionEn": "Queen Elizabeth II becomes the longest reigning monarch of the United Kingdom, surpassing the record set by her great-great-grandmother Queen Victoria.",
+            "eventDescriptionTr": "Kraliçe II. Elizabeth, Birleşik Krallık'ın en uzun süre hüküm süren hükümdarı olur ve büyük büyükannesi Kraliçe Victoria'nın rekorunu geride bırakır.",
+            "eventDescriptionDe": "Königin Elisabeth II. wird die am längsten regierende Monarchin des Vereinigten Königreichs und übertrifft damit den Rekord ihrer Urgroßmutter Königin Victoria.",
+            "eventDescriptionEs": "La reina Isabel II se convierte en la monarca con más años de reinado del Reino Unido, superando el récord establecido por su tatarabuela, la reina Victoria.",
+            "eventDescriptionIt": "La regina Elisabetta II diventa la monarca regnante più longeva del Regno Unito, superando il record stabilito dalla sua trisavola, la regina Vittoria."
           }
+          
           
     ]
 }
