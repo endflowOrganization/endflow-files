@@ -3403,7 +3403,18 @@
             "eventDescriptionDe": "Königin Elisabeth II. wird die am längsten regierende Monarchin des Vereinigten Königreichs und übertrifft damit den Rekord ihrer Urgroßmutter Königin Victoria.",
             "eventDescriptionEs": "La reina Isabel II se convierte en la monarca con más años de reinado del Reino Unido, superando el récord establecido por su tatarabuela, la reina Victoria.",
             "eventDescriptionIt": "La regina Elisabetta II diventa la monarca regnante più longeva del Regno Unito, superando il record stabilito dalla sua trisavola, la regina Vittoria."
+          },{
+            "eventId": "40",
+            "eventCategory": "TECHNOLOGY",
+            "eventDate": "1947/09/09",
+            "eventImg": null,
+            "eventDescriptionEn": "The first case of a computer bug being found occurs when a moth lodges in a relay of a Harvard Mark II computer at Harvard University. The moth is removed and the term 'bug' is first used to describe a problem in a computer program.",
+            "eventDescriptionTr": "Harvard Mark II bilgisayarında bir röleye giren bir güve, bilgisayar programında ilk kez 'bug' terimi kullanılarak ilk bilgisayar hatası vakası meydana gelir.",
+            "eventDescriptionDe": "Der erste Fall eines Computerbugs tritt auf, als ein Schmetterling in ein Relais eines Harvard Mark II-Computers an der Harvard University eindringt. Der Schmetterling wird entfernt und der Begriff 'Bug' wird erstmals verwendet, um ein Problem in einem Computerprogramm zu beschreiben.",
+            "eventDescriptionEs": "El primer caso de un error informático se produce cuando una polilla se aloja en un relé de un ordenador Harvard Mark II en la Universidad de Harvard. La polilla se retira y el término 'error' se utiliza por primera vez para describir un problema en un programa informático.",
+            "eventDescriptionIt": "Il primo caso di bug informatico si verifica quando una falena si incastra in un relé di un computer Harvard Mark II all'Università di Harvard. La falena viene rimossa e il termine 'bug' viene utilizzato per la prima volta per descrivere un problema in un programma per computer."
           }
+          
           
           
     ]
