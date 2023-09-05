@@ -167,8 +167,7 @@
             "eventDescriptionEs": "La Segunda Guerra Mundial llegó a su fin con la rendición oficial de Japón el 2 de septiembre de 1945, marcando un hito importante en la historia global. La rendición, firmada en la cubierta del USS Missouri en la bahía de Tokio, puso fin a seis años de conflicto global que se cobró la vida de más de 60 millones de personas.",
             "eventDescriptionIt": "La Seconda Guerra Mondiale terminò il 2 settembre 1945 con la resa ufficiale del Giappone, segnando un punto di svolta significativo nella storia globale. La resa, firmata sul ponte della USS Missouri nella baia di Tokyo, pose fine a sei anni di conflitto globale che costò la vita a oltre 60 milioni di persone.",
             "eventDescriptionFr": "La Seconde Guerre mondiale a pris fin le 2 septembre 1945 avec la capitulation officielle du Japon, marquant un tournant important dans l'histoire mondiale. La capitulation, signée sur le pont du USS Missouri dans la baie de Tokyo, a mis fin à six ans de conflit mondial qui ont coûté la vie à plus de 60 millions de personnes."
-          }
-          ,
+        },
         {
             "eventId": "23",
             "eventCategory": "POLITICS",
@@ -2999,7 +2998,8 @@
             "eventDescriptionDe": "Am 1. September 1939 marschierte Deutschland in Polen ein und markierte damit den Beginn des Zweiten Weltkriegs.",
             "eventDescriptionEs": "El 1 de septiembre de 1939, Alemania invadió Polonia, lo que marcó el inicio de la Segunda Guerra Mundial.",
             "eventDescriptionIt": "Il 1 settembre 1939, la Germania invase la Polonia, segnando l'inizio della seconda guerra mondiale."
-        },{
+        },
+        {
             "eventId": "287",
             "eventCategory": "HISTORY",
             "eventDate": "1838/09/01",
@@ -3009,7 +3009,8 @@
             "eventDescriptionDe": "Die Saint Andrew's Scots School, die älteste Schule britischer Herkunft in Südamerika, wurde in Buenos Aires, Argentinien, gegründet.",
             "eventDescriptionEs": "El Saint Andrew's Scots School, la escuela de origen británico más antigua de América del Sur, se estableció en Buenos Aires, Argentina.",
             "eventDescriptionIt": "La Saint Andrew's Scots School, la scuola di origine britannica più antica dell'America del Sud, è stata fondata a Buenos Aires, in Argentina."
-          },{
+        },
+        {
             "eventId": "288",
             "eventCategory": "TECH",
             "eventDate": "1897/09/01",
@@ -3019,7 +3020,8 @@
             "eventDescriptionDe": "Die Tremont Street Subway in Boston wird eröffnet und wird damit das erste unterirdische Schnelltransitsystem in Nordamerika.",
             "eventDescriptionEs": "El Metro de la calle Tremont en Boston se abre, convirtiéndose en el primer sistema de tránsito rápido subterráneo en América del Norte.",
             "eventDescriptionIt": "La metropolitana di Tremont Street a Boston apre, diventando il primo sistema di transito rapido sotterraneo in Nord America."
-          },{
+        },
+        {
             "eventId": "289",
             "eventCategory": "POLITICS",
             "eventDate": "1969/09/11",
@@ -3029,7 +3031,8 @@
             "eventDescriptionDe": "Ein Putsch in Libyen bringt Muammar Gaddafi an die Macht. Gaddafi war ein Offizier der Streitkräfte, der König Idris I. stürzte und die Libysche Arabische Republik gründete. Er regierte Libyen über 40 Jahre, bis er 2011 gestürzt und getötet wurde.",
             "eventDescriptionEs": "Un golpe de estado en Libia lleva a Muammar Gaddafi al poder. Gaddafi era un oficial militar que derrocó al rey Idris I e instituyó la República Árabe Libia. Gaddafi gobernó Libia durante más de 40 años hasta que fue derrocado y asesinado en 2011.",
             "eventDescriptionIt": "Un colpo di stato in Libia porta al potere Muammar Gheddafi. Gheddafi era un ufficiale militare che ha rovesciato il re Idris I e ha istituito la Repubblica Araba Libica. Gheddafi ha governato la Libia per oltre 40 anni fino a quando è stato rovesciato e ucciso nel 2011."
-          },{
+        },
+        {
             "eventId": "290",
             "eventCategory": "HISTORY",
             "eventDate": "1922/08/30",
@@ -3039,7 +3042,8 @@
             "eventDescriptionDe": "Die Schlacht von Dumlupınar, kommandiert von Marschall Gazi Mustafa Kemal Pasha, endete mit dem entscheidenden Sieg der türkischen Armee. Der 30. August symbolisiert symbolisch den Tag, an dem die Landesterritorien zurückerobert wurden, und wird jedes Jahr als Tag des Sieges gefeiert.",
             "eventDescriptionEs": "La Batalla de Dumlupınar, comandada por el Mariscal Gazi Mustafa Kemal Pasha, terminó con la victoria decisiva del Ejército turco. El 30 de agosto simboliza simbólicamente el día en que se recuperaron los territorios del país y se celebra cada año como el Día de la Victoria.",
             "eventDescriptionIt": "La Battaglia di Dumlupınar, comandata dal Maresciallo Gazi Mustafa Kemal Pasha, si concluse con la vittoria decisiva dell'esercito turco. Il 30 agosto simboleggia simbolicamente il giorno in cui i territori del paese furono riconquistati e viene celebrato ogni anno come Giorno della Vittoria."
-          },{
+        },
+        {
             "eventId": "291",
             "eventCategory": "POLITICS",
             "eventDate": "1968/09/06",
@@ -3049,7 +3053,8 @@
             "eventDescriptionDe": "Swaziland wird von Großbritannien unabhängig. König Sobhuza II. wird der erste Monarch des unabhängigen Swaziland.",
             "eventDescriptionEs": "Suazilandia se independiza del Reino Unido. El rey Sobhuza II se convierte en el primer monarca de Suazilandia independiente.",
             "eventDescriptionIt": "L'Swaziland ottiene l'indipendenza dal Regno Unito. Il re Sobhuza II diventa il primo monarca dell'Swaziland indipendente."
-          },{
+        },
+        {
             "eventId": "292",
             "eventCategory": "POLITICS",
             "eventDate": "1991/09/06",
@@ -3059,7 +3064,8 @@
             "eventDescriptionDe": "Die Sowjetunion erkennt die Unabhängigkeit der baltischen Staaten Estland, Lettland und Litauen an. Die baltischen Staaten waren 1940 von der Sowjetunion annektiert worden, aber sie erlangten ihre Unabhängigkeit nach dem Zusammenbruch der Sowjetunion im Jahr 1991 zurück.",
             "eventDescriptionEs": "La Unión Soviética reconoce la independencia de los estados bálticos Estonia, Letonia y Lituania. Los estados bálticos habían sido anexados por la Unión Soviética en 1940, pero recuperaron su independencia tras el colapso de la Unión Soviética en 1991.",
             "eventDescriptionIt": "L'Unione Sovietica riconosce l'indipendenza degli stati baltici Estonia, Lettonia e Lituania. Gli stati baltici erano stati annessi dall'Unione Sovietica nel 1940, ma hanno riconquistato la loro indipendenza dopo il crollo dell'Unione Sovietica nel 1991."
-          },{
+        },
+        {
             "eventId": "293",
             "eventCategory": "POLITICS",
             "eventDate": "2022/07/24",
@@ -3069,7 +3075,8 @@
             "eventDescriptionDe": "Boris Johnson tritt als Premierminister des Vereinigten Königreichs zurück und wird von Liz Truss ersetzt. Johnson war nach einer Reihe von Skandalen, darunter der Partygate-Skandal, zunehmend unter Druck, zurückzutreten. Truss, die Außenministerin, wurde zur Vorsitzenden der Conservative Party gewählt und am 6. September 2022 Premierministerin.",
             "eventDescriptionEs": "Boris Johnson dimite como Primer Ministro del Reino Unido y es reemplazado por Liz Truss. Johnson había estado bajo una presión cada vez mayor para dimitir tras una serie de escándalos, incluido el escándalo Partygate. Truss, la ministra de Relaciones Exteriores, fue elegida líder del Partido Conservador y se convirtió en primera ministra el 6 de septiembre de 2022.",
             "eventDescriptionIt": "Boris Johnson si dimette da Primo Ministro del Regno Unito ed è sostituito da Liz Truss. Johnson era stato sotto una crescente pressione per dimettersi a seguito di una serie di scandali, tra cui lo scandalo Partygate. Truss, il ministro degli Esteri, è stato eletto leader del Partito Conservatore ed è diventato Primo Ministro il 6 settembre 2022."
-          },{
+        },
+        {
             "eventId": "294",
             "eventCategory": "SCIENCE",
             "eventDate": "1885/09/29",
@@ -3079,7 +3086,8 @@
             "eventDescriptionDe": "Die erste praktische öffentliche elektrische Straßenbahn der Welt wird in Blackpool, England, eröffnet. Die Straßenbahn wurde von Werner von Siemens erbaut und nutzte ein Kanalsystem zur Stromversorgung.",
             "eventDescriptionEs": "La primera tranvía público eléctrico práctico del mundo se abre en Blackpool, Inglaterra. El tranvía fue construido por Werner von Siemens y utilizó un sistema de recogida de canal.",
             "eventDescriptionIt": "Il primo tramvia pubblico elettrico pratico del mondo viene inaugurato a Blackpool, in Inghilterra. Il tram è stato costruito da Werner von Siemens e ha utilizzato un sistema di raccolta del canale."
-          },{
+        },
+        {
             "eventId": "295",
             "eventCategory": "HISTORY",
             "eventDate": "1911/09/29",
@@ -3089,7 +3097,8 @@
             "eventDescriptionDe": "Italien erklärt dem Osmanischen Reich den Krieg und beginnt den Italienisch-Türkischen Krieg. Der Krieg wurde um die Kontrolle über Libyen geführt, das damals eine osmanische Provinz war. Italien gewann den Krieg und annektierte Libyen.",
             "eventDescriptionEs": "Italia declara la guerra al Imperio Otomano, dando inicio a la Guerra ítalo-turca. La guerra se libró por el control de Libia, que entonces era una provincia otomana. Italia ganó la guerra y anexó Libia.",
             "eventDescriptionIt": "L'Italia dichiara guerra all'Impero Ottomano, dando inizio alla Guerra italo-turca. La guerra fu combattuta per il controllo della Libia, che allora era una provincia ottomana. L'Italia vinse la guerra e annesse la Libia."
-          },{
+        },
+        {
             "eventId": "296",
             "eventCategory": "POLITICS",
             "eventDate": "1947/09/30",
@@ -3099,7 +3108,8 @@
             "eventDescriptionDe": "Pakistan tritt den Vereinten Nationen bei. Pakistan wurde am 14. August 1947 als Ergebnis der Teilung Indiens gegründet. Es wurde am 30. September 1947 Mitglied der Vereinten Nationen.",
             "eventDescriptionEs": "Pakistán se une a las Naciones Unidas. Pakistán se independizó el 14 de agosto de 1947 como resultado de la partición de la India. Se convirtió en miembro de las Naciones Unidas el 30 de septiembre de 1947.",
             "eventDescriptionIt": "Il Pakistan aderisce alle Nazioni Unite. Il Pakistan è stato fondato il 14 agosto 1947 a seguito della partizione dell'India. È diventato membro delle Nazioni Unite il 30 settembre 1947."
-          },{
+        },
+        {
             "eventId": "297",
             "eventCategory": "TECH",
             "eventDate": "1882/09/30",
@@ -3109,7 +3119,8 @@
             "eventDescriptionDe": "Die erste kommerzielle Wasserkraftanlage von Thomas Edison, die Vulcan Street Plant, nimmt in Appleton, Wisconsin, ihren Betrieb auf. Das Kraftwerk wurde vom Fox River angetrieben und versorgte 21 Kunden mit Strom.",
             "eventDescriptionEs": "La primera planta hidroeléctrica comercial de Thomas Edison, la Vulcan Street Plant, comienza a operar en Appleton, Wisconsin. La planta estaba alimentada por el río Fox y generaba electricidad para 21 clientes.",
             "eventDescriptionIt": "La prima centrale idroelettrica commerciale di Thomas Edison, la Vulcan Street Plant, inizia a operare ad Appleton, Wisconsin. La centrale era alimentata dal fiume Fox e generava elettricità per 21 clienti."
-          },{
+        },
+        {
             "eventId": "298",
             "eventCategory": "TECH",
             "eventDate": "1901/12/12",
@@ -3119,7 +3130,8 @@
             "eventDescriptionDe": "Guglielmo Marconi beginnt den ersten kommerziellen transatlantischen Funkdienst. Der Dienst zwischen Poldhu in Cornwall, England, und St. John's in Newfoundland war ein Meilenstein in der Entwicklung der Telekommunikation.",
             "eventDescriptionEs": "Guglielmo Marconi inicia el primer servicio comercial transatlántico de radiotelegrafía. El servicio, entre Poldhu, Cornualles, Inglaterra, y San Juan de Terranova, fue un hito importante en el desarrollo de las telecomunicaciones.",
             "eventDescriptionIt": "Guglielmo Marconi avvia il primo servizio commerciale transatlantico di telegrafia senza fili. Il servizio, tra Poldhu, Cornovaglia, Inghilterra, e San Giovanni di Terranova, è stato un importante traguardo nello sviluppo delle telecomunicazioni."
-          },{
+        },
+        {
             "eventId": "299",
             "eventCategory": "TECH",
             "eventDate": "2008/09/29",
@@ -3129,7 +3141,8 @@
             "eventDescriptionDe": "Google, Google Chrome Webbrowser veröffentlicht. Chrome wurde schnell der beliebteste Webbrowser der Welt, dank seiner Geschwindigkeit, Sicherheit und Benutzerfreundlichkeit.",
             "eventDescriptionEs": "Google lanza su navegador web Google Chrome. Chrome se convirtió rápidamente en el navegador web más popular del mundo, gracias a su velocidad, seguridad y facilidad de uso.",
             "eventDescriptionIt": "Google lancia il suo browser web Google Chrome. Chrome è diventato rapidamente il browser web più popolare al mondo, grazie alla sua velocità, sicurezza e facilità d'uso."
-          },{
+        },
+        {
             "eventId": "300",
             "eventCategory": "TECH",
             "eventDate": "1969/09/02",
@@ -3139,7 +3152,8 @@
             "eventDescriptionDe": "Der erste Geldautomat in den USA wurde in Rockville Centre, New York, installiert. Die Maschine wurde von De La Rue hergestellt und hieß 'Dedicated Cash Machine'.",
             "eventDescriptionEs": "El primer cajero automático de EE. UU. se instaló en Rockville Centre, Nueva York. La máquina fue fabricada por De La Rue y se llamó 'Dedicated Cash Machine'.",
             "eventDescriptionIt": "Il primo bancomat negli Stati Uniti è stato installato a Rockville Centre, New York. La macchina è stata prodotta da De La Rue e si chiamava 'Dedicated Cash Machine'."
-          },{
+        },
+        {
             "eventId": "301",
             "eventCategory": "SPORT",
             "eventDate": "1994/09/02",
@@ -3149,7 +3163,8 @@
             "eventDescriptionDe": "Das Internationale Olympische Komitee verlieh den 'Sportler des Jahrhunderts'-Preis dem Gewichtheber Naim Süleymanoğlu. Süleymanoğlu war dreifacher Olympiasieger und neunfacher Weltmeister. Er war für seine unglaubliche Stärke und Athletik bekannt und wurde als einer der größten Gewichtheber aller Zeiten angesehen.",
             "eventDescriptionEs": "El Comité Olímpico Internacional otorgó el premio al 'Atleta del Siglo' al levantador de pesas Naim Süleymanoğlu. Süleymanoğlu fue tres veces medallista de oro olímpico y nueve veces campeón del mundo. Era conocido por su increíble fuerza y atletismo, y fue considerado uno de los mejores levantadores de pesas de todos los tiempos.",
             "eventDescriptionIt": "Il Comitato Olimpico Internazionale ha assegnato il premio al 'Giardiniere del Secolo' al sollevatore di pesi Naim Süleymanoğlu. Süleymanoğlu è stato tre volte campione olimpico e nove volte campione del mondo. Era noto per la sua incredibile forza e atletismo, ed è stato considerato uno dei più grandi sollevatori di pesi di tutti i tempi."
-          },{
+        },
+        {
             "eventId": "302",
             "eventCategory": "HISTORY",
             "eventDate": "1945/09/02",
@@ -3159,7 +3174,8 @@
             "eventDescriptionDe": "Vietnam erklärte sich von Frankreich unabhängig. Die Erklärung wurde von Ho Chi Minh, dem Führer der Viet Minh-Unabhängigkeitsbewegung, abgegeben. Die Erklärung wurde von Frankreich mit Widerstand konfrontiert, was zum Ersten Indochinakrieg führte.",
             "eventDescriptionEs": "Vietnam declaró su independencia de Francia. La declaración fue hecha por Ho Chi Minh, líder del movimiento independentista vietnamita Viet Minh. La declaración fue recibida con oposición de Francia, lo que llevó a la Primera Guerra de Indochina.",
             "eventDescriptionIt": "Il Vietnam dichiarò la sua indipendenza dalla Francia. La dichiarazione fu fatta da Ho Chi Minh, leader del movimento di indipendenza vietnamita Viet Minh. La dichiarazione fu accolta con opposizione dalla Francia, che portò alla Prima Guerra d'Indocina."
-          },{
+        },
+        {
             "eventId": "303",
             "eventCategory": "POLITICS",
             "eventDate": "1971/09/03",
@@ -3169,7 +3185,8 @@
             "eventDescriptionDe": "Katar, Großbritannien'ın himaye statüsünün sona ermesiyle bağımsız bir devlet haline gelir.",
             "eventDescriptionEs": "Qatar se independiza, tras la terminación de su estatus de protectorado por el Reino Unido.",
             "eventDescriptionIt": "Il Qatar diventa uno stato indipendente, a seguito della cessazione del suo status di protettorato da parte del Regno Unito."
-          },{
+        },
+        {
             "eventId": "304",
             "eventCategory": "HISTORY",
             "eventDate": "1666/09/02",
@@ -3179,7 +3196,8 @@
             "eventDescriptionDe": "Der Große Brand von London bricht aus und brennt drei Tage lang, wobei 10.000 Gebäude zerstört werden, darunter der alte St. Pauls-Dom.",
             "eventDescriptionEs": "El Gran Incendio de Londres se desata y arde durante tres días, destruyendo 10.000 edificios, incluido el antiguo de San Pablo.",
             "eventDescriptionIt": "Il Grande incendio di Londra scoppia e brucia per tre giorni, distruggendo 10.000 edifici, tra cui la Cattedrale di San Paolo Vecchio."
-          },{
+        },
+        {
             "eventId": "305",
             "eventCategory": "SPORT",
             "eventDate": "1950/09/03",
@@ -3189,7 +3207,8 @@
             "eventDescriptionDe": "Nino Farina wird der erste Formel-1-Fahrer-Weltmeister, nachdem er den Großen Preis von Italien 1950 gewonnen hat.",
             "eventDescriptionEs": "Nino Farina se convierte en el primer Campeón del Mundo de Pilotos de Fórmula 1 después de ganar el Gran Premio de Italia de 1950.",
             "eventDescriptionIt": "Nino Farina diventa il primo Campione del Mondo Piloti di Formula 1 dopo aver vinto il Gran Premio d'Italia del 1950."
-          },{
+        },
+        {
             "eventId": "306",
             "eventCategory": "POLITICS",
             "eventDate": "1783/09/03",
@@ -3199,7 +3218,8 @@
             "eventDescriptionDe": "Das Vereinigte Königreich erkennt die Unabhängigkeit der Vereinigten Staaten von Amerika mit der Unterzeichnung des Pariser Vertrages an.",
             "eventDescriptionEs": "El Reino Unido reconoce la independencia de los Estados Unidos de América con la firma del Tratado de París.",
             "eventDescriptionIt": "Il Regno Unito riconosce l'indipendenza degli Stati Uniti d'America con la firma del Trattato di Parigi."
-          },{
+        },
+        {
             "eventId": "307",
             "eventCategory": "FINANCE",
             "eventDate": "1995/09/03",
@@ -3209,7 +3229,8 @@
             "eventDescriptionDe": "Pierre Omidyar gründet eBay als Online-Auktionswebsite am 3. September 1995. Die Website ermöglicht es Benutzern, eine Vielzahl von Artikeln zu kaufen und zu verkaufen, darunter Sammlerstücke, Elektronik und Kleidung. eBay wird schnell zu einem der beliebtesten Online-Marktplätze der Welt.",
             "eventDescriptionEs": "Pierre Omidyar funda eBay como un sitio web de subastas en línea el 3 de septiembre de 1995. El sitio web permite a los usuarios comprar y vender una amplia variedad de artículos, incluidos coleccionables, electrónica y ropa. eBay se convierte rápidamente en uno de los mercados en línea más populares del mundo.",
             "eventDescriptionIt": "Pierre Omidyar fonda eBay come sito web di aste online il 3 settembre 1995. Il sito web consente agli utenti di acquistare e vendere una vasta gamma di articoli, tra cui oggetti da collezione, elettronica e abbigliamento. eBay diventa rapidamente uno dei mercati online più popolari al mondo."
-          },{
+        },
+        {
             "eventId": "308",
             "eventCategory": "TECH",
             "eventDate": "1998/09/04",
@@ -3219,7 +3240,8 @@
             "eventDescriptionDe": "Google wird von Larry Page und Sergey Brin, zwei Studenten der Stanford University, gegründet.",
             "eventDescriptionEs": "Google es fundado por Larry Page y Sergey Brin, dos estudiantes de la Universidad de Stanford.",
             "eventDescriptionIt": "Google viene fondato da Larry Page e Sergey Brin, due studenti della Stanford University."
-          },{
+        },
+        {
             "eventId": "309",
             "eventCategory": "TECH",
             "eventDate": "1888/09/04",
@@ -3229,7 +3251,8 @@
             "eventDescriptionDe": "George Eastman, rollfilm kullanan Kamerası için Kodak markasını tescil ettirir ve patent alır. Kodak kamerası kullanımı kolay ve uygun fiyatlıdır, bu da fotoğrafçılığı daha geniş bir kitleye erişilebilir hale getirir.",
             "eventDescriptionEs": "George Eastman, roll film kullanan kamerası için Kodak markasını tescil ettirir ve patent alır. Kodak kamerası kullanımı kolay ve uygun fiyatlıdır, bu da fotoğrafçılığı daha geniş bir kitleye erişilebilir hale getirir.",
             "eventDescriptionIt": "George Eastman, roll film kullanan kamerası için Kodak markasını tescil ettirir ve patent alır. Kodak kamerası kullanımı kolay ve uygun fiyatlıdır, bu da fotoğrafçılığı daha geniş bir kitleye erişilebilir hale getirir."
-          },{
+        },
+        {
             "eventId": "310",
             "eventCategory": "TECH",
             "eventDate": "1951/09/04",
@@ -3239,7 +3262,8 @@
             "eventDescriptionDe": "Die erste Live-Transkontinental-Fernsehübertragung fand in San Francisco am 4. September 1951 statt, vom Japanischen Friedensvertragsgipfel. Die Übertragung wurde von Millionen von Menschen in den Vereinigten Staaten gesehen.",
             "eventDescriptionEs": "La primera transmisión de televisión transcontinental en vivo tuvo lugar en San Francisco el 4 de septiembre de 1951, desde la Conferencia del Tratado de Paz de Japón. La transmisión fue vista por millones de personas en los Estados Unidos.",
             "eventDescriptionIt": "La prima trasmissione televisiva transcontinentale in diretta ha avuto luogo a San Francisco il 4 settembre 1951, dalla Conferenza del Trattato di Pace del Giappone. La trasmissione è stata vista da milioni di persone negli Stati Uniti."
-          },{
+        },
+        {
             "eventId": "311",
             "eventCategory": "PEOPLE",
             "eventDate": "1997/09/05",
@@ -3249,7 +3273,8 @@
             "eventDescriptionDe": "Mutter Teresa, eine katholische Nonne und Missionarin, stirbt in Kalkutta, Indien. Sie war 87 Jahre alt. Mutter Teresa war für ihre Arbeit mit den Armen und Kranken bekannt und gründete die Missionare der Nächstenliebe, einen religiösen Orden, der sich um die Bedürftigen und Sterbenden kümmert. Sie wurde 1979 mit dem Nobelpreis für den Frieden ausgezeichnet.",
             "eventDescriptionEs": "Madre Teresa, una monja católica y misionera, muere en Calcuta, India. Tenía 87 años. Madre Teresa era conocida por su trabajo con los pobres y enfermos, y fundó las Misioneras de la Caridad, una orden religiosa que cuida a los indigentes y moribundos. Fue galardonada con el Premio Nobel de la Paz en 1979.",
             "eventDescriptionIt": "Madre Teresa, una suora cattolica e missionaria, muore a Calcutta, in India. Aveva 87 anni. Madre Teresa era nota per il suo lavoro con i poveri e i malati, e ha fondato le Missionarie della Carità, un ordine religioso che si occupa dei bisognosi e dei moribondi. È stata insignita del Premio Nobel per la Pace nel 1979."
-          },{
+        },
+        {
             "eventId": "312",
             "eventCategory": "PEOPLE",
             "eventDate": "1953/03/05",
@@ -3259,7 +3284,8 @@
             "eventDescriptionDe": "Josef Stalin stirbt am 5. März 1953 an einem Schlaganfall. Stalin war seit 1924 Führer der Sowjetunion und einer der mächtigsten Figuren des 20. Jahrhunderts. Sein Tod führte zu einem Machtkampf in der Sowjetunion und der eventualen Entstalinisierung des Landes.",
             "eventDescriptionEs": "José Stalin muere de un derrame cerebral el 5 de marzo de 1953. Stalin había sido el líder de la Unión Soviética desde 1924 y fue una de las figuras más poderosas del siglo XX. Su muerte condujo a una lucha por el poder en la Unión Soviética y a la eventual des-estalinización del país.",
             "eventDescriptionIt": "Joseph Stalin muore di ictus il 5 marzo 1953. Stalin era il leader dell'Unione Sovietica dal 1924 ed è stato una delle figure più potenti del XX secolo. La sua morte ha portato a una lotta per il potere nell'Unione Sovietica e alla graduale destalinizzazione del paese."
-          },{
+        },
+        {
             "eventId": "313",
             "eventCategory": "POLITICS",
             "eventDate": "1974/09/05",
@@ -3269,7 +3295,8 @@
             "eventDescriptionDe": "Guinea-Bissau erlangt am 5. September 1974 die Unabhängigkeit von Portugal. Das Land war seit dem 15. Jahrhundert eine portugiesische Kolonie. Die Unabhängigkeitsbewegung wurde von Amilcar Cabral geführt, der 1973 ermordet wurde. Guinea-Bissau ist seit 1974 Mitglied der Vereinten Nationen.",
             "eventDescriptionEs": "Guinea-Bissau obtiene la independencia de Portugal el 5 de septiembre de 1974. El país había sido una colonia portuguesa desde el siglo XV. El movimiento de independencia fue liderado por Amilcar Cabral, quien fue asesinado en 1973. Guinea-Bissau es miembro de las Naciones Unidas desde 1974.",
             "eventDescriptionIt": "La Guinea-Bissau ottiene l'indipendenza dal Portogallo il 5 settembre 1974. Il paese era una colonia portoghese dal XV secolo. Il movimento per l'indipendenza è stato guidato da Amilcar Cabral, assassinato nel 1973. La Guinea-Bissau è membro delle Nazioni Unite dal 1974."
-          },{
+        },
+        {
             "eventId": "314",
             "eventCategory": "POLITICS",
             "eventDate": "1974/09/10",
@@ -3279,7 +3306,8 @@
             "eventDescriptionDe": "Guinea-Bissau erlangt am 10. September 1974 die Unabhängigkeit von Portugal. Das Land war seit dem 15. Jahrhundert eine portugiesische Kolonie. Die Unabhängigkeitsbewegung wurde von Amilcar Cabral geführt, der 1973 ermordet wurde. Guinea-Bissau ist seit 1974 Mitglied der Vereinten Nationen.",
             "eventDescriptionEs": "Guinea-Bissau obtiene la independencia de Portugal el 10 de septiembre de 1974. El país había sido una colonia portuguesa desde el siglo XV. El movimiento de independencia fue liderado por Amilcar Cabral, quien fue asesinado en 1973. Guinea-Bissau es miembro de las Naciones Unidas desde 1974.",
             "eventDescriptionIt": "La Guinea-Bissau ottiene l'indipendenza dal Portogallo il 10 settembre 1974. Il paese era una colonia portoghese dal XV secolo. Il movimento per l'indipendenza è stato guidato da Amilcar Cabral, assassinato nel 1973. La Guinea-Bissau è membro delle Nazioni Unite dal 1974."
-          },{
+        },
+        {
             "eventId": "315",
             "eventCategory": "TECH",
             "eventDate": "1935/09/04",
@@ -3289,7 +3317,8 @@
             "eventDescriptionDe": "Die Istanbuler Telefongesellschaft wird am 4. September 1935 vom Staat übernommen. Das Unternehmen war seit seiner Gründung im Jahr 1882 in privater Hand. Die Übernahme durch den Staat ist Teil eines breiteren Bemühens, Schlüsselindustrien in der Türkei zu verstaatlichen.",
             "eventDescriptionEs": "La compañía telefónica de Estambul es tomada por el gobierno el 4 de septiembre de 1935. La compañía había sido de propiedad privada desde su fundación en 1882. La toma de posesión por el gobierno es parte de un esfuerzo más amplio para nacionalizar industrias clave en Turquía.",
             "eventDescriptionIt": "La società telefonica di Istanbul viene rilevata dal governo il 4 settembre 1935. La società era di proprietà privata dalla sua fondazione nel 1882. L'acquisizione da parte del governo è parte di un più ampio sforzo per nazionalizzare le industrie chiave in Turchia."
-          },{
+        },
+        {
             "eventId": "316",
             "eventCategory": "HISTORY",
             "eventDate": "1989/09/04",
@@ -3299,7 +3328,8 @@
             "eventDescriptionDe": "Die erste Sportzeitung in der Türkei, Fotospor, wird am 4. September 1989 gegründet. Die Zeitung wurde von Ahmet Selahattin Erol gegründet und befindet sich in Istanbul. Fotospor wird schnell zu einer der beliebtesten Sportzeitungen in der Türkei und wird dafür gecreditiert, den Sport im Land populärer gemacht zu haben.",
             "eventDescriptionEs": "El primer periódico deportivo de Turquía, Fotospor, se lanza el 4 de septiembre de 1989. El periódico fue fundado por Ahmet Selahattin Erol y tiene su sede en Estambul. Fotospor se convirtió rápidamente en uno de los periódicos deportivos más populares de Turquía y se le atribuye haber ayudado a popularizar el deporte en el país.",
             "eventDescriptionIt": "Il primo giornale sportivo in Turchia, Fotospor, viene lanciato il 4 settembre 1989. Il giornale è fondato da Ahmet Selahattin Erol e ha sede a Istanbul. Fotospor diventa rapidamente uno dei giornali sportivi più popolari in Turchia ed è accreditato per aver contribuito a rendere il paese più popolare."
-          },{
+        },
+        {
             "eventId": "317",
             "eventCategory": "FINANCE",
             "eventDate": "2021/09/07",
@@ -3309,7 +3339,8 @@
             "eventDescriptionDe": "Bitcoin wird am 7. September 2021 in El Salvador gesetzliches Zahlungsmittel. Das Gesetz wurde im Juni 2021 vom salvadorianischen Kongress verabschiedet und macht Bitcoin zur zweiten offiziellen Währung des Landes, neben dem US-Dollar. Das Gesetz wurde mit gemischten Reaktionen aufgenommen, wobei einige es als Schritt zur Förderung der finanziellen Inklusion lobten und andere es als riskantes Experiment kritisierten.",
             "eventDescriptionEs": "El Bitcoin se convierte en moneda de curso legal en El Salvador el 7 de septiembre de 2021. La ley fue aprobada por el Congreso salvadoreño en junio de 2021 y hace del Bitcoin la segunda moneda oficial del país, junto al dólar estadounidense. La ley ha sido recibida con reacciones mixtas, con algunos elogiando la medida como un paso para promover la inclusión financiera y otros criticándola como un experimento arriesgado.",
             "eventDescriptionIt": "Il Bitcoin diventa moneta a corso legale in El Salvador il 7 settembre 2021. La legge è stata approvata dal Congresso salvadoregno a giugno 2021 e rende il Bitcoin la seconda valuta ufficiale del paese, insieme al dollaro USA. La legge ha ricevuto reazioni contrastanti, con alcuni che hanno elogiato la misura come un passo per promuovere l'inclusione finanziaria e altri che l'hanno criticata come un esperimento rischioso."
-          },{
+        },
+        {
             "eventId": "318",
             "eventCategory": "POLITICS",
             "eventDate": "2005/09/07",
@@ -3319,7 +3350,8 @@
             "eventDescriptionDe": "Ägypten hält am 7. September 2005 seine erste mehrparteiliche Präsidentschaftswahl ab. Die Wahl wurde von dem amtierenden Präsidenten Hosni Mubarak gewonnen, der von sieben anderen Kandidaten herausgefordert wurde. Die Wahl wurde als Schritt in Richtung Demokratie in Ägypten gesehen, wurde aber auch für unfair und undemokratisch kritisiert.",
             "eventDescriptionEs": "Egipto celebra sus primeras elecciones presidenciales multipartidistas el 7 de septiembre de 2005. Las elecciones fueron ganadas por el presidente en ejercicio, Hosni Mubarak, que fue desafiado por otros siete candidatos. Las elecciones fueron vistas como un paso hacia la democracia en Egipto, pero también fueron criticadas por ser injustas y antidemocráticas.",
             "eventDescriptionIt": "L'Egitto tiene le sue prime elezioni presidenziali multipartitiche il 7 settembre 2005. Le elezioni sono state vinte dal presidente in carica Hosni Mubarak, che è stato sfidato da altri sette candidati. Le elezioni sono state viste come un passo verso la democrazia in Egitto, ma sono state anche criticate per essere ingiuste e antidemocratiche."
-          },{
+        },
+        {
             "eventId": "319",
             "eventCategory": "TECH",
             "eventDate": "1927/09/07",
@@ -3329,7 +3361,8 @@
             "eventDescriptionDe": "Die erste vollständig elektronische Fernsehanlage wurde am 7. September 1927 von Philo Farnsworth realisiert. Farnsworth war ein junger Erfinder, der seit seiner Teenagerzeit an der Idee des elektronischen Fernsehens gearbeitet hatte. Sein System verwendete eine Kathodenstrahlröhre, um ein Bild zu scannen und es dann über die Luft zu übertragen. Farnsworths Erfindung war ein bedeutender Durchbruch in der Entwicklung des Fernsehens und ebnete den Weg für die modernen Fernsehgeräte, die wir heute verwenden.",
             "eventDescriptionEs": "El primer sistema de televisión completamente electrónico fue logrado por Philo Farnsworth el 7 de septiembre de 1927. Farnsworth era un joven inventor que había estado trabajando en la idea de la televisión electrónica desde que era un adolescente. Su sistema utilizaba un tubo de rayos catódicos para escanear una imagen y luego transmitirla por el aire. La invención de Farnsworth fue un gran avance en el desarrollo de la televisión y allanó el camino para los televisores modernos que utilizamos hoy en día.",
             "eventDescriptionIt": "Il primo sistema televisivo completamente elettronico è stato realizzato da Philo Farnsworth il 7 settembre 1927. Farnsworth era un giovane inventore che aveva lavorato all'idea della televisione elettronica sin da quando era un adolescente. Il suo sistema utilizzava un tubo a raggi catodici per scansionare un'immagine e quindi trasmetterla via etere. L'invenzione di Farnsworth è stata un grande passo avanti nello sviluppo della televisione e ha aperto la strada ai moderni televisori che usiamo oggi."
-          },{
+        },
+        {
             "eventId": "320",
             "eventCategory": "POLITICS",
             "eventDate": "1940/09/07",
@@ -3339,12 +3372,17 @@
             "eventDescriptionDe": "Nazi-Deutschland begann am 7. September 1940 mit dem Luftangriff auf London, England. Die Bombardierungskampagne, die als Blitz bekannt ist, dauerte acht Monate und verursachte weit verbreitete Schäden und Verluste. Der Blitz war ein wichtiger Wendepunkt im Krieg, da er den Entschlossenheit der britischen Bevölkerung, dem Nazi-Einmarsch zu widerstehen, zeigte.",
             "eventDescriptionEs": "La Alemania nazi comenzó su bombardeo aéreo de Londres, Inglaterra, el 7 de septiembre de 1940. La campaña de bombardeos, conocida como el Blitz, duró ocho meses y causó graves daños y pérdidas de vidas. El Blitz fue un punto de inflexión importante en la guerra, ya que mostró la determinación del pueblo británico de resistir la invasión nazi.",
             "eventDescriptionIt": "La Germania nazista iniziò il suo bombardamento aereo di Londra, Inghilterra, il 7 settembre 1940. La campagna di bombardamenti, nota come Blitz, durò otto mesi e causò gravi danni e perdite di vite umane. Il Blitz fu un punto di svolta importante nella guerra, poiché mostrò la determinazione del popolo britannico a resistere all'invasione nazista."
-          }
-          
-          
-          
-          
-          
-          
+        },
+        {
+            "eventId": "321",
+            "eventCategory": "POLITICS",
+            "eventDate": "2022/09/07",
+            "eventImg": null,
+            "eventDescriptionEn": "Queen Elizabeth II of the United Kingdom dies at Balmoral Castle in Scotland after reigning for 70 years. Her son Charles, Prince of Wales, ascends the throne upon her death as Charles III.",
+            "eventDescriptionTr": "İngiltere Kraliçesi II. Elizabeth, İskoçya'daki Balmoral Kalesi'nde 70 yıl hüküm sürdükten sonra vefat etti. Oğlu Charles, Galler Prensi, ölümü üzerine tahta Charles III olarak çıktı.",
+            "eventDescriptionDe": "Die britische Königin Elisabeth II. stirbt im schottischen Balmoral Castle nach 70 Jahren Herrschaft. Ihr Sohn Charles, Prinz von Wales, besteigt nach ihrem Tod den Thron als Charles III.",
+            "eventDescriptionEs": "La reina Isabel II del Reino Unido muere en el castillo de Balmoral en Escocia después de reinar durante 70 años. Su hijo, el príncipe Carlos de Gales, asciende al trono tras su muerte como Carlos III.",
+            "eventDescriptionIt": "La regina Elisabetta II del Regno Unito muore nel castello di Balmoral in Scozia dopo aver regnato per 70 anni. Suo figlio, il principe Carlo di Galles, ascende al trono alla sua morte come Carlo III."
+        }
     ]
 }
