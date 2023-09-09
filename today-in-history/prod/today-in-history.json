@@ -3457,7 +3457,18 @@
             "eventDescriptionDe": "Guinea-Bissau erlangt die Unabhängigkeit von Portugal und markiert einen bedeutenden Moment in der Geschichte des Landes sowie das Ende der portugiesischen Kolonialherrschaft.",
             "eventDescriptionEs": "Guinea-Bissau obtiene la independencia de Portugal, marcando un momento significativo en la historia del país y el fin del dominio colonial portugués.",
             "eventDescriptionIt": "La Guinea-Bissau ottiene l'indipendenza dal Portogallo, segnando un momento significativo nella storia del paese e la fine del dominio coloniale portoghese."
+          },{
+            "eventId": "329",
+            "eventCategory": "POLITICS",
+            "eventDate": "2002/09/10",
+            "eventImg": null,
+            "eventDescriptionEn": "Switzerland, traditionally a neutral country, becomes a full member of the United Nations, marking a significant shift in its international relations.",
+            "eventDescriptionTr": "Geleneksel olarak tarafsız bir ülke olan İsviçre, Birleşmiş Milletler'in tam üyesi olur ve uluslararası ilişkilerinde önemli bir değişimi işaret eder.",
+            "eventDescriptionDe": "Die Schweiz, traditionell ein neutrales Land, wird Vollmitglied der Vereinten Nationen und markiert eine bedeutende Veränderung in ihren internationalen Beziehungen.",
+            "eventDescriptionEs": "Suiza, tradicionalmente un país neutral, se convierte en miembro de pleno derecho de las Naciones Unidas, marcando un cambio significativo en sus relaciones internacionales.",
+            "eventDescriptionIt": "La Svizzera, tradizionalmente un paese neutrale, diventa un membro a pieno titolo delle Nazioni Unite, segnando un cambiamento significativo nelle sue relazioni internazionali."
           }
+          
           
           
           
