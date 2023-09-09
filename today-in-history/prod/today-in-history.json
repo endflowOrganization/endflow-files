@@ -3447,7 +3447,18 @@
             "eventDescriptionDe": "Elias Howe erhält ein Patent für die Nähmaschine, eine revolutionäre Erfindung, die die Textil- und Bekleidungsindustrie maßgeblich beeinflusst hat.",
             "eventDescriptionEs": "Elias Howe recibe una patente para la máquina de coser, una invención revolucionaria que tuvo un gran impacto en la industria textil y de la confección.",
             "eventDescriptionIt": "A Elias Howe viene rilasciato un brevetto per la macchina da cucire, un'invenzione rivoluzionaria che ha avuto un grande impatto nell'industria tessile e dell'abbigliamento."
+          },{
+            "eventId": "328",
+            "eventCategory": "POLITICS",
+            "eventDate": "1973/09/24",
+            "eventImg": null,
+            "eventDescriptionEn": "Guinea-Bissau gains independence from Portugal, marking a significant moment in the country's history and the end of Portuguese colonial rule.",
+            "eventDescriptionTr": "Gine-Bissau, Portekiz'den bağımsızlığını kazanır ve bu, ülkenin tarihinde önemli bir anı ve Portekiz kolonyal yönetiminin sonunu işaret eder.",
+            "eventDescriptionDe": "Guinea-Bissau erlangt die Unabhängigkeit von Portugal und markiert einen bedeutenden Moment in der Geschichte des Landes sowie das Ende der portugiesischen Kolonialherrschaft.",
+            "eventDescriptionEs": "Guinea-Bissau obtiene la independencia de Portugal, marcando un momento significativo en la historia del país y el fin del dominio colonial portugués.",
+            "eventDescriptionIt": "La Guinea-Bissau ottiene l'indipendenza dal Portogallo, segnando un momento significativo nella storia del paese e la fine del dominio coloniale portoghese."
           }
+          
           
           
     ]
