@@ -3427,6 +3427,17 @@
             "eventDescriptionDe": "Dom Pedro I, der Vizekönig von Brasilien, erklärt das Land am Ufer des Ipiranga-Baches in São Paulo von Portugal unabhängig. Das Ereignis ist als Ipiranga-Geschrei bekannt.",
             "eventDescriptionEs": "Dom Pedro I, el príncipe regente de Brasil, declara al país independiente de Portugal en las orillas del arroyo Ipiranga en São Paulo. El evento se conoce como el Grito de Ipiranga.",
             "eventDescriptionIt": "Dom Pedro I, il principe reggente del Brasile, dichiara il paese indipendente dal Portogallo sulle rive del torrente Ipiranga a San Paolo. L'evento è noto come Grido di Ipiranga."
-        }
+        },{
+            "eventId": "326",
+            "eventCategory": "HISTORY",
+            "eventDate": "1709/09/10",
+            "eventImg": null,
+            "eventDescriptionEn": "An earthquake known as 'The Lesser Judgment Day' strikes Constantinople (modern-day Istanbul).",
+            "eventDescriptionTr": "Bilinen adıyla 'Küçük Kıyamet' olarak anılan bir deprem, Konstantinopolis'i (bugünkü İstanbul) vurdu.",
+            "eventDescriptionDe": "Ein Erdbeben namens 'Der kleine Jüngste Tag' erschüttert Konstantinopel (heutiges Istanbul).",
+            "eventDescriptionEs": "Un terremoto conocido como 'El Juicio Menor' golpea Constantinopla (la actual Estambul).",
+            "eventDescriptionIt": "Un terremoto noto come 'Il Giorno del Giudizio Minore' colpisce Costantinopoli (l'odierna Istanbul)."
+          }
+          
     ]
 }
