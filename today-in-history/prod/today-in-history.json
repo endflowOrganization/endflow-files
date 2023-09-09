@@ -138,7 +138,11 @@
             "eventDate": "2001/09/11",
             "eventImg": null,
             "eventDescriptionEn": "The September 11 attacks, a series of coordinated terrorist attacks killing 2,996 people using four aircraft hijacked by 19 members of al-Qaeda. Two aircraft crash into the World Trade Center in New York City, a third crashes into The Pentagon in Arlington County, Virginia, and a fourth into a field near Shanksville, Pennsylvania.",
-            "eventDescriptionTr": "11 Eylül saldırıları, El Kaide'nin 19 üyesi tarafından kaçırılan dört uçağı kullanarak 2.996 kişinin ölümüne neden olan bir dizi koordineli terör saldırısıdır. İki uçak New York City'deki Dünya Ticaret Merkezi'ne düştü, üçüncüsü Virginia, Arlington County'deki The Pentagon'a ve dördüncüsü Pennsylvania, Shanksville yakınlarındaki bir araziye düştü."
+            "eventDescriptionTr": "11 Eylül saldırıları, El Kaide'nin 19 üyesi tarafından kaçırılan dört uçağı kullanarak 2.996 kişinin ölümüne neden olan bir dizi koordineli terör saldırısıdır. İki uçak New York City'deki Dünya Ticaret Merkezi'ne düştü, üçüncüsü Virginia, Arlington County'deki The Pentagon'a ve dördüncüsü Pennsylvania, Shanksville yakınlarındaki bir araziye düştü.",
+            "eventDescriptionDe": "Die Anschläge vom 11. September, eine Serie koordinierter terroristischer Angriffe, bei denen 2.996 Menschen getötet wurden, indem vier Flugzeuge von 19 Mitgliedern von Al-Qaida entführt wurden. Zwei Flugzeuge stürzen in das World Trade Center in New York City, ein drittes stürzt in das Pentagon in Arlington County, Virginia, und ein viertes in ein Feld in der Nähe von Shanksville, Pennsylvania.",
+            "eventDescriptionEs": "Los ataques del 11 de septiembre, una serie de ataques terroristas coordinados que mataron a 2.996 personas utilizando cuatro aviones secuestrados por 19 miembros de Al Qaeda. Dos aviones se estrellan contra el World Trade Center en la ciudad de Nueva York, un tercero se estrella contra el Pentágono en el condado de Arlington, Virginia, y un cuarto en un campo cerca de Shanksville, Pensilvania.",
+            "eventDescriptionIt": "Gli attacchi dell'11 settembre, una serie di attacchi terroristici coordinati che hanno ucciso 2.996 persone utilizzando quattro aerei dirottati da 19 membri di Al Qaeda. Due aerei si schiantano contro il World Trade Center di New York City, un terzo si schianta contro il Pentagono nella Contea di Arlington, Virginia, e un quarto in un campo vicino a Shanksville, Pennsylvania.",
+            "eventDescriptionFr": "Les attentats du 11 septembre, une série d'attaques terroristes coordonnées ayant fait 2 996 morts à l'aide de quatre avions détournés par 19 membres d'Al-Qaïda. Deux avions se sont écrasés contre le World Trade Center à New York, un troisième s'est écrasé contre le Pentagone dans le comté d'Arlington, en Virginie, et un quatrième dans un champ près de Shanksville, en Pennsylvanie."
         },
         {
             "eventId": "19",
@@ -3427,7 +3431,8 @@
             "eventDescriptionDe": "Dom Pedro I, der Vizekönig von Brasilien, erklärt das Land am Ufer des Ipiranga-Baches in São Paulo von Portugal unabhängig. Das Ereignis ist als Ipiranga-Geschrei bekannt.",
             "eventDescriptionEs": "Dom Pedro I, el príncipe regente de Brasil, declara al país independiente de Portugal en las orillas del arroyo Ipiranga en São Paulo. El evento se conoce como el Grito de Ipiranga.",
             "eventDescriptionIt": "Dom Pedro I, il principe reggente del Brasile, dichiara il paese indipendente dal Portogallo sulle rive del torrente Ipiranga a San Paolo. L'evento è noto come Grido di Ipiranga."
-        },{
+        },
+        {
             "eventId": "326",
             "eventCategory": "HISTORY",
             "eventDate": "1709/09/10",
@@ -3437,7 +3442,8 @@
             "eventDescriptionDe": "Ein Erdbeben namens 'Der kleine Jüngste Tag' erschüttert Konstantinopel (heutiges Istanbul).",
             "eventDescriptionEs": "Un terremoto conocido como 'El Juicio Menor' golpea Constantinopla (la actual Estambul).",
             "eventDescriptionIt": "Un terremoto noto come 'Il Giorno del Giudizio Minore' colpisce Costantinopoli (l'odierna Istanbul)."
-          },{
+        },
+        {
             "eventId": "327",
             "eventCategory": "TECH",
             "eventDate": "1846/09/10",
@@ -3447,7 +3453,8 @@
             "eventDescriptionDe": "Elias Howe erhält ein Patent für die Nähmaschine, eine revolutionäre Erfindung, die die Textil- und Bekleidungsindustrie maßgeblich beeinflusst hat.",
             "eventDescriptionEs": "Elias Howe recibe una patente para la máquina de coser, una invención revolucionaria que tuvo un gran impacto en la industria textil y de la confección.",
             "eventDescriptionIt": "A Elias Howe viene rilasciato un brevetto per la macchina da cucire, un'invenzione rivoluzionaria che ha avuto un grande impatto nell'industria tessile e dell'abbigliamento."
-          },{
+        },
+        {
             "eventId": "328",
             "eventCategory": "POLITICS",
             "eventDate": "1973/09/24",
@@ -3457,7 +3464,8 @@
             "eventDescriptionDe": "Guinea-Bissau erlangt die Unabhängigkeit von Portugal und markiert einen bedeutenden Moment in der Geschichte des Landes sowie das Ende der portugiesischen Kolonialherrschaft.",
             "eventDescriptionEs": "Guinea-Bissau obtiene la independencia de Portugal, marcando un momento significativo en la historia del país y el fin del dominio colonial portugués.",
             "eventDescriptionIt": "La Guinea-Bissau ottiene l'indipendenza dal Portogallo, segnando un momento significativo nella storia del paese e la fine del dominio coloniale portoghese."
-          },{
+        },
+        {
             "eventId": "329",
             "eventCategory": "POLITICS",
             "eventDate": "2002/09/10",
@@ -3467,10 +3475,6 @@
             "eventDescriptionDe": "Die Schweiz, traditionell ein neutrales Land, wird Vollmitglied der Vereinten Nationen und markiert eine bedeutende Veränderung in ihren internationalen Beziehungen.",
             "eventDescriptionEs": "Suiza, tradicionalmente un país neutral, se convierte en miembro de pleno derecho de las Naciones Unidas, marcando un cambio significativo en sus relaciones internacionales.",
             "eventDescriptionIt": "La Svizzera, tradizionalmente un paese neutrale, diventa un membro a pieno titolo delle Nazioni Unite, segnando un cambiamento significativo nelle sue relazioni internazionali."
-          }
-          
-          
-          
-          
+        }
     ]
 }
