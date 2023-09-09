@@ -3437,7 +3437,18 @@
             "eventDescriptionDe": "Ein Erdbeben namens 'Der kleine Jüngste Tag' erschüttert Konstantinopel (heutiges Istanbul).",
             "eventDescriptionEs": "Un terremoto conocido como 'El Juicio Menor' golpea Constantinopla (la actual Estambul).",
             "eventDescriptionIt": "Un terremoto noto come 'Il Giorno del Giudizio Minore' colpisce Costantinopoli (l'odierna Istanbul)."
+          },{
+            "eventId": "327",
+            "eventCategory": "TECH",
+            "eventDate": "1846/09/10",
+            "eventImg": null,
+            "eventDescriptionEn": "Elias Howe is granted a patent for the sewing machine, a revolutionary invention that greatly impacted the textile and clothing industry.",
+            "eventDescriptionTr": "Elias Howe, dikiş makinesi için bir patent alır; tekstil ve giyim endüstrisini büyük ölçüde etkileyen devrim niteliğinde bir icat.",
+            "eventDescriptionDe": "Elias Howe erhält ein Patent für die Nähmaschine, eine revolutionäre Erfindung, die die Textil- und Bekleidungsindustrie maßgeblich beeinflusst hat.",
+            "eventDescriptionEs": "Elias Howe recibe una patente para la máquina de coser, una invención revolucionaria que tuvo un gran impacto en la industria textil y de la confección.",
+            "eventDescriptionIt": "A Elias Howe viene rilasciato un brevetto per la macchina da cucire, un'invenzione rivoluzionaria che ha avuto un grande impatto nell'industria tessile e dell'abbigliamento."
           }
+          
           
     ]
 }
