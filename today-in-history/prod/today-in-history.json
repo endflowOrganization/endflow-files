@@ -3602,7 +3602,18 @@
             "eventDescriptionDe": "Die Republik Türkei wird in Ankara, Türkei, ausgerufen. Die Ausrufung der Republik ist ein wichtiger Wendepunkt in der türkischen Geschichte und markiert das Ende des Osmanischen Reiches und den Beginn einer neuen Ära für die Türkei.",
             "eventDescriptionEs": "La República de Turquía se proclama en Ankara, Turquía. La proclamación de la república es un momento importante en la historia turca, que marca el fin del Imperio Otomano y el comienzo de una nueva era para Turquía.",
             "eventDescriptionIt": "La Repubblica di Turchia viene proclamata ad Ankara, in Turchia. La proclamazione della repubblica è un momento importante nella storia turca, che segna la fine dell'Impero Ottomano e l'inizio di una nuova era per la Turchia."
+        },{
+            "eventId": "342",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1790/04/17",
+            "eventImg": null,
+            "eventDescriptionEn": "Benjamin Franklin, American polymath and statesman, dies at the age of 84. Franklin was a leading figure in the American Revolution and helped to draft the Declaration of Independence. He was also a scientist, inventor, and diplomat.",
+            "eventDescriptionTr": "Benjamin Franklin, Amerikalı bilim adamı, mucit ve devlet adamı 84 yaşında vefat etti. Franklin, Amerikan Devrimi'nde önde gelen bir figürdü ve Bağımsızlık Bildirgesi'nin hazırlanmasına yardımcı oldu. Aynı zamanda bir bilim adamı, mucit ve diplomattı.",
+            "eventDescriptionDe": "Benjamin Franklin, amerikanischer Universalgelehrter und Staatsmann, stirbt im Alter von 84 Jahren. Franklin war eine führende Figur in der Amerikanischen Revolution und half bei der Ausarbeitung der Unabhängigkeitserklärung. Er war auch ein Wissenschaftler, Erfinder und Diplomat.",
+            "eventDescriptionEs": "Benjamin Franklin, erudito y estadista estadounidense, muere a la edad de 84 años. Franklin fue una figura destacada en la Revolución Americana y ayudó a redactar la Declaración de Independencia. También fue un científico, inventor y diplomático.",
+            "eventDescriptionIt": "Benjamin Franklin, polimata e statista americano, muore all'età di 84 anni. Franklin fu una figura di spicco nella Rivoluzione americana e contribuì alla stesura della Dichiarazione d'Indipendenza. Era anche uno scienziato, inventore e diplomatico."
         }
+        
         
         
         
