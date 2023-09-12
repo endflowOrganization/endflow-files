@@ -3475,7 +3475,8 @@
             "eventDescriptionDe": "Die Schweiz, traditionell ein neutrales Land, wird Vollmitglied der Vereinten Nationen und markiert eine bedeutende Veränderung in ihren internationalen Beziehungen.",
             "eventDescriptionEs": "Suiza, tradicionalmente un país neutral, se convierte en miembro de pleno derecho de las Naciones Unidas, marcando un cambio significativo en sus relaciones internacionales.",
             "eventDescriptionIt": "La Svizzera, tradizionalmente un paese neutrale, diventa un membro a pieno titolo delle Nazioni Unite, segnando un cambiamento significativo nelle sue relazioni internazionali."
-        },{
+        },
+        {
             "eventId": "330",
             "eventCategory": "SCIENCE",
             "eventDate": "1992/09/19",
@@ -3485,7 +3486,17 @@
             "eventDescriptionDe": "Mae Jemison wird die erste afroamerikanische Astronautin, die in den Orbit startet, als sie mit dem Space Shuttle Endeavour in die Umlaufbahn geschossen wird.",
             "eventDescriptionEs": "Mae Jemison se convierte en la primera mujer afroamericana en ir al espacio, lanzando al espacio el transbordador espacial Endeavour.",
             "eventDescriptionIt": "Mae Jemison diventa la prima donna afroamericana a andare nello spazio, lanciandosi nello spazio con lo Space Shuttle Endeavour."
-          }
-          
+        },
+        {
+            "eventId": "331",
+            "eventCategory": "HISTORY",
+            "eventDate": "1980/09/12",
+            "eventImg": null,
+            "eventDescriptionEn": "The 12 September coup d'état, also known as the 1980 coup, was a military coup in Turkey on 12 September 1980, led by the Turkish Armed Forces under the command of General Kenan Evren, the Chief of the General Staff. It was the third and final successful coup d'état in Turkish history, after the 27 May coup and the 12 March memorandum.",
+            "eventDescriptionTr": "12 Eylül darbesi veya 1980 ihtilali, 12 Eylül 1980 tarihinde, Türkiye'de Genelkurmay Başkanı Orgeneral Kenan Evren liderliğindeki Türk Silahlı Kuvvetleri tarafından gerçekleştirilen askerî darbedir. 27 Mayıs Darbesi ve 12 Mart Muhtırası'nın ardından Türkiye Cumhuriyeti tarihinde Silahlı Kuvvetlerin yönetime karşı gerçekleştirdiği üçüncü ve son başarılı açık müdahaledir.",
+            "eventDescriptionDe": "Der 12. September-Putsch, auch bekannt als der Putsch von 1980, war ein Militärputsch in der Türkei am 12. September 1980, angeführt von den türkischen Streitkräften unter dem Kommando von General Kenan Evren, dem Generalstabschef. Es war der dritte und letzte erfolgreiche Putsch in der türkischen Geschichte nach dem 27. Mai-Putsch und dem 12. März-Memorandum.",
+            "eventDescriptionEs": "El golpe de Estado del 12 de septiembre, también conocido como el golpe de Estado de 1980, fue un golpe militar en Turquía el 12 de septiembre de 1980, liderado por las Fuerzas Armadas de Turquía bajo el mando del general Kenan Evren, el Jefe del Estado Mayor. Fue el tercer y último golpe de Estado exitoso en la historia de Turquía, después del golpe de Estado del 27 de mayo y la nota del 12 de marzo.",
+            "eventDescriptionIt": "Il colpo di Stato del 12 settembre, noto anche come il colpo di Stato del 1980, è stato un colpo di Stato militare in Turchia il 12 settembre 1980, guidato dalle forze armate turche sotto il comando del generale Kenan Evren, capo di stato maggiore. È stato il terzo e ultimo colpo di Stato riuscito nella storia della Turchia, dopo il colpo di Stato del 27 maggio e la nota del 12 marzo."
+        }
     ]
 }
