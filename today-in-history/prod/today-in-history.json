@@ -3497,6 +3497,17 @@
             "eventDescriptionDe": "Der 12. September-Putsch, auch bekannt als der Putsch von 1980, war ein Militärputsch in der Türkei am 12. September 1980, angeführt von den türkischen Streitkräften unter dem Kommando von General Kenan Evren, dem Generalstabschef. Es war der dritte und letzte erfolgreiche Putsch in der türkischen Geschichte nach dem 27. Mai-Putsch und dem 12. März-Memorandum.",
             "eventDescriptionEs": "El golpe de Estado del 12 de septiembre, también conocido como el golpe de Estado de 1980, fue un golpe militar en Turquía el 12 de septiembre de 1980, liderado por las Fuerzas Armadas de Turquía bajo el mando del general Kenan Evren, el Jefe del Estado Mayor. Fue el tercer y último golpe de Estado exitoso en la historia de Turquía, después del golpe de Estado del 27 de mayo y la nota del 12 de marzo.",
             "eventDescriptionIt": "Il colpo di Stato del 12 settembre, noto anche come il colpo di Stato del 1980, è stato un colpo di Stato militare in Turchia il 12 settembre 1980, guidato dalle forze armate turche sotto il comando del generale Kenan Evren, capo di stato maggiore. È stato il terzo e ultimo colpo di Stato riuscito nella storia della Turchia, dopo il colpo di Stato del 27 maggio e la nota del 12 marzo."
-        }
+        },{
+            "eventId": "332",
+            "eventCategory": "TECH",
+            "eventDate": "1959/09/12",
+            "eventImg": null,
+            "eventDescriptionEn": "Bonanza premieres on NBC, becoming the first regularly scheduled TV program presented in color. The show is set in the 1860s and follows the Cartwright family, a wealthy rancher and his three sons. Bonanza was a huge success, running for 14 seasons and becoming one of the most popular TV shows of all time.",
+            "eventDescriptionTr": "Bonanza, NBC'de prömiyer yapıyor ve renkli olarak sunulan ilk düzenli TV programı oluyor. Dizi, 1860'larda geçiyor ve zengin bir çiftçi ve üç oğlu olan Cartwright ailesini takip ediyor. Bonanza büyük bir başarıydı, 14 sezon boyunca yayınlandı ve tüm zamanların en popüler TV şovlarından biri oldu.",
+            "eventDescriptionDe": "Bonanza wird auf NBC uraufgeführt und wird die erste regelmäßig im Fernsehen ausgestrahlte Sendung in Farbe. Die Show spielt im Jahr 1860 und folgt der Cartwright-Familie, einem wohlhabenden Rancher und seinen drei Söhnen. Bonanza war ein Riesenerfolg und lief 14 Staffeln lang und wurde zu einer der beliebtesten TV-Shows aller Zeiten.",
+            "eventDescriptionEs": "Bonanza se estrena en NBC, convirtiéndose en el primer programa de televisión regular presentado en color. El programa está ambientado en la década de 1860 y sigue a la familia Cartwright, un ranchero adinerado y sus tres hijos. Bonanza fue un gran éxito, se emitió durante 14 temporadas y se convirtió en una de las series de televisión más populares de todos los tiempos.",
+            "eventDescriptionIt": "Bonanza debutta su NBC, diventando il primo programma televisivo regolarmente programmato presentato a colori. Lo show è ambientato nel 1860 e segue la famiglia Cartwright, un ranchero benestante e i suoi tre figli. Bonanza è stato un enorme successo, è andato in onda per 14 stagioni ed è diventato una delle serie televisive più popolari di tutti i tempi."
+          }
+          
     ]
 }
