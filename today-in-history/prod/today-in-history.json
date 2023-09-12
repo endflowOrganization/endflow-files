@@ -3527,7 +3527,18 @@
             "eventDescriptionDe": "Die Sowjetunion startet eine große Rakete, Lunik 2, auf den Mond. Lunik 2 ist das erste Raumschiff, das den Mond trifft. Es stürzt am 14. September 1959 auf den Mond.",
             "eventDescriptionEs": "La Unión Soviética lanza una gran cohete, Lunik 2, a la Luna. Lunik 2 es la primera nave espacial que impacta en la Luna. Se estrella contra la Luna el 14 de septiembre de 1959.",
             "eventDescriptionIt": "L'Unione Sovietica lancia un grande razzo, Lunik 2, sulla Luna. Lunik 2 è la prima nave spaziale a colpire la Luna. Si schianta sulla Luna il 14 settembre 1959."
+          },{
+            "eventId": "335",
+            "eventCategory": "TECH",
+            "eventDate": "1985/09/13",
+            "eventImg": null,
+            "eventDescriptionEn": "Super Mario Bros. is released in Japan for the NES, which starts the Super Mario series of platforming games. The game is a huge success, selling over 40 million copies and becoming one of the best-selling video games of all time.",
+            "eventDescriptionTr": "Super Mario Bros., Super Mario serisinin platforming oyunlarını başlatan NES için Japonya'da piyasaya sürüldü. Oyun büyük bir başarı elde etti ve 40 milyondan fazla kopya satarak tüm zamanların en çok satan video oyunlarından biri oldu.",
+            "eventDescriptionDe": "Super Mario Bros. wird in Japan für das NES veröffentlicht, was die Super Mario-Serie von Jump-and-Run-Spielen einleitet. Das Spiel ist ein Riesenerfolg und verkauft sich über 40 Millionen Mal und wird zu einem der bestverkauften Videospiele aller Zeiten.",
+            "eventDescriptionEs": "Super Mario Bros. se lanza en Japón para la NES, lo que da inicio a la serie de juegos de plataformas Super Mario. El juego es un gran éxito, vendiendo más de 40 millones de copias y convirtiéndose en uno de los videojuegos más vendidos de todos los tiempos.",
+            "eventDescriptionIt": "Super Mario Bros. viene rilasciato in Giappone per NES, dando il via alla serie di videogiochi platform di Super Mario. Il gioco è un grande successo, vendendo oltre 40 milioni di copie e diventando uno dei videogiochi più venduti di tutti i tempi."
           }
+          
           
     ]
 }
