@@ -3529,8 +3529,16 @@
             "eventDescriptionDe": "Super Mario Bros. wird in Japan für das NES veröffentlicht, was die Super Mario-Serie von Jump-and-Run-Spielen einleitet. Das Spiel ist ein Riesenerfolg und verkauft sich über 40 Millionen Mal und wird zu einem der bestverkauften Videospiele aller Zeiten.",
             "eventDescriptionEs": "Super Mario Bros. se lanza en Japón para la NES, lo que da inicio a la serie de juegos de plataformas Super Mario. El juego es un gran éxito, vendiendo más de 40 millones de copias y convirtiéndose en uno de los videojuegos más vendidos de todos los tiempos.",
             "eventDescriptionIt": "Super Mario Bros. viene rilasciato in Giappone per NES, dando il via alla serie di videogiochi platform di Super Mario. Il gioco è un grande successo, vendendo oltre 40 milioni di copie e diventando uno dei videogiochi più venduti di tutti i tempi."
+          },{
+            "eventId": "336",
+            "eventCategory": "TECH",
+            "eventDate": "1977/09/13",
+            "eventImg": null,
+            "eventDescriptionEn": "General Motors introduces a diesel engine, with Oldsmobile Diesel engine, in the Delta 88, Oldsmobile 98, and Oldsmobile Custom Cruiser models amongst others. The engine is a 350 cubic-inch V8 that produces 110 horsepower and 240 lb-ft of torque.",
+            "eventDescriptionTr": "General Motors, Delta 88, Oldsmobile 98 ve Oldsmobile Custom Cruiser modelleri de dahil olmak üzere Oldsmobile Dizel motoru ile bir dizel motor tanıttı. Motor, 350 kübik inçlik bir V8 motoru ve 110 beygir gücü ve 240 lb-ft tork üretiyor.",
+            "eventDescriptionDe": "General Motors, Oldsmobile Diesel Motor mit einem Dieselmotor in den Modellen Delta 88, Oldsmobile 98 und Oldsmobile Custom Cruiser einführt. Der Motor ist ein 350 Kubikzoll-V8-Motor mit 110 PS und 240 lb-ft Drehmoment.",
+            "eventDescriptionEs": "General Motors introduce un motor diesel, con el motor diesel Oldsmobile, en los modelos Delta 88, Oldsmobile 98 y Oldsmobile Custom Cruiser, entre otros. El motor es un V8 de 350 pulgadas cúbicas que produce 110 caballos de fuerza y ​​240 lb-ft de torque.",
+            "eventDescriptionIt": "La General Motors introduce un motore diesel, con il motore diesel Oldsmobile, nei modelli Delta 88, Oldsmobile 98 e Oldsmobile Custom Cruiser, tra gli altri. Il motore è un V8 da 350 pollici cubici che produce 110 cavalli e 240 lb-ft di coppia."
           }
-          
-          
     ]
 }
