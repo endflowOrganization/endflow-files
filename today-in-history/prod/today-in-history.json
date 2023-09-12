@@ -3582,7 +3582,18 @@
             "eventDescriptionDe": "Microsoft, Windows Me (Millennium Edition), ein Betriebssystem für Heimanwender veröffentlicht. Windows Me wurde so konzipiert, dass es benutzerfreundlicher ist als frühere Windows-Versionen und enthält neue Funktionen wie Windows Movie Maker und Windows Media Player.",
             "eventDescriptionEs": "Microsoft lanza Windows Me (Millenium Edition), un sistema operativo para usuarios domésticos. Windows Me fue diseñado para ser más fácil de usar que las versiones anteriores de Windows e incluía nuevas funciones como Windows Movie Maker y Windows Media Player.",
             "eventDescriptionIt": "Microsoft rilascia Windows Me (Millenium Edition), un sistema operativo per gli utenti domestici. Windows Me è stato progettato per essere più facile da usare rispetto alle versioni precedenti di Windows e includeva nuove funzionalità come Windows Movie Maker e Windows Media Player."
+        },{
+            "eventId": "340",
+            "eventCategory": "TECH",
+            "eventDate": "1984/09/14",
+            "eventImg": null,
+            "eventDescriptionEn": "Joe Kittinger becomes the first person to fly a gas balloon alone across the Atlantic Ocean. Kittinger's flight began in Caribou, Maine, and ended in Miserey, France, after four days. He reached an altitude of 102,800 feet (31,298 m), which was a record at the time.",
+            "eventDescriptionTr": "Joe Kittinger, bir balonla Atlantik Okyanusu'nu tek başına geçen ilk kişi oldu. Kittinger'in uçuşu Maine, Caribou'dan başladı ve dört gün sonra Fransa'nın Miserey kentinde sona erdi. O zamanlar 102.800 feet (31.298 metre) olan bir rekoru kırdı.",
+            "eventDescriptionDe": "Joe Kittinger wird der erste Mensch, der allein mit einem Gasballon den Atlantischen Ozean überquert. Kittingers Flug begann in Caribou, Maine, und endete nach vier Tagen in Miserey, Frankreich. Er erreichte eine Höhe von 102.800 Fuß (31.298 m), was damals ein Rekord war.",
+            "eventDescriptionEs": "Joe Kittinger se convierte en la primera persona en volar un globo de gas solo a través del Océano Atlántico. El vuelo de Kittinger comenzó en Caribou, Maine, y terminó en Miserey, Francia, después de cuatro días. Alcanzó una altitud de 102.800 pies (31.298 m), que era un récord en ese momento.",
+            "eventDescriptionIt": "Joe Kittinger diventa la prima persona a volare un pallone a gas da solo attraverso l'Oceano Atlantico. Il volo di Kittinger è iniziato a Caribou, nel Maine, e si è concluso a Miserey, in Francia, dopo quattro giorni. Ha raggiunto un'altitudine di 102.800 piedi (31.298 m), che era un record all'epoca."
         }
+        
         
     ]
 }
