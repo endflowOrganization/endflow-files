@@ -3632,7 +3632,18 @@
             "eventDescriptionDe": "Enzo Ferrari, italienischer Rennfahrer und Gründer der Ferrari-Automobilfirma, stirbt im Alter von 90 Jahren. Ferrari war eine legendäre Figur im Motorsport und sein Unternehmen hat über 200 Formel-1-Rennen gewonnen.",
             "eventDescriptionEs": "Enzo Ferrari, piloto de carreras italiano y fundador de la empresa automovilística Ferrari, muere a la edad de 90 años. Ferrari fue una figura legendaria en el automovilismo, y su empresa ha ganado más de 200 carreras de Fórmula 1.",
             "eventDescriptionIt": "Enzo Ferrari, pilota automobilistico italiano e fondatore della casa automobilistica Ferrari, muore all'età di 90 anni. Ferrari è stata una figura leggendaria nel motorsport e la sua azienda ha vinto oltre 200 gare di Formula 1."
+        },{
+            "eventId": "345",
+            "eventCategory": "HISTORY",
+            "eventDate": "2023/06/18",
+            "eventImg": null,
+            "eventDescriptionEn": "On June 18, 2023, a submarine called Titan, operated by OceanGate, was lost in international waters in the North Atlantic Ocean, approximately 400 nautical miles (≌ 740 kilometers) off the coast of Newfoundland, Canada. Titan was carrying five people who were participating in a tourist excursion to observe the Titanic wreck. Communication with Titan was cut off 1 hour and 45 minutes after its dive to the wreck site.",
+            "eventDescriptionTr": "18 Haziran 2023 tarihinde, OceanGate tarafından işletilen bir denizaltı olan Titan, Kanada'ya ait Newfoundland topraklarından yaklaşık 400 deniz mili (≌ 740 kilometre) açıklarında Kuzey Atlantik Okyanusu'ndaki uluslararası sularda kayboldu. Titan, Titanic enkazını gözlemlemek amacıyla düzenlenen bir turist gezisine katılan beş kişiyi taşıyordu. Titan ile iletişim, enkaz alanına dalışının 1 saat 45 dakika sonra kesildi.",
+            "eventDescriptionDe": "Am 18. Juni 2023 wurde ein U-Boot namens Titan, das von OceanGate betrieben wurde, in internationalen Gewässern im Nordatlantik, etwa 400 Seemeilen (≌ 740 Kilometer) vor der Küste von Neufundland, Kanada, verloren. Titan hatte fünf Personen an Bord, die an einer Touristenexkursion zur Beobachtung des Titanic-Wracks teilnahmen. Die Kommunikation mit Titan wurde 1 Stunde und 45 Minuten nach dem Tauchgang zum Wrackort unterbrochen.",
+            "eventDescriptionEs": "El 18 de junio de 2023, un submarino llamado Titan, operado por OceanGate, se perdió en aguas internacionales en el Océano Atlántico Norte, aproximadamente a 400 millas náuticas (≌ 740 kilómetros) de la costa de Terranova, Canadá. Titan transportaba a cinco personas que participaban en una excursión turística para observar el naufragio del Titanic. La comunicación con Titan se cortó 1 hora y 45 minutos después de su inmersión en el sitio del naufragio.",
+            "eventDescriptionIt": "Il 18 giugno 2023, un sottomarino chiamato Titan, gestito da OceanGate, è stato perso in acque internazionali nell'Oceano Atlantico settentrionale, a circa 400 miglia nautiche (≌ 740 chilometri) al largo della costa di Terranova, Canada. Titan trasportava cinque persone che partecipavano a un'escursione turistica per osservare il relitto del Titanic. La comunicazione con Titan è stata interrotta 1 ora e 45 minuti dopo il suo tuffo sul sito del relitto."
         }
+        
         
     ]
 }
