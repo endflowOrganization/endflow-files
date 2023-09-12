@@ -3612,7 +3612,18 @@
             "eventDescriptionDe": "Benjamin Franklin, amerikanischer Universalgelehrter und Staatsmann, stirbt im Alter von 84 Jahren. Franklin war eine führende Figur in der Amerikanischen Revolution und half bei der Ausarbeitung der Unabhängigkeitserklärung. Er war auch ein Wissenschaftler, Erfinder und Diplomat.",
             "eventDescriptionEs": "Benjamin Franklin, erudito y estadista estadounidense, muere a la edad de 84 años. Franklin fue una figura destacada en la Revolución Americana y ayudó a redactar la Declaración de Independencia. También fue un científico, inventor y diplomático.",
             "eventDescriptionIt": "Benjamin Franklin, polimata e statista americano, muore all'età di 84 anni. Franklin fu una figura di spicco nella Rivoluzione americana e contribuì alla stesura della Dichiarazione d'Indipendenza. Era anche uno scienziato, inventore e diplomatico."
+        },{
+            "eventId": "343",
+            "eventCategory": "TECH",
+            "eventDate": "2023/11/30",
+            "eventImg": null,
+            "eventDescriptionEn": "ChatGPT, a large language model chatbot developed by OpenAI, is released. ChatGPT is capable of generating human-quality text, translating languages, writing different kinds of creative content, and answering your questions in an informative way.",
+            "eventDescriptionTr": "OpenAI tarafından geliştirilen ChatGPT, büyük dil modeli sohbet botu yayınlandı. ChatGPT, insan kalitesinde metin üretme, dilleri çevirme, farklı türde yaratıcı içerik yazma ve sorularınıza bilgilendirici bir şekilde yanıt verme yeteneğine sahiptir.",
+            "eventDescriptionDe": "ChatGPT, von OpenAI entwickeltes Chatbot mit großem Sprachmodell, wird veröffentlicht. ChatGPT kann menschliche Textqualität generieren, Sprachen übersetzen, verschiedene Arten von kreativem Inhalt schreiben und Ihre Fragen auf informative Weise beantworten.",
+            "eventDescriptionEs": "ChatGPT, un chatbot con modelo de lenguaje grande desarrollado por OpenAI, se publica. ChatGPT puede generar texto de calidad humana, traducir idiomas, escribir diferentes tipos de contenido creativo y responder a sus preguntas de manera informativa.",
+            "eventDescriptionIt": "ChatGPT, chatbot con modello di linguaggio di grandi dimensioni sviluppato da OpenAI, viene pubblicato. ChatGPT è in grado di generare testo di qualità umana, tradurre lingue, scrivere diversi tipi di contenuti creativi e rispondere alle tue domande in modo informativo."
         }
+        
         
         
         
