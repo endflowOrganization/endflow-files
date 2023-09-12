@@ -138,7 +138,11 @@
             "eventDate": "2001/09/11",
             "eventImg": null,
             "eventDescriptionEn": "The September 11 attacks, a series of coordinated terrorist attacks killing 2,996 people using four aircraft hijacked by 19 members of al-Qaeda. Two aircraft crash into the World Trade Center in New York City, a third crashes into The Pentagon in Arlington County, Virginia, and a fourth into a field near Shanksville, Pennsylvania.",
-            "eventDescriptionTr": "11 Eylül saldırıları, El Kaide'nin 19 üyesi tarafından kaçırılan dört uçağı kullanarak 2.996 kişinin ölümüne neden olan bir dizi koordineli terör saldırısıdır. İki uçak New York City'deki Dünya Ticaret Merkezi'ne düştü, üçüncüsü Virginia, Arlington County'deki The Pentagon'a ve dördüncüsü Pennsylvania, Shanksville yakınlarındaki bir araziye düştü."
+            "eventDescriptionTr": "11 Eylül saldırıları, El Kaide'nin 19 üyesi tarafından kaçırılan dört uçağı kullanarak 2.996 kişinin ölümüne neden olan bir dizi koordineli terör saldırısıdır. İki uçak New York City'deki Dünya Ticaret Merkezi'ne düştü, üçüncüsü Virginia, Arlington County'deki The Pentagon'a ve dördüncüsü Pennsylvania, Shanksville yakınlarındaki bir araziye düştü.",
+            "eventDescriptionDe": "Die Anschläge vom 11. September, eine Serie koordinierter terroristischer Angriffe, bei denen 2.996 Menschen getötet wurden, indem vier Flugzeuge von 19 Mitgliedern von Al-Qaida entführt wurden. Zwei Flugzeuge stürzen in das World Trade Center in New York City, ein drittes stürzt in das Pentagon in Arlington County, Virginia, und ein viertes in ein Feld in der Nähe von Shanksville, Pennsylvania.",
+            "eventDescriptionEs": "Los ataques del 11 de septiembre, una serie de ataques terroristas coordinados que mataron a 2.996 personas utilizando cuatro aviones secuestrados por 19 miembros de Al Qaeda. Dos aviones se estrellan contra el World Trade Center en la ciudad de Nueva York, un tercero se estrella contra el Pentágono en el condado de Arlington, Virginia, y un cuarto en un campo cerca de Shanksville, Pensilvania.",
+            "eventDescriptionIt": "Gli attacchi dell'11 settembre, una serie di attacchi terroristici coordinati che hanno ucciso 2.996 persone utilizzando quattro aerei dirottati da 19 membri di Al Qaeda. Due aerei si schiantano contro il World Trade Center di New York City, un terzo si schianta contro il Pentagono nella Contea di Arlington, Virginia, e un quarto in un campo vicino a Shanksville, Pennsylvania.",
+            "eventDescriptionFr": "Les attentats du 11 septembre, une série d'attaques terroristes coordonnées ayant fait 2 996 morts à l'aide de quatre avions détournés par 19 membres d'Al-Qaïda. Deux avions se sont écrasés contre le World Trade Center à New York, un troisième s'est écrasé contre le Pentagone dans le comté d'Arlington, en Virginie, et un quatrième dans un champ près de Shanksville, en Pennsylvanie."
         },
         {
             "eventId": "19",
@@ -160,9 +164,13 @@
             "eventId": "21",
             "eventCategory": "POLITICS",
             "eventDate": "1945/09/02",
-            "eventImg": null,
-            "eventDescriptionEn": "World War II came to an end with the official surrender of Japan, marking a significant turning point in global history.",
-            "eventDescriptionTr": "İkinci Dünya Savaşı, Japonya'nın resmi olarak teslim olmasıyla sona erdi ve küresel tarih açısından önemli bir dönüm noktasını işaret etti."
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/september%2Fending-the-second-world-war-21.jpeg?alt=media&token=5cfb28a2-4a34-4cd9-8de14c9-8de14cdc13f",
+            "eventDescriptionEn": "World War II came to an end with the official surrender of Japan on September 2, 1945, marking a significant turning point in global history. The surrender, signed on the deck of the USS Missouri in Tokyo Bay, brought an end to six years of global conflict that had claimed the lives of over 60 million people.",
+            "eventDescriptionTr": "İkinci Dünya Savaşı, Japonya'nın resmi olarak teslim olmasıyla 2 Eylül 1945'te sona erdi ve küresel tarih açısından önemli bir dönüm noktasını işaret etti. USS Missouri'nin güvertesinde imzalanan teslimiyet, 60 milyondan fazla insanın hayatını kaybettiği altı yıllık küresel çatışmanın sonunu getirdi.",
+            "eventDescriptionDe": "Der Zweite Weltkrieg endete am 2. September 1945 mit der offiziellen Kapitulation Japans, was einen bedeutenden Wendepunkt in der globalen Geschichte markierte. Die Kapitulation, die auf dem Deck der USS Missouri in der Bucht von Tokio unterzeichnet wurde, beendete sechs Jahre globalen Konflikts, bei dem über 60 Millionen Menschen ums Leben kamen.",
+            "eventDescriptionEs": "La Segunda Guerra Mundial llegó a su fin con la rendición oficial de Japón el 2 de septiembre de 1945, marcando un hito importante en la historia global. La rendición, firmada en la cubierta del USS Missouri en la bahía de Tokio, puso fin a seis años de conflicto global que se cobró la vida de más de 60 millones de personas.",
+            "eventDescriptionIt": "La Seconda Guerra Mondiale terminò il 2 settembre 1945 con la resa ufficiale del Giappone, segnando un punto di svolta significativo nella storia globale. La resa, firmata sul ponte della USS Missouri nella baia di Tokyo, pose fine a sei anni di conflitto globale che costò la vita a oltre 60 milioni di persone.",
+            "eventDescriptionFr": "La Seconde Guerre mondiale a pris fin le 2 septembre 1945 avec la capitulation officielle du Japon, marquant un tournant important dans l'histoire mondiale. La capitulation, signée sur le pont du USS Missouri dans la baie de Tokyo, a mis fin à six ans de conflit mondial qui ont coûté la vie à plus de 60 millions de personnes."
         },
         {
             "eventId": "23",
@@ -170,7 +178,10 @@
             "eventDate": "1989/11/09",
             "eventImg": null,
             "eventDescriptionEn": "The Berlin Wall fell, symbolizing the end of the Cold War and the reunification of East and West Germany.",
-            "eventDescriptionTr": "Berlin Duvarı yıkıldı ve Soğuk Savaş'ın sonunu ve Doğu ve Batı Almanya'nın birleşmesini simgeledi."
+            "eventDescriptionTr": "Berlin Duvarı yıkıldı ve Soğuk Savaş'ın sonunu ve Doğu ve Batı Almanya'nın birleşmesini simgeledi.",
+            "eventDescriptionDe": "Die Berliner Mauer fiel und symbolisierte das Ende des Kalten Krieges und die Wiedervereinigung von Ost- und Westdeutschland.",
+            "eventDescriptionEs": "El Muro de Berlín cayó, simbolizando el fin de la Guerra Fría y la reunificación de Alemania Oriental y Occidental.",
+            "eventDescriptionIt": "Il Muro di Berlino cadde, simboleggiando la fine della Guerra Fredda e la riunificazione della Germania Est e Ovest."
         },
         {
             "eventId": "24",
@@ -185,8 +196,11 @@
             "eventCategory": "TECH",
             "eventDate": "1903/12/17",
             "eventImg": null,
-            "eventDescriptionEn": "The Wright Brothers achieved the first powered flight, introducing the era of modern aviation.",
-            "eventDescriptionTr": "Wright Kardeşler ilk güçlü uçuşu gerçekleştirdi ve modern havacılık dönemini başlattı."
+            "eventDescriptionEn": "The Wright Brothers achieved the first powered flight, introducing the era of modern aviation. The flight lasted 12 seconds and covered 120 feet (37 meters).",
+            "eventDescriptionTr": "Wright Kardeşler ilk güçlü uçuşu gerçekleştirdi ve modern havacılık dönemini başlattı. Uçuş 12 saniye sürdü ve 120 fit (37 metre) mesafe kat etti.",
+            "eventDescriptionDe": "Die Wright Brothers erreichten den ersten motorisierten Flug und läuteten das Zeitalter der modernen Luftfahrt ein. Der Flug dauerte 12 Sekunden und legte 120 Fuß (37 Meter) zurück.",
+            "eventDescriptionEs": "Los hermanos Wright realizaron el primer vuelo propulsado, inaugurando la era de la aviación moderna. El vuelo duró 12 segundos y recorrió 120 pies (37 metros).",
+            "eventDescriptionIt": "I fratelli Wright hanno compiuto il primo volo propulsato, inaugurando l'era dell'aviazione moderna. Il volo è durato 12 secondi e ha percorso 120 piedi (37 metri)."
         },
         {
             "eventId": "26",
@@ -563,14 +577,6 @@
             "eventImg": null,
             "eventDescriptionEn": "Ferrari take their first Formula One grand prix victory at the British Grand Prix at Silverstone.",
             "eventDescriptionTr": "Ferrari, Silverstone'daki Britanya Grand Prix'sinde ilk Formula 1 grand prix zaferini aldı."
-        },
-        {
-            "eventId": "74",
-            "eventCategory": "TECH",
-            "eventDate": "1983/07/14",
-            "eventImg": null,
-            "eventDescriptionEn": "Mario Bros. is released in Japan, beginning the popular Super Mario Bros franchise.",
-            "eventDescriptionTr": "Mario Bros., popüler Super Mario Bros serisini başlatarak Japonya'da piyasaya sürüldü."
         },
         {
             "eventId": "75",
@@ -2994,7 +3000,8 @@
             "eventDescriptionDe": "Am 1. September 1939 marschierte Deutschland in Polen ein und markierte damit den Beginn des Zweiten Weltkriegs.",
             "eventDescriptionEs": "El 1 de septiembre de 1939, Alemania invadió Polonia, lo que marcó el inicio de la Segunda Guerra Mundial.",
             "eventDescriptionIt": "Il 1 settembre 1939, la Germania invase la Polonia, segnando l'inizio della seconda guerra mondiale."
-        },{
+        },
+        {
             "eventId": "287",
             "eventCategory": "HISTORY",
             "eventDate": "1838/09/01",
@@ -3004,7 +3011,8 @@
             "eventDescriptionDe": "Die Saint Andrew's Scots School, die älteste Schule britischer Herkunft in Südamerika, wurde in Buenos Aires, Argentinien, gegründet.",
             "eventDescriptionEs": "El Saint Andrew's Scots School, la escuela de origen británico más antigua de América del Sur, se estableció en Buenos Aires, Argentina.",
             "eventDescriptionIt": "La Saint Andrew's Scots School, la scuola di origine britannica più antica dell'America del Sud, è stata fondata a Buenos Aires, in Argentina."
-          },{
+        },
+        {
             "eventId": "288",
             "eventCategory": "TECH",
             "eventDate": "1897/09/01",
@@ -3014,7 +3022,8 @@
             "eventDescriptionDe": "Die Tremont Street Subway in Boston wird eröffnet und wird damit das erste unterirdische Schnelltransitsystem in Nordamerika.",
             "eventDescriptionEs": "El Metro de la calle Tremont en Boston se abre, convirtiéndose en el primer sistema de tránsito rápido subterráneo en América del Norte.",
             "eventDescriptionIt": "La metropolitana di Tremont Street a Boston apre, diventando il primo sistema di transito rapido sotterraneo in Nord America."
-          },{
+        },
+        {
             "eventId": "289",
             "eventCategory": "POLITICS",
             "eventDate": "1969/09/11",
@@ -3024,7 +3033,8 @@
             "eventDescriptionDe": "Ein Putsch in Libyen bringt Muammar Gaddafi an die Macht. Gaddafi war ein Offizier der Streitkräfte, der König Idris I. stürzte und die Libysche Arabische Republik gründete. Er regierte Libyen über 40 Jahre, bis er 2011 gestürzt und getötet wurde.",
             "eventDescriptionEs": "Un golpe de estado en Libia lleva a Muammar Gaddafi al poder. Gaddafi era un oficial militar que derrocó al rey Idris I e instituyó la República Árabe Libia. Gaddafi gobernó Libia durante más de 40 años hasta que fue derrocado y asesinado en 2011.",
             "eventDescriptionIt": "Un colpo di stato in Libia porta al potere Muammar Gheddafi. Gheddafi era un ufficiale militare che ha rovesciato il re Idris I e ha istituito la Repubblica Araba Libica. Gheddafi ha governato la Libia per oltre 40 anni fino a quando è stato rovesciato e ucciso nel 2011."
-          },{
+        },
+        {
             "eventId": "290",
             "eventCategory": "HISTORY",
             "eventDate": "1922/08/30",
@@ -3034,7 +3044,8 @@
             "eventDescriptionDe": "Die Schlacht von Dumlupınar, kommandiert von Marschall Gazi Mustafa Kemal Pasha, endete mit dem entscheidenden Sieg der türkischen Armee. Der 30. August symbolisiert symbolisch den Tag, an dem die Landesterritorien zurückerobert wurden, und wird jedes Jahr als Tag des Sieges gefeiert.",
             "eventDescriptionEs": "La Batalla de Dumlupınar, comandada por el Mariscal Gazi Mustafa Kemal Pasha, terminó con la victoria decisiva del Ejército turco. El 30 de agosto simboliza simbólicamente el día en que se recuperaron los territorios del país y se celebra cada año como el Día de la Victoria.",
             "eventDescriptionIt": "La Battaglia di Dumlupınar, comandata dal Maresciallo Gazi Mustafa Kemal Pasha, si concluse con la vittoria decisiva dell'esercito turco. Il 30 agosto simboleggia simbolicamente il giorno in cui i territori del paese furono riconquistati e viene celebrato ogni anno come Giorno della Vittoria."
-          },{
+        },
+        {
             "eventId": "291",
             "eventCategory": "POLITICS",
             "eventDate": "1968/09/06",
@@ -3044,7 +3055,8 @@
             "eventDescriptionDe": "Swaziland wird von Großbritannien unabhängig. König Sobhuza II. wird der erste Monarch des unabhängigen Swaziland.",
             "eventDescriptionEs": "Suazilandia se independiza del Reino Unido. El rey Sobhuza II se convierte en el primer monarca de Suazilandia independiente.",
             "eventDescriptionIt": "L'Swaziland ottiene l'indipendenza dal Regno Unito. Il re Sobhuza II diventa il primo monarca dell'Swaziland indipendente."
-          },{
+        },
+        {
             "eventId": "292",
             "eventCategory": "POLITICS",
             "eventDate": "1991/09/06",
@@ -3054,7 +3066,8 @@
             "eventDescriptionDe": "Die Sowjetunion erkennt die Unabhängigkeit der baltischen Staaten Estland, Lettland und Litauen an. Die baltischen Staaten waren 1940 von der Sowjetunion annektiert worden, aber sie erlangten ihre Unabhängigkeit nach dem Zusammenbruch der Sowjetunion im Jahr 1991 zurück.",
             "eventDescriptionEs": "La Unión Soviética reconoce la independencia de los estados bálticos Estonia, Letonia y Lituania. Los estados bálticos habían sido anexados por la Unión Soviética en 1940, pero recuperaron su independencia tras el colapso de la Unión Soviética en 1991.",
             "eventDescriptionIt": "L'Unione Sovietica riconosce l'indipendenza degli stati baltici Estonia, Lettonia e Lituania. Gli stati baltici erano stati annessi dall'Unione Sovietica nel 1940, ma hanno riconquistato la loro indipendenza dopo il crollo dell'Unione Sovietica nel 1991."
-          },{
+        },
+        {
             "eventId": "293",
             "eventCategory": "POLITICS",
             "eventDate": "2022/07/24",
@@ -3064,7 +3077,8 @@
             "eventDescriptionDe": "Boris Johnson tritt als Premierminister des Vereinigten Königreichs zurück und wird von Liz Truss ersetzt. Johnson war nach einer Reihe von Skandalen, darunter der Partygate-Skandal, zunehmend unter Druck, zurückzutreten. Truss, die Außenministerin, wurde zur Vorsitzenden der Conservative Party gewählt und am 6. September 2022 Premierministerin.",
             "eventDescriptionEs": "Boris Johnson dimite como Primer Ministro del Reino Unido y es reemplazado por Liz Truss. Johnson había estado bajo una presión cada vez mayor para dimitir tras una serie de escándalos, incluido el escándalo Partygate. Truss, la ministra de Relaciones Exteriores, fue elegida líder del Partido Conservador y se convirtió en primera ministra el 6 de septiembre de 2022.",
             "eventDescriptionIt": "Boris Johnson si dimette da Primo Ministro del Regno Unito ed è sostituito da Liz Truss. Johnson era stato sotto una crescente pressione per dimettersi a seguito di una serie di scandali, tra cui lo scandalo Partygate. Truss, il ministro degli Esteri, è stato eletto leader del Partito Conservatore ed è diventato Primo Ministro il 6 settembre 2022."
-          },{
+        },
+        {
             "eventId": "294",
             "eventCategory": "SCIENCE",
             "eventDate": "1885/09/29",
@@ -3074,7 +3088,8 @@
             "eventDescriptionDe": "Die erste praktische öffentliche elektrische Straßenbahn der Welt wird in Blackpool, England, eröffnet. Die Straßenbahn wurde von Werner von Siemens erbaut und nutzte ein Kanalsystem zur Stromversorgung.",
             "eventDescriptionEs": "La primera tranvía público eléctrico práctico del mundo se abre en Blackpool, Inglaterra. El tranvía fue construido por Werner von Siemens y utilizó un sistema de recogida de canal.",
             "eventDescriptionIt": "Il primo tramvia pubblico elettrico pratico del mondo viene inaugurato a Blackpool, in Inghilterra. Il tram è stato costruito da Werner von Siemens e ha utilizzato un sistema di raccolta del canale."
-          },{
+        },
+        {
             "eventId": "295",
             "eventCategory": "HISTORY",
             "eventDate": "1911/09/29",
@@ -3084,7 +3099,8 @@
             "eventDescriptionDe": "Italien erklärt dem Osmanischen Reich den Krieg und beginnt den Italienisch-Türkischen Krieg. Der Krieg wurde um die Kontrolle über Libyen geführt, das damals eine osmanische Provinz war. Italien gewann den Krieg und annektierte Libyen.",
             "eventDescriptionEs": "Italia declara la guerra al Imperio Otomano, dando inicio a la Guerra ítalo-turca. La guerra se libró por el control de Libia, que entonces era una provincia otomana. Italia ganó la guerra y anexó Libia.",
             "eventDescriptionIt": "L'Italia dichiara guerra all'Impero Ottomano, dando inizio alla Guerra italo-turca. La guerra fu combattuta per il controllo della Libia, che allora era una provincia ottomana. L'Italia vinse la guerra e annesse la Libia."
-          },{
+        },
+        {
             "eventId": "296",
             "eventCategory": "POLITICS",
             "eventDate": "1947/09/30",
@@ -3094,7 +3110,8 @@
             "eventDescriptionDe": "Pakistan tritt den Vereinten Nationen bei. Pakistan wurde am 14. August 1947 als Ergebnis der Teilung Indiens gegründet. Es wurde am 30. September 1947 Mitglied der Vereinten Nationen.",
             "eventDescriptionEs": "Pakistán se une a las Naciones Unidas. Pakistán se independizó el 14 de agosto de 1947 como resultado de la partición de la India. Se convirtió en miembro de las Naciones Unidas el 30 de septiembre de 1947.",
             "eventDescriptionIt": "Il Pakistan aderisce alle Nazioni Unite. Il Pakistan è stato fondato il 14 agosto 1947 a seguito della partizione dell'India. È diventato membro delle Nazioni Unite il 30 settembre 1947."
-          },{
+        },
+        {
             "eventId": "297",
             "eventCategory": "TECH",
             "eventDate": "1882/09/30",
@@ -3104,7 +3121,8 @@
             "eventDescriptionDe": "Die erste kommerzielle Wasserkraftanlage von Thomas Edison, die Vulcan Street Plant, nimmt in Appleton, Wisconsin, ihren Betrieb auf. Das Kraftwerk wurde vom Fox River angetrieben und versorgte 21 Kunden mit Strom.",
             "eventDescriptionEs": "La primera planta hidroeléctrica comercial de Thomas Edison, la Vulcan Street Plant, comienza a operar en Appleton, Wisconsin. La planta estaba alimentada por el río Fox y generaba electricidad para 21 clientes.",
             "eventDescriptionIt": "La prima centrale idroelettrica commerciale di Thomas Edison, la Vulcan Street Plant, inizia a operare ad Appleton, Wisconsin. La centrale era alimentata dal fiume Fox e generava elettricità per 21 clienti."
-          },{
+        },
+        {
             "eventId": "298",
             "eventCategory": "TECH",
             "eventDate": "1901/12/12",
@@ -3114,14 +3132,507 @@
             "eventDescriptionDe": "Guglielmo Marconi beginnt den ersten kommerziellen transatlantischen Funkdienst. Der Dienst zwischen Poldhu in Cornwall, England, und St. John's in Newfoundland war ein Meilenstein in der Entwicklung der Telekommunikation.",
             "eventDescriptionEs": "Guglielmo Marconi inicia el primer servicio comercial transatlántico de radiotelegrafía. El servicio, entre Poldhu, Cornualles, Inglaterra, y San Juan de Terranova, fue un hito importante en el desarrollo de las telecomunicaciones.",
             "eventDescriptionIt": "Guglielmo Marconi avvia il primo servizio commerciale transatlantico di telegrafia senza fili. Il servizio, tra Poldhu, Cornovaglia, Inghilterra, e San Giovanni di Terranova, è stato un importante traguardo nello sviluppo delle telecomunicazioni."
-          }
-          
-          
-          
-          
-          
-          
-          
-          
+        },
+        {
+            "eventId": "299",
+            "eventCategory": "TECH",
+            "eventDate": "2008/09/29",
+            "eventImg": null,
+            "eventDescriptionEn": "Google launches its Google Chrome web browser. Chrome quickly became the most popular web browser in the world, thanks to its speed, security, and ease of use.",
+            "eventDescriptionTr": "Google, Google Chrome web tarayıcısını piyasaya sürüyor. Chrome, hızı, güvenliği ve kullanımının kolaylığı sayesinde kısa sürede dünyanın en popüler web tarayıcısı oldu.",
+            "eventDescriptionDe": "Google, Google Chrome Webbrowser veröffentlicht. Chrome wurde schnell der beliebteste Webbrowser der Welt, dank seiner Geschwindigkeit, Sicherheit und Benutzerfreundlichkeit.",
+            "eventDescriptionEs": "Google lanza su navegador web Google Chrome. Chrome se convirtió rápidamente en el navegador web más popular del mundo, gracias a su velocidad, seguridad y facilidad de uso.",
+            "eventDescriptionIt": "Google lancia il suo browser web Google Chrome. Chrome è diventato rapidamente il browser web più popolare al mondo, grazie alla sua velocità, sicurezza e facilità d'uso."
+        },
+        {
+            "eventId": "300",
+            "eventCategory": "TECH",
+            "eventDate": "1969/09/02",
+            "eventImg": null,
+            "eventDescriptionEn": "The first ATM device in the USA was installed in Rockville Centre, New York. The machine was manufactured by De La Rue and was called the 'Dedicated Cash Machine'.",
+            "eventDescriptionTr": "ABD'deki ilk ATM cihazı, New York'un Rockville Centre kentinde kuruldu. Makine De La Rue tarafından üretildi ve 'Özel Nakit Makinesi' olarak adlandırıldı.",
+            "eventDescriptionDe": "Der erste Geldautomat in den USA wurde in Rockville Centre, New York, installiert. Die Maschine wurde von De La Rue hergestellt und hieß 'Dedicated Cash Machine'.",
+            "eventDescriptionEs": "El primer cajero automático de EE. UU. se instaló en Rockville Centre, Nueva York. La máquina fue fabricada por De La Rue y se llamó 'Dedicated Cash Machine'.",
+            "eventDescriptionIt": "Il primo bancomat negli Stati Uniti è stato installato a Rockville Centre, New York. La macchina è stata prodotta da De La Rue e si chiamava 'Dedicated Cash Machine'."
+        },
+        {
+            "eventId": "301",
+            "eventCategory": "SPORT",
+            "eventDate": "1994/09/02",
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/september%2Fnaim-suleymanoglu-301.jpeg?alt=media&token=c27e9ed9-751c-44a1-ac9d-fc192b0bad57",
+            "eventDescriptionEn": "The International Olympic Committee awarded the 'Sportsman of the Century' award to weightlifter Naim Süleymanoğlu. Süleymanoğlu was a three-time Olympic gold medalist and a nine-time world champion. He was known for his incredible strength and athleticism, and he was considered to be one of the greatest weightlifters of all time.",
+            "eventDescriptionTr": "Uluslararası Olimpiyat Komitesi, halterci Naim Süleymanoğlu'na 'Yüzyılın En Güçlü Sporcusu' ödülünü verdi. Süleymanoğlu, üç kez olimpiyat altın madalyası ve dokuz kez dünya şampiyonu oldu. İnanılmaz gücü ve atletizmi ile tanınıyordu ve tüm zamanların en iyi haltercilerinden biri olarak kabul ediliyordu.",
+            "eventDescriptionDe": "Das Internationale Olympische Komitee verlieh den 'Sportler des Jahrhunderts'-Preis dem Gewichtheber Naim Süleymanoğlu. Süleymanoğlu war dreifacher Olympiasieger und neunfacher Weltmeister. Er war für seine unglaubliche Stärke und Athletik bekannt und wurde als einer der größten Gewichtheber aller Zeiten angesehen.",
+            "eventDescriptionEs": "El Comité Olímpico Internacional otorgó el premio al 'Atleta del Siglo' al levantador de pesas Naim Süleymanoğlu. Süleymanoğlu fue tres veces medallista de oro olímpico y nueve veces campeón del mundo. Era conocido por su increíble fuerza y atletismo, y fue considerado uno de los mejores levantadores de pesas de todos los tiempos.",
+            "eventDescriptionIt": "Il Comitato Olimpico Internazionale ha assegnato il premio al 'Giardiniere del Secolo' al sollevatore di pesi Naim Süleymanoğlu. Süleymanoğlu è stato tre volte campione olimpico e nove volte campione del mondo. Era noto per la sua incredibile forza e atletismo, ed è stato considerato uno dei più grandi sollevatori di pesi di tutti i tempi."
+        },
+        {
+            "eventId": "302",
+            "eventCategory": "HISTORY",
+            "eventDate": "1945/09/02",
+            "eventImg": null,
+            "eventDescriptionEn": "Vietnam declared its independence from France. The declaration was made by Ho Chi Minh, the leader of the Viet Minh independence movement. The declaration was met with opposition from France, which led to the First Indochina War.",
+            "eventDescriptionTr": "Vietnam, Fransa'dan bağımsızlığını ilan etti. Bağımsızlık bildirgesi, Viet Minh bağımsızlık hareketinin lideri Ho Chi Minh tarafından yapıldı. Bildiri, Fransa'dan muhalefetle karşılandı ve Birinci Indochina Savaşı'na yol açtı.",
+            "eventDescriptionDe": "Vietnam erklärte sich von Frankreich unabhängig. Die Erklärung wurde von Ho Chi Minh, dem Führer der Viet Minh-Unabhängigkeitsbewegung, abgegeben. Die Erklärung wurde von Frankreich mit Widerstand konfrontiert, was zum Ersten Indochinakrieg führte.",
+            "eventDescriptionEs": "Vietnam declaró su independencia de Francia. La declaración fue hecha por Ho Chi Minh, líder del movimiento independentista vietnamita Viet Minh. La declaración fue recibida con oposición de Francia, lo que llevó a la Primera Guerra de Indochina.",
+            "eventDescriptionIt": "Il Vietnam dichiarò la sua indipendenza dalla Francia. La dichiarazione fu fatta da Ho Chi Minh, leader del movimento di indipendenza vietnamita Viet Minh. La dichiarazione fu accolta con opposizione dalla Francia, che portò alla Prima Guerra d'Indocina."
+        },
+        {
+            "eventId": "303",
+            "eventCategory": "POLITICS",
+            "eventDate": "1971/09/03",
+            "eventImg": null,
+            "eventDescriptionEn": "Qatar becomes an independent state, following the termination of its protectorate status by the United Kingdom.",
+            "eventDescriptionTr": "Katar, Birleşik Krallık'ın himaye statüsünün sona ermesiyle bağımsız bir devlet haline gelir.",
+            "eventDescriptionDe": "Katar, Großbritannien'ın himaye statüsünün sona ermesiyle bağımsız bir devlet haline gelir.",
+            "eventDescriptionEs": "Qatar se independiza, tras la terminación de su estatus de protectorado por el Reino Unido.",
+            "eventDescriptionIt": "Il Qatar diventa uno stato indipendente, a seguito della cessazione del suo status di protettorato da parte del Regno Unito."
+        },
+        {
+            "eventId": "304",
+            "eventCategory": "HISTORY",
+            "eventDate": "1666/09/02",
+            "eventImg": null,
+            "eventDescriptionEn": "The Great Fire of London breaks out and burns for three days, destroying 10,000 buildings, including Old St Paul's Cathedral.",
+            "eventDescriptionTr": "Büyük Londra Yangını çıkar ve üç gün boyunca yanmaya devam eder, 10.000 bina yok olur, bunların arasında Eski St. Paul Katedrali de vardır.",
+            "eventDescriptionDe": "Der Große Brand von London bricht aus und brennt drei Tage lang, wobei 10.000 Gebäude zerstört werden, darunter der alte St. Pauls-Dom.",
+            "eventDescriptionEs": "El Gran Incendio de Londres se desata y arde durante tres días, destruyendo 10.000 edificios, incluido el antiguo de San Pablo.",
+            "eventDescriptionIt": "Il Grande incendio di Londra scoppia e brucia per tre giorni, distruggendo 10.000 edifici, tra cui la Cattedrale di San Paolo Vecchio."
+        },
+        {
+            "eventId": "305",
+            "eventCategory": "SPORT",
+            "eventDate": "1950/09/03",
+            "eventImg": null,
+            "eventDescriptionEn": "Nino Farina becomes the first Formula One Drivers' champion after winning the 1950 Italian Grand Prix.",
+            "eventDescriptionTr": "Nino Farina, 1950 İtalya Grand Prix'sini kazandıktan sonra ilk Formula 1 Pilotlar Şampiyonu oldu.",
+            "eventDescriptionDe": "Nino Farina wird der erste Formel-1-Fahrer-Weltmeister, nachdem er den Großen Preis von Italien 1950 gewonnen hat.",
+            "eventDescriptionEs": "Nino Farina se convierte en el primer Campeón del Mundo de Pilotos de Fórmula 1 después de ganar el Gran Premio de Italia de 1950.",
+            "eventDescriptionIt": "Nino Farina diventa il primo Campione del Mondo Piloti di Formula 1 dopo aver vinto il Gran Premio d'Italia del 1950."
+        },
+        {
+            "eventId": "306",
+            "eventCategory": "POLITICS",
+            "eventDate": "1783/09/03",
+            "eventImg": null,
+            "eventDescriptionEn": "The United Kingdom recognizes the independence of the United States of America with the signing of the Treaty of Paris.",
+            "eventDescriptionTr": "İngiltere, Paris Antlaşması'nın imzalanmasıyla Amerika Birleşik Devletleri'nin bağımsızlığını tanıdı.",
+            "eventDescriptionDe": "Das Vereinigte Königreich erkennt die Unabhängigkeit der Vereinigten Staaten von Amerika mit der Unterzeichnung des Pariser Vertrages an.",
+            "eventDescriptionEs": "El Reino Unido reconoce la independencia de los Estados Unidos de América con la firma del Tratado de París.",
+            "eventDescriptionIt": "Il Regno Unito riconosce l'indipendenza degli Stati Uniti d'America con la firma del Trattato di Parigi."
+        },
+        {
+            "eventId": "307",
+            "eventCategory": "FINANCE",
+            "eventDate": "1995/09/03",
+            "eventImg": null,
+            "eventDescriptionEn": "Pierre Omidyar establishes eBay as an online auction website on September 3, 1995. The website allows users to buy and sell a wide variety of items, including collectibles, electronics, and apparel. eBay quickly becomes one of the most popular online marketplaces in the world.",
+            "eventDescriptionTr": "Pierre Omidyar, 3 Eylül 1995'te eBay'i çevrimiçi bir müzayede web sitesi olarak kurdu. Web sitesi, koleksiyonlar, elektronik ve giyim gibi çok çeşitli ürünleri satın alma ve satma imkanı tanıyor. eBay, kısa sürede dünyanın en popüler çevrimiçi pazar yerlerinden biri haline geldi.",
+            "eventDescriptionDe": "Pierre Omidyar gründet eBay als Online-Auktionswebsite am 3. September 1995. Die Website ermöglicht es Benutzern, eine Vielzahl von Artikeln zu kaufen und zu verkaufen, darunter Sammlerstücke, Elektronik und Kleidung. eBay wird schnell zu einem der beliebtesten Online-Marktplätze der Welt.",
+            "eventDescriptionEs": "Pierre Omidyar funda eBay como un sitio web de subastas en línea el 3 de septiembre de 1995. El sitio web permite a los usuarios comprar y vender una amplia variedad de artículos, incluidos coleccionables, electrónica y ropa. eBay se convierte rápidamente en uno de los mercados en línea más populares del mundo.",
+            "eventDescriptionIt": "Pierre Omidyar fonda eBay come sito web di aste online il 3 settembre 1995. Il sito web consente agli utenti di acquistare e vendere una vasta gamma di articoli, tra cui oggetti da collezione, elettronica e abbigliamento. eBay diventa rapidamente uno dei mercati online più popolari al mondo."
+        },
+        {
+            "eventId": "308",
+            "eventCategory": "TECH",
+            "eventDate": "1998/09/04",
+            "eventImg": null,
+            "eventDescriptionEn": "Google is founded by Larry Page and Sergey Brin, two students at Stanford University.",
+            "eventDescriptionTr": "Google, Stanford Üniversitesi'nde okuyan Larry Page ve Sergey Brin tarafından kuruldu.",
+            "eventDescriptionDe": "Google wird von Larry Page und Sergey Brin, zwei Studenten der Stanford University, gegründet.",
+            "eventDescriptionEs": "Google es fundado por Larry Page y Sergey Brin, dos estudiantes de la Universidad de Stanford.",
+            "eventDescriptionIt": "Google viene fondato da Larry Page e Sergey Brin, due studenti della Stanford University."
+        },
+        {
+            "eventId": "309",
+            "eventCategory": "TECH",
+            "eventDate": "1888/09/04",
+            "eventImg": null,
+            "eventDescriptionEn": "George Eastman registers the trademark Kodak and receives a patent for his camera that uses roll film. The Kodak camera is easy to use and affordable, making photography accessible to a wider audience.",
+            "eventDescriptionTr": "George Eastman, roll film kullanan kamerası için Kodak markasını tescil ettirir ve patent alır. Kodak kamerası kullanımı kolay ve uygun fiyatlıdır, bu da fotoğrafçılığı daha geniş bir kitleye erişilebilir hale getirir.",
+            "eventDescriptionDe": "George Eastman, rollfilm kullanan Kamerası için Kodak markasını tescil ettirir ve patent alır. Kodak kamerası kullanımı kolay ve uygun fiyatlıdır, bu da fotoğrafçılığı daha geniş bir kitleye erişilebilir hale getirir.",
+            "eventDescriptionEs": "George Eastman, roll film kullanan kamerası için Kodak markasını tescil ettirir ve patent alır. Kodak kamerası kullanımı kolay ve uygun fiyatlıdır, bu da fotoğrafçılığı daha geniş bir kitleye erişilebilir hale getirir.",
+            "eventDescriptionIt": "George Eastman, roll film kullanan kamerası için Kodak markasını tescil ettirir ve patent alır. Kodak kamerası kullanımı kolay ve uygun fiyatlıdır, bu da fotoğrafçılığı daha geniş bir kitleye erişilebilir hale getirir."
+        },
+        {
+            "eventId": "310",
+            "eventCategory": "TECH",
+            "eventDate": "1951/09/04",
+            "eventImg": null,
+            "eventDescriptionEn": "The first live transcontinental television broadcast took place in San Francisco on September 4, 1951, from the Japanese Peace Treaty Conference. The broadcast was seen by millions of people across the United States.",
+            "eventDescriptionTr": "San Francisco'da Japonya Barış Konferansı'ndan ilk canlı transcontinental televizyon yayını yapıldı. Yayın, Amerika Birleşik Devletleri'nde milyonlarca kişi tarafından görüldü.",
+            "eventDescriptionDe": "Die erste Live-Transkontinental-Fernsehübertragung fand in San Francisco am 4. September 1951 statt, vom Japanischen Friedensvertragsgipfel. Die Übertragung wurde von Millionen von Menschen in den Vereinigten Staaten gesehen.",
+            "eventDescriptionEs": "La primera transmisión de televisión transcontinental en vivo tuvo lugar en San Francisco el 4 de septiembre de 1951, desde la Conferencia del Tratado de Paz de Japón. La transmisión fue vista por millones de personas en los Estados Unidos.",
+            "eventDescriptionIt": "La prima trasmissione televisiva transcontinentale in diretta ha avuto luogo a San Francisco il 4 settembre 1951, dalla Conferenza del Trattato di Pace del Giappone. La trasmissione è stata vista da milioni di persone negli Stati Uniti."
+        },
+        {
+            "eventId": "311",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1997/09/05",
+            "eventImg": null,
+            "eventDescriptionEn": "Mother Teresa, a Roman Catholic nun and missionary, dies in Kolkata, India. She was 87 years old. Mother Teresa was known for her work with the poor and sick, and she founded the Missionaries of Charity, a religious order that cares for the destitute and dying. She was awarded the Nobel Peace Prize in 1979.",
+            "eventDescriptionTr": "Rahibe Teresa, Nobel Barış Ödülü sahibi, Roma Katolik rahibe ve misyoner, Kolkata, Hindistan'da 87 yaşında vefat etti. Teresa, yoksul ve hastalarla yaptığı çalışmalarıyla tanınıyordu ve Missionaries of Charity adlı dini bir tarikat kurdu. Bu tarikat, yoksul ve ölmekte olan insanlara bakmaktadır.",
+            "eventDescriptionDe": "Mutter Teresa, eine katholische Nonne und Missionarin, stirbt in Kalkutta, Indien. Sie war 87 Jahre alt. Mutter Teresa war für ihre Arbeit mit den Armen und Kranken bekannt und gründete die Missionare der Nächstenliebe, einen religiösen Orden, der sich um die Bedürftigen und Sterbenden kümmert. Sie wurde 1979 mit dem Nobelpreis für den Frieden ausgezeichnet.",
+            "eventDescriptionEs": "Madre Teresa, una monja católica y misionera, muere en Calcuta, India. Tenía 87 años. Madre Teresa era conocida por su trabajo con los pobres y enfermos, y fundó las Misioneras de la Caridad, una orden religiosa que cuida a los indigentes y moribundos. Fue galardonada con el Premio Nobel de la Paz en 1979.",
+            "eventDescriptionIt": "Madre Teresa, una suora cattolica e missionaria, muore a Calcutta, in India. Aveva 87 anni. Madre Teresa era nota per il suo lavoro con i poveri e i malati, e ha fondato le Missionarie della Carità, un ordine religioso che si occupa dei bisognosi e dei moribondi. È stata insignita del Premio Nobel per la Pace nel 1979."
+        },
+        {
+            "eventId": "312",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1953/03/05",
+            "eventImg": null,
+            "eventDescriptionEn": "Joseph Stalin dies of a stroke on March 5, 1953. Stalin had been the leader of the Soviet Union since 1924 and was one of the most powerful figures in the 20th century. His death led to a power struggle in the Soviet Union and the eventual de-Stalinization of the country.",
+            "eventDescriptionTr": "Josef Stalin 5 Mart 1953'te felçten öldü. Stalin, 1924'ten beri Sovyetler Birliği'nin lideri ve 20. yüzyılın en güçlü figürlerinden biriydi. Ölümü, Sovyetler Birliği'nde bir iktidar mücadelesine ve ülkenin de-Stalinizasyonuna yol açtı.",
+            "eventDescriptionDe": "Josef Stalin stirbt am 5. März 1953 an einem Schlaganfall. Stalin war seit 1924 Führer der Sowjetunion und einer der mächtigsten Figuren des 20. Jahrhunderts. Sein Tod führte zu einem Machtkampf in der Sowjetunion und der eventualen Entstalinisierung des Landes.",
+            "eventDescriptionEs": "José Stalin muere de un derrame cerebral el 5 de marzo de 1953. Stalin había sido el líder de la Unión Soviética desde 1924 y fue una de las figuras más poderosas del siglo XX. Su muerte condujo a una lucha por el poder en la Unión Soviética y a la eventual des-estalinización del país.",
+            "eventDescriptionIt": "Joseph Stalin muore di ictus il 5 marzo 1953. Stalin era il leader dell'Unione Sovietica dal 1924 ed è stato una delle figure più potenti del XX secolo. La sua morte ha portato a una lotta per il potere nell'Unione Sovietica e alla graduale destalinizzazione del paese."
+        },
+        {
+            "eventId": "313",
+            "eventCategory": "POLITICS",
+            "eventDate": "1974/09/05",
+            "eventImg": null,
+            "eventDescriptionEn": "Guinea-Bissau gains independence from Portugal on September 5, 1974. The country had been a Portuguese colony since the 15th century. The independence movement was led by Amilcar Cabral, who was assassinated in 1973. Guinea-Bissau has been a member of the United Nations since 1974.",
+            "eventDescriptionTr": "Guinea-Bissau, 5 Eylül 1974'te Portekiz'den bağımsızlığını kazandı. Ülke, 15. yüzyıldan beri Portekiz kolonisiydi. Bağımsızlık hareketi, 1973'te öldürülen Amilcar Cabral tarafından yönetildi. Gine-Bissau, 1974'ten beri Birleşmiş Milletler üyesidir.",
+            "eventDescriptionDe": "Guinea-Bissau erlangt am 5. September 1974 die Unabhängigkeit von Portugal. Das Land war seit dem 15. Jahrhundert eine portugiesische Kolonie. Die Unabhängigkeitsbewegung wurde von Amilcar Cabral geführt, der 1973 ermordet wurde. Guinea-Bissau ist seit 1974 Mitglied der Vereinten Nationen.",
+            "eventDescriptionEs": "Guinea-Bissau obtiene la independencia de Portugal el 5 de septiembre de 1974. El país había sido una colonia portuguesa desde el siglo XV. El movimiento de independencia fue liderado por Amilcar Cabral, quien fue asesinado en 1973. Guinea-Bissau es miembro de las Naciones Unidas desde 1974.",
+            "eventDescriptionIt": "La Guinea-Bissau ottiene l'indipendenza dal Portogallo il 5 settembre 1974. Il paese era una colonia portoghese dal XV secolo. Il movimento per l'indipendenza è stato guidato da Amilcar Cabral, assassinato nel 1973. La Guinea-Bissau è membro delle Nazioni Unite dal 1974."
+        },
+        {
+            "eventId": "314",
+            "eventCategory": "POLITICS",
+            "eventDate": "1974/09/10",
+            "eventImg": null,
+            "eventDescriptionEn": "Guinea-Bissau gains independence from Portugal on September 10, 1974. The country had been a Portuguese colony since the 15th century. The independence movement was led by Amilcar Cabral, who was assassinated in 1973. Guinea-Bissau has been a member of the United Nations since 1974.",
+            "eventDescriptionTr": "Guinea-Bissau, 10 Eylül 1974'te Portekiz'den bağımsızlığını kazandı. Ülke, 15. yüzyıldan beri Portekiz kolonisiydi. Bağımsızlık hareketi, 1973'te öldürülen Amilcar Cabral tarafından yönetildi. Gine-Bissau, 1974'ten beri Birleşmiş Milletler üyesidir.",
+            "eventDescriptionDe": "Guinea-Bissau erlangt am 10. September 1974 die Unabhängigkeit von Portugal. Das Land war seit dem 15. Jahrhundert eine portugiesische Kolonie. Die Unabhängigkeitsbewegung wurde von Amilcar Cabral geführt, der 1973 ermordet wurde. Guinea-Bissau ist seit 1974 Mitglied der Vereinten Nationen.",
+            "eventDescriptionEs": "Guinea-Bissau obtiene la independencia de Portugal el 10 de septiembre de 1974. El país había sido una colonia portuguesa desde el siglo XV. El movimiento de independencia fue liderado por Amilcar Cabral, quien fue asesinado en 1973. Guinea-Bissau es miembro de las Naciones Unidas desde 1974.",
+            "eventDescriptionIt": "La Guinea-Bissau ottiene l'indipendenza dal Portogallo il 10 settembre 1974. Il paese era una colonia portoghese dal XV secolo. Il movimento per l'indipendenza è stato guidato da Amilcar Cabral, assassinato nel 1973. La Guinea-Bissau è membro delle Nazioni Unite dal 1974."
+        },
+        {
+            "eventId": "315",
+            "eventCategory": "TECH",
+            "eventDate": "1935/09/04",
+            "eventImg": null,
+            "eventDescriptionEn": "The Istanbul Telephone Company is taken over by the government on September 4, 1935. The company had been privately owned since its founding in 1882. The government takeover is part of a broader effort to nationalize key industries in Turkey.",
+            "eventDescriptionTr": "İstanbul Telefon Şirketi, 4 Eylül 1935'te hükümet tarafından devralındı. Şirket, 1882'deki kuruluşundan bu yana özel mülkiyeteydi. Hükümetin devralımı, Türkiye'deki kilit sanayilerin millileştirilmesi çabalarının bir parçası.",
+            "eventDescriptionDe": "Die Istanbuler Telefongesellschaft wird am 4. September 1935 vom Staat übernommen. Das Unternehmen war seit seiner Gründung im Jahr 1882 in privater Hand. Die Übernahme durch den Staat ist Teil eines breiteren Bemühens, Schlüsselindustrien in der Türkei zu verstaatlichen.",
+            "eventDescriptionEs": "La compañía telefónica de Estambul es tomada por el gobierno el 4 de septiembre de 1935. La compañía había sido de propiedad privada desde su fundación en 1882. La toma de posesión por el gobierno es parte de un esfuerzo más amplio para nacionalizar industrias clave en Turquía.",
+            "eventDescriptionIt": "La società telefonica di Istanbul viene rilevata dal governo il 4 settembre 1935. La società era di proprietà privata dalla sua fondazione nel 1882. L'acquisizione da parte del governo è parte di un più ampio sforzo per nazionalizzare le industrie chiave in Turchia."
+        },
+        {
+            "eventId": "316",
+            "eventCategory": "HISTORY",
+            "eventDate": "1989/09/04",
+            "eventImg": null,
+            "eventDescriptionEn": "The first sports newspaper in Turkey, Fotospor, is launched on September 4, 1989. The newspaper is founded by Ahmet Selahattin Erol and is based in Istanbul. Fotospor quickly becomes one of the most popular sports newspapers in Turkey and is credited with helping to popularize sports in the country.",
+            "eventDescriptionTr": "Türkiye'nin ilk spor gazetesi Fotospor, 4 Eylül 1989'te yayın hayatına başladı. Gazete, Ahmet Selahattin Erol tarafından kuruldu ve İstanbul'da basıldı. Fotospor, kısa sürede Türkiye'nin en popüler spor gazetelerinden biri haline geldi ve ülkede sporun popülerleşmesine katkıda bulundu.",
+            "eventDescriptionDe": "Die erste Sportzeitung in der Türkei, Fotospor, wird am 4. September 1989 gegründet. Die Zeitung wurde von Ahmet Selahattin Erol gegründet und befindet sich in Istanbul. Fotospor wird schnell zu einer der beliebtesten Sportzeitungen in der Türkei und wird dafür gecreditiert, den Sport im Land populärer gemacht zu haben.",
+            "eventDescriptionEs": "El primer periódico deportivo de Turquía, Fotospor, se lanza el 4 de septiembre de 1989. El periódico fue fundado por Ahmet Selahattin Erol y tiene su sede en Estambul. Fotospor se convirtió rápidamente en uno de los periódicos deportivos más populares de Turquía y se le atribuye haber ayudado a popularizar el deporte en el país.",
+            "eventDescriptionIt": "Il primo giornale sportivo in Turchia, Fotospor, viene lanciato il 4 settembre 1989. Il giornale è fondato da Ahmet Selahattin Erol e ha sede a Istanbul. Fotospor diventa rapidamente uno dei giornali sportivi più popolari in Turchia ed è accreditato per aver contribuito a rendere il paese più popolare."
+        },
+        {
+            "eventId": "317",
+            "eventCategory": "FINANCE",
+            "eventDate": "2021/09/07",
+            "eventImg": null,
+            "eventDescriptionEn": "Bitcoin becomes legal tender in El Salvador on September 7, 2021. The law was passed by the Salvadoran Congress in June 2021 and makes Bitcoin the country's second official currency, alongside the US dollar. The law has been met with mixed reactions, with some praising it as a move to promote financial inclusion and others criticizing it as a risky experiment.",
+            "eventDescriptionTr": "Bitcoin, 7 Eylül 2021'de El Salvador'da yasal para birimi haline geldi. Yasa, Haziran 2021'de El Salvador Kongresi tarafından kabul edildi ve Bitcoin'i ülkenin resmi para birimi olan ABD dolarının yanına koydu. Yasa, karışık tepkiler aldı, bazıları bunu finansal kapsayıcılığı teşvik etmek için bir hamle olarak övdü, diğerleri ise riskli bir deney olarak eleştirdi.",
+            "eventDescriptionDe": "Bitcoin wird am 7. September 2021 in El Salvador gesetzliches Zahlungsmittel. Das Gesetz wurde im Juni 2021 vom salvadorianischen Kongress verabschiedet und macht Bitcoin zur zweiten offiziellen Währung des Landes, neben dem US-Dollar. Das Gesetz wurde mit gemischten Reaktionen aufgenommen, wobei einige es als Schritt zur Förderung der finanziellen Inklusion lobten und andere es als riskantes Experiment kritisierten.",
+            "eventDescriptionEs": "El Bitcoin se convierte en moneda de curso legal en El Salvador el 7 de septiembre de 2021. La ley fue aprobada por el Congreso salvadoreño en junio de 2021 y hace del Bitcoin la segunda moneda oficial del país, junto al dólar estadounidense. La ley ha sido recibida con reacciones mixtas, con algunos elogiando la medida como un paso para promover la inclusión financiera y otros criticándola como un experimento arriesgado.",
+            "eventDescriptionIt": "Il Bitcoin diventa moneta a corso legale in El Salvador il 7 settembre 2021. La legge è stata approvata dal Congresso salvadoregno a giugno 2021 e rende il Bitcoin la seconda valuta ufficiale del paese, insieme al dollaro USA. La legge ha ricevuto reazioni contrastanti, con alcuni che hanno elogiato la misura come un passo per promuovere l'inclusione finanziaria e altri che l'hanno criticata come un esperimento rischioso."
+        },
+        {
+            "eventId": "318",
+            "eventCategory": "POLITICS",
+            "eventDate": "2005/09/07",
+            "eventImg": null,
+            "eventDescriptionEn": "Egypt holds its first-ever multi-party presidential election on September 7, 2005. The election was won by incumbent President Hosni Mubarak, who was challenged by seven other candidates. The election was seen as a step towards democracy in Egypt, but it was also criticized for being unfair and undemocratic.",
+            "eventDescriptionTr": "Mısır, 7 Eylül 2005'te ilk çok partili cumhurbaşkanlığı seçimini düzenledi. Seçim, mevcut Cumhurbaşkanı Hüsnü Mübarek tarafından, yedi diğer aday tarafından meydan okundu. Seçim, Mısır'da demokrasiye doğru bir adım olarak görülüyordu, ancak aynı zamanda haksız ve antidemokratik olmakla da eleştirildi.",
+            "eventDescriptionDe": "Ägypten hält am 7. September 2005 seine erste mehrparteiliche Präsidentschaftswahl ab. Die Wahl wurde von dem amtierenden Präsidenten Hosni Mubarak gewonnen, der von sieben anderen Kandidaten herausgefordert wurde. Die Wahl wurde als Schritt in Richtung Demokratie in Ägypten gesehen, wurde aber auch für unfair und undemokratisch kritisiert.",
+            "eventDescriptionEs": "Egipto celebra sus primeras elecciones presidenciales multipartidistas el 7 de septiembre de 2005. Las elecciones fueron ganadas por el presidente en ejercicio, Hosni Mubarak, que fue desafiado por otros siete candidatos. Las elecciones fueron vistas como un paso hacia la democracia en Egipto, pero también fueron criticadas por ser injustas y antidemocráticas.",
+            "eventDescriptionIt": "L'Egitto tiene le sue prime elezioni presidenziali multipartitiche il 7 settembre 2005. Le elezioni sono state vinte dal presidente in carica Hosni Mubarak, che è stato sfidato da altri sette candidati. Le elezioni sono state viste come un passo verso la democrazia in Egitto, ma sono state anche criticate per essere ingiuste e antidemocratiche."
+        },
+        {
+            "eventId": "319",
+            "eventCategory": "TECH",
+            "eventDate": "1927/09/07",
+            "eventImg": null,
+            "eventDescriptionEn": "The first fully electronic television system is achieved by Philo Farnsworth on September 7, 1927. Farnsworth was a young inventor who had been working on the idea of electronic television since he was a teenager. His system used a cathode ray tube to scan an image and then transmit it over the air. Farnsworth's invention was a major breakthrough in the development of television and paved the way for the modern televisions we use today.",
+            "eventDescriptionTr": "Philo Farnsworth, 7 Eylül 1927'de ilk tam elektronik televizyon sistemini gerçekleştirdi. Farnsworth, genç bir mucitti ve televizyon fikri üzerinde onlu yaşlarından beri çalışıyordu. Sistemi, bir katot ışını tüpünü bir görüntüyü taramak ve ardından havadan iletmek için kullandı. Farnsworth'un buluşu, televizyonun geliştirilmesinde büyük bir atılım oldu ve bugün kullandığımız modern televizyonlara yol açtı.",
+            "eventDescriptionDe": "Die erste vollständig elektronische Fernsehanlage wurde am 7. September 1927 von Philo Farnsworth realisiert. Farnsworth war ein junger Erfinder, der seit seiner Teenagerzeit an der Idee des elektronischen Fernsehens gearbeitet hatte. Sein System verwendete eine Kathodenstrahlröhre, um ein Bild zu scannen und es dann über die Luft zu übertragen. Farnsworths Erfindung war ein bedeutender Durchbruch in der Entwicklung des Fernsehens und ebnete den Weg für die modernen Fernsehgeräte, die wir heute verwenden.",
+            "eventDescriptionEs": "El primer sistema de televisión completamente electrónico fue logrado por Philo Farnsworth el 7 de septiembre de 1927. Farnsworth era un joven inventor que había estado trabajando en la idea de la televisión electrónica desde que era un adolescente. Su sistema utilizaba un tubo de rayos catódicos para escanear una imagen y luego transmitirla por el aire. La invención de Farnsworth fue un gran avance en el desarrollo de la televisión y allanó el camino para los televisores modernos que utilizamos hoy en día.",
+            "eventDescriptionIt": "Il primo sistema televisivo completamente elettronico è stato realizzato da Philo Farnsworth il 7 settembre 1927. Farnsworth era un giovane inventore che aveva lavorato all'idea della televisione elettronica sin da quando era un adolescente. Il suo sistema utilizzava un tubo a raggi catodici per scansionare un'immagine e quindi trasmetterla via etere. L'invenzione di Farnsworth è stata un grande passo avanti nello sviluppo della televisione e ha aperto la strada ai moderni televisori che usiamo oggi."
+        },
+        {
+            "eventId": "320",
+            "eventCategory": "POLITICS",
+            "eventDate": "1940/09/07",
+            "eventImg": null,
+            "eventDescriptionEn": "The Nazi Germany began its aerial bombardment of London, England, on September 7, 1940. The bombing campaign, known as the Blitz, lasted for eight months and caused widespread damage and loss of life. The Blitz was a major turning point in the war, as it showed the British people's determination to resist the Nazi invasion.",
+            "eventDescriptionTr": "Nazi Almanyası, 7 Eylül 1940'ta Londra, İngiltere'ye hava bombardımanına başladı. Bombardıman kampanyası, Blitz olarak bilinir ve sekiz ay sürdü ve büyük hasar ve can kaybına neden oldu. Blitz, savaşta önemli bir dönüm noktasıydı, çünkü İngiliz halkının Nazi işgalini direnme kararlılığını gösterdi.",
+            "eventDescriptionDe": "Nazi-Deutschland begann am 7. September 1940 mit dem Luftangriff auf London, England. Die Bombardierungskampagne, die als Blitz bekannt ist, dauerte acht Monate und verursachte weit verbreitete Schäden und Verluste. Der Blitz war ein wichtiger Wendepunkt im Krieg, da er den Entschlossenheit der britischen Bevölkerung, dem Nazi-Einmarsch zu widerstehen, zeigte.",
+            "eventDescriptionEs": "La Alemania nazi comenzó su bombardeo aéreo de Londres, Inglaterra, el 7 de septiembre de 1940. La campaña de bombardeos, conocida como el Blitz, duró ocho meses y causó graves daños y pérdidas de vidas. El Blitz fue un punto de inflexión importante en la guerra, ya que mostró la determinación del pueblo británico de resistir la invasión nazi.",
+            "eventDescriptionIt": "La Germania nazista iniziò il suo bombardamento aereo di Londra, Inghilterra, il 7 settembre 1940. La campagna di bombardamenti, nota come Blitz, durò otto mesi e causò gravi danni e perdite di vite umane. Il Blitz fu un punto di svolta importante nella guerra, poiché mostrò la determinazione del popolo britannico a resistere all'invasione nazista."
+        },
+        {
+            "eventId": "321",
+            "eventCategory": "POLITICS",
+            "eventDate": "2022/09/08",
+            "eventImg": null,
+            "eventDescriptionEn": "Queen Elizabeth II of the United Kingdom dies at Balmoral Castle in Scotland after reigning for 70 years. Her son Charles, Prince of Wales, ascends the throne upon her death as Charles III.",
+            "eventDescriptionTr": "İngiltere Kraliçesi II. Elizabeth, İskoçya'daki Balmoral Kalesi'nde 70 yıl hüküm sürdükten sonra vefat etti. Oğlu Charles, Galler Prensi, ölümü üzerine tahta Charles III olarak çıktı.",
+            "eventDescriptionDe": "Die britische Königin Elisabeth II. stirbt im schottischen Balmoral Castle nach 70 Jahren Herrschaft. Ihr Sohn Charles, Prinz von Wales, besteigt nach ihrem Tod den Thron als Charles III.",
+            "eventDescriptionEs": "La reina Isabel II del Reino Unido muere en el castillo de Balmoral en Escocia después de reinar durante 70 años. Su hijo, el príncipe Carlos de Gales, asciende al trono tras su muerte como Carlos III.",
+            "eventDescriptionIt": "La regina Elisabetta II del Regno Unito muore nel castello di Balmoral in Scozia dopo aver regnato per 70 anni. Suo figlio, il principe Carlo di Galles, ascende al trono alla sua morte come Carlo III."
+        },
+        {
+            "eventId": "322",
+            "eventCategory": "POLITICS",
+            "eventDate": "1926/09/08",
+            "eventImg": null,
+            "eventDescriptionEn": "Germany is admitted to the League of Nations through a resolution passed on September 7, 1926. The admission of Germany was a major step in the country's rehabilitation after World War I.",
+            "eventDescriptionTr": "Almanya, 1926'da Eylül 7'de kabul edilen bir kararla Milletler Cemiyeti'ne kabul edildi. Almanya'nın kabulü, I. Dünya Savaşı'ndan sonra ülkenin rehabilitasyonunda önemli bir adımdı.",
+            "eventDescriptionDe": "Deutschland wurde am 7. September 1926 durch eine Resolution in den Völkerbund aufgenommen. Die Aufnahme Deutschlands war ein wichtiger Schritt in der Rehabilitation des Landes nach dem Ersten Weltkrieg.",
+            "eventDescriptionEs": "Alemania fue admitida a la Liga de Naciones a través de una resolución aprobada el 7 de septiembre de 1926. La admisión de Alemania fue un paso importante en la rehabilitación del país después de la Primera Guerra Mundial.",
+            "eventDescriptionIt": "La Germania fu ammessa alla Società delle Nazioni attraverso una risoluzione approvata il 7 settembre 1926. L'ammissione della Germania fu un passo importante nella riabilitazione del paese dopo la prima guerra mondiale."
+        },
+        {
+            "eventId": "323",
+            "eventCategory": "POLITICS",
+            "eventDate": "2015/09/09",
+            "eventImg": null,
+            "eventDescriptionEn": "Queen Elizabeth II becomes the longest reigning monarch of the United Kingdom, surpassing the record set by her great-great-grandmother Queen Victoria.",
+            "eventDescriptionTr": "Kraliçe II. Elizabeth, Birleşik Krallık'ın en uzun süre hüküm süren hükümdarı olur ve büyük büyükannesi Kraliçe Victoria'nın rekorunu geride bırakır.",
+            "eventDescriptionDe": "Königin Elisabeth II. wird die am längsten regierende Monarchin des Vereinigten Königreichs und übertrifft damit den Rekord ihrer Urgroßmutter Königin Victoria.",
+            "eventDescriptionEs": "La reina Isabel II se convierte en la monarca con más años de reinado del Reino Unido, superando el récord establecido por su tatarabuela, la reina Victoria.",
+            "eventDescriptionIt": "La regina Elisabetta II diventa la monarca regnante più longeva del Regno Unito, superando il record stabilito dalla sua trisavola, la regina Vittoria."
+        },
+        {
+            "eventId": "324",
+            "eventCategory": "TECHN",
+            "eventDate": "1947/09/09",
+            "eventImg": null,
+            "eventDescriptionEn": "The first case of a computer bug being found occurs when a moth lodges in a relay of a Harvard Mark II computer at Harvard University. The moth is removed and the term 'bug' is first used to describe a problem in a computer program.",
+            "eventDescriptionTr": "Harvard Mark II bilgisayarında bir röleye giren bir güve, bilgisayar programında ilk kez 'bug' terimi kullanılarak ilk bilgisayar hatası vakası meydana gelir.",
+            "eventDescriptionDe": "Der erste Fall eines Computerbugs tritt auf, als ein Schmetterling in ein Relais eines Harvard Mark II-Computers an der Harvard University eindringt. Der Schmetterling wird entfernt und der Begriff 'Bug' wird erstmals verwendet, um ein Problem in einem Computerprogramm zu beschreiben.",
+            "eventDescriptionEs": "El primer caso de un error informático se produce cuando una polilla se aloja en un relé de un ordenador Harvard Mark II en la Universidad de Harvard. La polilla se retira y el término 'error' se utiliza por primera vez para describir un problema en un programa informático.",
+            "eventDescriptionIt": "Il primo caso di bug informatico si verifica quando una falena si incastra in un relé di un computer Harvard Mark II all'Università di Harvard. La falena viene rimossa e il termine 'bug' viene utilizzato per la prima volta per descrivere un problema in un programma per computer."
+        },
+        {
+            "eventId": "325",
+            "eventCategory": "POLITICS",
+            "eventDate": "1822/09/07",
+            "eventImg": null,
+            "eventDescriptionEn": "Dom Pedro I, the prince regent of Brazil, declares the country independent from Portugal on the shores of the Ipiranga Brook in São Paulo. The event is known as the Cry of Ipiranga.",
+            "eventDescriptionTr": "Dom Pedro I, Brezilya'nın veliaht prensi, São Paulo'daki Ipiranga Deresi'nin kıyısında ülkeyi Portekiz'den bağımsız ilan etti. Olay, Ipiranga'nın Çığlığı olarak bilinir.",
+            "eventDescriptionDe": "Dom Pedro I, der Vizekönig von Brasilien, erklärt das Land am Ufer des Ipiranga-Baches in São Paulo von Portugal unabhängig. Das Ereignis ist als Ipiranga-Geschrei bekannt.",
+            "eventDescriptionEs": "Dom Pedro I, el príncipe regente de Brasil, declara al país independiente de Portugal en las orillas del arroyo Ipiranga en São Paulo. El evento se conoce como el Grito de Ipiranga.",
+            "eventDescriptionIt": "Dom Pedro I, il principe reggente del Brasile, dichiara il paese indipendente dal Portogallo sulle rive del torrente Ipiranga a San Paolo. L'evento è noto come Grido di Ipiranga."
+        },
+        {
+            "eventId": "326",
+            "eventCategory": "HISTORY",
+            "eventDate": "1709/09/10",
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/september%2F1509-great-istanbul-earthquake-326.png?alt=media&token=8eb95d0f-a265-4610-99f0-096306f0ccd4",
+            "eventDescriptionEn": "An earthquake known as 'The Lesser Judgment Day' strikes Constantinople (modern-day Istanbul).",
+            "eventDescriptionTr": "Bilinen adıyla 'Küçük Kıyamet' olarak anılan bir deprem, Konstantinopolis'i (bugünkü İstanbul) vurdu.",
+            "eventDescriptionDe": "Ein Erdbeben namens 'Der kleine Jüngste Tag' erschüttert Konstantinopel (heutiges Istanbul).",
+            "eventDescriptionEs": "Un terremoto conocido como 'El Juicio Menor' golpea Constantinopla (la actual Estambul).",
+            "eventDescriptionIt": "Un terremoto noto come 'Il Giorno del Giudizio Minore' colpisce Costantinopoli (l'odierna Istanbul)."
+        },
+        {
+            "eventId": "327",
+            "eventCategory": "TECH",
+            "eventDate": "1846/09/10",
+            "eventImg": null,
+            "eventDescriptionEn": "Elias Howe is granted a patent for the sewing machine, a revolutionary invention that greatly impacted the textile and clothing industry.",
+            "eventDescriptionTr": "Elias Howe, dikiş makinesi için bir patent alır; tekstil ve giyim endüstrisini büyük ölçüde etkileyen devrim niteliğinde bir icat.",
+            "eventDescriptionDe": "Elias Howe erhält ein Patent für die Nähmaschine, eine revolutionäre Erfindung, die die Textil- und Bekleidungsindustrie maßgeblich beeinflusst hat.",
+            "eventDescriptionEs": "Elias Howe recibe una patente para la máquina de coser, una invención revolucionaria que tuvo un gran impacto en la industria textil y de la confección.",
+            "eventDescriptionIt": "A Elias Howe viene rilasciato un brevetto per la macchina da cucire, un'invenzione rivoluzionaria che ha avuto un grande impatto nell'industria tessile e dell'abbigliamento."
+        },
+        {
+            "eventId": "328",
+            "eventCategory": "POLITICS",
+            "eventDate": "1973/09/24",
+            "eventImg": null,
+            "eventDescriptionEn": "Guinea-Bissau gains independence from Portugal, marking a significant moment in the country's history and the end of Portuguese colonial rule.",
+            "eventDescriptionTr": "Gine-Bissau, Portekiz'den bağımsızlığını kazanır ve bu, ülkenin tarihinde önemli bir anı ve Portekiz kolonyal yönetiminin sonunu işaret eder.",
+            "eventDescriptionDe": "Guinea-Bissau erlangt die Unabhängigkeit von Portugal und markiert einen bedeutenden Moment in der Geschichte des Landes sowie das Ende der portugiesischen Kolonialherrschaft.",
+            "eventDescriptionEs": "Guinea-Bissau obtiene la independencia de Portugal, marcando un momento significativo en la historia del país y el fin del dominio colonial portugués.",
+            "eventDescriptionIt": "La Guinea-Bissau ottiene l'indipendenza dal Portogallo, segnando un momento significativo nella storia del paese e la fine del dominio coloniale portoghese."
+        },
+        {
+            "eventId": "329",
+            "eventCategory": "POLITICS",
+            "eventDate": "2002/09/10",
+            "eventImg": null,
+            "eventDescriptionEn": "Switzerland, traditionally a neutral country, becomes a full member of the United Nations, marking a significant shift in its international relations.",
+            "eventDescriptionTr": "Geleneksel olarak tarafsız bir ülke olan İsviçre, Birleşmiş Milletler'in tam üyesi olur ve uluslararası ilişkilerinde önemli bir değişimi işaret eder.",
+            "eventDescriptionDe": "Die Schweiz, traditionell ein neutrales Land, wird Vollmitglied der Vereinten Nationen und markiert eine bedeutende Veränderung in ihren internationalen Beziehungen.",
+            "eventDescriptionEs": "Suiza, tradicionalmente un país neutral, se convierte en miembro de pleno derecho de las Naciones Unidas, marcando un cambio significativo en sus relaciones internacionales.",
+            "eventDescriptionIt": "La Svizzera, tradizionalmente un paese neutrale, diventa un membro a pieno titolo delle Nazioni Unite, segnando un cambiamento significativo nelle sue relazioni internazionali."
+        },
+        {
+            "eventId": "330",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1992/09/19",
+            "eventImg": null,
+            "eventDescriptionEn": "Mae Jemison becomes the first African American woman to go into space, launching into orbit aboard the Space Shuttle Endeavour.",
+            "eventDescriptionTr": "Mae Jemison, Endeavour Uzay Mekiği ile yörüngeye fırlayarak ilk Afrikalı Amerikalı kadın astronot oldu.",
+            "eventDescriptionDe": "Mae Jemison wird die erste afroamerikanische Astronautin, die in den Orbit startet, als sie mit dem Space Shuttle Endeavour in die Umlaufbahn geschossen wird.",
+            "eventDescriptionEs": "Mae Jemison se convierte en la primera mujer afroamericana en ir al espacio, lanzando al espacio el transbordador espacial Endeavour.",
+            "eventDescriptionIt": "Mae Jemison diventa la prima donna afroamericana a andare nello spazio, lanciandosi nello spazio con lo Space Shuttle Endeavour."
+        },
+        {
+            "eventId": "331",
+            "eventCategory": "HISTORY",
+            "eventDate": "1980/09/12",
+            "eventImg": null,
+            "eventDescriptionEn": "The 12 September coup d'état, also known as the 1980 coup, was a military coup in Turkey on 12 September 1980, led by the Turkish Armed Forces under the command of General Kenan Evren, the Chief of the General Staff. It was the third and final successful coup d'état in Turkish history, after the 27 May coup and the 12 March memorandum.",
+            "eventDescriptionTr": "12 Eylül darbesi veya 1980 ihtilali, 12 Eylül 1980 tarihinde, Türkiye'de Genelkurmay Başkanı Orgeneral Kenan Evren liderliğindeki Türk Silahlı Kuvvetleri tarafından gerçekleştirilen askerî darbedir. 27 Mayıs Darbesi ve 12 Mart Muhtırası'nın ardından Türkiye Cumhuriyeti tarihinde Silahlı Kuvvetlerin yönetime karşı gerçekleştirdiği üçüncü ve son başarılı açık müdahaledir.",
+            "eventDescriptionDe": "Der 12. September-Putsch, auch bekannt als der Putsch von 1980, war ein Militärputsch in der Türkei am 12. September 1980, angeführt von den türkischen Streitkräften unter dem Kommando von General Kenan Evren, dem Generalstabschef. Es war der dritte und letzte erfolgreiche Putsch in der türkischen Geschichte nach dem 27. Mai-Putsch und dem 12. März-Memorandum.",
+            "eventDescriptionEs": "El golpe de Estado del 12 de septiembre, también conocido como el golpe de Estado de 1980, fue un golpe militar en Turquía el 12 de septiembre de 1980, liderado por las Fuerzas Armadas de Turquía bajo el mando del general Kenan Evren, el Jefe del Estado Mayor. Fue el tercer y último golpe de Estado exitoso en la historia de Turquía, después del golpe de Estado del 27 de mayo y la nota del 12 de marzo.",
+            "eventDescriptionIt": "Il colpo di Stato del 12 settembre, noto anche come il colpo di Stato del 1980, è stato un colpo di Stato militare in Turchia il 12 settembre 1980, guidato dalle forze armate turche sotto il comando del generale Kenan Evren, capo di stato maggiore. È stato il terzo e ultimo colpo di Stato riuscito nella storia della Turchia, dopo il colpo di Stato del 27 maggio e la nota del 12 marzo."
+        },
+        {
+            "eventId": "332",
+            "eventCategory": "TECH",
+            "eventDate": "1959/09/12",
+            "eventImg": null,
+            "eventDescriptionEn": "Bonanza premieres on NBC, becoming the first regularly scheduled TV program presented in color. The show is set in the 1860s and follows the Cartwright family, a wealthy rancher and his three sons. Bonanza was a huge success, running for 14 seasons and becoming one of the most popular TV shows of all time.",
+            "eventDescriptionTr": "Bonanza, NBC'de prömiyer yapıyor ve renkli olarak sunulan ilk düzenli TV programı oluyor. Dizi, 1860'larda geçiyor ve zengin bir çiftçi ve üç oğlu olan Cartwright ailesini takip ediyor. Bonanza büyük bir başarıydı, 14 sezon boyunca yayınlandı ve tüm zamanların en popüler TV şovlarından biri oldu.",
+            "eventDescriptionDe": "Bonanza wird auf NBC uraufgeführt und wird die erste regelmäßig im Fernsehen ausgestrahlte Sendung in Farbe. Die Show spielt im Jahr 1860 und folgt der Cartwright-Familie, einem wohlhabenden Rancher und seinen drei Söhnen. Bonanza war ein Riesenerfolg und lief 14 Staffeln lang und wurde zu einer der beliebtesten TV-Shows aller Zeiten.",
+            "eventDescriptionEs": "Bonanza se estrena en NBC, convirtiéndose en el primer programa de televisión regular presentado en color. El programa está ambientado en la década de 1860 y sigue a la familia Cartwright, un ranchero adinerado y sus tres hijos. Bonanza fue un gran éxito, se emitió durante 14 temporadas y se convirtió en una de las series de televisión más populares de todos los tiempos.",
+            "eventDescriptionIt": "Bonanza debutta su NBC, diventando il primo programma televisivo regolarmente programmato presentato a colori. Lo show è ambientato nel 1860 e segue la famiglia Cartwright, un ranchero benestante e i suoi tre figli. Bonanza è stato un enorme successo, è andato in onda per 14 stagioni ed è diventato una delle serie televisive più popolari di tutti i tempi."
+        },
+        {
+            "eventId": "333",
+            "eventCategory": "POLITICS",
+            "eventDate": "1961/09/12",
+            "eventImg": null,
+            "eventDescriptionEn": "The African and Malagasy Union (AMU) is founded in Antananarivo, Madagascar. The AMU is an intergovernmental organization created to promote cooperation among newly independent states in Francophone Africa. The AMU was dissolved in 1985.",
+            "eventDescriptionTr": "Afrika ve Madagaskar Birliği (AMU), Antananarivo, Madagaskar'da kuruldu. AMU, yeni bağımsız devletler arasında işbirliğini teşvik etmek için oluşturulan bir hükümetler arası kuruluştur. AMU, 1985 yılında feshedildi.",
+            "eventDescriptionDe": "Die Afrikanisch-Malagassische Union (AMU) wird in Antananarivo, Madagaskar, gegründet. Die AMU ist eine zwischenstaatliche Organisation, die zur Förderung der Zusammenarbeit zwischen den neu unabhängigen Staaten in französischsprachigen Afrika geschaffen wurde. Die AMU wurde 1985 aufgelöst.",
+            "eventDescriptionEs": "La Unión Africana y Malgache (UAM) se funda en Antananarivo, Madagascar. La UAM es una organización intergubernamental creada para promover la cooperación entre los nuevos estados independientes de África francófona. La UAM se disolvió en 1985.",
+            "eventDescriptionIt": "L'Unione Africana e Malagasy (UAM) è fondata ad Antananarivo, Madagascar. L'UAM è un'organizzazione intergovernativa creata per promuovere la cooperazione tra i nuovi stati indipendenti dell'Africa francofona. L'UAM è stata sciolta nel 1985."
+        },
+        {
+            "eventId": "334",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1959/09/12",
+            "eventImg": null,
+            "eventDescriptionEn": "The Soviet Union launches a large rocket, Lunik 2, at the Moon. Lunik 2 is the first spacecraft to impact the Moon. It crashes into the Moon on September 14, 1959.",
+            "eventDescriptionTr": "Sovyet, Ay'a Lunik 2 adlı büyük bir roket fırlattı. Lunik 2, Ay'a çarpan ilk uzay aracıdır. 14 Eylül 1959'da Ay'a çarptı.",
+            "eventDescriptionDe": "Die Sowjetunion startet eine große Rakete, Lunik 2, auf den Mond. Lunik 2 ist das erste Raumschiff, das den Mond trifft. Es stürzt am 14. September 1959 auf den Mond.",
+            "eventDescriptionEs": "La Unión Soviética lanza una gran cohete, Lunik 2, a la Luna. Lunik 2 es la primera nave espacial que impacta en la Luna. Se estrella contra la Luna el 14 de septiembre de 1959.",
+            "eventDescriptionIt": "L'Unione Sovietica lancia un grande razzo, Lunik 2, sulla Luna. Lunik 2 è la prima nave spaziale a colpire la Luna. Si schianta sulla Luna il 14 settembre 1959."
+        },
+        {
+            "eventId": "335",
+            "eventCategory": "TECH",
+            "eventDate": "1985/09/13",
+            "eventImg": null,
+            "eventDescriptionEn": "Super Mario Bros. is released in Japan for the NES, which starts the Super Mario series of platforming games. The game is a huge success, selling over 40 million copies and becoming one of the best-selling video games of all time.",
+            "eventDescriptionTr": "Super Mario Bros., Super Mario serisinin platforming oyunlarını başlatan NES için Japonya'da piyasaya sürüldü. Oyun büyük bir başarı elde etti ve 40 milyondan fazla kopya satarak tüm zamanların en çok satan video oyunlarından biri oldu.",
+            "eventDescriptionDe": "Super Mario Bros. wird in Japan für das NES veröffentlicht, was die Super Mario-Serie von Jump-and-Run-Spielen einleitet. Das Spiel ist ein Riesenerfolg und verkauft sich über 40 Millionen Mal und wird zu einem der bestverkauften Videospiele aller Zeiten.",
+            "eventDescriptionEs": "Super Mario Bros. se lanza en Japón para la NES, lo que da inicio a la serie de juegos de plataformas Super Mario. El juego es un gran éxito, vendiendo más de 40 millones de copias y convirtiéndose en uno de los videojuegos más vendidos de todos los tiempos.",
+            "eventDescriptionIt": "Super Mario Bros. viene rilasciato in Giappone per NES, dando il via alla serie di videogiochi platform di Super Mario. Il gioco è un grande successo, vendendo oltre 40 milioni di copie e diventando uno dei videogiochi più venduti di tutti i tempi."
+        },
+        {
+            "eventId": "336",
+            "eventCategory": "TECH",
+            "eventDate": "1977/09/13",
+            "eventImg": null,
+            "eventDescriptionEn": "General Motors introduces a diesel engine, with Oldsmobile Diesel engine, in the Delta 88, Oldsmobile 98, and Oldsmobile Custom Cruiser models amongst others. The engine is a 350 cubic-inch V8 that produces 110 horsepower and 240 lb-ft of torque.",
+            "eventDescriptionTr": "General Motors, Delta 88, Oldsmobile 98 ve Oldsmobile Custom Cruiser modelleri de dahil olmak üzere Oldsmobile Dizel motoru ile bir dizel motor tanıttı. Motor, 350 kübik inçlik bir V8 motoru ve 110 beygir gücü ve 240 lb-ft tork üretiyor.",
+            "eventDescriptionDe": "General Motors, Oldsmobile Diesel Motor mit einem Dieselmotor in den Modellen Delta 88, Oldsmobile 98 und Oldsmobile Custom Cruiser einführt. Der Motor ist ein 350 Kubikzoll-V8-Motor mit 110 PS und 240 lb-ft Drehmoment.",
+            "eventDescriptionEs": "General Motors introduce un motor diesel, con el motor diesel Oldsmobile, en los modelos Delta 88, Oldsmobile 98 y Oldsmobile Custom Cruiser, entre otros. El motor es un V8 de 350 pulgadas cúbicas que produce 110 caballos de fuerza y ​​240 lb-ft de torque.",
+            "eventDescriptionIt": "La General Motors introduce un motore diesel, con il motore diesel Oldsmobile, nei modelli Delta 88, Oldsmobile 98 e Oldsmobile Custom Cruiser, tra gli altri. Il motore è un V8 da 350 pollici cubici che produce 110 cavalli e 240 lb-ft di coppia."
+        },
+        {
+            "eventId": "337",
+            "eventCategory": "POLITICS",
+            "eventDate": "1933/09/13",
+            "eventImg": null,
+            "eventDescriptionEn": "Elizabeth McCombs becomes the first woman elected to the New Zealand Parliament. She was elected to the Lyttelton seat, which had been held by her husband James since 1913.",
+            "eventDescriptionTr": "Elizabeth McCombs ilk kadın seçildi Yeni Zelanda Parlamentosu. James'in 1913'ten beri elinde tuttuğu Lyttelton koltuğuna seçildi.",
+            "eventDescriptionDe": "Elizabeth McCombs wird die erste Frau, die in das neuseeländische Parlament gewählt wird. Sie wurde in den Sitz von Lyttelton gewählt, der von ihrem Ehemann James seit 1913 gehalten wurde.",
+            "eventDescriptionEs": "Elizabeth McCombs se convierte en la primera mujer elegida al Parlamento de Nueva Zelanda. Fue elegida para el escaño de Lyttelton, que había sido ocupado por su esposo James desde 1913.",
+            "eventDescriptionIt": "Elizabeth McCombs diventa la prima donna eletta al Parlamento neozelandese. È stata eletta al seggio di Lyttelton, che era stato occupato dal marito James dal 1913."
+        },
+        {
+            "eventId": "338",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1968/12/21",
+            "eventImg": null,
+            "eventDescriptionEn": "The first manned mission to the moon, Apollo 8, is launched from Cape Canaveral, Florida. The crew of Apollo 8, Frank Borman, Jim Lovell, and Bill Anders, orbited the moon ten times without landing. They took the first photographs of the far side of the moon, which had never been seen before by humans. The mission was a major success and helped to pave the way for the Apollo 11 moon landing the following year.",
+            "eventDescriptionTr": "Ay'a ilk insanlı misyon olan Apollo 8, Florida'daki Cape Canaveral'dan fırlatıldı. Apollo 8 mürettebatı, Frank Borman, Jim Lovell ve Bill Anders, Ay'ın etrafında 10 kez tur attılar ve Ay'ın uzak tarafını ilk kez fotoğrafladılar. Bu, Ay'a iniş yapan Apollo 11 misyonunun bir yıl sonraki başarısı için önemli bir adım oldu.",
+            "eventDescriptionDe": "Die erste bemannte Mission zum Mond, Apollo 8, wurde von Cape Canaveral in Florida gestartet. Die Crew von Apollo 8, Frank Borman, Jim Lovell und Bill Anders, umkreisten den Mond zehnmal ohne zu landen. Sie nahmen die ersten Fotos der Mondrückseite auf, die noch nie zuvor von Menschen gesehen worden waren. Die Mission war ein großer Erfolg und half, den Weg für die Mondlandung von Apollo 11 im folgenden Jahr zu ebnen.",
+            "eventDescriptionEs": "La primera misión tripulada a la Luna, Apolo 8, fue lanzada desde Cabo Cañaveral, Florida. La tripulación de Apolo 8, Frank Borman, Jim Lovell y Bill Anders, orbitaron la Luna diez veces sin aterrizar. Tomaron las primeras fotografías del lado lejano de la Luna, que nunca antes habían sido vistas por humanos. La misión fue un gran éxito y ayudó a allanar el camino para el alunizaje de Apolo 11 al año siguiente.",
+            "eventDescriptionIt": "La prima missione con equipaggio sulla Luna, Apollo 8, è stata lanciata da Cape Canaveral, in Florida. L'equipaggio di Apollo 8, Frank Borman, Jim Lovell e Bill Anders, ha orbitato la Luna dieci volte senza atterrare. Hanno scattato le prime fotografie del lato nascosto della Luna, che non era mai stato visto prima dagli umani. La missione è stata un grande successo e ha contribuito a preparare il terreno per l'allunaggio di Apollo 11 l'anno successivo."
+        },{
+            "eventId": "339",
+            "eventCategory": "TECH",
+            "eventDate": "2000/09/14",
+            "eventImg": null,
+            "eventDescriptionEn": "Microsoft releases Windows Me (Millenium Edition), an operating system for home users. Windows Me was designed to be more user-friendly than previous versions of Windows, and it included new features such as Windows Movie Maker and Windows Media Player.",
+            "eventDescriptionTr": "Microsoft, Windows Me (Millenium Edition) adlı bir ev kullanıcıları için işletim sistemi yayınladı. Windows Me, önceki Windows sürümlerinden daha kullanıcı dostu olacak şekilde tasarlandı ve Windows Movie Maker ve Windows Media Player gibi yeni özellikler içeriyordu.",
+            "eventDescriptionDe": "Microsoft, Windows Me (Millennium Edition), ein Betriebssystem für Heimanwender veröffentlicht. Windows Me wurde so konzipiert, dass es benutzerfreundlicher ist als frühere Windows-Versionen und enthält neue Funktionen wie Windows Movie Maker und Windows Media Player.",
+            "eventDescriptionEs": "Microsoft lanza Windows Me (Millenium Edition), un sistema operativo para usuarios domésticos. Windows Me fue diseñado para ser más fácil de usar que las versiones anteriores de Windows e incluía nuevas funciones como Windows Movie Maker y Windows Media Player.",
+            "eventDescriptionIt": "Microsoft rilascia Windows Me (Millenium Edition), un sistema operativo per gli utenti domestici. Windows Me è stato progettato per essere più facile da usare rispetto alle versioni precedenti di Windows e includeva nuove funzionalità come Windows Movie Maker e Windows Media Player."
+        },{
+            "eventId": "340",
+            "eventCategory": "TECH",
+            "eventDate": "1984/09/18",
+            "eventImg": null,
+            "eventDescriptionEn": "Joe Kittinger becomes the first person to fly a gas balloon alone across the Atlantic Ocean. Kittinger's flight began in Caribou, Maine, and ended in Miserey, France, after four days. He reached an altitude of 102,800 feet (31,298 m), which was a record at the time.",
+            "eventDescriptionTr": "Joe Kittinger, bir balonla Atlantik Okyanusu'nu tek başına geçen ilk kişi oldu. Kittinger'in uçuşu Maine, Caribou'dan başladı ve dört gün sonra Fransa'nın Miserey kentinde sona erdi. O zamanlar 102.800 feet (31.298 metre) olan bir rekoru kırdı.",
+            "eventDescriptionDe": "Joe Kittinger wird der erste Mensch, der allein mit einem Gasballon den Atlantischen Ozean überquert. Kittingers Flug begann in Caribou, Maine, und endete nach vier Tagen in Miserey, Frankreich. Er erreichte eine Höhe von 102.800 Fuß (31.298 m), was damals ein Rekord war.",
+            "eventDescriptionEs": "Joe Kittinger se convierte en la primera persona en volar un globo de gas solo a través del Océano Atlántico. El vuelo de Kittinger comenzó en Caribou, Maine, y terminó en Miserey, Francia, después de cuatro días. Alcanzó una altitud de 102.800 pies (31.298 m), que era un récord en ese momento.",
+            "eventDescriptionIt": "Joe Kittinger diventa la prima persona a volare un pallone a gas da solo attraverso l'Oceano Atlantico. Il volo di Kittinger è iniziato a Caribou, nel Maine, e si è concluso a Miserey, in Francia, dopo quattro giorni. Ha raggiunto un'altitudine di 102.800 piedi (31.298 m), che era un record all'epoca."
+        },{
+            "eventId": "341",
+            "eventCategory": "POLITICS",
+            "eventDate": "1923/10/29",
+            "eventImg": null,
+            "eventDescriptionEn": "The Republic of Turkey is proclaimed in Ankara, Turkey. The proclamation of the republic is a major turning point in Turkish history, marking the end of the Ottoman Empire and the beginning of a new era for Turkey.",
+            "eventDescriptionTr": "Türkiye Cumhuriyeti, Ankara'da ilan edildi. Cumhuriyetin ilanı, Türk tarihinde önemli bir dönüm noktasıdır ve Osmanlı İmparatorluğu'nun sona ermesi ve Türkiye için yeni bir dönemin başlangıcını işaret eder.",
+            "eventDescriptionDe": "Die Republik Türkei wird in Ankara, Türkei, ausgerufen. Die Ausrufung der Republik ist ein wichtiger Wendepunkt in der türkischen Geschichte und markiert das Ende des Osmanischen Reiches und den Beginn einer neuen Ära für die Türkei.",
+            "eventDescriptionEs": "La República de Turquía se proclama en Ankara, Turquía. La proclamación de la república es un momento importante en la historia turca, que marca el fin del Imperio Otomano y el comienzo de una nueva era para Turquía.",
+            "eventDescriptionIt": "La Repubblica di Turchia viene proclamata ad Ankara, in Turchia. La proclamazione della repubblica è un momento importante nella storia turca, che segna la fine dell'Impero Ottomano e l'inizio di una nuova era per la Turchia."
+        },{
+            "eventId": "342",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1790/04/17",
+            "eventImg": null,
+            "eventDescriptionEn": "Benjamin Franklin, American polymath and statesman, dies at the age of 84. Franklin was a leading figure in the American Revolution and helped to draft the Declaration of Independence. He was also a scientist, inventor, and diplomat.",
+            "eventDescriptionTr": "Benjamin Franklin, Amerikalı bilim adamı, mucit ve devlet adamı 84 yaşında vefat etti. Franklin, Amerikan Devrimi'nde önde gelen bir figürdü ve Bağımsızlık Bildirgesi'nin hazırlanmasına yardımcı oldu. Aynı zamanda bir bilim adamı, mucit ve diplomattı.",
+            "eventDescriptionDe": "Benjamin Franklin, amerikanischer Universalgelehrter und Staatsmann, stirbt im Alter von 84 Jahren. Franklin war eine führende Figur in der Amerikanischen Revolution und half bei der Ausarbeitung der Unabhängigkeitserklärung. Er war auch ein Wissenschaftler, Erfinder und Diplomat.",
+            "eventDescriptionEs": "Benjamin Franklin, erudito y estadista estadounidense, muere a la edad de 84 años. Franklin fue una figura destacada en la Revolución Americana y ayudó a redactar la Declaración de Independencia. También fue un científico, inventor y diplomático.",
+            "eventDescriptionIt": "Benjamin Franklin, polimata e statista americano, muore all'età di 84 anni. Franklin fu una figura di spicco nella Rivoluzione americana e contribuì alla stesura della Dichiarazione d'Indipendenza. Era anche uno scienziato, inventore e diplomatico."
+        },{
+            "eventId": "343",
+            "eventCategory": "TECH",
+            "eventDate": "2023/11/30",
+            "eventImg": null,
+            "eventDescriptionEn": "ChatGPT, a large language model chatbot developed by OpenAI, is released. ChatGPT is capable of generating human-quality text, translating languages, writing different kinds of creative content, and answering your questions in an informative way.",
+            "eventDescriptionTr": "OpenAI tarafından geliştirilen ChatGPT, büyük dil modeli sohbet botu yayınlandı. ChatGPT, insan kalitesinde metin üretme, dilleri çevirme, farklı türde yaratıcı içerik yazma ve sorularınıza bilgilendirici bir şekilde yanıt verme yeteneğine sahiptir.",
+            "eventDescriptionDe": "ChatGPT, von OpenAI entwickeltes Chatbot mit großem Sprachmodell, wird veröffentlicht. ChatGPT kann menschliche Textqualität generieren, Sprachen übersetzen, verschiedene Arten von kreativem Inhalt schreiben und Ihre Fragen auf informative Weise beantworten.",
+            "eventDescriptionEs": "ChatGPT, un chatbot con modelo de lenguaje grande desarrollado por OpenAI, se publica. ChatGPT puede generar texto de calidad humana, traducir idiomas, escribir diferentes tipos de contenido creativo y responder a sus preguntas de manera informativa.",
+            "eventDescriptionIt": "ChatGPT, chatbot con modello di linguaggio di grandi dimensioni sviluppato da OpenAI, viene pubblicato. ChatGPT è in grado di generare testo di qualità umana, tradurre lingue, scrivere diversi tipi di contenuti creativi e rispondere alle tue domande in modo informativo."
+        },{
+            "eventId": "344",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1988/08/14",
+            "eventImg": null,
+            "eventDescriptionEn": "Enzo Ferrari, Italian racing driver and founder of the Ferrari automobile company, dies at the age of 90. Ferrari was a legendary figure in motorsport, and his company has won over 200 Formula One races.",
+            "eventDescriptionTr": "Enzo Ferrari, İtalyan yarış pilotu ve Ferrari otomobil şirketinin kurucusu 90 yaşında vefat etti. Ferrari, motor sporlarında efsanevi bir figür ve şirketi Formula 1'de 200'den fazla yarış kazandı.",
+            "eventDescriptionDe": "Enzo Ferrari, italienischer Rennfahrer und Gründer der Ferrari-Automobilfirma, stirbt im Alter von 90 Jahren. Ferrari war eine legendäre Figur im Motorsport und sein Unternehmen hat über 200 Formel-1-Rennen gewonnen.",
+            "eventDescriptionEs": "Enzo Ferrari, piloto de carreras italiano y fundador de la empresa automovilística Ferrari, muere a la edad de 90 años. Ferrari fue una figura legendaria en el automovilismo, y su empresa ha ganado más de 200 carreras de Fórmula 1.",
+            "eventDescriptionIt": "Enzo Ferrari, pilota automobilistico italiano e fondatore della casa automobilistica Ferrari, muore all'età di 90 anni. Ferrari è stata una figura leggendaria nel motorsport e la sua azienda ha vinto oltre 200 gare di Formula 1."
+        }
+        
     ]
 }
