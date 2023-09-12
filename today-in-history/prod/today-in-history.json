@@ -3572,6 +3572,17 @@
             "eventDescriptionDe": "Die erste bemannte Mission zum Mond, Apollo 8, wurde von Cape Canaveral in Florida gestartet. Die Crew von Apollo 8, Frank Borman, Jim Lovell und Bill Anders, umkreisten den Mond zehnmal ohne zu landen. Sie nahmen die ersten Fotos der Mondrückseite auf, die noch nie zuvor von Menschen gesehen worden waren. Die Mission war ein großer Erfolg und half, den Weg für die Mondlandung von Apollo 11 im folgenden Jahr zu ebnen.",
             "eventDescriptionEs": "La primera misión tripulada a la Luna, Apolo 8, fue lanzada desde Cabo Cañaveral, Florida. La tripulación de Apolo 8, Frank Borman, Jim Lovell y Bill Anders, orbitaron la Luna diez veces sin aterrizar. Tomaron las primeras fotografías del lado lejano de la Luna, que nunca antes habían sido vistas por humanos. La misión fue un gran éxito y ayudó a allanar el camino para el alunizaje de Apolo 11 al año siguiente.",
             "eventDescriptionIt": "La prima missione con equipaggio sulla Luna, Apollo 8, è stata lanciata da Cape Canaveral, in Florida. L'equipaggio di Apollo 8, Frank Borman, Jim Lovell e Bill Anders, ha orbitato la Luna dieci volte senza atterrare. Hanno scattato le prime fotografie del lato nascosto della Luna, che non era mai stato visto prima dagli umani. La missione è stata un grande successo e ha contribuito a preparare il terreno per l'allunaggio di Apollo 11 l'anno successivo."
+        },{
+            "eventId": "339",
+            "eventCategory": "TECH",
+            "eventDate": "2000/09/14",
+            "eventImg": null,
+            "eventDescriptionEn": "Microsoft releases Windows Me (Millenium Edition), an operating system for home users. Windows Me was designed to be more user-friendly than previous versions of Windows, and it included new features such as Windows Movie Maker and Windows Media Player.",
+            "eventDescriptionTr": "Microsoft, Windows Me (Millenium Edition) adlı bir ev kullanıcıları için işletim sistemi yayınladı. Windows Me, önceki Windows sürümlerinden daha kullanıcı dostu olacak şekilde tasarlandı ve Windows Movie Maker ve Windows Media Player gibi yeni özellikler içeriyordu.",
+            "eventDescriptionDe": "Microsoft, Windows Me (Millennium Edition), ein Betriebssystem für Heimanwender veröffentlicht. Windows Me wurde so konzipiert, dass es benutzerfreundlicher ist als frühere Windows-Versionen und enthält neue Funktionen wie Windows Movie Maker und Windows Media Player.",
+            "eventDescriptionEs": "Microsoft lanza Windows Me (Millenium Edition), un sistema operativo para usuarios domésticos. Windows Me fue diseñado para ser más fácil de usar que las versiones anteriores de Windows e incluía nuevas funciones como Windows Movie Maker y Windows Media Player.",
+            "eventDescriptionIt": "Microsoft rilascia Windows Me (Millenium Edition), un sistema operativo per gli utenti domestici. Windows Me è stato progettato per essere più facile da usare rispetto alle versioni precedenti di Windows e includeva nuove funzionalità come Windows Movie Maker e Windows Media Player."
         }
+        
     ]
 }
