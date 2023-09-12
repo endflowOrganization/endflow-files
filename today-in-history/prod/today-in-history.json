@@ -178,7 +178,10 @@
             "eventDate": "1989/11/09",
             "eventImg": null,
             "eventDescriptionEn": "The Berlin Wall fell, symbolizing the end of the Cold War and the reunification of East and West Germany.",
-            "eventDescriptionTr": "Berlin Duvarı yıkıldı ve Soğuk Savaş'ın sonunu ve Doğu ve Batı Almanya'nın birleşmesini simgeledi."
+            "eventDescriptionTr": "Berlin Duvarı yıkıldı ve Soğuk Savaş'ın sonunu ve Doğu ve Batı Almanya'nın birleşmesini simgeledi.",
+            "eventDescriptionDe": "Die Berliner Mauer fiel und symbolisierte das Ende des Kalten Krieges und die Wiedervereinigung von Ost- und Westdeutschland.",
+            "eventDescriptionEs": "El Muro de Berlín cayó, simbolizando el fin de la Guerra Fría y la reunificación de Alemania Oriental y Occidental.",
+            "eventDescriptionIt": "Il Muro di Berlino cadde, simboleggiando la fine della Guerra Fredda e la riunificazione della Germania Est e Ovest."
         },
         {
             "eventId": "24",
@@ -3489,7 +3492,8 @@
             "eventDescriptionDe": "Der 12. September-Putsch, auch bekannt als der Putsch von 1980, war ein Militärputsch in der Türkei am 12. September 1980, angeführt von den türkischen Streitkräften unter dem Kommando von General Kenan Evren, dem Generalstabschef. Es war der dritte und letzte erfolgreiche Putsch in der türkischen Geschichte nach dem 27. Mai-Putsch und dem 12. März-Memorandum.",
             "eventDescriptionEs": "El golpe de Estado del 12 de septiembre, también conocido como el golpe de Estado de 1980, fue un golpe militar en Turquía el 12 de septiembre de 1980, liderado por las Fuerzas Armadas de Turquía bajo el mando del general Kenan Evren, el Jefe del Estado Mayor. Fue el tercer y último golpe de Estado exitoso en la historia de Turquía, después del golpe de Estado del 27 de mayo y la nota del 12 de marzo.",
             "eventDescriptionIt": "Il colpo di Stato del 12 settembre, noto anche come il colpo di Stato del 1980, è stato un colpo di Stato militare in Turchia il 12 settembre 1980, guidato dalle forze armate turche sotto il comando del generale Kenan Evren, capo di stato maggiore. È stato il terzo e ultimo colpo di Stato riuscito nella storia della Turchia, dopo il colpo di Stato del 27 maggio e la nota del 12 marzo."
-        },{
+        },
+        {
             "eventId": "332",
             "eventCategory": "TECH",
             "eventDate": "1959/09/12",
@@ -3499,7 +3503,8 @@
             "eventDescriptionDe": "Bonanza wird auf NBC uraufgeführt und wird die erste regelmäßig im Fernsehen ausgestrahlte Sendung in Farbe. Die Show spielt im Jahr 1860 und folgt der Cartwright-Familie, einem wohlhabenden Rancher und seinen drei Söhnen. Bonanza war ein Riesenerfolg und lief 14 Staffeln lang und wurde zu einer der beliebtesten TV-Shows aller Zeiten.",
             "eventDescriptionEs": "Bonanza se estrena en NBC, convirtiéndose en el primer programa de televisión regular presentado en color. El programa está ambientado en la década de 1860 y sigue a la familia Cartwright, un ranchero adinerado y sus tres hijos. Bonanza fue un gran éxito, se emitió durante 14 temporadas y se convirtió en una de las series de televisión más populares de todos los tiempos.",
             "eventDescriptionIt": "Bonanza debutta su NBC, diventando il primo programma televisivo regolarmente programmato presentato a colori. Lo show è ambientato nel 1860 e segue la famiglia Cartwright, un ranchero benestante e i suoi tre figli. Bonanza è stato un enorme successo, è andato in onda per 14 stagioni ed è diventato una delle serie televisive più popolari di tutti i tempi."
-          },{
+        },
+        {
             "eventId": "333",
             "eventCategory": "POLITICS",
             "eventDate": "1961/09/12",
@@ -3509,7 +3514,8 @@
             "eventDescriptionDe": "Die Afrikanisch-Malagassische Union (AMU) wird in Antananarivo, Madagaskar, gegründet. Die AMU ist eine zwischenstaatliche Organisation, die zur Förderung der Zusammenarbeit zwischen den neu unabhängigen Staaten in französischsprachigen Afrika geschaffen wurde. Die AMU wurde 1985 aufgelöst.",
             "eventDescriptionEs": "La Unión Africana y Malgache (UAM) se funda en Antananarivo, Madagascar. La UAM es una organización intergubernamental creada para promover la cooperación entre los nuevos estados independientes de África francófona. La UAM se disolvió en 1985.",
             "eventDescriptionIt": "L'Unione Africana e Malagasy (UAM) è fondata ad Antananarivo, Madagascar. L'UAM è un'organizzazione intergovernativa creata per promuovere la cooperazione tra i nuovi stati indipendenti dell'Africa francofona. L'UAM è stata sciolta nel 1985."
-          },{
+        },
+        {
             "eventId": "334",
             "eventCategory": "SCIENCE",
             "eventDate": "1959/09/12",
@@ -3519,7 +3525,8 @@
             "eventDescriptionDe": "Die Sowjetunion startet eine große Rakete, Lunik 2, auf den Mond. Lunik 2 ist das erste Raumschiff, das den Mond trifft. Es stürzt am 14. September 1959 auf den Mond.",
             "eventDescriptionEs": "La Unión Soviética lanza una gran cohete, Lunik 2, a la Luna. Lunik 2 es la primera nave espacial que impacta en la Luna. Se estrella contra la Luna el 14 de septiembre de 1959.",
             "eventDescriptionIt": "L'Unione Sovietica lancia un grande razzo, Lunik 2, sulla Luna. Lunik 2 è la prima nave spaziale a colpire la Luna. Si schianta sulla Luna il 14 settembre 1959."
-          },{
+        },
+        {
             "eventId": "335",
             "eventCategory": "TECH",
             "eventDate": "1985/09/13",
@@ -3529,7 +3536,8 @@
             "eventDescriptionDe": "Super Mario Bros. wird in Japan für das NES veröffentlicht, was die Super Mario-Serie von Jump-and-Run-Spielen einleitet. Das Spiel ist ein Riesenerfolg und verkauft sich über 40 Millionen Mal und wird zu einem der bestverkauften Videospiele aller Zeiten.",
             "eventDescriptionEs": "Super Mario Bros. se lanza en Japón para la NES, lo que da inicio a la serie de juegos de plataformas Super Mario. El juego es un gran éxito, vendiendo más de 40 millones de copias y convirtiéndose en uno de los videojuegos más vendidos de todos los tiempos.",
             "eventDescriptionIt": "Super Mario Bros. viene rilasciato in Giappone per NES, dando il via alla serie di videogiochi platform di Super Mario. Il gioco è un grande successo, vendendo oltre 40 milioni di copie e diventando uno dei videogiochi più venduti di tutti i tempi."
-          },{
+        },
+        {
             "eventId": "336",
             "eventCategory": "TECH",
             "eventDate": "1977/09/13",
@@ -3539,6 +3547,6 @@
             "eventDescriptionDe": "General Motors, Oldsmobile Diesel Motor mit einem Dieselmotor in den Modellen Delta 88, Oldsmobile 98 und Oldsmobile Custom Cruiser einführt. Der Motor ist ein 350 Kubikzoll-V8-Motor mit 110 PS und 240 lb-ft Drehmoment.",
             "eventDescriptionEs": "General Motors introduce un motor diesel, con el motor diesel Oldsmobile, en los modelos Delta 88, Oldsmobile 98 y Oldsmobile Custom Cruiser, entre otros. El motor es un V8 de 350 pulgadas cúbicas que produce 110 caballos de fuerza y ​​240 lb-ft de torque.",
             "eventDescriptionIt": "La General Motors introduce un motore diesel, con il motore diesel Oldsmobile, nei modelli Delta 88, Oldsmobile 98 e Oldsmobile Custom Cruiser, tra gli altri. Il motore è un V8 da 350 pollici cubici che produce 110 cavalli e 240 lb-ft di coppia."
-          }
+        }
     ]
 }
