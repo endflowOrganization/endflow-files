@@ -3592,7 +3592,18 @@
             "eventDescriptionDe": "Joe Kittinger wird der erste Mensch, der allein mit einem Gasballon den Atlantischen Ozean überquert. Kittingers Flug begann in Caribou, Maine, und endete nach vier Tagen in Miserey, Frankreich. Er erreichte eine Höhe von 102.800 Fuß (31.298 m), was damals ein Rekord war.",
             "eventDescriptionEs": "Joe Kittinger se convierte en la primera persona en volar un globo de gas solo a través del Océano Atlántico. El vuelo de Kittinger comenzó en Caribou, Maine, y terminó en Miserey, Francia, después de cuatro días. Alcanzó una altitud de 102.800 pies (31.298 m), que era un récord en ese momento.",
             "eventDescriptionIt": "Joe Kittinger diventa la prima persona a volare un pallone a gas da solo attraverso l'Oceano Atlantico. Il volo di Kittinger è iniziato a Caribou, nel Maine, e si è concluso a Miserey, in Francia, dopo quattro giorni. Ha raggiunto un'altitudine di 102.800 piedi (31.298 m), che era un record all'epoca."
+        },{
+            "eventId": "341",
+            "eventCategory": "POLITICS",
+            "eventDate": "1923/10/29",
+            "eventImg": null,
+            "eventDescriptionEn": "The Republic of Turkey is proclaimed in Ankara, Turkey. The proclamation of the republic is a major turning point in Turkish history, marking the end of the Ottoman Empire and the beginning of a new era for Turkey.",
+            "eventDescriptionTr": "Türkiye Cumhuriyeti, Ankara'da ilan edildi. Cumhuriyetin ilanı, Türk tarihinde önemli bir dönüm noktasıdır ve Osmanlı İmparatorluğu'nun sona ermesi ve Türkiye için yeni bir dönemin başlangıcını işaret eder.",
+            "eventDescriptionDe": "Die Republik Türkei wird in Ankara, Türkei, ausgerufen. Die Ausrufung der Republik ist ein wichtiger Wendepunkt in der türkischen Geschichte und markiert das Ende des Osmanischen Reiches und den Beginn einer neuen Ära für die Türkei.",
+            "eventDescriptionEs": "La República de Turquía se proclama en Ankara, Turquía. La proclamación de la república es un momento importante en la historia turca, que marca el fin del Imperio Otomano y el comienzo de una nueva era para Turquía.",
+            "eventDescriptionIt": "La Repubblica di Turchia viene proclamata ad Ankara, in Turchia. La proclamazione della repubblica è un momento importante nella storia turca, che segna la fine dell'Impero Ottomano e l'inizio di una nuova era per la Turchia."
         }
+        
         
         
     ]
