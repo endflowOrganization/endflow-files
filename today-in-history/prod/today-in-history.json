@@ -3561,6 +3561,17 @@
             "eventDescriptionDe": "Elizabeth McCombs wird die erste Frau, die in das neuseeländische Parlament gewählt wird. Sie wurde in den Sitz von Lyttelton gewählt, der von ihrem Ehemann James seit 1913 gehalten wurde.",
             "eventDescriptionEs": "Elizabeth McCombs se convierte en la primera mujer elegida al Parlamento de Nueva Zelanda. Fue elegida para el escaño de Lyttelton, que había sido ocupado por su esposo James desde 1913.",
             "eventDescriptionIt": "Elizabeth McCombs diventa la prima donna eletta al Parlamento neozelandese. È stata eletta al seggio di Lyttelton, che era stato occupato dal marito James dal 1913."
+        },
+        {
+            "eventId": "338",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1968/09/14",
+            "eventImg": null,
+            "eventDescriptionEn": "The first manned mission to the moon, Apollo 8, is launched from Cape Canaveral, Florida. The crew of Apollo 8, Frank Borman, Jim Lovell, and Bill Anders, orbited the moon ten times without landing. They took the first photographs of the far side of the moon, which had never been seen before by humans. The mission was a major success and helped to pave the way for the Apollo 11 moon landing the following year.",
+            "eventDescriptionTr": "Ay'a ilk insanlı misyon olan Apollo 8, Florida'daki Cape Canaveral'dan fırlatıldı. Apollo 8 mürettebatı, Frank Borman, Jim Lovell ve Bill Anders, Ay'ın etrafında 10 kez tur attılar ve Ay'ın uzak tarafını ilk kez fotoğrafladılar. Bu, Ay'a iniş yapan Apollo 11 misyonunun bir yıl sonraki başarısı için önemli bir adım oldu.",
+            "eventDescriptionDe": "Die erste bemannte Mission zum Mond, Apollo 8, wurde von Cape Canaveral in Florida gestartet. Die Crew von Apollo 8, Frank Borman, Jim Lovell und Bill Anders, umkreisten den Mond zehnmal ohne zu landen. Sie nahmen die ersten Fotos der Mondrückseite auf, die noch nie zuvor von Menschen gesehen worden waren. Die Mission war ein großer Erfolg und half, den Weg für die Mondlandung von Apollo 11 im folgenden Jahr zu ebnen.",
+            "eventDescriptionEs": "La primera misión tripulada a la Luna, Apolo 8, fue lanzada desde Cabo Cañaveral, Florida. La tripulación de Apolo 8, Frank Borman, Jim Lovell y Bill Anders, orbitaron la Luna diez veces sin aterrizar. Tomaron las primeras fotografías del lado lejano de la Luna, que nunca antes habían sido vistas por humanos. La misión fue un gran éxito y ayudó a allanar el camino para el alunizaje de Apolo 11 al año siguiente.",
+            "eventDescriptionIt": "La prima missione con equipaggio sulla Luna, Apollo 8, è stata lanciata da Cape Canaveral, in Florida. L'equipaggio di Apollo 8, Frank Borman, Jim Lovell e Bill Anders, ha orbitato la Luna dieci volte senza atterrare. Hanno scattato le prime fotografie del lato nascosto della Luna, che non era mai stato visto prima dagli umani. La missione è stata un grande successo e ha contribuito a preparare il terreno per l'allunaggio di Apollo 11 l'anno successivo."
         }
     ]
 }
