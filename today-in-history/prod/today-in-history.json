@@ -3507,7 +3507,16 @@
             "eventDescriptionDe": "Bonanza wird auf NBC uraufgeführt und wird die erste regelmäßig im Fernsehen ausgestrahlte Sendung in Farbe. Die Show spielt im Jahr 1860 und folgt der Cartwright-Familie, einem wohlhabenden Rancher und seinen drei Söhnen. Bonanza war ein Riesenerfolg und lief 14 Staffeln lang und wurde zu einer der beliebtesten TV-Shows aller Zeiten.",
             "eventDescriptionEs": "Bonanza se estrena en NBC, convirtiéndose en el primer programa de televisión regular presentado en color. El programa está ambientado en la década de 1860 y sigue a la familia Cartwright, un ranchero adinerado y sus tres hijos. Bonanza fue un gran éxito, se emitió durante 14 temporadas y se convirtió en una de las series de televisión más populares de todos los tiempos.",
             "eventDescriptionIt": "Bonanza debutta su NBC, diventando il primo programma televisivo regolarmente programmato presentato a colori. Lo show è ambientato nel 1860 e segue la famiglia Cartwright, un ranchero benestante e i suoi tre figli. Bonanza è stato un enorme successo, è andato in onda per 14 stagioni ed è diventato una delle serie televisive più popolari di tutti i tempi."
+          },{
+            "eventId": "333",
+            "eventCategory": "POLITICS",
+            "eventDate": "1961/09/12",
+            "eventImg": null,
+            "eventDescriptionEn": "The African and Malagasy Union (AMU) is founded in Antananarivo, Madagascar. The AMU is an intergovernmental organization created to promote cooperation among newly independent states in Francophone Africa. The AMU was dissolved in 1985.",
+            "eventDescriptionTr": "Afrika ve Madagaskar Birliği (AMU), Antananarivo, Madagaskar'da kuruldu. AMU, yeni bağımsız devletler arasında işbirliğini teşvik etmek için oluşturulan bir hükümetler arası kuruluştur. AMU, 1985 yılında feshedildi.",
+            "eventDescriptionDe": "Die Afrikanisch-Malagassische Union (AMU) wird in Antananarivo, Madagaskar, gegründet. Die AMU ist eine zwischenstaatliche Organisation, die zur Förderung der Zusammenarbeit zwischen den neu unabhängigen Staaten in französischsprachigen Afrika geschaffen wurde. Die AMU wurde 1985 aufgelöst.",
+            "eventDescriptionEs": "La Unión Africana y Malgache (UAM) se funda en Antananarivo, Madagascar. La UAM es una organización intergubernamental creada para promover la cooperación entre los nuevos estados independientes de África francófona. La UAM se disolvió en 1985.",
+            "eventDescriptionIt": "L'Unione Africana e Malagasy (UAM) è fondata ad Antananarivo, Madagascar. L'UAM è un'organizzazione intergovernativa creata per promuovere la cooperazione tra i nuovi stati indipendenti dell'Africa francofona. L'UAM è stata sciolta nel 1985."
           }
-          
     ]
 }
