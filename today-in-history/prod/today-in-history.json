@@ -3517,6 +3517,17 @@
             "eventDescriptionDe": "Die Afrikanisch-Malagassische Union (AMU) wird in Antananarivo, Madagaskar, gegründet. Die AMU ist eine zwischenstaatliche Organisation, die zur Förderung der Zusammenarbeit zwischen den neu unabhängigen Staaten in französischsprachigen Afrika geschaffen wurde. Die AMU wurde 1985 aufgelöst.",
             "eventDescriptionEs": "La Unión Africana y Malgache (UAM) se funda en Antananarivo, Madagascar. La UAM es una organización intergubernamental creada para promover la cooperación entre los nuevos estados independientes de África francófona. La UAM se disolvió en 1985.",
             "eventDescriptionIt": "L'Unione Africana e Malagasy (UAM) è fondata ad Antananarivo, Madagascar. L'UAM è un'organizzazione intergovernativa creata per promuovere la cooperazione tra i nuovi stati indipendenti dell'Africa francofona. L'UAM è stata sciolta nel 1985."
+          },{
+            "eventId": "334",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1959/09/12",
+            "eventImg": null,
+            "eventDescriptionEn": "The Soviet Union launches a large rocket, Lunik 2, at the Moon. Lunik 2 is the first spacecraft to impact the Moon. It crashes into the Moon on September 14, 1959.",
+            "eventDescriptionTr": "Sovyet, Ay'a Lunik 2 adlı büyük bir roket fırlattı. Lunik 2, Ay'a çarpan ilk uzay aracıdır. 14 Eylül 1959'da Ay'a çarptı.",
+            "eventDescriptionDe": "Die Sowjetunion startet eine große Rakete, Lunik 2, auf den Mond. Lunik 2 ist das erste Raumschiff, das den Mond trifft. Es stürzt am 14. September 1959 auf den Mond.",
+            "eventDescriptionEs": "La Unión Soviética lanza una gran cohete, Lunik 2, a la Luna. Lunik 2 es la primera nave espacial que impacta en la Luna. Se estrella contra la Luna el 14 de septiembre de 1959.",
+            "eventDescriptionIt": "L'Unione Sovietica lancia un grande razzo, Lunik 2, sulla Luna. Lunik 2 è la prima nave spaziale a colpire la Luna. Si schianta sulla Luna il 14 settembre 1959."
           }
+          
     ]
 }
