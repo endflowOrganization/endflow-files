@@ -3547,6 +3547,17 @@
             "eventDescriptionDe": "General Motors, Oldsmobile Diesel Motor mit einem Dieselmotor in den Modellen Delta 88, Oldsmobile 98 und Oldsmobile Custom Cruiser einführt. Der Motor ist ein 350 Kubikzoll-V8-Motor mit 110 PS und 240 lb-ft Drehmoment.",
             "eventDescriptionEs": "General Motors introduce un motor diesel, con el motor diesel Oldsmobile, en los modelos Delta 88, Oldsmobile 98 y Oldsmobile Custom Cruiser, entre otros. El motor es un V8 de 350 pulgadas cúbicas que produce 110 caballos de fuerza y ​​240 lb-ft de torque.",
             "eventDescriptionIt": "La General Motors introduce un motore diesel, con il motore diesel Oldsmobile, nei modelli Delta 88, Oldsmobile 98 e Oldsmobile Custom Cruiser, tra gli altri. Il motore è un V8 da 350 pollici cubici che produce 110 cavalli e 240 lb-ft di coppia."
+        },{
+            "eventId": "337",
+            "eventCategory": "POLITICS",
+            "eventDate": "1933/09/13",
+            "eventImg": null,
+            "eventDescriptionEn": "Elizabeth McCombs becomes the first woman elected to the New Zealand Parliament. She was elected to the Lyttelton seat, which had been held by her husband James since 1913.",
+            "eventDescriptionTr": "Elizabeth McCombs ilk kadın seçildi Yeni Zelanda Parlamentosu. James'in 1913'ten beri elinde tuttuğu Lyttelton koltuğuna seçildi.",
+            "eventDescriptionDe": "Elizabeth McCombs wird die erste Frau, die in das neuseeländische Parlament gewählt wird. Sie wurde in den Sitz von Lyttelton gewählt, der von ihrem Ehemann James seit 1913 gehalten wurde.",
+            "eventDescriptionEs": "Elizabeth McCombs se convierte en la primera mujer elegida al Parlamento de Nueva Zelanda. Fue elegida para el escaño de Lyttelton, que había sido ocupado por su esposo James desde 1913.",
+            "eventDescriptionIt": "Elizabeth McCombs diventa la prima donna eletta al Parlamento neozelandese. È stata eletta al seggio di Lyttelton, che era stato occupato dal marito James dal 1913."
         }
+        
     ]
 }
