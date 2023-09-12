@@ -3622,6 +3622,17 @@
             "eventDescriptionDe": "ChatGPT, von OpenAI entwickeltes Chatbot mit großem Sprachmodell, wird veröffentlicht. ChatGPT kann menschliche Textqualität generieren, Sprachen übersetzen, verschiedene Arten von kreativem Inhalt schreiben und Ihre Fragen auf informative Weise beantworten.",
             "eventDescriptionEs": "ChatGPT, un chatbot con modelo de lenguaje grande desarrollado por OpenAI, se publica. ChatGPT puede generar texto de calidad humana, traducir idiomas, escribir diferentes tipos de contenido creativo y responder a sus preguntas de manera informativa.",
             "eventDescriptionIt": "ChatGPT, chatbot con modello di linguaggio di grandi dimensioni sviluppato da OpenAI, viene pubblicato. ChatGPT è in grado di generare testo di qualità umana, tradurre lingue, scrivere diversi tipi di contenuti creativi e rispondere alle tue domande in modo informativo."
+        },{
+            "eventId": "344",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1988/08/14",
+            "eventImg": null,
+            "eventDescriptionEn": "Enzo Ferrari, Italian racing driver and founder of the Ferrari automobile company, dies at the age of 90. Ferrari was a legendary figure in motorsport, and his company has won over 200 Formula One races.",
+            "eventDescriptionTr": "Enzo Ferrari, İtalyan yarış pilotu ve Ferrari otomobil şirketinin kurucusu 90 yaşında vefat etti. Ferrari, motor sporlarında efsanevi bir figür ve şirketi Formula 1'de 200'den fazla yarış kazandı.",
+            "eventDescriptionDe": "Enzo Ferrari, italienischer Rennfahrer und Gründer der Ferrari-Automobilfirma, stirbt im Alter von 90 Jahren. Ferrari war eine legendäre Figur im Motorsport und sein Unternehmen hat über 200 Formel-1-Rennen gewonnen.",
+            "eventDescriptionEs": "Enzo Ferrari, piloto de carreras italiano y fundador de la empresa automovilística Ferrari, muere a la edad de 90 años. Ferrari fue una figura legendaria en el automovilismo, y su empresa ha ganado más de 200 carreras de Fórmula 1.",
+            "eventDescriptionIt": "Enzo Ferrari, pilota automobilistico italiano e fondatore della casa automobilistica Ferrari, muore all'età di 90 anni. Ferrari è stata una figura leggendaria nel motorsport e la sua azienda ha vinto oltre 200 gare di Formula 1."
         }
+        
     ]
 }
