@@ -3642,7 +3642,18 @@
             "eventDescriptionDe": "Am 18. Juni 2023 wurde ein U-Boot namens Titan, das von OceanGate betrieben wurde, in internationalen Gewässern im Nordatlantik, etwa 400 Seemeilen (≌ 740 Kilometer) vor der Küste von Neufundland, Kanada, verloren. Titan hatte fünf Personen an Bord, die an einer Touristenexkursion zur Beobachtung des Titanic-Wracks teilnahmen. Die Kommunikation mit Titan wurde 1 Stunde und 45 Minuten nach dem Tauchgang zum Wrackort unterbrochen.",
             "eventDescriptionEs": "El 18 de junio de 2023, un submarino llamado Titan, operado por OceanGate, se perdió en aguas internacionales en el Océano Atlántico Norte, aproximadamente a 400 millas náuticas (≌ 740 kilómetros) de la costa de Terranova, Canadá. Titan transportaba a cinco personas que participaban en una excursión turística para observar el naufragio del Titanic. La comunicación con Titan se cortó 1 hora y 45 minutos después de su inmersión en el sitio del naufragio.",
             "eventDescriptionIt": "Il 18 giugno 2023, un sottomarino chiamato Titan, gestito da OceanGate, è stato perso in acque internazionali nell'Oceano Atlantico settentrionale, a circa 400 miglia nautiche (≌ 740 chilometri) al largo della costa di Terranova, Canada. Titan trasportava cinque persone che partecipavano a un'escursione turistica per osservare il relitto del Titanic. La comunicazione con Titan è stata interrotta 1 ora e 45 minuti dopo il suo tuffo sul sito del relitto."
+        },{
+            "eventId": "346",
+            "eventCategory": "HISTORY",
+            "eventDate": "1821/09/15",
+            "eventImg": null,
+            "eventDescriptionEn": "On September 15, 1821, Guatemala declares its independence from the Spanish Empire. The declaration is made by the Central American Congress, which is meeting in Guatemala City. The declaration is a major step in the Latin American wars of independence, which would eventually lead to the overthrow of Spanish rule in all of Central and South America.",
+            "eventDescriptionTr": "15 Eylül 1821'de Guatemala, İspanyol İmparatorluğu'ndan bağımsızlığını ilan etti. Bağımsızlık bildirisi, Guatemala Şehri'nde toplanan Orta Amerika Kongresi tarafından yapıldı. Bildiri, Latin Amerika bağımsızlık savaşlarında önemli bir adımdı ve sonunda İspanyol egemenliğinin Orta ve Güney Amerika'nın tamamında yıkılmasına yol açacaktı.",
+            "eventDescriptionDe": "Am 15. September 1821 erklärt Guatemala seine Unabhängigkeit vom Spanischen Imperium. Die Erklärung wird vom Zentralamerikanischen Kongress abgegeben, der in Guatemala-Stadt tagt. Die Erklärung ist ein wichtiger Schritt in den lateinamerikanischen Unabhängigkeitskriegen, die schließlich zum Sturz der spanischen Herrschaft in ganz Mittel- und Südamerika führen werden.",
+            "eventDescriptionEs": "El 15 de septiembre de 1821, Guatemala declara su independencia del Imperio Español. La declaración es hecha por el Congreso Centroamericano, que se reúne en la Ciudad de Guatemala. La declaración es un importante paso en las guerras de independencia latinoamericanas, que eventualmente conducirán al derrocamiento del dominio español en toda América Central y del Sur.",
+            "eventDescriptionIt": "Il 15 settembre 1821, il Guatemala dichiara la propria indipendenza dall'Impero Spagnolo. La dichiarazione è fatta dal Congresso Centroamericano, che si riunisce nella Città del Guatemala. La dichiarazione è un importante passo nelle guerre di indipendenza latinoamericane, che alla fine porteranno al rovesciamento del dominio spagnolo in tutta l'America Centrale e del Sud."
         }
+        
         
         
     ]
