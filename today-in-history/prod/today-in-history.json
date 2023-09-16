@@ -3662,7 +3662,18 @@
             "eventDescriptionDe": "Agatha Christie, englische Krimi-Autorin und Dramatikerin, wird in Torquay, Devon, England geboren. Christie ist die Autorin von über 70 Kriminalromanen, darunter die Hercule Poirot und Miss Marple Serien. Sie ist auch die Autorin mehrerer Theaterstücke, darunter The Mousetrap, das seit 1952 ununterbrochen in London aufgeführt wird.",
             "eventDescriptionEs": "Agatha Christie, escritora de novelas de misterio inglesa y dramaturga, nace en Torquay, Devon, Inglaterra. Christie es autora de más de 70 novelas de detectives, incluidas las series Hercule Poirot y Miss Marple. También es autora de varias obras de teatro, entre ellas The Mousetrap, que se ha representado continuamente en Londres desde 1952.",
             "eventDescriptionIt": "Agatha Christie, scrittrice di romanzi gialli e drammaturga inglese, nasce a Torquay, Devon, Inghilterra. Christie è l'autrice di oltre 70 romanzi gialli, tra cui le serie Hercule Poirot e Miss Marple. È anche l'autrice di diverse opere teatrali, tra cui The Mousetrap, che è stata in scena continuamente a Londra dal 1952."
+        },{
+            "eventId": "348",
+            "eventCategory": "TECH",
+            "eventDate": "1991/09/17",
+            "eventImg": null,
+            "eventDescriptionEn": "The first version of the Linux kernel (0.01) is released to the Internet by Linus Torvalds. The kernel is released under a free and open-source license, which allows anyone to use, modify, and redistribute it.",
+            "eventDescriptionTr": "Linux çekirdeğinin ilk sürümü (0.01), Linus Torvalds tarafından İnternet'e yayınlandı. Çekirdek, herkesin kullanmasına, değiştirmesine ve yeniden dağıtmasına izin veren özgür ve açık kaynaklı bir lisansla yayınlandı.",
+            "eventDescriptionDe": "Die erste Version des Linux-Kernels (0.01) wird von Linus Torvalds im Internet veröffentlicht. Der Kernel wird unter einer freien und Open-Source-Lizenz veröffentlicht, die es jedem erlaubt, ihn zu verwenden, zu ändern und weiterzugeben.",
+            "eventDescriptionEs": "La primera versión del kernel de Linux (0.01) es lanzada a Internet por Linus Torvalds. El kernel se lanza bajo una licencia libre y de código abierto, que permite a cualquier persona usarlo, modificarlo y redistribuirlo.",
+            "eventDescriptionIt": "La prima versione del kernel Linux (0.01) viene rilasciata su Internet da Linus Torvalds. Il kernel viene rilasciato con una licenza libera e open source, che consente a chiunque di utilizzarlo, modificarlo e ridistribuirlo."
         }
+        
         
         
         
