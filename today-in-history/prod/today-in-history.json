@@ -3410,7 +3410,7 @@
         },
         {
             "eventId": "324",
-            "eventCategory": "TECHN",
+            "eventCategory": "TECH",
             "eventDate": "1947/09/09",
             "eventImg": null,
             "eventDescriptionEn": "The first case of a computer bug being found occurs when a moth lodges in a relay of a Harvard Mark II computer at Harvard University. The moth is removed and the term 'bug' is first used to describe a problem in a computer program.",
@@ -3672,7 +3672,18 @@
             "eventDescriptionDe": "Die erste Version des Linux-Kernels (0.01) wird von Linus Torvalds im Internet veröffentlicht. Der Kernel wird unter einer freien und Open-Source-Lizenz veröffentlicht, die es jedem erlaubt, ihn zu verwenden, zu ändern und weiterzugeben.",
             "eventDescriptionEs": "La primera versión del kernel de Linux (0.01) es lanzada a Internet por Linus Torvalds. El kernel se lanza bajo una licencia libre y de código abierto, que permite a cualquier persona usarlo, modificarlo y redistribuirlo.",
             "eventDescriptionIt": "La prima versione del kernel Linux (0.01) viene rilasciata su Internet da Linus Torvalds. Il kernel viene rilasciato con una licenza libera e open source, che consente a chiunque di utilizzarlo, modificarlo e ridistribuirlo."
+        },{
+            "eventId": "349",
+            "eventCategory": "TECH",
+            "eventDate": "2013/09/17",
+            "eventImg": null,
+            "eventDescriptionEn": "Grand Theft Auto V (GTA V), an action-adventure video game developed by Rockstar North and published by Rockstar Games, is released for the PlayStation 3 and Xbox 360. GTA V is the fifteenth installment in the Grand Theft Auto series, and is set in the fictional state of San Andreas, which is based on Southern California. Players control three criminal protagonists who carry out heists and other missions.",
+            "eventDescriptionTr": "Rockstar North tarafından geliştirilen ve Rockstar Games tarafından yayınlanan bir aksiyon-macera video oyunu olan Grand Theft Auto V (GTA V), PlayStation 3 ve Xbox 360 için piyasaya sürüldü. GTA V, Grand Theft Auto serisinin on beşinci oyunu ve Güney Kaliforniya'ya dayanan kurgusal San Andreas eyaletinde geçiyor. Oyuncular, soygunlar ve diğer görevleri gerçekleştiren üç suçlu kahramanı kontrol ediyor.",
+            "eventDescriptionDe": "Grand Theft Auto V (GTA V), ein von Rockstar North entwickeltes und von Rockstar Games veröffentlichtes Action-Adventure-Videospiel, wird für PlayStation 3 und Xbox 360 veröffentlicht. GTA V ist der fünfzehnte Teil der Grand Theft Auto-Serie und spielt im fiktiven Bundesstaat San Andreas, der auf Südkalifornien basiert. Die Spieler steuern drei kriminelle Protagonisten, die Überfälle und andere Missionen durchführen.",
+            "eventDescriptionEs": "Grand Theft Auto V (GTA V), un videojuego de acción y aventura desarrollado por Rockstar North y publicado por Rockstar Games, se lanza para PlayStation 3 y Xbox 360. GTA V es la quinta entrega de la serie Grand Theft Auto y se desarrolla en el estado ficticio de San Andreas, que está basado en el sur de California. Los jugadores controlan a tres protagonistas criminales que llevan a cabo atracos y otras misiones.",
+            "eventDescriptionIt": "Grand Theft Auto V (GTA V), un videogioco d'azione e avventura sviluppato da Rockstar North e pubblicato da Rockstar Games, viene rilasciato per PlayStation 3 e Xbox 360. GTA V è il quindicesimo capitolo della serie Grand Theft Auto ed è ambientato nello stato fittizio di San Andreas, basato sulla California meridionale. I giocatori controllano tre protagonisti criminali che compiono rapine e altre missioni."
         }
+        
         
         
         
