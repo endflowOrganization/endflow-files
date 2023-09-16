@@ -3692,6 +3692,17 @@
             "eventDescriptionDe": "Die Verfassung der Vereinigten Staaten wird in Philadelphia von 39 Delegierten des Verfassungskonvents unterzeichnet. Die Verfassung legt die Grundstruktur der US-Regierung und die Rechte ihrer Bürger fest.",
             "eventDescriptionEs": "La Constitución de los Estados Unidos es firmada en Filadelfia por 39 delegados a la Convención Constitucional. La Constitución establece la estructura básica del gobierno estadounidense y los derechos de sus ciudadanos.",
             "eventDescriptionIt": "La Costituzione degli Stati Uniti viene firmata a Filadelfia da 39 delegati alla Convenzione costituzionale. La Costituzione stabilisce la struttura di base del governo statunitense e i diritti dei suoi cittadini."
+        },{
+            "eventId": "351",
+            "eventCategory": "HISTORY",
+            "eventDate": "1939/09/17",
+            "eventImg": null,
+            "eventDescriptionEn": "The Soviet Union invades Poland, marking the beginning of World War II in Europe. The invasion is a coordinated effort with Nazi Germany, which invaded Poland from the west two days earlier. The Soviet invasion quickly overwhelms the Polish military, and the country is partitioned between the two Axis powers.",
+            "eventDescriptionTr": "Sovyetler Birliği, Avrupa'da II. Dünya Savaşı'nın başlangıcını işaret eden Polonya'yı işgal etti. İşgal, Polonya'yı batıdan iki gün önce işgal eden Nazi Almanyası ile koordineli bir çabadır. Sovyet işgali Polonya ordusunu hızla çökertir ve ülke iki Mihver gücü arasında paylaştırılır.",
+            "eventDescriptionDe": "Die Sowjetunion fällt in Polen ein und markiert damit den Beginn des Zweiten Weltkriegs in Europa. Die Invasion ist eine koordinierte Aktion mit Nazi-Deutschland, das zwei Tage zuvor Polen von Westen her angegriffen hatte. Die sowjetische Invasion überwältigt das polnische Militär schnell, und das Land wird zwischen den beiden Achsenmächten aufgeteilt.",
+            "eventDescriptionEs": "La Unión Soviética invade Polonia, marcando el comienzo de la Segunda Guerra Mundial en Europa. La invasión es un esfuerzo coordinado con la Alemania nazi, que había invadido Polonia desde el oeste dos días antes. La invasión soviética abruma rápidamente al ejército polaco, y el país es dividido entre las dos potencias del Eje.",
+            "eventDescriptionIt": "L'Unione Sovietica invade la Polonia, segnando l'inizio della seconda guerra mondiale in Europa. L'invasione è uno sforzo coordinato con la Germania nazista, che aveva invaso la Polonia da ovest due giorni prima. L'invasione sovietica travolge rapidamente l'esercito polacco e il paese viene diviso tra le due potenze dell'Asse."
         }
+        
     ]
 }
