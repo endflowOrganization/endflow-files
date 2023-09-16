@@ -3702,7 +3702,18 @@
             "eventDescriptionDe": "Die Sowjetunion fällt in Polen ein und markiert damit den Beginn des Zweiten Weltkriegs in Europa. Die Invasion ist eine koordinierte Aktion mit Nazi-Deutschland, das zwei Tage zuvor Polen von Westen her angegriffen hatte. Die sowjetische Invasion überwältigt das polnische Militär schnell, und das Land wird zwischen den beiden Achsenmächten aufgeteilt.",
             "eventDescriptionEs": "La Unión Soviética invade Polonia, marcando el comienzo de la Segunda Guerra Mundial en Europa. La invasión es un esfuerzo coordinado con la Alemania nazi, que había invadido Polonia desde el oeste dos días antes. La invasión soviética abruma rápidamente al ejército polaco, y el país es dividido entre las dos potencias del Eje.",
             "eventDescriptionIt": "L'Unione Sovietica invade la Polonia, segnando l'inizio della seconda guerra mondiale in Europa. L'invasione è uno sforzo coordinato con la Germania nazista, che aveva invaso la Polonia da ovest due giorni prima. L'invasione sovietica travolge rapidamente l'esercito polacco e il paese viene diviso tra le due potenze dell'Asse."
+        },{
+            "eventId": "352",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1908/09/17",
+            "eventImg": null,
+            "eventDescriptionEn": "On September 17, 1908, Orville Wright and his passenger, Lieutenant Thomas E. Selfridge, crash in their Wright Flyer III airplane at Fort Myer, Virginia. Selfridge is killed, becoming the first person to die in an airplane crash. The crash is a setback for the Wright brothers, but it does not derail their efforts to develop and improve their flying machine.",
+            "eventDescriptionTr": "17 Eylül 1908'de Orville Wright ve yolcusu Teğmen Thomas E. Selfridge, Virginia'daki Fort Myer'da Wright Flyer III uçağında kaza yaptı. Selfridge hayatını kaybetti ve uçak kazasında hayatını kaybeden ilk kişi oldu. Kaza, Wright kardeşler için bir gerileme olsa da, uçan makinelerini geliştirme ve iyileştirme çabalarını engellemedi.",
+            "eventDescriptionDe": "Am 17. September 1908 stürzt der Wright Flyer III von Orville Wright und seinem Passagier, Leutnant Thomas E. Selfridge, in Fort Myer, Virginia, ab. Selfridge wird getötet und ist damit der erste Mensch, der bei einem Flugzeugabsturz ums Leben kommt. Der Absturz ist ein Rückschlag für die Wright-Brüder, aber er bringt ihre Bemühungen, ihre Flugmaschine zu entwickeln und zu verbessern, nicht zum Erliegen.",
+            "eventDescriptionEs": "El 17 de septiembre de 1908, Orville Wright y su pasajero, el teniente Thomas E. Selfridge, se estrellan con su avión Wright Flyer III en Fort Myer, Virginia. Selfridge muere, convirtiéndose en la primera persona en morir en un accidente de avión. El accidente es un revés para los hermanos Wright, pero no descarrila sus esfuerzos para desarrollar y mejorar su máquina voladora.",
+            "eventDescriptionIt": "Il 17 settembre 1908, Orville Wright e il suo passeggero, il tenente Thomas E. Selfridge, si schiantano con il loro aereo Wright Flyer III a Fort Myer, in Virginia. Selfridge muore, diventando la prima persona a morire in un incidente aereo. L'incidente è un colpo per i fratelli Wright, ma non interrompe i loro sforzi per sviluppare e migliorare la loro macchina volante."
         }
+        
         
     ]
 }
