@@ -3742,12 +3742,16 @@
             "eventDescriptionDe": "Schottland stimmt mit 55% zu 45% gegen die Unabhängigkeit vom Vereinigten Königreich. Das Referendum findet mit einer Wahlbeteiligung von 84,6% statt, der höchsten, die seit der Parlamentswahl im Januar 1910 für eine Wahl oder ein Referendum im Vereinigten Königreich verzeichnet wurde. Das Ergebnis ist ein schwerer Rückschlag für die Schottische Nationalpartei, die sich für die Unabhängigkeit eingesetzt hatte. Es ist auch eine Erleichterung für die britische Regierung, die vor den wirtschaftlichen und politischen Folgen eines Ja-Votums gewarnt hatte.",
             "eventDescriptionEs": "Escocia vota en contra de la independencia del Reino Unido por un 55% frente a un 45%. El referéndum se celebra con una participación del 84,6%, la más alta registrada para una elección o referéndum en el Reino Unido desde las elecciones generales de enero de 1910. El resultado es un gran revés para el Partido Nacional Escocés, que había hecho campaña por la independencia. También es un alivio para el gobierno del Reino Unido, que había advertido de las consecuencias económicas y políticas de un voto a favor.",
             "eventDescriptionIt": "La Scozia vota contro l'indipendenza dal Regno Unito per il 55% contro il 45%. Il referendum si tiene con un'affluenza alle urne dell'84,6%, la più alta registrata per un'elezione o un referendum nel Regno Unito dalle elezioni generali del gennaio 1910. Il risultato è una grande battuta d'arresto per il Partito Nazionale Scozzese, che aveva fatto campagna per l'indipendenza. È anche un sollievo per il governo del Regno Unito, che aveva avvertito delle conseguenze economiche e politiche di un voto a favore."
+          },{
+            "eventId": "356",
+            "eventCategory": "POLITICS",
+            "eventDate": "2016/07/15",
+            "eventImg": null,
+            "eventDescriptionEn": "On July 15, 2016, factions of the Turkish Armed Forces attempted a coup against the Turkish government. The coup attempt was unsuccessful, and the government regained control of the country by the following morning. The leaders of the coup attempt were arrested and charged with treason.",
+            "eventDescriptionTr": "15 Temmuz 2016'da Türk Silahlı Kuvvetleri'nin bir bölümü Türk hükümetine karşı darbe girişiminde bulundu. Darbe girişimi başarısız oldu ve hükümet ertesi sabah ülkenin kontrolünü yeniden ele geçirdi. Darbe girişiminin liderleri tutuklandı ve vatana ihanet suçlamasıyla yargılandı.",
+            "eventDescriptionDe": "Am 15. Juli 2016 versuchten Teile der türkischen Streitkräfte einen Putsch gegen die türkische Regierung. Der Putschversuch scheiterte und die Regierung erlangte bis zum nächsten Morgen die Kontrolle über das Land zurück. Die Führer des Putschversuchs wurden verhaftet und wegen Landesverrats angeklagt.",
+            "eventDescriptionEs": "El 15 de julio de 2016, facciones de las Fuerzas Armadas turcas intentaron un golpe contra el gobierno turco. El intento de golpe fracasó y el gobierno recuperó el control del país la mañana siguiente. Los líderes del intento de golpe fueron arrestados y acusados de traición.",
+            "eventDescriptionIt": "Il 15 luglio 2016, fazioni delle forze armate turche tentarono un colpo di stato contro il governo turco. Il tentativo di colpo di stato fallì e il governo riprese il controllo del paese la mattina seguente. I leader del tentativo di colpo di stato furono arrestati e accusati di tradimento."
           }
-          
-        
-        
-        
-        
-        
     ]
 }
