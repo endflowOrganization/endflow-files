@@ -3772,7 +3772,18 @@
             "eventDescriptionDe": "Die Internet Corporation for Assigned Names and Numbers (ICANN) ist eine gemeinnützige Organisation, die 1998 gegründet wurde, um das Domain Name System (DNS) zu überwachen. Das DNS ist das System, das Domain-Namen wie `google.com` in IP-Adressen umwandelt, die die numerischen Adressen sind, die Computer verwenden, um miteinander zu kommunizieren. Die ICANN ist für die Koordination des globalen DNS verantwortlich und stellt sicher, dass es stabil und sicher bleibt.",
             "eventDescriptionEs": "La Corporación de Internet para la Asignación de Nombres y Números (ICANN) es una organización sin fines de lucro que se fundó en 1998 para supervisar el Sistema de Nombres de Dominio (DNS). El DNS es el sistema que convierte los nombres de dominio, como `google.com`, en direcciones IP, que son las direcciones numéricas que utilizan los ordenadores para comunicarse entre sí. La ICANN se encarga de coordinar el DNS global y garantizar que siga siendo estable y seguro.",
             "eventDescriptionIt": "L'Internet Corporation for Assigned Names and Numbers (ICANN) è un'organizzazione non profit fondata nel 1998 per supervisionare il Domain Name System (DNS). Il DNS è il sistema che converte i nomi di dominio, come `google.com`, in indirizzi IP, che sono gli indirizzi numerici che i computer utilizzano per comunicare tra loro. L'ICANN è responsabile del coordinamento del DNS globale e di garantire che rimanga stabile e sicuro."
+          },{
+            "eventId": "359",
+            "eventCategory": "FINANCE",
+            "eventDate": "1792/05/17",
+            "eventImg": null,
+            "eventDescriptionEn": "The New York Stock Exchange (NYSE) is founded under the Buttonwood Agreement. The NYSE is the largest stock exchange in the world by market capitalization of its listed shares and is one of the most prestigious stock exchanges in the world.",
+            "eventDescriptionTr": "New York Borsası (NYSE), Buttonwood Anlaşması kapsamında kurulmuştur. NYSE, listelenen hisselerinin piyasa değeri bakımından dünyanın en büyük borsasıdır ve dünyanın en prestijli borsalarından biridir.",
+            "eventDescriptionDe": "Die New York Stock Exchange (NYSE) wird im Rahmen des Buttonwood-Abkommens gegründet. Die NYSE ist die größte Börse der Welt nach Marktkapitalisierung ihrer notierten Aktien und eine der renommiertesten Börsen der Welt.",
+            "eventDescriptionEs": "La Bolsa de Valores de Nueva York (NYSE) se funda bajo el Acuerdo de Buttonwood. La NYSE es la bolsa de valores más grande del mundo por capitalización de mercado de sus acciones cotizadas y una de las bolsas de valores más prestigiosas del mundo.",
+            "eventDescriptionIt": "La Borsa di New York (NYSE) viene fondata nell'ambito dell'accordo di Buttonwood. La NYSE è la più grande borsa valori del mondo per capitalizzazione di mercato delle sue azioni quotate ed è una delle borse valori più prestigiose del mondo."
           }
+          
           
           
     ]
