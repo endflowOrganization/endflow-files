@@ -3782,7 +3782,18 @@
             "eventDescriptionDe": "Die New York Stock Exchange (NYSE) wird im Rahmen des Buttonwood-Abkommens gegründet. Die NYSE ist die größte Börse der Welt nach Marktkapitalisierung ihrer notierten Aktien und eine der renommiertesten Börsen der Welt.",
             "eventDescriptionEs": "La Bolsa de Valores de Nueva York (NYSE) se funda bajo el Acuerdo de Buttonwood. La NYSE es la bolsa de valores más grande del mundo por capitalización de mercado de sus acciones cotizadas y una de las bolsas de valores más prestigiosas del mundo.",
             "eventDescriptionIt": "La Borsa di New York (NYSE) viene fondata nell'ambito dell'accordo di Buttonwood. La NYSE è la più grande borsa valori del mondo per capitalizzazione di mercato delle sue azioni quotate ed è una delle borse valori più prestigiose del mondo."
+          },{
+            "eventId": "360",
+            "eventCategory": "POLITICS",
+            "eventDate": "1978/09/19",
+            "eventImg": null,
+            "eventDescriptionEn": "The Solomon Islands join the United Nations on September 19, 1978. The Solomon Islands is an island country located in the southwestern Pacific Ocean. It is a member of the Melanesian Spearhead Group and the Commonwealth of Nations.",
+            "eventDescriptionTr": "Solomon Adaları, 19 Eylül 1978'de Birleşmiş Milletler'e katıldı. Solomon Adaları, güneybatı Pasifik Okyanusu'nda bulunan bir ada ülkesidir. Melanezya Mızrak Grubu ve Milletler Topluluğu üyesidir.",
+            "eventDescriptionDe": "Die Salomonen treten am 19. September 1978 den Vereinten Nationen bei. Die Salomonen sind ein Inselstaat im Südwestpazifik. Sie sind Mitglied der Melanesian Spearhead Group und des Commonwealth of Nations.",
+            "eventDescriptionEs": "Las Islas Salomón se unen a las Naciones Unidas el 19 de septiembre de 1978. Las Islas Salomón son un país insular ubicado en el suroeste del Océano Pacífico. Es miembro del Grupo Melanesio de Punta de Lanza y de la Commonwealth of Nations.",
+            "eventDescriptionIt": "Le Isole Salomone entrano a far parte delle Nazioni Unite il 19 settembre 1978. Le Isole Salomone sono un paese insulare situato nel sud-ovest dell'Oceano Pacifico. È membro del Melanesian Spearhead Group e del Commonwealth of Nations."
           }
+          
           
           
           
