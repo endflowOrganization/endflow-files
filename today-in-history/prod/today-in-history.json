@@ -3752,6 +3752,17 @@
             "eventDescriptionDe": "Am 15. Juli 2016 versuchten Teile der türkischen Streitkräfte einen Putsch gegen die türkische Regierung. Der Putschversuch scheiterte und die Regierung erlangte bis zum nächsten Morgen die Kontrolle über das Land zurück. Die Führer des Putschversuchs wurden verhaftet und wegen Landesverrats angeklagt.",
             "eventDescriptionEs": "El 15 de julio de 2016, facciones de las Fuerzas Armadas turcas intentaron un golpe contra el gobierno turco. El intento de golpe fracasó y el gobierno recuperó el control del país la mañana siguiente. Los líderes del intento de golpe fueron arrestados y acusados de traición.",
             "eventDescriptionIt": "Il 15 luglio 2016, fazioni delle forze armate turche tentarono un colpo di stato contro il governo turco. Il tentativo di colpo di stato fallì e il governo riprese il controllo del paese la mattina seguente. I leader del tentativo di colpo di stato furono arrestati e accusati di tradimento."
+          },{
+            "eventId": "357",
+            "eventCategory": "HISTORY",
+            "eventDate": "1851/09/18",
+            "eventImg": null,
+            "eventDescriptionEn": "On September 18, 1851, The New-York Daily Times published its first issue. The newspaper was founded by Henry Jarvis Raymond and George Jones, and it quickly became one of the most influential newspapers in the United States. The Times is known for its high-quality journalism and its commitment to reporting the truth. It has won numerous awards for its reporting, including 132 Pulitzer Prizes.",
+            "eventDescriptionTr": "18 Eylül 1851'de The New-York Daily Times ilk sayısını yayınladı. Gazete Henry Jarvis Raymond ve George Jones tarafından kuruldu ve hızla Amerika Birleşik Devletleri'ndeki en etkili gazetelerden biri haline geldi. Times, yüksek kaliteli gazeteciliği ve gerçeği bildirmeye olan bağlılığıyla bilinir. Gazeteciliği nedeniyle çok sayıda ödül kazandı, bunlardan 132'si Pulitzer Ödülü'dür.",
+            "eventDescriptionDe": "Am 18. September 1851 veröffentlichte The New-York Daily Times ihre erste Ausgabe. Die Zeitung wurde von Henry Jarvis Raymond und George Jones gegründet und entwickelte sich schnell zu einer der einflussreichsten Zeitungen in den Vereinigten Staaten. Die Times ist bekannt für ihren hochwertigen Journalismus und ihr Engagement für die Berichterstattung über die Wahrheit. Sie hat zahlreiche Auszeichnungen für ihre Berichterstattung erhalten, darunter 132 Pulitzer-Preise.",
+            "eventDescriptionEs": "El 18 de septiembre de 1851, The New-York Daily Times publicó su primer número. El periódico fue fundado por Henry Jarvis Raymond y George Jones, y rápidamente se convirtió en uno de los periódicos más influyentes de Estados Unidos. El Times es conocido por su periodismo de alta calidad y su compromiso con la información veraz. Ha ganado numerosos premios por su cobertura, incluidos 132 premios Pulitzer.",
+            "eventDescriptionIt": "Il 18 settembre 1851, The New-York Daily Times pubblicò il suo primo numero. Il giornale fu fondato da Henry Jarvis Raymond e George Jones, e divenne rapidamente uno dei giornali più influenti degli Stati Uniti. Il Times è noto per il suo giornalismo di alta qualità e per il suo impegno a raccontare la verità. Ha vinto numerosi premi per la sua copertura, tra cui 132 premi Pulitzer."
           }
+          
     ]
 }
