@@ -3722,7 +3722,18 @@
             "eventDescriptionDe": "Das Königreich Ungarn wird in den Völkerbund aufgenommen. Der Völkerbund ist eine zwischenstaatliche Organisation, die als Ergebnis der Pariser Friedenskonferenzen gegründet wurde, die den Ersten Weltkrieg beendeten. Die Ziele des Völkerbundes waren die Verhinderung zukünftiger Kriege, die Förderung der internationalen Zusammenarbeit und die Verbesserung der Lebensbedingungen weltweit. Ungarn war eines der Gründungsmitglieder des Völkerbundes, trat jedoch 1939 kurz vor Ausbruch des Zweiten Weltkriegs aus.",
             "eventDescriptionEs": "El Reino de Hungría es admitido en la Sociedad de Naciones. La Sociedad de Naciones es una organización intergubernamental fundada como resultado de las Conferencias de Paz de París que pusieron fin a la Primera Guerra Mundial. Los objetivos de la Sociedad eran prevenir futuras guerras, promover la cooperación internacional y mejorar las condiciones de vida mundiales. Hungría fue uno de los miembros fundadores de la Sociedad, pero se retiró en 1939, poco antes del estallido de la Segunda Guerra Mundial.",
             "eventDescriptionIt": "Il Regno d'Ungheria viene ammesso nella Società delle Nazioni. La Società delle Nazioni è un'organizzazione intergovernativa fondata come risultato delle Conferenze di Pace di Parigi che posero fine alla prima guerra mondiale. Gli obiettivi della Società erano prevenire future guerre, promuovere la cooperazione internazionale e migliorare le condizioni di vita mondiali. L'Ungheria fu uno dei membri fondatori della Società, ma se ne ritirò nel 1939, poco prima dello scoppio della seconda guerra mondiale."
+        },{
+            "eventId": "354",
+            "eventCategory": "HISTORY",
+            "eventDate": "1180/09/18",
+            "eventImg": null,
+            "eventDescriptionEn": "Philip Augustus becomes king of France at the age of fifteen. He succeeds his father, Louis VII. Philip's reign is marked by a series of successful military campaigns that expand the territory of France. He is also a skilled administrator and reformer, and he is credited with laying the foundation for the modern French monarchy.",
+            "eventDescriptionTr": "Philip Augustus, on beş yaşında Fransa kralı olur. Babası Louis VII'nin yerine geçer. Philip'in saltanatı, Fransa topraklarını genişleten bir dizi başarılı askeri seferle damgalanmıştır. Ayrıca yetenekli bir yönetici ve reformcudur ve modern Fransız monarşisinin temellerini atmasıyla itibar kazanmıştır.",
+            "eventDescriptionDe": "Philipp II. August wird im Alter von fünfzehn Jahren König von Frankreich. Er folgt seinem Vater Ludwig VII. nach. Philipps Regierungszeit ist geprägt von einer Reihe erfolgreicher Feldzüge, die das französische Territorium erweitern. Er ist auch ein geschickter Administrator und Reformer, und ihm wird zugeschrieben, den Grundstein für die moderne französische Monarchie gelegt zu haben.",
+            "eventDescriptionEs": "Felipe Augusto se convierte en rey de Francia a la edad de quince años. Sucede a su padre, Luis VII. El reinado de Felipe está marcado por una serie de exitosas campañas militares que expanden el territorio de Francia. También es un hábil administrador y reformador, y se le atribuye haber sentado las bases de la monarquía francesa moderna.",
+            "eventDescriptionIt": "Filippo Augusto diventa re di Francia all'età di quindici anni. Succede a suo padre, Luigi VII. Il regno di Filippo è segnato da una serie di campagne militari di successo che ampliano il territorio della Francia. È anche un abile amministratore e riformatore, e gli viene attribuito il merito di aver gettato le basi della monarchia francese moderna."
         }
+        
         
         
         
