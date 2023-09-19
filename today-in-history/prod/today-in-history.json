@@ -3835,7 +3835,18 @@
             "eventDescriptionDe": "Am 21. September 1893 testeten Charles Duryea und sein Bruder Frank das erste in Amerika gebaute benzinbetriebene Automobil in Springfield, Massachusetts. Das Automobil der Duryea-Brüder war ein umgebauter Pferdewagen mit einem Einzylinder-Benzinmotor. Die Testfahrt war ein Erfolg und die Duryea-Brüder gründeten die Duryea Motor Wagon Company, das erste amerikanische Automobilunternehmen.",
             "eventDescriptionEs": "El 21 de septiembre de 1893, Charles Duryea y su hermano Frank probaron el primer automóvil estadounidense propulsado por gasolina en Springfield, Massachusetts. El automóvil de los hermanos Duryea era un buggy de caballos convertido con un motor de gasolina de un solo cilindro. La prueba de conducción fue un éxito y los hermanos Duryea fundaron la Duryea Motor Wagon Company, la primera compañía de automóviles estadounidense.",
             "eventDescriptionIt": "Il 21 settembre 1893, Charles Duryea e suo fratello Frank provarono la prima automobile americana alimentata a benzina a Springfield, Massachusetts. L'automobile dei fratelli Duryea era un calesse a cavalli convertito con un motore a benzina a un cilindro. Il test drive fu un successo e i fratelli Duryea fondarono la Duryea Motor Wagon Company, la prima azienda automobilistica americana."
+          },{
+            "eventId": "363",
+            "eventCategory": "POLITICS",
+            "eventDate": "1964/09/21",
+            "eventImg": null,
+            "eventDescriptionEn": "Malta gains its independence from the United Kingdom on September 21, 1964. Malta is an island country in the Mediterranean Sea. It is a member of the European Union and the Commonwealth of Nations.",
+            "eventDescriptionTr": "Malta, 21 Eylül 1964'te Birleşik Krallık'tan bağımsızlığını kazandı. Malta, Akdeniz'de bir ada ülkesidir. Avrupa Birliği ve Milletler Topluluğu üyesidir.",
+            "eventDescriptionDe": "Malta erlangt am 21. September 1964 seine Unabhängigkeit vom Vereinigten Königreich. Malta ist ein Inselstaat im Mittelmeer. Es ist Mitglied der Europäischen Union und des Commonwealth of Nations.",
+            "eventDescriptionEs": "Malta obtiene su independencia del Reino Unido el 21 de septiembre de 1964. Malta es un país insular en el mar Mediterráneo. Es miembro de la Unión Europea y de la Commonwealth of Nations.",
+            "eventDescriptionIt": "Malta ottiene l'indipendenza dal Regno Unito il 21 settembre 1964. Malta è un paese insulare nel Mar Mediterraneo. È membro dell'Unione Europea e del Commonwealth of Nations."
           }
+          
           
     ]
 }
