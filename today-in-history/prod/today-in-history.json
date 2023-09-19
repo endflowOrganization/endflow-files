@@ -3825,6 +3825,17 @@
             "eventDescriptionDe": "Vietnam wird am 20. September 1977 in die Vereinten Nationen aufgenommen. Vietnam ist ein Land in Südostasien. Es wird im Norden von China, im Nordwesten von Laos, im Südwesten von Kambodscha und im Südwesten von Thailand begrenzt. Die Hauptstadt von Vietnam ist Hanoi.",
             "eventDescriptionEs": "Vietnam es admitido en las Naciones Unidas el 20 de septiembre de 1977. Vietnam es un país del sudeste asiático. Limita con China al norte, con Laos al noroeste, con Camboya al suroeste y con Tailandia al suroeste. La capital de Vietnam es Hanoi.",
             "eventDescriptionIt": "Il Vietnam è ammesso alle Nazioni Unite il 20 settembre 1977. Il Vietnam è un paese del Sudest asiatico. Confina con la Cina a nord, con il Laos a nord-ovest, con la Cambogia a sud-ovest e con la Thailandia a sud-ovest. La capitale del Vietnam è Hanoi."
-        }
+        },{
+            "eventId": "362",
+            "eventCategory": "TECH",
+            "eventDate": "1893/09/21",
+            "eventImg": null,
+            "eventDescriptionEn": "On September 21, 1893, Charles Duryea and his brother Frank road-tested the first American-made gasoline-powered automobile in Springfield, Massachusetts. The Duryea brothers' automobile was a converted horse buggy with a single-cylinder gasoline engine. The test drive was a success, and the Duryea brothers went on to found the Duryea Motor Wagon Company, the first American automobile company.",
+            "eventDescriptionTr": "21 Eylül 1893'te Charles Duryea ve kardeşi Frank, Springfield, Massachusetts'te ilk Amerikan yapımı benzinli otomobili test etti. Duryea kardeşlerin otomobili, tek silindirli benzinli motora sahip dönüştürülmüş bir at arabasıydı. Test sürüşü başarılı oldu ve Duryea kardeşler, ilk Amerikan otomobil şirketi olan Duryea Motor Wagon Company'yi kurdu.",
+            "eventDescriptionDe": "Am 21. September 1893 testeten Charles Duryea und sein Bruder Frank das erste in Amerika gebaute benzinbetriebene Automobil in Springfield, Massachusetts. Das Automobil der Duryea-Brüder war ein umgebauter Pferdewagen mit einem Einzylinder-Benzinmotor. Die Testfahrt war ein Erfolg und die Duryea-Brüder gründeten die Duryea Motor Wagon Company, das erste amerikanische Automobilunternehmen.",
+            "eventDescriptionEs": "El 21 de septiembre de 1893, Charles Duryea y su hermano Frank probaron el primer automóvil estadounidense propulsado por gasolina en Springfield, Massachusetts. El automóvil de los hermanos Duryea era un buggy de caballos convertido con un motor de gasolina de un solo cilindro. La prueba de conducción fue un éxito y los hermanos Duryea fundaron la Duryea Motor Wagon Company, la primera compañía de automóviles estadounidense.",
+            "eventDescriptionIt": "Il 21 settembre 1893, Charles Duryea e suo fratello Frank provarono la prima automobile americana alimentata a benzina a Springfield, Massachusetts. L'automobile dei fratelli Duryea era un calesse a cavalli convertito con un motore a benzina a un cilindro. Il test drive fu un successo e i fratelli Duryea fondarono la Duryea Motor Wagon Company, la prima azienda automobilistica americana."
+          }
+          
     ]
 }
