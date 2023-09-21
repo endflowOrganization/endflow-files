@@ -619,7 +619,7 @@
             "eventDescriptionTr": "İlk bilgisayarlı tomografi (BT) tarayıcı kullanılarak bir insan kafasının üç boyutlu rekonstrüksiyonu yayınlandı ve tıbbi görüntüleme ve tanı uygulamalarında devrim oluşturdu."
         },
         {
-            "eventId": "79",
+            "eventId": "370",
             "eventCategory": "SCIENCE",
             "eventDate": "1969/07/20",
             "eventImg": null,
@@ -3905,7 +3905,18 @@
             "eventDescriptionDe": "Nordvietnam wurde am 20. September 1957 in die Vereinten Nationen aufgenommen.",
             "eventDescriptionEs": "Vietnam del Norte fue admitido en las Naciones Unidas el 20 de septiembre de 1957.",
             "eventDescriptionIt": "Il Vietnam del Nord è stato ammesso alle Nazioni Unite il 20 settembre 1957."
+          },{
+            "eventId": "371",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2006/09/22",
+            "eventImg": null,
+            "eventDescriptionEn": "Twenty-three people were killed in a maglev train collision in Lathen, Germany on September 22, 2006. The accident occurred when a maintenance vehicle was struck by a test train traveling at high speed. The cause of the accident is still being investigated, but it is believed that human error may have been a factor.",
+            "eventDescriptionTr": "22 Eylül 2006'da Almanya'nın Lathen kentinde meydana gelen bir maglev tren çarpışmasında 23 kişi öldü. Kaza, bir test treniyle yüksek hızda seyahat eden bir bakım aracının çarpışmasıyla meydana geldi. Kazanın nedeni hala araştırılıyor, ancak insan hatasının bir faktör olabileceği düşünülüyor.",
+            "eventDescriptionDe": "Am 22. September 2006 kamen bei einem Magnetschwebebahn-Unglück in Lathen, Deutschland, 23 Menschen ums Leben. Der Unfall ereignete sich, als ein Wartungsfahrzeug von einem mit hoher Geschwindigkeit fahrenden Testzug erfasst wurde. Die Ursache des Unfalls wird noch untersucht, aber es wird vermutet, dass menschliches Versagen ein Faktor gewesen sein könnte.",
+            "eventDescriptionIt": "Il 22 settembre 2006, 23 persone sono morte in una collisione tra treni a levitazione magnetica a Lathen, in Germania. L'incidente è avvenuto quando un veicolo di manutenzione è stato colpito da un treno di prova che viaggiava ad alta velocità. La causa dell'incidente è ancora in corso di indagine, ma si ritiene che un errore umano possa essere stato un fattore.",
+            "eventDescriptionEs": "Veintitrés personas murieron en una colisión de trenes maglev en Lathen, Alemania, el 22 de septiembre de 2006. El accidente ocurrió cuando un vehículo de mantenimiento fue golpeado por un tren de prueba que viajaba a alta velocidad. La causa del accidente aún se está investigando, pero se cree que el error humano pudo haber sido un factor."
           }
+          
           
           
           
