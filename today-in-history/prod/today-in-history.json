@@ -3925,16 +3925,16 @@
             "eventDescriptionDe": "Die Schriftrollen vom Toten Meer wurden am 21. September 1991 erstmals der Öffentlichkeit zugänglich gemacht. Die Schriftrollen sind eine Sammlung alter hebräischer, aramäischer und griechischer Handschriften, die in den 1940er und 1950er Jahren in Höhlen in der Nähe des Toten Meeres entdeckt wurden. Die Schriftrollen stammen aus dem 3. Jahrhundert v. Chr. bis zum 1. Jahrhundert n. Chr. und enthalten eine breite Palette religiöser und historischer Texte, darunter die frühesten bekannten Kopien der hebräischen Bibel. Die Veröffentlichung der Schriftrollen vom Toten Meer war ein bedeutendes Ereignis in der Bibelwissenschaft und Religionswissenschaft und hat einen tiefgreifenden Einfluss auf unser Verständnis des Judentums und des frühen Christentums gehabt.",
             "eventDescriptionIt": "I Rotoli del Mar Morto furono resi disponibili al pubblico per la prima volta il 21 settembre 1991. I rotoli sono una raccolta di antichi manoscritti ebraici, aramaici e greci scoperti in grotte vicino al Mar Morto negli anni '40 e '50. I rotoli risalgono al III secolo a.C. al I secolo d.C. e contengono una vasta gamma di testi religiosi e storici, comprese le prime copie conosciute della Bibbia ebraica. La pubblicazione dei Rotoli del Mar Morto fu un evento importante per la biblistica e gli studi religiosi e ha avuto un impatto profondo sulla nostra comprensione del giudaismo e del cristianesimo primitivo.",
             "eventDescriptionEs": "Los Rollos del Mar Muerto fueron puestos a disposición del público por primera vez el 21 de septiembre de 1991. Los rollos son una colección de antiguos manuscritos hebreos, arameos y griegos que fueron descubiertos en cuevas cerca del Mar Muerto en las décadas de 1940 y 1950. Los rollos datan del siglo III a. C. al siglo I d. C. y contienen una amplia gama de textos religiosos e históricos, incluidas las copias más antiguas conocidas de la Biblia hebrea. La publicación de los Rollos del Mar Muerto fue un evento importante en la erudición bíblica y los estudios religiosos, y ha tenido un impacto profundo en nuestra comprensión del judaísmo y el cristianismo primitivo."
-          }
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
+          },{
+            "eventId": "373",
+            "eventCategory": "HISTORY",
+            "eventDate": "1966/09/22",
+            "eventImg": null,
+            "eventDescriptionEn": "Ansett-ANA Flight 149 crashed on September 22, 1966, near Winton, Queensland, Australia, killing all 24 people on board. The crash was caused by an in-flight fire that led to wing failure.",
+            "eventDescriptionTr": "Ansett-ANA Flight 149, 22 Eylül 1966'da Avustralya, Queensland, Winton yakınlarında düştü ve 24 kişi öldü. Kaza, kanat arızasına yol açan uçuş sırasında çıkan bir yangın nedeniyle meydana geldi.",
+            "eventDescriptionDe": "Ansett-ANA Flight 149 stürzte am 22. September 1966 in der Nähe von Winton, Queensland, Australien, ab und tötete alle 24 Menschen an Bord. Der Absturz wurde durch einen Brand während des Fluges verursacht, der zu einem Versagen der Tragflächen führte.",
+            "eventDescriptionIt": "Ansett-ANA Flight 149 si è schiantato il 22 settembre 1966 vicino a Winton, Queensland, Australia, uccidendo tutte le 24 persone a bordo. L'incidente è stato causato da un incendio a bordo che ha portato a un cedimento dell'ala.",
+            "eventDescriptionEs": "El vuelo 149 de Ansett-ANA se estrelló el 22 de septiembre de 1966 cerca de Winton, Queensland, Australia, matando a las 24 personas a bordo. El accidente fue causado por un incendio durante el vuelo que provocó el fallo de un ala."
+          }   
     ]
 }
