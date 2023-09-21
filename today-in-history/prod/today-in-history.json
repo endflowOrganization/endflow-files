@@ -3935,6 +3935,17 @@
             "eventDescriptionDe": "Ansett-ANA Flight 149 stürzte am 22. September 1966 in der Nähe von Winton, Queensland, Australien, ab und tötete alle 24 Menschen an Bord. Der Absturz wurde durch einen Brand während des Fluges verursacht, der zu einem Versagen der Tragflächen führte.",
             "eventDescriptionIt": "Ansett-ANA Flight 149 si è schiantato il 22 settembre 1966 vicino a Winton, Queensland, Australia, uccidendo tutte le 24 persone a bordo. L'incidente è stato causato da un incendio a bordo che ha portato a un cedimento dell'ala.",
             "eventDescriptionEs": "El vuelo 149 de Ansett-ANA se estrelló el 22 de septiembre de 1966 cerca de Winton, Queensland, Australia, matando a las 24 personas a bordo. El accidente fue causado por un incendio durante el vuelo que provocó el fallo de un ala."
-          }   
+          },{
+            "eventId": "374",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2019/09/21",
+            "eventImg": null,
+            "eventDescriptionEn": "A 5.6 Mw earthquake shook the Albanian port of Durrës on September 21, 2019. The earthquake was the most powerful in Albania in 30 years and caused significant damage to buildings and infrastructure in Durrës and Tirana.",
+            "eventDescriptionTr": "5.6 Mw büyüklüğünde bir deprem 21 Eylül 2019'da Arnavutluk'un Durrës limanını salladı. Deprem, Arnavutluk'ta 30 yılın en büyüğüydü ve Durrës ve Tiran'da binalarda ve altyapıda önemli hasara neden oldu.",
+            "eventDescriptionDe": "Ein Erdbeben der Stärke 5,6 Mw erschütterte am 21. September 2019 den albanischen Hafen Durrës und verursachte erhebliche Schäden an Gebäuden und Infrastruktur in Durrës und Tirana.",
+            "eventDescriptionIt": "Un terremoto di magnitudo 5,6 Mw ha scosso il porto albanese di Durazzo il 21 settembre 2019, causando danni significativi a edifici e infrastrutture a Durazzo e Tirana.",
+            "eventDescriptionEs": "Un terremoto de magnitud 5,6 Mw sacudió el puerto albanés de Durrës el 21 de septiembre de 2019, causando daños significativos a edificios e infraestructura en Durrës y Tirana."
+          }
+          
     ]
 }
