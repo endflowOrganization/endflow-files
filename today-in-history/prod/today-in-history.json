@@ -4034,6 +4034,17 @@
             "eventDescriptionDe": "Alexei Leonov, der erste Mensch, der einen Weltraumspaziergang durchführte, ist verstorben.",
             "eventDescriptionIt": "Alexei Leonov, il primo essere umano a compiere una passeggiata nello spazio, è deceduto.",
             "eventDescriptionEs": "Alexei Leonov, el primer humano en realizar una caminata espacial, falleció."
+        },
+        {
+            "eventId": "382",
+            "eventCategory": "HISTORY",
+            "eventDate": "1910/10/11",
+            "eventImg": null,
+            "eventDescriptionEn": "Piloted by Arch Hoxsey, Theodore Roosevelt becomes the first U.S. president to fly in an airplane.",
+            "eventDescriptionTr": "Arch Hoxsey tarafından pilotluk edilen bir uçakta, Theodore Roosevelt uçan ilk ABD başkanı olmuştur.",
+            "eventDescriptionDe": "Unter der Führung von Arch Hoxsey wurde Theodore Roosevelt der erste US-Präsident, der in einem Flugzeug flog.",
+            "eventDescriptionIt": "Guidato da Arch Hoxsey, Theodore Roosevelt diventa il primo presidente degli Stati Uniti a volare in un aereo.",
+            "eventDescriptionEs": "Pilotado por Arch Hoxsey, Theodore Roosevelt se convierte en el primer presidente de EE.UU. en volar en un avión."
         }
     ]
 }
