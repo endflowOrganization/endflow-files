@@ -4045,6 +4045,17 @@
             "eventDescriptionDe": "Unter der Führung von Arch Hoxsey wurde Theodore Roosevelt der erste US-Präsident, der in einem Flugzeug flog.",
             "eventDescriptionIt": "Guidato da Arch Hoxsey, Theodore Roosevelt diventa il primo presidente degli Stati Uniti a volare in un aereo.",
             "eventDescriptionEs": "Pilotado por Arch Hoxsey, Theodore Roosevelt se convierte en el primer presidente de EE.UU. en volar en un avión."
+        },
+        {
+            "eventId": "383",
+            "eventCategory": "HISTORY",
+            "eventDate": "1923/10/29",
+            "eventImg": null,
+            "eventDescriptionEn": "The Republic of Turkey was founded following the dissolution of the Ottoman Empire.",
+            "eventDescriptionTr": "Osmanlı İmparatorluğu'nun dağılmasının ardından Türkiye Cumhuriyeti kuruldu.",
+            "eventDescriptionDe": "Nach der Auflösung des Osmanischen Reiches wurde die Republik Türkei gegründet.",
+            "eventDescriptionIt": "La Repubblica di Turchia fu fondata in seguito alla dissoluzione dell'Impero Ottomano.",
+            "eventDescriptionEs": "La República de Turquía fue fundada tras la disolución del Imperio Otomano."
         }
     ]
 }
