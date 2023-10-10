@@ -4056,6 +4056,17 @@
             "eventDescriptionDe": "Nach der Auflösung des Osmanischen Reiches wurde die Republik Türkei gegründet.",
             "eventDescriptionIt": "La Repubblica di Turchia fu fondata in seguito alla dissoluzione dell'Impero Ottomano.",
             "eventDescriptionEs": "La República de Turquía fue fundada tras la disolución del Imperio Otomano."
+        },
+        {
+            "eventId": "384",
+            "eventCategory": "TECH",
+            "eventDate": "1969/10/29",
+            "eventImg": null,
+            "eventDescriptionEn": "The first-ever computer-to-computer link is established on ARPANET, the precursor to the Internet.",
+            "eventDescriptionTr": "İnternet'in öncüsü olan ARPANET üzerinde ilk bilgisayar-bilgisayar bağlantısı kurulmuştur.",
+            "eventDescriptionDe": "Der erste Computer-zu-Computer-Link wird auf ARPANET, dem Vorläufer des Internets, hergestellt.",
+            "eventDescriptionIt": "Viene stabilito il primo collegamento computer-computer su ARPANET, il precursore di Internet.",
+            "eventDescriptionEs": "Se establece el primer enlace de computadora a computadora en ARPANET, el precursor de Internet."
         }
     ]
 }
