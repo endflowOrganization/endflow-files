@@ -4001,6 +4001,17 @@
             "eventDescriptionDe": "Fidschi erlangte am 10. Oktober 1970 seine Unabhängigkeit vom Vereinigten Königreich. Das Land war seit 1874 eine britische Kolonie. Die Unabhängigkeit Fidschis war ein wichtiger Meilenstein in der Geschichte des Landes und markierte den Beginn einer neuen Ära der Selbstbestimmung.",
             "eventDescriptionIt": "Le Fiji hanno ottenuto l'indipendenza dal Regno Unito il 10 ottobre 1970. Il Paese era una colonia britannica dal 1874. L'indipendenza delle Fiji è stata una pietra miliare importante nella storia del Paese e ha segnato l'inizio di una nuova era di autodeterminazione.",
             "eventDescriptionEs": "Fiji obtuvo su independencia del Reino Unido el 10 de octubre de 1970. El país había sido una colonia británica desde 1874. La independencia de Fiji fue un hito importante en la historia del país y marcó el comienzo de una nueva era de autodeterminación."
+        },
+        {
+            "eventId": "379",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2018/10/10",
+            "eventImg": null,
+            "eventDescriptionEn": "Hurricane Michael made landfall in Florida as a Category 5 hurricane in 2018, causing widespread damage.",
+            "eventDescriptionTr": "Michael kasırgası, 2018 yılında Florida'ya beşinci kategori kasırga olarak çıktı ve yaygın hasara neden oldu.",
+            "eventDescriptionDe": "Hurrikan Michael traf 2018 als Hurrikan der Kategorie 5 im Florida Panhandle auf Land und verursachte weitreichende Schäden.",
+            "eventDescriptionIt": "L'uragano Michael ha colpito il Florida Panhandle come catastrofico uragano di categoria 5 nel 2018, causando danni diffusi.",
+            "eventDescriptionEs": "El huracán Michael tocó tierra en el Panhandle de Florida como un catastrófico huracán de categoría 5 en 2018, causando daños generalizados."
         }
     ]
 }
