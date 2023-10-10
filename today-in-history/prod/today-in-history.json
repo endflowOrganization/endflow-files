@@ -4012,6 +4012,17 @@
             "eventDescriptionDe": "Hurrikan Michael traf 2018 als Hurrikan der Kategorie 5 im Florida Panhandle auf Land und verursachte weitreichende Schäden.",
             "eventDescriptionIt": "L'uragano Michael ha colpito il Florida Panhandle come catastrofico uragano di categoria 5 nel 2018, causando danni diffusi.",
             "eventDescriptionEs": "El huracán Michael tocó tierra en el Panhandle de Florida como un catastrófico huracán de categoría 5 en 2018, causando daños generalizados."
+        },{
+            "eventId": "380",
+            "eventCategory": "POLITICS",
+            "eventDate": "1975/10/10", 
+            "eventImg": null,
+            "eventDescriptionEn": "Papua New Guinea joined the United Nations.",
+            "eventDescriptionTr": "Papua Yeni Gine Birleşmiş Milletlere katıldı.",
+            "eventDescriptionDe": "Papua-Neuguinea trat den Vereinten Nationen bei.",
+            "eventDescriptionIt": "La Papua Nuova Guinea ha aderito alle Nazioni Unite.",
+            "eventDescriptionEs": "Papúa Nueva Guinea se unió a las Naciones Unidas."
         }
+        
     ]
 }
