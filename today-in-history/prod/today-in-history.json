@@ -4117,7 +4117,18 @@
             "eventDescriptionDe": "Ein Flugzeug der uruguayischen Luftwaffe stürzt in den Anden ab und trägt eine Rugby-Mannschaft sowie deren Freunde und Familie. Die Geschichte ihres Überlebens inspirierte den Film 'Alive' von 1993.",
             "eventDescriptionIt": "Un aereo della Forza Aerea Uruguaiana si schianta nelle montagne delle Ande, trasportando una squadra di rugby e i loro amici e familiari. La storia della loro sopravvivenza ha ispirato il film del 1993 'Alive.'",
             "eventDescriptionEs": "Un avión de la Fuerza Aérea Uruguaya se estrella en las montañas de los Andes, llevando a bordo a un equipo de rugby y sus amigos y familiares. La historia de su supervivencia inspiró la película de 1993 'Vivos' ('Alive')."
+        },{
+            "eventId": "390",
+            "eventCategory": "TECH",
+            "eventDate": "1983/10/13",
+            "eventImg": null,
+            "eventDescriptionEn": "Ameritech Mobile Communications (now part of AT&T) launched the first US cellular network in Chicago.",
+            "eventDescriptionTr": "Ameritech Mobile Communications (şimdi AT&T'nin bir parçası) Chicago'da ilk ABD hücresel ağını başlattı.",
+            "eventDescriptionDe": "Ameritech Mobile Communications (jetzt Teil von AT&T) startete das erste US-amerikanische Mobilfunknetz in Chicago.",
+            "eventDescriptionIt": "Ameritech Mobile Communications (ora parte di AT&T) ha lanciato la prima rete cellulare negli Stati Uniti a Chicago.",
+            "eventDescriptionEs": "Ameritech Mobile Communications (ahora parte de AT&T) lanzó la primera red celular en EE.UU. en Chicago."
         }
+        
         
     ]
 }
