@@ -4077,7 +4077,18 @@
             "eventDescriptionDe": "Die Kenianerin Brigid Kosgei stellt mit einer Zeit von 2:14:04 beim Chicago-Marathon 2019 einen neuen Weltrekord für Läuferinnen auf.",
             "eventDescriptionIt": "La keniana Brigid Kosgei stabilisce un nuovo record mondiale per una corridora donna con un tempo di 2:14:04 alla Maratona di Chicago 2019.",
             "eventDescriptionEs": "La keniana Brigid Kosgei establece un nuevo récord mundial para una corredora mujer con un tiempo de 2:14:04 en el Maratón de Chicago 2019."
+        },{
+            "eventId": "386",
+            "eventCategory": "POLITICS",
+            "eventDate": "2016/10/13",
+            "eventImg": null,
+            "eventDescriptionEn": "The Maldives announces its decision to withdraw from the Commonwealth of Nations.",
+            "eventDescriptionTr": "Maldivler, Milletler Topluluğu'ndan çekilme kararını açıkladı.",
+            "eventDescriptionDe": "Die Malediven kündigen ihren Entschluss an, sich aus dem Commonwealth of Nations zurückzuziehen.",
+            "eventDescriptionIt": "Le Maldive annunciano la loro decisione di ritirarsi dal Commonwealth delle Nazioni.",
+            "eventDescriptionEs": "Las Maldivas anuncian su decisión de retirarse de la Mancomunidad de Naciones."
         }
+        
         
     ]
 }
