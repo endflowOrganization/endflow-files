@@ -4067,6 +4067,17 @@
             "eventDescriptionDe": "Der erste Computer-zu-Computer-Link wird auf ARPANET, dem Vorläufer des Internets, hergestellt.",
             "eventDescriptionIt": "Viene stabilito il primo collegamento computer-computer su ARPANET, il precursore di Internet.",
             "eventDescriptionEs": "Se establece el primer enlace de computadora a computadora en ARPANET, el precursor de Internet."
+        },{
+            "eventId": "385",
+            "eventCategory": "SPORTS",
+            "eventDate": "2019/10/13",  
+            "eventImg": null,
+            "eventDescriptionEn": "Kenyan Brigid Kosgei sets a new world record for a woman runner with a time of 2:14:04 at the 2019 Chicago Marathon.",
+            "eventDescriptionTr": "Kenyalı Brigid Kosgei, 2019 Chicago Maratonu'nda 2:14:04'lük süresiyle kadın koşucular için yeni bir dünya rekoru kırdı.",
+            "eventDescriptionDe": "Die Kenianerin Brigid Kosgei stellt mit einer Zeit von 2:14:04 beim Chicago-Marathon 2019 einen neuen Weltrekord für Läuferinnen auf.",
+            "eventDescriptionIt": "La keniana Brigid Kosgei stabilisce un nuovo record mondiale per una corridora donna con un tempo di 2:14:04 alla Maratona di Chicago 2019.",
+            "eventDescriptionEs": "La keniana Brigid Kosgei establece un nuevo récord mundial para una corredora mujer con un tiempo de 2:14:04 en el Maratón de Chicago 2019."
         }
+        
     ]
 }
