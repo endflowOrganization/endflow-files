@@ -4137,7 +4137,18 @@
             "eventDescriptionDe": "Italien erklärt Deutschland, seinem ehemaligen Achsenpartner während des Zweiten Weltkriegs, den Krieg.",
             "eventDescriptionIt": "L'Italia dichiara guerra alla Germania, sua ex alleata dell'Asse durante la Seconda Guerra Mondiale.",
             "eventDescriptionEs": "Italia declara la guerra a Alemania, su antiguo socio del Eje durante la Segunda Guerra Mundial."
+        },{
+            "eventId": "392",
+            "eventCategory": "SPACE",
+            "eventDate": "2012/10/14",
+            "eventImg": null,
+            "eventDescriptionEn": "Felix Baumgartner successfully jumps to Earth from a balloon in the stratosphere.",
+            "eventDescriptionTr": "Felix Baumgartner, stratosferdeki bir balondan Dünya'ya başarıyla atladı.",
+            "eventDescriptionDe": "Felix Baumgartner springt erfolgreich von einem Ballon in der Stratosphäre zur Erde.",
+            "eventDescriptionIt": "Felix Baumgartner compie con successo il salto verso la Terra da un pallone nella stratosfera.",
+            "eventDescriptionEs": "Felix Baumgartner salta exitosamente a la Tierra desde un globo en la estratósfera."
         }
+        
         
     ]
 }
