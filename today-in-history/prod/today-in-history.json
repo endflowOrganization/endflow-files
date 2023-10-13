@@ -4026,7 +4026,7 @@
         },
         {
             "eventId": "381",
-            "eventCategory": "SPACE",
+            "eventCategory": "PEOPLE",
             "eventDate": "2019/10/11",
             "eventImg": null,
             "eventDescriptionEn": "Alexei Leonov, the first human to conduct a spacewalk, passed away.",
@@ -4139,7 +4139,7 @@
             "eventDescriptionEs": "Italia declara la guerra a Alemania, su antiguo socio del Eje durante la Segunda Guerra Mundial."
         },{
             "eventId": "392",
-            "eventCategory": "SPACE",
+            "eventCategory": "SPORT",
             "eventDate": "2012/10/14",
             "eventImg": null,
             "eventDescriptionEn": "Felix Baumgartner successfully jumps to Earth from a balloon in the stratosphere.",
