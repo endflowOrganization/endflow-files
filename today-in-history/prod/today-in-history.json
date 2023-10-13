@@ -4147,7 +4147,18 @@
             "eventDescriptionDe": "Felix Baumgartner springt erfolgreich von einem Ballon in der Stratosphäre zur Erde.",
             "eventDescriptionIt": "Felix Baumgartner compie con successo il salto verso la Terra da un pallone nella stratosfera.",
             "eventDescriptionEs": "Felix Baumgartner salta exitosamente a la Tierra desde un globo en la estratósfera."
+        },{
+            "eventId": "393",
+            "eventCategory": "SPORT",
+            "eventDate": "1968/10/14",
+            "eventImg": null,
+            "eventDescriptionEn": "Jim Hines becomes the first man ever to break the so-called 'ten-second barrier' in the 100-meter sprint with a time of 9.95 seconds.",
+            "eventDescriptionTr": "Jim Hines, 100 metre sprintte 9.95 saniye ile 'on saniye bariyerini' aşan ilk insan oldu.",
+            "eventDescriptionDe": "Jim Hines wird der erste Mensch, der die sogenannte 'Zehn-Sekunden-Schranke' im 100-Meter-Sprint mit einer Zeit von 9,95 Sekunden durchbricht.",
+            "eventDescriptionIt": "Jim Hines diventa il primo uomo a rompere la cosiddetta 'barriera dei dieci secondi' nei 100 metri piani con un tempo di 9,95 secondi.",
+            "eventDescriptionEs": "Jim Hines se convierte en el primer hombre en romper la llamada 'barrera de los diez segundos' en el sprint de 100 metros con un tiempo de 9,95 segundos."
         }
+        
         
         
     ]
