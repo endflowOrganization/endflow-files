@@ -4107,6 +4107,17 @@
             "eventDescriptionDe": "Dreißig-drei Bergleute werden gerettet, nachdem sie 69 Tage lang in einer Mine in Copiapó, Chile, eingeschlossen waren.",
             "eventDescriptionIt": "Trentatré minatori vengono salvati dopo essere rimasti intrappolati per 69 giorni in una miniera a Copiapó, in Cile.",
             "eventDescriptionEs": "Se rescatan a treinta y tres mineros después de quedar atrapados durante 69 días en una mina en Copiapó, Chile."
+        },{
+            "eventId": "389",
+            "eventCategory": "HISTORY",
+            "eventDate": "1972/10/13",
+            "eventImg": null,
+            "eventDescriptionEn": "An Uruguayan Air Force plane crashes in the Andes mountains, carrying a rugby team and their friends and family. The story of their survival inspired the 1993 film 'Alive.'",
+            "eventDescriptionTr": "Uruguay Hava Kuvvetlerine ait bir uçak, bir ragbi takımını ve onların arkadaşları ile ailelerini taşırken And Dağları'na çarptı. Onların hayatta kalma hikayeleri 1993 yapımı 'Alive' filmine ilham verdi.",
+            "eventDescriptionDe": "Ein Flugzeug der uruguayischen Luftwaffe stürzt in den Anden ab und trägt eine Rugby-Mannschaft sowie deren Freunde und Familie. Die Geschichte ihres Überlebens inspirierte den Film 'Alive' von 1993.",
+            "eventDescriptionIt": "Un aereo della Forza Aerea Uruguaiana si schianta nelle montagne delle Ande, trasportando una squadra di rugby e i loro amici e familiari. La storia della loro sopravvivenza ha ispirato il film del 1993 'Alive.'",
+            "eventDescriptionEs": "Un avión de la Fuerza Aérea Uruguaya se estrella en las montañas de los Andes, llevando a bordo a un equipo de rugby y sus amigos y familiares. La historia de su supervivencia inspiró la película de 1993 'Vivos' ('Alive')."
         }
+        
     ]
 }
