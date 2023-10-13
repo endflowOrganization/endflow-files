@@ -4127,8 +4127,17 @@
             "eventDescriptionDe": "Ameritech Mobile Communications (jetzt Teil von AT&T) startete das erste US-amerikanische Mobilfunknetz in Chicago.",
             "eventDescriptionIt": "Ameritech Mobile Communications (ora parte di AT&T) ha lanciato la prima rete cellulare negli Stati Uniti a Chicago.",
             "eventDescriptionEs": "Ameritech Mobile Communications (ahora parte de AT&T) lanzó la primera red celular en EE.UU. en Chicago."
+        },{
+            "eventId": "391",
+            "eventCategory": "HISTORY",
+            "eventDate": "1943/10/13",
+            "eventImg": null,
+            "eventDescriptionEn": "Italy declares war on Germany, its former Axis partner during World War II.",
+            "eventDescriptionTr": "İtalya, II. Dünya Savaşı sırasında eski Mihver ortağı Almanya'ya savaş ilan etti.",
+            "eventDescriptionDe": "Italien erklärt Deutschland, seinem ehemaligen Achsenpartner während des Zweiten Weltkriegs, den Krieg.",
+            "eventDescriptionIt": "L'Italia dichiara guerra alla Germania, sua ex alleata dell'Asse durante la Seconda Guerra Mondiale.",
+            "eventDescriptionEs": "Italia declara la guerra a Alemania, su antiguo socio del Eje durante la Segunda Guerra Mundial."
         }
-        
         
     ]
 }
