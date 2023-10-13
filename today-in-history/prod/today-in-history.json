@@ -4097,9 +4097,16 @@
             "eventDescriptionDe": "Ankara wird zur Hauptstadt der Türkei.",
             "eventDescriptionIt": "Ankara diventa la capitale della Turchia.",
             "eventDescriptionEs": "Ankara se convierte en la capital de Turquía."
+        },{
+            "eventId": "388",
+            "eventCategory": "HISTORY",
+            "eventDate": "2010/10/13", 
+            "eventImg": null,
+            "eventDescriptionEn": "Thirty-three miners are rescued after being trapped for 69 days in a mine in Copiapó, Chile.",
+            "eventDescriptionTr": "Copiapó, Şili'deki bir madende 69 gün mahsur kalan otuz üç madenci kurtarıldı.",
+            "eventDescriptionDe": "Dreißig-drei Bergleute werden gerettet, nachdem sie 69 Tage lang in einer Mine in Copiapó, Chile, eingeschlossen waren.",
+            "eventDescriptionIt": "Trentatré minatori vengono salvati dopo essere rimasti intrappolati per 69 giorni in una miniera a Copiapó, in Cile.",
+            "eventDescriptionEs": "Se rescatan a treinta y tres mineros después de quedar atrapados durante 69 días en una mina en Copiapó, Chile."
         }
-        
-        
-        
     ]
 }
