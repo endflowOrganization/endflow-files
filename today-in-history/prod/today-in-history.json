@@ -4087,7 +4087,18 @@
             "eventDescriptionDe": "Die Malediven kündigen ihren Entschluss an, sich aus dem Commonwealth of Nations zurückzuziehen.",
             "eventDescriptionIt": "Le Maldive annunciano la loro decisione di ritirarsi dal Commonwealth delle Nazioni.",
             "eventDescriptionEs": "Las Maldivas anuncian su decisión de retirarse de la Mancomunidad de Naciones."
+        },{
+            "eventId": "387",
+            "eventCategory": "HISTORY",
+            "eventDate": "1923/10/13",
+            "eventImg": null,
+            "eventDescriptionEn": "Ankara becomes the capital of Turkey.",
+            "eventDescriptionTr": "Ankara, Türkiye'nin başkenti oldu.",
+            "eventDescriptionDe": "Ankara wird zur Hauptstadt der Türkei.",
+            "eventDescriptionIt": "Ankara diventa la capitale della Turchia.",
+            "eventDescriptionEs": "Ankara se convierte en la capital de Turquía."
         }
+        
         
         
     ]
