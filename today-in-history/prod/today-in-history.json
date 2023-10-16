@@ -4197,6 +4197,17 @@
             "eventDescriptionDe": "China führt seinen ersten Nukleartest durch und wird damit zum fünften Land der Welt, das über nukleare Waffenfähigkeiten verfügt.",
             "eventDescriptionIt": "La Cina conduce il suo primo test nucleare, diventando il quinto paese al mondo a raggiungere la capacità di armi nucleari.",
             "eventDescriptionEs": "China realiza su primera prueba nuclear, convirtiéndose en el quinto país del mundo en lograr la capacidad de armas nucleares."
+        },{
+            "eventId": "398",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1843/10/16",
+            "eventImg": null,
+            "eventDescriptionEn": "William Rowan Hamilton invents quaternions, a three-dimensional system of complex numbers that extends complex numbers.",
+            "eventDescriptionTr": "William Rowan Hamilton, karmaşık sayıları genişleten üç boyutlu karmaşık sayılar sistemi olan kuaternionları icat etti.",
+            "eventDescriptionDe": "William Rowan Hamilton erfindet die Quaternionen, ein dreidimensionales System komplexer Zahlen, das die komplexen Zahlen erweitert.",
+            "eventDescriptionIt": "William Rowan Hamilton inventa i quaternioni, un sistema tridimensionale di numeri complessi che estende i numeri complessi.",
+            "eventDescriptionEs": "William Rowan Hamilton inventa los cuaterniones, un sistema tridimensional de números complejos que amplía los números complejos."
         }
+        
     ]
 }
