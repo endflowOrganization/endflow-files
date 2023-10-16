@@ -4187,12 +4187,16 @@
             "eventDescriptionDe": "Die Skye Bridge in Schottland wird eröffnet.",
             "eventDescriptionIt": "Viene inaugurato il ponte di Skye in Scozia.",
             "eventDescriptionEs": "Se inaugura el puente de Skye en Escocia."
+        },{
+            "eventId": "397",
+            "eventCategory": "HISTORY",
+            "eventDate": "1964/10/16",
+            "eventImg": null,
+            "eventDescriptionEn": "China conducts its first nuclear test, becoming the fifth country in the world to achieve nuclear weapons capability.",
+            "eventDescriptionTr": "Çin, nükleer silah yeteneklerine sahip dünyadaki beşinci ülke olma yolunda ilk nükleer testini gerçekleştirir.",
+            "eventDescriptionDe": "China führt seinen ersten Nukleartest durch und wird damit zum fünften Land der Welt, das über nukleare Waffenfähigkeiten verfügt.",
+            "eventDescriptionIt": "La Cina conduce il suo primo test nucleare, diventando il quinto paese al mondo a raggiungere la capacità di armi nucleari.",
+            "eventDescriptionEs": "China realiza su primera prueba nuclear, convirtiéndose en el quinto país del mundo en lograr la capacidad de armas nucleares."
         }
-        
-        
-        
-        
-        
-        
     ]
 }
