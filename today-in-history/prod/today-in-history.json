@@ -4167,7 +4167,18 @@
             "eventDescriptionDe": "Walt Disney und sein Bruder Roy gründen das Disney Brothers Cartoon Studio, das heute als The Walt Disney Company bekannt ist.",
             "eventDescriptionIt": "Walt Disney e suo fratello Roy fondano lo studio di cartoni animati Disney Brothers, oggi conosciuto come The Walt Disney Company.",
             "eventDescriptionEs": "Walt Disney y su hermano, Roy, fundan el Disney Brothers Cartoon Studio, hoy conocido como The Walt Disney Company."
+        },{
+            "eventId": "395",
+            "eventCategory": "POLITICS",
+            "eventDate": "1951/10/16",
+            "eventImg": null,
+            "eventDescriptionEn": "The first Prime Minister of Pakistan, Liaquat Ali Khan, is assassinated in Rawalpindi.",
+            "eventDescriptionTr": "Pakistan'ın ilk Başbakanı Liaquat Ali Khan, Rawalpindi'de suikaste uğradı.",
+            "eventDescriptionDe": "Der erste Premierminister von Pakistan, Liaquat Ali Khan, wird in Rawalpindi ermordet.",
+            "eventDescriptionIt": "Il primo Primo Ministro del Pakistan, Liaquat Ali Khan, viene assassinato a Rawalpindi.",
+            "eventDescriptionEs": "El primer Primer Ministro de Pakistán, Liaquat Ali Khan, es asesinado en Rawalpindi."
         }
+        
         
         
         
