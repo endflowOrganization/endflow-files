@@ -4177,7 +4177,18 @@
             "eventDescriptionDe": "Der erste Premierminister von Pakistan, Liaquat Ali Khan, wird in Rawalpindi ermordet.",
             "eventDescriptionIt": "Il primo Primo Ministro del Pakistan, Liaquat Ali Khan, viene assassinato a Rawalpindi.",
             "eventDescriptionEs": "El primer Primer Ministro de Pakistán, Liaquat Ali Khan, es asesinado en Rawalpindi."
+        },{
+            "eventId": "396",
+            "eventCategory": "HISTORY",
+            "eventDate": "1995/10/16",  
+            "eventImg": null,
+            "eventDescriptionEn": "The Skye Bridge in Scotland is opened.",
+            "eventDescriptionTr": "İskoçya'daki Skye Köprüsü açıldı.",
+            "eventDescriptionDe": "Die Skye Bridge in Schottland wird eröffnet.",
+            "eventDescriptionIt": "Viene inaugurato il ponte di Skye in Scozia.",
+            "eventDescriptionEs": "Se inaugura el puente de Skye en Escocia."
         }
+        
         
         
         
