@@ -4247,11 +4247,16 @@
             "eventDescriptionDe": "Die erste kommerzielle Kernkraftwerk, Calder Hall in Sellafield, wird offiziell von Königin Elisabeth II. in England eröffnet und markiert eine neue Ära in der Energieerzeugung.",
             "eventDescriptionIt": "La prima centrale nucleare commerciale, Calder Hall a Sellafield, viene ufficialmente aperta dalla Regina Elisabetta II in Inghilterra, segnando una nuova era nella produzione di energia.",
             "eventDescriptionEs": "La primera estación de energía nuclear comercial, Calder Hall en Sellafield, es inaugurada oficialmente por la Reina Isabel II en Inglaterra, marcando una nueva era en la producción de energía."
+        },{
+            "eventId": "403",
+            "eventCategory": "TECH",
+            "eventDate": "1907/10/17",
+            "eventImg": null,
+            "eventDescriptionEn": "Guglielmo Marconi initiates the first commercial transatlantic wireless service, connecting Europe and North America and marking a significant advancement in global communications.",
+            "eventDescriptionTr": "Guglielmo Marconi, Avrupa ve Kuzey Amerika'yı birbirine bağlayan ilk ticari transatlantik kablosuz hizmeti başlatarak küresel iletişimde önemli bir ilerleme kaydetti.",
+            "eventDescriptionDe": "Guglielmo Marconi startet den ersten kommerziellen transatlantischen drahtlosen Dienst, der Europa und Nordamerika verbindet und einen bedeutenden Fortschritt in der globalen Kommunikation markiert.",
+            "eventDescriptionIt": "Guglielmo Marconi avvia il primo servizio commerciale transatlantico senza fili, collegando l'Europa e il Nord America e segnando un significativo avanzamento nelle comunicazioni globali.",
+            "eventDescriptionEs": "Guglielmo Marconi inicia el primer servicio comercial transatlántico inalámbrico, conectando Europa y América del Norte y marcando un avance significativo en las comunicaciones globales."
         }
-        
-        
-        
-        
-        
     ]
 }
