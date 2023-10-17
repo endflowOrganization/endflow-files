@@ -4257,6 +4257,17 @@
             "eventDescriptionDe": "Guglielmo Marconi startet den ersten kommerziellen transatlantischen drahtlosen Dienst, der Europa und Nordamerika verbindet und einen bedeutenden Fortschritt in der globalen Kommunikation markiert.",
             "eventDescriptionIt": "Guglielmo Marconi avvia il primo servizio commerciale transatlantico senza fili, collegando l'Europa e il Nord America e segnando un significativo avanzamento nelle comunicazioni globali.",
             "eventDescriptionEs": "Guglielmo Marconi inicia el primer servicio comercial transatlántico inalámbrico, conectando Europa y América del Norte y marcando un avance significativo en las comunicaciones globales."
+        },{
+            "eventId": "404",
+            "eventCategory": "HISTORY",
+            "eventDate": "1912/10/17",
+            "eventImg": null,
+            "eventDescriptionEn": "Bulgaria, Greece, and Serbia declare war on the Ottoman Empire, joining Montenegro in the First Balkan War, signaling the beginning of a significant conflict in Southeastern Europe.",
+            "eventDescriptionTr": "Bulgaristan, Yunanistan ve Sırbistan, Osmanlı İmparatorluğu'na savaş ilan ederek Karadağ'ın yanında Birinci Balkan Savaşı'na katıldı ve Güneydoğu Avrupa'da önemli bir çatışmanın başlangıcını işaret etti.",
+            "eventDescriptionDe": "Bulgarien, Griechenland und Serbien erklären dem Osmanischen Reich den Krieg und treten Montenegro im Ersten Balkankrieg bei, was den Beginn eines bedeutenden Konflikts in Südosteuropa signalisiert.",
+            "eventDescriptionIt": "Bulgaria, Grecia e Serbia dichiarano guerra all'Impero Ottomano, unendosi al Montenegro nella Prima Guerra Balcanica, segnalando l'inizio di un significativo conflitto nell'Europa sudorientale.",
+            "eventDescriptionEs": "Bulgaria, Grecia y Serbia declaran la guerra al Imperio Otomano, uniéndose a Montenegro en la Primera Guerra de los Balcanes, señalando el comienzo de un conflicto significativo en el sureste de Europa."
         }
+        
     ]
 }
