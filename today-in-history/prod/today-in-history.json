@@ -4217,7 +4217,18 @@
             "eventDescriptionDe": "Die 17. Oktoberrevolution beginnt im Libanon, gekennzeichnet durch landesweite Proteste gegen wirtschaftliche Bedingungen und das Versagen der Regierung, grundlegende Dienstleistungen zu erbringen.",
             "eventDescriptionIt": "In Libano inizia la Rivoluzione del 17 ottobre, contrassegnata da proteste nazionali contro le condizioni economiche e l'incapacità del governo di fornire servizi di base.",
             "eventDescriptionEs": "La Revolución del 17 de Octubre comienza en Líbano, marcada por protestas nacionales contra las condiciones económicas y la incapacidad del gobierno para proporcionar servicios básicos."
+        },{
+            "eventId": "400",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1933/10/17",
+            "eventImg": null,
+            "eventDescriptionEn": "Albert Einstein flees Nazi Germany and moves to the United States, where he takes a position at the Institute for Advanced Study in Princeton, New Jersey.",
+            "eventDescriptionTr": "Albert Einstein, Nazi Almanyası'ndan kaçar ve Amerika Birleşik Devletleri'ne taşınır, burada New Jersey, Princeton'daki Gelişmiş Araştırmalar Enstitüsü'nde bir pozisyon alır.",
+            "eventDescriptionDe": "Albert Einstein flieht vor Nazi-Deutschland und zieht in die Vereinigten Staaten, wo er eine Stelle am Institute for Advanced Study in Princeton, New Jersey, annimmt.",
+            "eventDescriptionIt": "Albert Einstein fugge dalla Germania nazista e si trasferisce negli Stati Uniti, dove assume una posizione presso l'Institute for Advanced Study a Princeton, New Jersey.",
+            "eventDescriptionEs": "Albert Einstein huye de la Alemania nazi y se traslada a los Estados Unidos, donde toma un puesto en el Instituto de Estudios Avanzados en Princeton, Nueva Jersey."
         }
+        
         
         
     ]
