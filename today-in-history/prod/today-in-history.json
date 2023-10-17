@@ -4237,7 +4237,18 @@
             "eventDescriptionDe": "Der berüchtigte amerikanische Gangster Al Capone wird wegen Steuerhinterziehung verurteilt, was einen Niedergang in seiner berüchtigten kriminellen Karriere signalisiert.",
             "eventDescriptionIt": "Il famigerato gangster americano Al Capone viene condannato per evasione fiscale, segnalando una caduta nella sua infame carriera criminale.",
             "eventDescriptionEs": "El famoso gánster estadounidense Al Capone es condenado por evasión de impuestos sobre la renta, señalando una caída en su infame carrera criminal."
+        },{
+            "eventId": "402",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1956/10/17",
+            "eventImg": null,
+            "eventDescriptionEn": "The first commercial nuclear power station, Calder Hall at Sellafield, is officially opened by Queen Elizabeth II in England, marking a new era in energy production.",
+            "eventDescriptionTr": "İngiltere'de Kraliçe II. Elizabeth tarafından resmi olarak açılan ilk ticari nükleer enerji santrali, Sellafield'daki Calder Hall, enerji üretiminde yeni bir çağın başlangıcını işaret ediyor.",
+            "eventDescriptionDe": "Die erste kommerzielle Kernkraftwerk, Calder Hall in Sellafield, wird offiziell von Königin Elisabeth II. in England eröffnet und markiert eine neue Ära in der Energieerzeugung.",
+            "eventDescriptionIt": "La prima centrale nucleare commerciale, Calder Hall a Sellafield, viene ufficialmente aperta dalla Regina Elisabetta II in Inghilterra, segnando una nuova era nella produzione di energia.",
+            "eventDescriptionEs": "La primera estación de energía nuclear comercial, Calder Hall en Sellafield, es inaugurada oficialmente por la Reina Isabel II en Inglaterra, marcando una nueva era en la producción de energía."
         }
+        
         
         
         
