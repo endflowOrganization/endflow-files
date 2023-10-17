@@ -4227,7 +4227,18 @@
             "eventDescriptionDe": "Albert Einstein flieht vor Nazi-Deutschland und zieht in die Vereinigten Staaten, wo er eine Stelle am Institute for Advanced Study in Princeton, New Jersey, annimmt.",
             "eventDescriptionIt": "Albert Einstein fugge dalla Germania nazista e si trasferisce negli Stati Uniti, dove assume una posizione presso l'Institute for Advanced Study a Princeton, New Jersey.",
             "eventDescriptionEs": "Albert Einstein huye de la Alemania nazi y se traslada a los Estados Unidos, donde toma un puesto en el Instituto de Estudios Avanzados en Princeton, Nueva Jersey."
+        },{
+            "eventId": "401",
+            "eventCategory": "HISTORY",
+            "eventDate": "1931/10/17",
+            "eventImg": null,
+            "eventDescriptionEn": "Notorious American gangster Al Capone is convicted of income tax evasion, signaling a downfall in his infamous criminal career.",
+            "eventDescriptionTr": "Kötü şöhretli Amerikalı gangster Al Capone, gelir vergisi kaçakçılığından mahkum edildi, bu da onun adı sanı duyulmuş suç kariyerinde bir düşüşe işaret etti.",
+            "eventDescriptionDe": "Der berüchtigte amerikanische Gangster Al Capone wird wegen Steuerhinterziehung verurteilt, was einen Niedergang in seiner berüchtigten kriminellen Karriere signalisiert.",
+            "eventDescriptionIt": "Il famigerato gangster americano Al Capone viene condannato per evasione fiscale, segnalando una caduta nella sua infame carriera criminale.",
+            "eventDescriptionEs": "El famoso gánster estadounidense Al Capone es condenado por evasión de impuestos sobre la renta, señalando una caída en su infame carrera criminal."
         }
+        
         
         
         
