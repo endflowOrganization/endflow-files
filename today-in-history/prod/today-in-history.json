@@ -4207,7 +4207,18 @@
             "eventDescriptionDe": "William Rowan Hamilton erfindet die Quaternionen, ein dreidimensionales System komplexer Zahlen, das die komplexen Zahlen erweitert.",
             "eventDescriptionIt": "William Rowan Hamilton inventa i quaternioni, un sistema tridimensionale di numeri complessi che estende i numeri complessi.",
             "eventDescriptionEs": "William Rowan Hamilton inventa los cuaterniones, un sistema tridimensional de números complejos que amplía los números complejos."
+        },{
+            "eventId": "399",
+            "eventCategory": "POLITICS",
+            "eventDate": "2019/10/17", 
+            "eventImg": null,
+            "eventDescriptionEn": "The 17 October Revolution starts in Lebanon, marked by nationwide protests against economic conditions and the government's failure to provide basic services.",
+            "eventDescriptionTr": "17 Ekim Devrimi, ekonomik koşullara ve hükümetin temel hizmetleri sağlayamamasına karşı ülke genelinde protestolarla Lübnan'da başladı.",
+            "eventDescriptionDe": "Die 17. Oktoberrevolution beginnt im Libanon, gekennzeichnet durch landesweite Proteste gegen wirtschaftliche Bedingungen und das Versagen der Regierung, grundlegende Dienstleistungen zu erbringen.",
+            "eventDescriptionIt": "In Libano inizia la Rivoluzione del 17 ottobre, contrassegnata da proteste nazionali contro le condizioni economiche e l'incapacità del governo di fornire servizi di base.",
+            "eventDescriptionEs": "La Revolución del 17 de Octubre comienza en Líbano, marcada por protestas nacionales contra las condiciones económicas y la incapacidad del gobierno para proporcionar servicios básicos."
         }
+        
         
     ]
 }
