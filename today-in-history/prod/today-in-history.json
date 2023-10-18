@@ -4267,7 +4267,18 @@
             "eventDescriptionDe": "Bulgarien, Griechenland und Serbien erklären dem Osmanischen Reich den Krieg und treten Montenegro im Ersten Balkankrieg bei, was den Beginn eines bedeutenden Konflikts in Südosteuropa signalisiert.",
             "eventDescriptionIt": "Bulgaria, Grecia e Serbia dichiarano guerra all'Impero Ottomano, unendosi al Montenegro nella Prima Guerra Balcanica, segnalando l'inizio di un significativo conflitto nell'Europa sudorientale.",
             "eventDescriptionEs": "Bulgaria, Grecia y Serbia declaran la guerra al Imperio Otomano, uniéndose a Montenegro en la Primera Guerra de los Balcanes, señalando el comienzo de un conflicto significativo en el sureste de Europa."
+        },{
+            "eventId": "406",
+            "eventCategory": "SPACE",
+            "eventDate": "2019/10/18",
+            "eventImg": null,
+            "eventDescriptionEn": "NASA Astronauts Jessica Meir and Christina Koch make history by taking part in the first all-female spacewalk, venturing out of the International Space Station to replace a power controller.",
+            "eventDescriptionTr": "NASA Astronotları Jessica Meir ve Christina Koch, bir güç kontrolörünü değiştirmek için Uluslararası Uzay İstasyonu'ndan dışarı çıkarak ilk tamamen kadın uzay yürüyüşüne katılarak tarih yazdılar.",
+            "eventDescriptionDe": "Die NASA-Astronautinnen Jessica Meir und Christina Koch schreiben Geschichte, indem sie am ersten rein weiblichen Weltraumspaziergang teilnehmen und aus der Internationalen Raumstation hinauswagen, um einen Stromregler zu ersetzen.",
+            "eventDescriptionIt": "Le astronaute della NASA Jessica Meir e Christina Koch entrano nella storia partecipando alla prima passeggiata spaziale interamente femminile, avventurandosi fuori dalla Stazione Spaziale Internazionale per sostituire un regolatore di potenza.",
+            "eventDescriptionEs": "Las astronautas de la NASA Jessica Meir y Christina Koch hacen historia al participar en la primera caminata espacial totalmente femenina, aventurándose fuera de la Estación Espacial Internacional para reemplazar un controlador de potencia."
         }
+        
         
     ]
 }
