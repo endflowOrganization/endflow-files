@@ -4279,17 +4279,14 @@
             "eventDescriptionEs": "Las astronautas de la NASA Jessica Meir y Christina Koch hacen historia al participar en la primera caminata espacial totalmente femenina, aventurándose fuera de la Estación Espacial Internacional para reemplazar un controlador de potencia."
         },{
             "eventId": "406",
-            "eventCategory": "HISTORY",
+            "eventCategory": "WAR",
             "eventDate": "1914/10/19",
             "eventImg": null,
-            "eventDescriptionEn": "World War I: The First Battle of Ypres begins, marking a significant and brutal encounter in Western Belgium between the Allies and the German Empire, shaping the future trench warfare of the Western Front.",
-            "eventDescriptionTr": "I. Dünya Savaşı: İlk Ypres Muharebesi başladı, Müttefikler ile Alman İmparatorluğu arasında Batı Belçika'da önemli ve brutal bir karşılaşmayı işaret ediyor, Batı Cephesi'nin gelecekteki siper savaşlarını şekillendiriyor.",
-            "eventDescriptionDe": "Erster Weltkrieg: Die Erste Schlacht von Ypern beginnt und markiert eine bedeutende und brutale Begegnung in Westbelgien zwischen den Alliierten und dem Deutschen Reich, die die zukünftige Grabenkriegsführung an der Westfront prägt.",
-            "eventDescriptionIt": "Prima guerra mondiale: inizia la Prima battaglia di Ypres, segnando un significativo e brutale incontro nel Belgio occidentale tra gli Alleati e l'Impero tedesco, modellando la futura guerra di trincea del fronte occidentale.",
-            "eventDescriptionEs": "Primera Guerra Mundial: Comienza la Primera Batalla de Ypres, marcando un encuentro significativo y brutal en el oeste de Bélgica entre los Aliados y el Imperio Alemán, dando forma a la futura guerra de trincheras en el Frente Occidental."
+            "eventDescriptionEn": "World War I: The First Battle of Ypres began.",
+            "eventDescriptionTr": "I. Dünya Savaşı: İlk Ypres Muharebesi başladı.",
+            "eventDescriptionDe": "Erster Weltkrieg: Die Erste Schlacht von Ypern begann.",
+            "eventDescriptionIt": "Prima guerra mondiale: iniziò la Prima battaglia di Ypres.",
+            "eventDescriptionEs": "Primera Guerra Mundial: Comenzó la Primera Batalla de Ypres."
         }
-        
-        
-        
     ]
 }
