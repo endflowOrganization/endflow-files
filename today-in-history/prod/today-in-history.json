@@ -4268,7 +4268,7 @@
             "eventDescriptionIt": "Bulgaria, Grecia e Serbia dichiarano guerra all'Impero Ottomano, unendosi al Montenegro nella Prima Guerra Balcanica, segnalando l'inizio di un significativo conflitto nell'Europa sudorientale.",
             "eventDescriptionEs": "Bulgaria, Grecia y Serbia declaran la guerra al Imperio Otomano, uniéndose a Montenegro en la Primera Guerra de los Balcanes, señalando el comienzo de un conflicto significativo en el sureste de Europa."
         },{
-            "eventId": "406",
+            "eventId": "405",
             "eventCategory": "SPACE",
             "eventDate": "2019/10/18",
             "eventImg": null,
@@ -4277,7 +4277,18 @@
             "eventDescriptionDe": "Die NASA-Astronautinnen Jessica Meir und Christina Koch schreiben Geschichte, indem sie am ersten rein weiblichen Weltraumspaziergang teilnehmen und aus der Internationalen Raumstation hinauswagen, um einen Stromregler zu ersetzen.",
             "eventDescriptionIt": "Le astronaute della NASA Jessica Meir e Christina Koch entrano nella storia partecipando alla prima passeggiata spaziale interamente femminile, avventurandosi fuori dalla Stazione Spaziale Internazionale per sostituire un regolatore di potenza.",
             "eventDescriptionEs": "Las astronautas de la NASA Jessica Meir y Christina Koch hacen historia al participar en la primera caminata espacial totalmente femenina, aventurándose fuera de la Estación Espacial Internacional para reemplazar un controlador de potencia."
+        },{
+            "eventId": "406",
+            "eventCategory": "HISTORY",
+            "eventDate": "1914/10/19",
+            "eventImg": null,
+            "eventDescriptionEn": "World War I: The First Battle of Ypres begins, marking a significant and brutal encounter in Western Belgium between the Allies and the German Empire, shaping the future trench warfare of the Western Front.",
+            "eventDescriptionTr": "I. Dünya Savaşı: İlk Ypres Muharebesi başladı, Müttefikler ile Alman İmparatorluğu arasında Batı Belçika'da önemli ve brutal bir karşılaşmayı işaret ediyor, Batı Cephesi'nin gelecekteki siper savaşlarını şekillendiriyor.",
+            "eventDescriptionDe": "Erster Weltkrieg: Die Erste Schlacht von Ypern beginnt und markiert eine bedeutende und brutale Begegnung in Westbelgien zwischen den Alliierten und dem Deutschen Reich, die die zukünftige Grabenkriegsführung an der Westfront prägt.",
+            "eventDescriptionIt": "Prima guerra mondiale: inizia la Prima battaglia di Ypres, segnando un significativo e brutale incontro nel Belgio occidentale tra gli Alleati e l'Impero tedesco, modellando la futura guerra di trincea del fronte occidentale.",
+            "eventDescriptionEs": "Primera Guerra Mundial: Comienza la Primera Batalla de Ypres, marcando un encuentro significativo y brutal en el oeste de Bélgica entre los Aliados y el Imperio Alemán, dando forma a la futura guerra de trincheras en el Frente Occidental."
         }
+        
         
         
     ]
