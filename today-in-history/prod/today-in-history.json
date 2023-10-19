@@ -4287,6 +4287,17 @@
             "eventDescriptionDe": "Erster Weltkrieg: Die Erste Schlacht von Ypern begann.",
             "eventDescriptionIt": "Prima guerra mondiale: iniziò la Prima battaglia di Ypres.",
             "eventDescriptionEs": "Primera Guerra Mundial: Comenzó la Primera Batalla de Ypres."
+        },{
+            "eventId": "407",
+            "eventCategory": "HISTORY",
+            "eventDate": "2001/10/19",
+            "eventImg": null,
+            "eventDescriptionEn": "SIEV X, an Indonesian fishing boat en route to Christmas Island, carrying over 400 migrants, sank in international waters, resulting in the loss of 353 people.",
+            "eventDescriptionTr": "Christmas Adası'na gitmekte olan Endonezyalı balıkçı teknesi SIEV X, 400'den fazla göçmen taşıyarak uluslararası sulara battı, 353 kişinin yaşamını yitirmesine neden oldu.",
+            "eventDescriptionDe": "SIEV X, ein indonesisches Fischerboot auf dem Weg zur Weihnachtsinsel, sank in internationalen Gewässern mit über 400 Migranten an Bord, wobei 353 Menschen ums Leben kamen.",
+            "eventDescriptionIt": "SIEV X, una barca da pesca indonesiana in rotta verso l'Isola di Natale, trasportando oltre 400 migranti, affondò in acque internazionali, causando la perdita di 353 persone.",
+            "eventDescriptionEs": "SIEV X, un barco de pesca indonesio en ruta a la Isla de Navidad, que transportaba más de 400 migrantes, se hundió en aguas internacionales, con la pérdida de 353 personas."
         }
+        
     ]
 }
