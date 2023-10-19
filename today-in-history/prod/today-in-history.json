@@ -4307,7 +4307,18 @@
             "eventDescriptionDe": "Ernest Rutherford, bekannt als der Vater der Kernphysik, verstarb.",
             "eventDescriptionIt": "Ernest Rutherford, noto come il padre della fisica nucleare, è deceduto.",
             "eventDescriptionEs": "Ernest Rutherford, conocido como el padre de la física nuclear, falleció."
+        },{
+            "eventId": "409",
+            "eventCategory": "POLITICS",
+            "eventDate": "2022/10/20",
+            "eventImg": null,
+            "eventDescriptionEn": "Liz Truss stepped down as British Prime Minister and leader of the Conservative Party amid the country's political crisis, serving for only 45 days. She had the shortest tenure of any British Prime Minister.",
+            "eventDescriptionTr": "Ülkenin siyasi krizi sırasında Liz Truss, sadece 45 gün görev yaptıktan sonra İngiltere Başbakanı ve Muhafazakar Parti lideri olarak istifa etti. Truss, herhangi bir İngiliz Başbakanı'nın en kısa süreyle görev yaptı.",
+            "eventDescriptionDe": "Liz Truss trat mitten in der politischen Krise des Landes als britische Premierministerin und Vorsitzende der Konservativen Partei zurück, nachdem sie nur 45 Tage im Amt war. Sie hatte die kürzeste Amtszeit aller britischen Premierminister.",
+            "eventDescriptionIt": "Liz Truss si è dimessa da Primo Ministro britannico e leader del Partito Conservatore in mezzo alla crisi politica del paese, servendo solo per 45 giorni. Ha avuto il mandato più breve di qualsiasi Primo Ministro britannico.",
+            "eventDescriptionEs": "Liz Truss renunció como Primera Ministra británica y líder del Partido Conservador en medio de la crisis política del país, sirviendo solo 45 días. Tuvo el mandato más corto de cualquier Primer Ministro británico."
         }
+        
         
         
     ]
