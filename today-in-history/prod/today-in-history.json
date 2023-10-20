@@ -4317,9 +4317,16 @@
             "eventDescriptionDe": "Liz Truss trat mitten in der politischen Krise des Landes als britische Premierministerin und Vorsitzende der Konservativen Partei zurück, nachdem sie nur 45 Tage im Amt war. Sie hatte die kürzeste Amtszeit aller britischen Premierminister.",
             "eventDescriptionIt": "Liz Truss si è dimessa da Primo Ministro britannico e leader del Partito Conservatore in mezzo alla crisi politica del paese, servendo solo per 45 giorni. Ha avuto il mandato più breve di qualsiasi Primo Ministro britannico.",
             "eventDescriptionEs": "Liz Truss renunció como Primera Ministra británica y líder del Partido Conservador en medio de la crisis política del país, sirviendo solo 45 días. Tuvo el mandato más corto de cualquier Primer Ministro británico."
+        },{
+            "eventId": "410",
+            "eventCategory": "HISTORY",
+            "eventDate": "1982/10/20",
+            "eventImg": null,
+            "eventDescriptionEn": "During the UEFA Cup match between FC Spartak Moscow and HFC Haarlem, 66 people were crushed to death in the Luzhniki disaster.",
+            "eventDescriptionTr": "FC Spartak Moskova ile HFC Haarlem arasındaki UEFA Kupası maçı sırasında, Luzhniki faciasında 66 kişi ezilerek öldü.",
+            "eventDescriptionDe": "Während des UEFA-Cup-Spiels zwischen FC Spartak Moskau und HFC Haarlem wurden 66 Menschen in der Luzhniki-Katastrophe zu Tode gequetscht.",
+            "eventDescriptionIt": "Durante la partita di Coppa UEFA tra FC Spartak Mosca e HFC Haarlem, 66 persone persero la vita schiacciate nella tragedia di Luzhniki.",
+            "eventDescriptionEs": "Durante el partido de la Copa de la UEFA entre el FC Spartak Moscú y el HFC Haarlem, 66 personas murieron aplastadas en la tragedia de Luzhniki."
         }
-        
-        
-        
     ]
 }
