@@ -4337,7 +4337,18 @@
             "eventDescriptionDe": "Apple Computer brachte den iPod heraus und revolutionierte damit den Konsum von Musik unterwegs.",
             "eventDescriptionIt": "Apple Computer ha rilasciato l'iPod, rivoluzionando il consumo di musica portatile.",
             "eventDescriptionEs": "Apple Computer lanzó el iPod, revolucionando el consumo de música portátil."
+        },{
+            "eventId": "412",
+            "eventCategory": "DISASTER",
+            "eventDate": "2011/10/23",
+            "eventImg": null,
+            "eventDescriptionEn": "A powerful 7.2 magnitude earthquake struck Van Province, Turkey, killing many people and causing numerous injuries.",
+            "eventDescriptionTr": "Van ilinde güçlü bir 7.2 büyüklüğünde deprem meydana geldi, çok sayıda kişi hayatını kaybetti ve birçok yaralanma oldu.",
+            "eventDescriptionDe": "Ein starkes Erdbeben der Stärke 7,2 erschütterte die Provinz Van in der Türkei, wobei viele Menschen ums Leben kamen und zahlreiche verletzt wurden.",
+            "eventDescriptionIt": "Una potente scossa di terremoto di magnitudo 7,2 colpì la provincia di Van, in Turchia, uccidendo molte persone e causando numerosi feriti.",
+            "eventDescriptionEs": "Un poderoso terremoto de magnitud 7.2 golpeó la provincia de Van, Turquía, matando a muchas personas y causando numerosas heridas."
         }
+        
         
     ]
 }
