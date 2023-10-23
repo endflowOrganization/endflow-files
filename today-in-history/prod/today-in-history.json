@@ -4339,7 +4339,7 @@
             "eventDescriptionEs": "Apple Computer lanzó el iPod, revolucionando el consumo de música portátil."
         },{
             "eventId": "412",
-            "eventCategory": "DISASTER",
+            "eventCategory": "HISTORY",
             "eventDate": "2011/10/23",
             "eventImg": null,
             "eventDescriptionEn": "A powerful 7.2 magnitude earthquake struck Van Province, Turkey, killing many people and causing numerous injuries.",
@@ -4347,7 +4347,18 @@
             "eventDescriptionDe": "Ein starkes Erdbeben der Stärke 7,2 erschütterte die Provinz Van in der Türkei, wobei viele Menschen ums Leben kamen und zahlreiche verletzt wurden.",
             "eventDescriptionIt": "Una potente scossa di terremoto di magnitudo 7,2 colpì la provincia di Van, in Turchia, uccidendo molte persone e causando numerosi feriti.",
             "eventDescriptionEs": "Un poderoso terremoto de magnitud 7.2 golpeó la provincia de Van, Turquía, matando a muchas personas y causando numerosas heridas."
+        },{
+            "eventId": "413",
+            "eventCategory": "TECH",
+            "eventDate": "2010/01/27",
+            "eventImg": null,
+            "eventDescriptionEn": "Apple announced the first iPad, marking a new era in mobile computing technology.",
+            "eventDescriptionTr": "Apple, mobil bilgisayar teknolojisi alanında yeni bir çağın başlangıcını simgeleyen ilk iPad'i duyurdu.",
+            "eventDescriptionDe": "Apple kündigte das erste iPad an und läutete damit eine neue Ära in der mobilen Computertechnologie ein.",
+            "eventDescriptionIt": "Apple ha annunciato il primo iPad, segnando una nuova era nella tecnologia informatica mobile.",
+            "eventDescriptionEs": "Apple anunció el primer iPad, marcando una nueva era en la tecnología de computación móvil."
         }
+        
         
         
     ]
