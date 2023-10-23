@@ -4357,7 +4357,18 @@
             "eventDescriptionDe": "Apple kündigte das erste iPad an und läutete damit eine neue Ära in der mobilen Computertechnologie ein.",
             "eventDescriptionIt": "Apple ha annunciato il primo iPad, segnando una nuova era nella tecnologia informatica mobile.",
             "eventDescriptionEs": "Apple anunció el primer iPad, marcando una nueva era en la tecnología de computación móvil."
+        },{
+            "eventId": "414",
+            "eventCategory": "POLITICAL",
+            "eventDate": "1989/10/23",
+            "eventImg": null,
+            "eventDescriptionEn": "The Hungarian Republic was officially proclaimed, replacing the communist Hungarian People's Republic.",
+            "eventDescriptionTr": "Macaristan Cumhuriyeti resmen ilan edildi, komünist Macaristan Halk Cumhuriyeti'nin yerini aldı.",
+            "eventDescriptionDe": "Die Ungarische Republik wurde offiziell ausgerufen und ersetzte die kommunistische Ungarische Volksrepublik.",
+            "eventDescriptionIt": "La Repubblica Ungherese fu proclamata ufficialmente, sostituendo la Repubblica Popolare Ungherese comunista.",
+            "eventDescriptionEs": "La República Húngara fue proclamada oficialmente, reemplazando la República Popular Húngara comunista."
         }
+        
         
         
         
