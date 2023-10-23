@@ -4327,6 +4327,17 @@
             "eventDescriptionDe": "Während des UEFA-Cup-Spiels zwischen FC Spartak Moskau und HFC Haarlem wurden 66 Menschen in der Luzhniki-Katastrophe zu Tode gequetscht.",
             "eventDescriptionIt": "Durante la partita di Coppa UEFA tra FC Spartak Mosca e HFC Haarlem, 66 persone persero la vita schiacciate nella tragedia di Luzhniki.",
             "eventDescriptionEs": "Durante el partido de la Copa de la UEFA entre el FC Spartak Moscú y el HFC Haarlem, 66 personas murieron aplastadas en la tragedia de Luzhniki."
+        },{
+            "eventId": "411",
+            "eventCategory": "TECH",
+            "eventDate": "2001/10/23",
+            "eventImg": null,
+            "eventDescriptionEn": "Apple Computer released the iPod, revolutionizing portable music consumption.",
+            "eventDescriptionTr": "Apple Computer, taşınabilir müzik tüketimini devrim niteliğinde değiştiren iPod'u piyasaya sürdü.",
+            "eventDescriptionDe": "Apple Computer brachte den iPod heraus und revolutionierte damit den Konsum von Musik unterwegs.",
+            "eventDescriptionIt": "Apple Computer ha rilasciato l'iPod, rivoluzionando il consumo di musica portatile.",
+            "eventDescriptionEs": "Apple Computer lanzó el iPod, revolucionando el consumo de música portátil."
         }
+        
     ]
 }
