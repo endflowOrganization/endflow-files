@@ -4456,7 +4456,18 @@
             "eventDescriptionDe": "Benito Mussolini wurde zum Ministerpräsidenten von Italien ernannt.",
             "eventDescriptionIt": "Benito Mussolini fu nominato Primo Ministro d'Italia.",
             "eventDescriptionEs": "Benito Mussolini fue nombrado Primer Ministro de Italia."
+        },{
+            "eventId": "426",
+            "eventCategory": "SCIENCE",
+            "eventDate": "2011/10/31",
+            "eventImg": null,
+            "eventDescriptionEn": "The global population of humans reached seven billion. This day is now recognized by the United Nations as the Day of Seven Billion.",
+            "eventDescriptionTr": "İnsanların küresel nüfusu yedi milyara ulaştı. Bu gün şimdi Birleşmiş Milletler tarafından Yedi Milyar Günü olarak tanınmaktadır.",
+            "eventDescriptionDe": "Die weltweite Bevölkerung der Menschen erreichte sieben Milliarden. Dieser Tag wird von den Vereinten Nationen jetzt als Tag der Sieben Milliarden anerkannt.",
+            "eventDescriptionIt": "La popolazione mondiale di esseri umani ha raggiunto sette miliardi. Questo giorno è ora riconosciuto dalle Nazioni Unite come il Giorno dei Sette Miliardi.",
+            "eventDescriptionEs": "La población mundial de humanos alcanzó los siete mil millones. Este día es ahora reconocido por las Naciones Unidas como el Día de los Siete Mil Millones."
         }
+        
         
         
         
