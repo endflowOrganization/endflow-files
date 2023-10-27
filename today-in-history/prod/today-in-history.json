@@ -4387,6 +4387,17 @@
             "eventDescriptionDe": "Cristina Fernández de Kirchner wird als erste Frau direkt zur Präsidentin Argentiniens gewählt.",
             "eventDescriptionIt": "Cristina Fernández de Kirchner diventa la prima Presidentessa dell'Argentina eletta direttamente.",
             "eventDescriptionEs": "Cristina Fernández de Kirchner se convierte en la primera Presidenta de Argentina elegida directamente."
+        },{
+            "eventId": "417",
+            "eventCategory": "POLITICS",
+            "eventDate": "1918/10/28",
+            "eventImg": null,
+            "eventDescriptionEn": "World War I: Czech politicians peacefully take over the city of Prague, thus establishing the First Czechoslovak Republic.",
+            "eventDescriptionTr": "I. Dünya Savaşı: Çek politikacılar, Prag şehrini barışçıl bir şekilde ele geçirerek İlk Çekoslovak Cumhuriyeti'ni kurarlar.",
+            "eventDescriptionDe": "Erster Weltkrieg: Tschechische Politiker übernehmen friedlich die Stadt Prag und gründen damit die Erste Tschechoslowakische Republik.",
+            "eventDescriptionIt": "Prima guerra mondiale: i politici cecoslovacchi prendono pacificamente il controllo della città di Praga, stabilendo la Prima Repubblica Cecoslovacca.",
+            "eventDescriptionEs": "Primera Guerra Mundial: Políticos checos toman pacíficamente la ciudad de Praga, estableciendo así la Primera República Checoslovaca."
         }
+        
     ]
 }
