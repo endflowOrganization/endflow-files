@@ -4406,9 +4406,16 @@
             "eventDescriptionDe": "Schwarzer Dienstag: Die New Yorker Börse stürzt ab, beendet den großen Bullenmarkt der 1920er Jahre und leitet die Große Depression ein.",
             "eventDescriptionIt": "Martedì Nero: La Borsa di New York crolla, mettendo fine al Grande Mercato Toro degli anni '20 e iniziando la Grande Depressione.",
             "eventDescriptionEs": "Martes Negro: La Bolsa de Nueva York se desploma, terminando el Gran Mercado Alcista de la década de 1920 y comenzando la Gran Depresión."
+        },{
+            "eventId": "421",
+            "eventCategory": "POLITICS",
+            "eventDate": "2014/10/30",
+            "eventImg": null,
+            "eventDescriptionEn": "Sweden becomes the first European Union member state to officially recognize the State of Palestine.",
+            "eventDescriptionTr": "İsveç, Filistin Devleti'ni resmi olarak tanıyan ilk Avrupa Birliği üye ülkesi olur.",
+            "eventDescriptionDe": "Schweden wird das erste Mitgliedsland der Europäischen Union, das den Staat Palästina offiziell anerkennt.",
+            "eventDescriptionIt": "La Svezia diventa il primo stato membro dell'Unione Europea a riconoscere ufficialmente lo Stato di Palestina.",
+            "eventDescriptionEs": "Suecia se convierte en el primer estado miembro de la Unión Europea en reconocer oficialmente el Estado de Palestina."
         }
-        
-        
-        
     ]
 }
