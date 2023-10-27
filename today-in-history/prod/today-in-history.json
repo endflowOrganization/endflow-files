@@ -4426,7 +4426,29 @@
             "eventDescriptionDe": "Erster Weltkrieg: Das Osmanische Reich unterzeichnet den Waffenstillstand von Mudros mit den Alliierten.",
             "eventDescriptionIt": "Prima guerra mondiale: L'Impero Ottomano firma l'Armistizio di Mudros con gli Alleati.",
             "eventDescriptionEs": "Primera Guerra Mundial: El Imperio Otomano firma el Armisticio de Mudros con los Aliados."
+        },{
+            "eventId": "423",
+            "eventCategory": "HISTORY",
+            "eventDate": "2020/10/30",
+            "eventImg": null,
+            "eventDescriptionEn": "A magnitude 7.0 earthquake struck the Aegean Sea between Greece and Turkey, triggering a tsunami.",
+            "eventDescriptionTr": "7.0 büyüklüğünde bir deprem, Yunanistan ve Türkiye arasındaki Ege Denizi'nde meydana geldi ve bir tsunamiye neden oldu.",
+            "eventDescriptionDe": "Ein Erdbeben der Stärke 7,0 erschütterte das Ägäische Meer zwischen Griechenland und der Türkei und löste einen Tsunami aus.",
+            "eventDescriptionIt": "Un terremoto di magnitudo 7.0 colpì il Mar Egeo tra Grecia e Turchia, scatenando uno tsunami.",
+            "eventDescriptionEs": "Un terremoto de magnitud 7.0 golpeó el Mar Egeo entre Grecia y Turquía, desencadenando un tsunami."
+        },{
+            "eventId": "424",
+            "eventCategory": "HISTORY",
+            "eventDate": "1999/10/31",
+            "eventImg": null,
+            "eventDescriptionEn": "EgyptAir Flight 990 crashed into the Atlantic Ocean near Nantucket, killing all 217 people on board.",
+            "eventDescriptionTr": "EgyptAir 990 sefer sayılı uçuş, Nantucket yakınlarında Atlantik Okyanusu'na çarparak düştü ve bordadaki tüm 217 kişi hayatını kaybetti.",
+            "eventDescriptionDe": "EgyptAir Flug 990 stürzte in den Atlantischen Ozean in der Nähe von Nantucket und tötete alle 217 Menschen an Bord.",
+            "eventDescriptionIt": "Il volo EgyptAir 990 si schiantò nell'Oceano Atlantico vicino a Nantucket, uccidendo tutte le 217 persone a bordo.",
+            "eventDescriptionEs": "El vuelo 990 de EgyptAir se estrelló en el Océano Atlántico cerca de Nantucket, matando a las 217 personas a bordo."
         }
+        
+        
         
     ]
 }
