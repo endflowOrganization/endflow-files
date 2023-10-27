@@ -4446,7 +4446,18 @@
             "eventDescriptionDe": "EgyptAir Flug 990 stürzte in den Atlantischen Ozean in der Nähe von Nantucket und tötete alle 217 Menschen an Bord.",
             "eventDescriptionIt": "Il volo EgyptAir 990 si schiantò nell'Oceano Atlantico vicino a Nantucket, uccidendo tutte le 217 persone a bordo.",
             "eventDescriptionEs": "El vuelo 990 de EgyptAir se estrelló en el Océano Atlántico cerca de Nantucket, matando a las 217 personas a bordo."
+        },{
+            "eventId": "425",
+            "eventCategory": "POLITICS",
+            "eventDate": "1922/10/31",
+            "eventImg": null,
+            "eventDescriptionEn": "Benito Mussolini was made Prime Minister of Italy.",
+            "eventDescriptionTr": "Benito Mussolini, İtalya'nın Başbakanı olarak atandı.",
+            "eventDescriptionDe": "Benito Mussolini wurde zum Ministerpräsidenten von Italien ernannt.",
+            "eventDescriptionIt": "Benito Mussolini fu nominato Primo Ministro d'Italia.",
+            "eventDescriptionEs": "Benito Mussolini fue nombrado Primer Ministro de Italia."
         }
+        
         
         
         
