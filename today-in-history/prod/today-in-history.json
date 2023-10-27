@@ -4416,6 +4416,17 @@
             "eventDescriptionDe": "Schweden wird das erste Mitgliedsland der Europäischen Union, das den Staat Palästina offiziell anerkennt.",
             "eventDescriptionIt": "La Svezia diventa il primo stato membro dell'Unione Europea a riconoscere ufficialmente lo Stato di Palestina.",
             "eventDescriptionEs": "Suecia se convierte en el primer estado miembro de la Unión Europea en reconocer oficialmente el Estado de Palestina."
+        },{
+            "eventId": "422",
+            "eventCategory": "HISTORY",
+            "eventDate": "1918/10/30",
+            "eventImg": null,
+            "eventDescriptionEn": "World War I: The Ottoman Empire signs the Armistice of Mudros with the Allies.",
+            "eventDescriptionTr": "I. Dünya Savaşı: Osmanlı İmparatorluğu, Müttefiklerle Mudros Mütarekesi'ni imzalar.",
+            "eventDescriptionDe": "Erster Weltkrieg: Das Osmanische Reich unterzeichnet den Waffenstillstand von Mudros mit den Alliierten.",
+            "eventDescriptionIt": "Prima guerra mondiale: L'Impero Ottomano firma l'Armistizio di Mudros con gli Alleati.",
+            "eventDescriptionEs": "Primera Guerra Mundial: El Imperio Otomano firma el Armisticio de Mudros con los Aliados."
         }
+        
     ]
 }
