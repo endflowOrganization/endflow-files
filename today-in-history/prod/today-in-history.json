@@ -4367,7 +4367,18 @@
             "eventDescriptionDe": "Die Ungarische Republik wurde offiziell ausgerufen und ersetzte die kommunistische Ungarische Volksrepublik.",
             "eventDescriptionIt": "La Repubblica Ungherese fu proclamata ufficialmente, sostituendo la Repubblica Popolare Ungherese comunista.",
             "eventDescriptionEs": "La República Húngara fue proclamada oficialmente, reemplazando la República Popular Húngara comunista."
+        },{
+            "eventId": "415",
+            "eventCategory": "POLITICAL",
+            "eventDate": "2017/10/27",
+            "eventImg": null,
+            "eventDescriptionEn": "Catalonia declared independence from Spain, leading to a political crisis in the country.",
+            "eventDescriptionTr": "Katalonya, İspanya'dan bağımsızlığını ilan etti, ülkede siyasi bir krize neden oldu.",
+            "eventDescriptionDe": "Katalonien erklärte die Unabhängigkeit von Spanien, was zu einer politischen Krise im Land führte.",
+            "eventDescriptionIt": "La Catalogna ha dichiarato l'indipendenza dalla Spagna, portando a una crisi politica nel paese.",
+            "eventDescriptionEs": "Cataluña declaró la independencia de España, lo que llevó a una crisis política en el país."
         }
+        
         
         
         
