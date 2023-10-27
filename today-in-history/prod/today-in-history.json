@@ -4369,7 +4369,7 @@
             "eventDescriptionEs": "La República Húngara fue proclamada oficialmente, reemplazando la República Popular Húngara comunista."
         },{
             "eventId": "415",
-            "eventCategory": "POLITICAL",
+            "eventCategory": "POLITICS",
             "eventDate": "2017/10/27",
             "eventImg": null,
             "eventDescriptionEn": "Catalonia declared independence from Spain, leading to a political crisis in the country.",
@@ -4377,11 +4377,16 @@
             "eventDescriptionDe": "Katalonien erklärte die Unabhängigkeit von Spanien, was zu einer politischen Krise im Land führte.",
             "eventDescriptionIt": "La Catalogna ha dichiarato l'indipendenza dalla Spagna, portando a una crisi politica nel paese.",
             "eventDescriptionEs": "Cataluña declaró la independencia de España, lo que llevó a una crisis política en el país."
+        },{
+            "eventId": "416",
+            "eventCategory": "POLITICS",
+            "eventDate": "2007/12/10",
+            "eventImg": null,
+            "eventDescriptionEn": "Cristina Fernández de Kirchner becomes the first directly elected female President of Argentina.",
+            "eventDescriptionTr": "Cristina Fernández de Kirchner, Arjantin'in doğrudan seçilen ilk kadın Başkanı olur.",
+            "eventDescriptionDe": "Cristina Fernández de Kirchner wird als erste Frau direkt zur Präsidentin Argentiniens gewählt.",
+            "eventDescriptionIt": "Cristina Fernández de Kirchner diventa la prima Presidentessa dell'Argentina eletta direttamente.",
+            "eventDescriptionEs": "Cristina Fernández de Kirchner se convierte en la primera Presidenta de Argentina elegida directamente."
         }
-        
-        
-        
-        
-        
     ]
 }
