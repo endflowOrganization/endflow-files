@@ -4397,7 +4397,18 @@
             "eventDescriptionDe": "Erster Weltkrieg: Tschechische Politiker übernehmen friedlich die Stadt Prag und gründen damit die Erste Tschechoslowakische Republik.",
             "eventDescriptionIt": "Prima guerra mondiale: i politici cecoslovacchi prendono pacificamente il controllo della città di Praga, stabilendo la Prima Repubblica Cecoslovacca.",
             "eventDescriptionEs": "Primera Guerra Mundial: Políticos checos toman pacíficamente la ciudad de Praga, estableciendo así la Primera República Checoslovaca."
+        },{
+            "eventId": "419",
+            "eventCategory": "POLITICS",
+            "eventDate": "1991/10/27",
+            "eventImg": null,
+            "eventDescriptionEn": "Turkmenistan achieves independence from the Soviet Union.",
+            "eventDescriptionTr": "Türkmenistan, Sovyetler Birliği'nden bağımsızlığını kazanır.",
+            "eventDescriptionDe": "Turkmenistan erlangt die Unabhängigkeit von der Sowjetunion.",
+            "eventDescriptionIt": "Il Turkmenistan ottiene l'indipendenza dall'Unione Sovietica.",
+            "eventDescriptionEs": "Turkmenistán logra la independencia de la Unión Soviética."
         }
+        
         
     ]
 }
