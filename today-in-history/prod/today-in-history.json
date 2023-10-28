@@ -4486,7 +4486,18 @@
             "eventDescriptionDe": "Antigua und Barbuda erlangten die Unabhängigkeit vom Vereinigten Königreich.",
             "eventDescriptionIt": "Antigua e Barbuda hanno ottenuto l'indipendenza dal Regno Unito.",
             "eventDescriptionEs": "Antigua y Barbuda obtuvo la independencia del Reino Unido."
+        },{
+            "eventId": "429",
+            "eventCategory": "HISTORY",
+            "eventDate": "1995/10/28",
+            "eventImg": null,
+            "eventDescriptionEn": "The Baku Metro fire resulted in 289 people being killed and 270 injured.",
+            "eventDescriptionTr": "Bakü Metro yangınında 289 kişi öldü ve 270 kişi yaralandı.",
+            "eventDescriptionDe": "Bei dem Brand in der Baku Metro kamen 289 Menschen ums Leben und 270 wurden verletzt.",
+            "eventDescriptionIt": "L'incendio della metropolitana di Baku ha causato la morte di 289 persone e 270 feriti.",
+            "eventDescriptionEs": "El incendio en el Metro de Bakú resultó en la muerte de 289 personas y 270 heridos."
         }
+        
         
         
         
