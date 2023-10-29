@@ -4498,7 +4498,7 @@
             "eventDescriptionEs": "El incendio en el Metro de Bakú resultó en la muerte de 289 personas y 270 heridos."
         },{
             "eventId": "430",
-            "eventCategory": "POLITICAL EVENT",
+            "eventCategory": "POLITICS",
             "eventDate": "2015/10/29",
             "eventImg": null,
             "eventDescriptionEn": "China announced the end of its one-child policy after 35 years.",
@@ -4506,7 +4506,18 @@
             "eventDescriptionDe": "China gab das Ende seiner Ein-Kind-Politik nach 35 Jahren bekannt.",
             "eventDescriptionIt": "La Cina ha annunciato la fine della sua politica del figlio unico dopo 35 anni.",
             "eventDescriptionEs": "China anunció el fin de su política de un solo hijo después de 35 años."
+        },{
+            "eventId": "431",
+            "eventCategory": "HISTORY",
+            "eventDate": "1914/10/29",
+            "eventImg": null,
+            "eventDescriptionEn": "The Ottoman Empire entered World War I.",
+            "eventDescriptionTr": "Osmanlı İmparatorluğu, I. Dünya Savaşı'na girdi.",
+            "eventDescriptionDe": "Das Osmanische Reich trat in den Ersten Weltkrieg ein.",
+            "eventDescriptionIt": "L'Impero Ottomano entrò nella Prima Guerra Mondiale.",
+            "eventDescriptionEs": "El Imperio Otomano entró en la Primera Guerra Mundial."
         }
+        
         
         
         
