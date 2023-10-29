@@ -4496,7 +4496,18 @@
             "eventDescriptionDe": "Bei dem Brand in der Baku Metro kamen 289 Menschen ums Leben und 270 wurden verletzt.",
             "eventDescriptionIt": "L'incendio della metropolitana di Baku ha causato la morte di 289 persone e 270 feriti.",
             "eventDescriptionEs": "El incendio en el Metro de Bakú resultó en la muerte de 289 personas y 270 heridos."
+        },{
+            "eventId": "430",
+            "eventCategory": "POLITICAL EVENT",
+            "eventDate": "2015/10/29",
+            "eventImg": null,
+            "eventDescriptionEn": "China announced the end of its one-child policy after 35 years.",
+            "eventDescriptionTr": "Çin, 35 yıl sonra tek çocuk politikasının sonunu duyurdu.",
+            "eventDescriptionDe": "China gab das Ende seiner Ein-Kind-Politik nach 35 Jahren bekannt.",
+            "eventDescriptionIt": "La Cina ha annunciato la fine della sua politica del figlio unico dopo 35 anni.",
+            "eventDescriptionEs": "China anunció el fin de su política de un solo hijo después de 35 años."
         }
+        
         
         
         
