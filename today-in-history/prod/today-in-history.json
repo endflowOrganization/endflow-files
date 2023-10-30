@@ -4586,7 +4586,40 @@
             "eventDescriptionDe": "Der Weltspartag wird in Mailand, Italien, von den Mitgliedern des Verbands beim 1. Internationalen Sparkassenkongress (Weltverband der Sparkassen) angekündigt.",
             "eventDescriptionIt": "La Giornata Mondiale del Risparmio viene annunciata a Milano, Italia, dai Membri dell'Associazione al 1° Congresso Internazionale delle Casse di Risparmio (Società Mondiale delle Casse di Risparmio).",
             "eventDescriptionEs": "El Día Mundial del Ahorro es anunciado en Milán, Italia, por los Miembros de la Asociación en el 1er Congreso Internacional de Cajas de Ahorro (Sociedad Mundial de Cajas de Ahorro)."
+        },{
+            "eventId": "439",
+            "eventCategory": "HISTORY",
+            "eventDate": "1493/11/03",
+            "eventImg": null,
+            "eventDescriptionEn": "Christopher Columbus first sights the island of Dominica in the Caribbean Sea.",
+            "eventDescriptionTr": "Christopher Columbus, Karayip Denizi'nde Dominika adasını ilk kez görüyor.",
+            "eventDescriptionDe": "Christoph Kolumbus erblickt zum ersten Mal die Insel Dominica im Karibischen Meer.",
+            "eventDescriptionIt": "Cristoforo Colombo avvista per la prima volta l'isola di Dominica nel Mar dei Caraibi.",
+            "eventDescriptionEs": "Cristóbal Colón avista por primera vez la isla de Dominica en el mar Caribe."
+        },{
+            "eventId": "441",
+            "eventCategory": "POLITICS",
+            "eventDate": "1978/11/03",
+            "eventImg": null,
+            "eventDescriptionEn": "Dominica gains its independence from the United Kingdom.",
+            "eventDescriptionTr": "Dominika, Birleşik Krallık'tan bağımsızlığını kazanır.",
+            "eventDescriptionDe": "Dominica erlangt seine Unabhängigkeit von Großbritannien.",
+            "eventDescriptionIt": "Dominica ottiene la sua indipendenza dal Regno Unito.",
+            "eventDescriptionEs": "Dominica obtiene su independencia del Reino Unido."
+        },{
+            "eventId": "440",
+            "eventCategory": "FINANCE",
+            "eventDate": "2014/11/03",
+            "eventImg": null,
+            "eventDescriptionEn": "One World Trade Center officially opens in New York City, replacing the Twin Towers after they were destroyed during the September 11 attacks.",
+            "eventDescriptionTr": "One World Trade Center, 11 Eylül saldırıları sırasında yıkılan İkiz Kuleler'in yerine New York City'de resmi olarak açıldı.",
+            "eventDescriptionDe": "One World Trade Center wird offiziell in New York City eröffnet und ersetzt die Zwillingstürme, die bei den Anschlägen vom 11. September zerstört wurden.",
+            "eventDescriptionIt": "Il One World Trade Center viene ufficialmente inaugurato a New York, sostituendo le Twin Towers dopo che furono distrutte durante gli attacchi dell'11 settembre.",
+            "eventDescriptionEs": "One World Trade Center se inaugura oficialmente en la ciudad de Nueva York, reemplazando las Torres Gemelas después de que fueran destruidas durante los ataques del 11 de septiembre."
         }
+        
+        
+        
         
         
         
