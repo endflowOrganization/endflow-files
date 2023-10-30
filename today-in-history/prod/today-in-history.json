@@ -4556,7 +4556,18 @@
             "eventDescriptionDe": "Zweiter Weltkrieg: Erster Tag der Schlacht von Elaia–Kalamas zwischen den Griechen und den Italienern.",
             "eventDescriptionIt": "Seconda Guerra Mondiale: Primo giorno della Battaglia di Elaia-Kalamas tra greci e italiani.",
             "eventDescriptionEs": "Segunda Guerra Mundial: Primer día de la Batalla de Elaia-Kalamas entre los griegos y los italianos."
+        },{
+            "eventId": "436",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1961/10/30",
+            "eventImg": null,
+            "eventDescriptionEn": "The Soviet Union detonates the Tsar Bomba, the most powerful explosive device ever detonated.",
+            "eventDescriptionTr": "Sovyetler Birliği, şimdiye kadar patlatılmış en güçlü patlayıcı cihaz olan Çar Bombası'nı patlattı.",
+            "eventDescriptionDe": "Die Sowjetunion zündet die Zar-Bombe, das bisher mächtigste Sprenggerät.",
+            "eventDescriptionIt": "L'Unione Sovietica fa esplodere la Tsar Bomba, il dispositivo esplosivo più potente mai detonato.",
+            "eventDescriptionEs": "La Unión Soviética detona la Bomba del Zar, el dispositivo explosivo más poderoso jamás detonado."
         }
+        
         
         
         
