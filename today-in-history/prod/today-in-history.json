@@ -4616,7 +4616,18 @@
             "eventDescriptionDe": "One World Trade Center wird offiziell in New York City eröffnet und ersetzt die Zwillingstürme, die bei den Anschlägen vom 11. September zerstört wurden.",
             "eventDescriptionIt": "Il One World Trade Center viene ufficialmente inaugurato a New York, sostituendo le Twin Towers dopo che furono distrutte durante gli attacchi dell'11 settembre.",
             "eventDescriptionEs": "One World Trade Center se inaugura oficialmente en la ciudad de Nueva York, reemplazando las Torres Gemelas después de que fueran destruidas durante los ataques del 11 de septiembre."
+        },{
+            "eventId": "442",
+            "eventCategory": "POLITICS",
+            "eventDate": "1986/11/03",
+            "eventImg": null,
+            "eventDescriptionEn": "The Compact of Free Association became law, granting the Federated States of Micronesia and the Marshall Islands independence from the United States.",
+            "eventDescriptionTr": "Özgür İlişki Anlaşması yasa oldu ve Mikronezya Federal Devletleri ile Marshall Adaları'na Amerika Birleşik Devletleri'nden bağımsızlık verdi.",
+            "eventDescriptionDe": "Das Compact of Free Association wurde Gesetz und gewährte den Föderierten Staaten von Mikronesien und den Marshallinseln Unabhängigkeit von den Vereinigten Staaten.",
+            "eventDescriptionIt": "Il Compact of Free Association divenne legge, concedendo agli Stati Federati di Micronesia e alle Isole Marshall l'indipendenza dagli Stati Uniti.",
+            "eventDescriptionEs": "El Pacto de Libre Asociación se convirtió en ley, otorgando a los Estados Federados de Micronesia y las Islas Marshall independencia de los Estados Unidos."
         }
+        
         
         
         
