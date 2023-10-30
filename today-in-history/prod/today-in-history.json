@@ -4566,7 +4566,18 @@
             "eventDescriptionDe": "Die Sowjetunion zündet die Zar-Bombe, das bisher mächtigste Sprenggerät.",
             "eventDescriptionIt": "L'Unione Sovietica fa esplodere la Tsar Bomba, il dispositivo esplosivo più potente mai detonato.",
             "eventDescriptionEs": "La Unión Soviética detona la Bomba del Zar, el dispositivo explosivo más poderoso jamás detonado."
+        },{
+            "eventId": "437",
+            "eventCategory": "HISTORY",
+            "eventDate": "1913/10/31",
+            "eventImg": null,
+            "eventDescriptionEn": "Dedication of the Lincoln Highway, the first automobile highway across the United States.",
+            "eventDescriptionTr": "Amerika Birleşik Devletleri boyunca ilk otomobil otoyolu olan Lincoln Otoyolu'nun açılışı.",
+            "eventDescriptionDe": "Einweihung des Lincoln Highway, der ersten Autobahn quer durch die Vereinigten Staaten.",
+            "eventDescriptionIt": "Dedica della Lincoln Highway, la prima autostrada automobilistica attraverso gli Stati Uniti.",
+            "eventDescriptionEs": "Dedicación de la Lincoln Highway, la primera carretera automovilística a través de los Estados Unidos."
         }
+        
         
         
         
