@@ -4536,7 +4536,18 @@
             "eventDescriptionDe": "Es wurde ein Friedensabkommen zwischen der äthiopischen Regierung und der Tigray Volksbefreiungsfront unterzeichnet, womit der Tigray-Krieg beendet wurde.",
             "eventDescriptionIt": "Un accordo di pace è stato firmato tra il governo etiope e il Fronte di Liberazione del Popolo Tigray, ponendo fine alla guerra del Tigray.",
             "eventDescriptionEs": "Se firmó un acuerdo de paz entre el gobierno etíope y el Frente de Liberación Popular de Tigray, poniendo fin a la guerra de Tigray."
+        },{
+            "eventId": "434",
+            "eventCategory": "POLITICS",
+            "eventDate": "1983/11/02",
+            "eventImg": null,
+            "eventDescriptionEn": "U.S. President Ronald Reagan signed a bill creating Martin Luther King, Jr. Day.",
+            "eventDescriptionTr": "ABD Başkanı Ronald Reagan, Martin Luther King, Jr. Günü'nü oluşturan bir yasayı imzaladı.",
+            "eventDescriptionDe": "US-Präsident Ronald Reagan unterzeichnete ein Gesetz zur Schaffung des Martin Luther King, Jr. Tages.",
+            "eventDescriptionIt": "Il presidente degli Stati Uniti Ronald Reagan ha firmato una legge che istituisce il Martin Luther King, Jr. Day.",
+            "eventDescriptionEs": "El presidente de EE. UU., Ronald Reagan, firmó una ley creando el Día de Martin Luther King, Jr."
         }
+        
         
         
         
