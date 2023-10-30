@@ -4546,7 +4546,18 @@
             "eventDescriptionDe": "US-Präsident Ronald Reagan unterzeichnete ein Gesetz zur Schaffung des Martin Luther King, Jr. Tages.",
             "eventDescriptionIt": "Il presidente degli Stati Uniti Ronald Reagan ha firmato una legge che istituisce il Martin Luther King, Jr. Day.",
             "eventDescriptionEs": "El presidente de EE. UU., Ronald Reagan, firmó una ley creando el Día de Martin Luther King, Jr."
+        },{
+            "eventId": "435",
+            "eventCategory": "HISTORY",
+            "eventDate": "1940/11/02",
+            "eventImg": null,
+            "eventDescriptionEn": "World War II: First day of the Battle of Elaia–Kalamas between the Greeks and the Italians.",
+            "eventDescriptionTr": "II. Dünya Savaşı: Yunanlar ve İtalyanlar arasında Elaia-Kalamas Muharebesi'nin ilk günü.",
+            "eventDescriptionDe": "Zweiter Weltkrieg: Erster Tag der Schlacht von Elaia–Kalamas zwischen den Griechen und den Italienern.",
+            "eventDescriptionIt": "Seconda Guerra Mondiale: Primo giorno della Battaglia di Elaia-Kalamas tra greci e italiani.",
+            "eventDescriptionEs": "Segunda Guerra Mundial: Primer día de la Batalla de Elaia-Kalamas entre los griegos y los italianos."
         }
+        
         
         
         
