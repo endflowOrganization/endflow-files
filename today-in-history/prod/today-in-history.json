@@ -4516,7 +4516,18 @@
             "eventDescriptionDe": "Das Osmanische Reich trat in den Ersten Weltkrieg ein.",
             "eventDescriptionIt": "L'Impero Ottomano entrò nella Prima Guerra Mondiale.",
             "eventDescriptionEs": "El Imperio Otomano entró en la Primera Guerra Mundial."
+        },{
+            "eventId": "432",
+            "eventCategory": "TECH",
+            "eventDate": "1988/11/02",
+            "eventImg": null,
+            "eventDescriptionEn": "The Morris worm, the first Internet-distributed computer worm to gain significant mainstream media attention, was launched from MIT.",
+            "eventDescriptionTr": "Ana akım medyanın önemli dikkatini çeken ilk İnternet dağıtımlı bilgisayar solucanı olan Morris solucanı, MIT'den başlatıldı.",
+            "eventDescriptionDe": "Der Morris-Wurm, der erste über das Internet verbreitete Computerwurm, der bedeutende Aufmerksamkeit in den Mainstream-Medien erlangte, wurde vom MIT aus gestartet.",
+            "eventDescriptionIt": "Il worm Morris, il primo worm informatico distribuito su Internet a guadagnare una notevole attenzione dei media mainstream, è stato lanciato dal MIT.",
+            "eventDescriptionEs": "El gusano Morris, el primer gusano informático distribuido por Internet que ganó una atención significativa de los medios de comunicación masivos, fue lanzado desde el MIT."
         }
+        
         
         
         
