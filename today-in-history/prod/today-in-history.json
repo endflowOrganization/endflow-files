@@ -4526,7 +4526,18 @@
             "eventDescriptionDe": "Der Morris-Wurm, der erste über das Internet verbreitete Computerwurm, der bedeutende Aufmerksamkeit in den Mainstream-Medien erlangte, wurde vom MIT aus gestartet.",
             "eventDescriptionIt": "Il worm Morris, il primo worm informatico distribuito su Internet a guadagnare una notevole attenzione dei media mainstream, è stato lanciato dal MIT.",
             "eventDescriptionEs": "El gusano Morris, el primer gusano informático distribuido por Internet que ganó una atención significativa de los medios de comunicación masivos, fue lanzado desde el MIT."
+        },{
+            "eventId": "433",
+            "eventCategory": "POLITICS",
+            "eventDate": "2022/11/02", 
+            "eventImg": null,
+            "eventDescriptionEn": "A peace agreement was signed between the Ethiopian government and the Tigray People's Liberation Front, ending the Tigray War.",
+            "eventDescriptionTr": "Etiyopya hükümeti ile Tigray Halk Kurtuluş Cephesi arasında bir barış anlaşması imzalandı, Tigray Savaşı sona erdi.",
+            "eventDescriptionDe": "Es wurde ein Friedensabkommen zwischen der äthiopischen Regierung und der Tigray Volksbefreiungsfront unterzeichnet, womit der Tigray-Krieg beendet wurde.",
+            "eventDescriptionIt": "Un accordo di pace è stato firmato tra il governo etiope e il Fronte di Liberazione del Popolo Tigray, ponendo fine alla guerra del Tigray.",
+            "eventDescriptionEs": "Se firmó un acuerdo de paz entre el gobierno etíope y el Frente de Liberación Popular de Tigray, poniendo fin a la guerra de Tigray."
         }
+        
         
         
         
