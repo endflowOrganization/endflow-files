@@ -4638,7 +4638,7 @@
             "eventDescriptionEs": "City and South London Railway: Se inauguró la primera línea de metro de Londres de nivel profundo entre King William Street y Stockwell."
         },{
             "eventId": "444",
-            "eventCategory": "SPORTS",
+            "eventCategory": "SPORT",
             "eventDate": "1897/11/01",
             "eventImg": null,
             "eventDescriptionEn": "Italian Sport-Club Juventus was founded by a group of students of Liceo Classico Massimo d'Azeglio.",
@@ -4646,7 +4646,18 @@
             "eventDescriptionDe": "Der Italian Sport-Club Juventus wurde von einer Gruppe von Schülern des Liceo Classico Massimo d'Azeglio gegründet.",
             "eventDescriptionIt": "L'Italian Sport-Club Juventus fu fondato da un gruppo di studenti del Liceo Classico Massimo d'Azeglio.",
             "eventDescriptionEs": "El Italian Sport-Club Juventus fue fundado por un grupo de estudiantes del Liceo Classico Massimo d'Azeglio."
+        },{
+            "eventId": "445",
+            "eventCategory": "POLITICS",
+            "eventDate": "1993/11/01",
+            "eventImg": null,
+            "eventDescriptionEn": "The Maastricht Treaty took effect, formally establishing the European Union.",
+            "eventDescriptionTr": "Maastricht Antlaşması yürürlüğe girdi, Avrupa Birliği'ni resmi olarak kurdu.",
+            "eventDescriptionDe": "Der Vertrag von Maastricht trat in Kraft und begründete damit offiziell die Europäische Union.",
+            "eventDescriptionIt": "Il Trattato di Maastricht entrò in vigore, istituendo formalmente l'Unione Europea.",
+            "eventDescriptionEs": "El Tratado de Maastricht entró en vigor, estableciendo formalmente la Unión Europea."
         }
+        
         
         
         
