@@ -4656,7 +4656,18 @@
             "eventDescriptionDe": "Der Vertrag von Maastricht trat in Kraft und begründete damit offiziell die Europäische Union.",
             "eventDescriptionIt": "Il Trattato di Maastricht entrò in vigore, istituendo formalmente l'Unione Europea.",
             "eventDescriptionEs": "El Tratado de Maastricht entró en vigor, estableciendo formalmente la Unión Europea."
+        },{
+            "eventId": "446",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1952/11/01",
+            "eventImg": null,
+            "eventDescriptionEn": "The United States detonated the first hydrogen bomb at the Eniwetok Atoll in the Marshall Islands.",
+            "eventDescriptionTr": "Amerika Birleşik Devletleri, Marshall Adaları'ndaki Eniwetok Atolünde ilk hidrojen bombasını patlattı.",
+            "eventDescriptionDe": "Die Vereinigten Staaten zündeten die erste Wasserstoffbombe im Eniwetok-Atoll auf den Marshallinseln.",
+            "eventDescriptionIt": "Gli Stati Uniti hanno fatto esplodere la prima bomba all'idrogeno nell'atollo di Eniwetok nelle Isole Marshall.",
+            "eventDescriptionEs": "Los Estados Unidos detonaron la primera bomba de hidrógeno en el Atolón Eniwetok en las Islas Marshall."
         }
+        
         
         
         
