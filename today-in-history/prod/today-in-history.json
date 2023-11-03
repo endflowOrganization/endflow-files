@@ -4666,7 +4666,18 @@
             "eventDescriptionDe": "Die Vereinigten Staaten zündeten die erste Wasserstoffbombe im Eniwetok-Atoll auf den Marshallinseln.",
             "eventDescriptionIt": "Gli Stati Uniti hanno fatto esplodere la prima bomba all'idrogeno nell'atollo di Eniwetok nelle Isole Marshall.",
             "eventDescriptionEs": "Los Estados Unidos detonaron la primera bomba de hidrógeno en el Atolón Eniwetok en las Islas Marshall."
+        },{
+            "eventId": "447",
+            "eventCategory": "TECH",
+            "eventDate": "2007/11/05", 
+            "eventImg": null,
+            "eventDescriptionEn": "The Android mobile operating system is unveiled by Google.",
+            "eventDescriptionTr": "Google tarafından Android mobil işletim sistemi tanıtıldı.",
+            "eventDescriptionDe": "Das Android-Betriebssystem für Mobiltelefone wird von Google vorgestellt.",
+            "eventDescriptionIt": "Il sistema operativo mobile Android viene svelato da Google.",
+            "eventDescriptionEs": "Google presenta el sistema operativo móvil Android."
         }
+        
         
         
         
