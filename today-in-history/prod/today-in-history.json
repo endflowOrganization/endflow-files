@@ -4676,7 +4676,18 @@
             "eventDescriptionDe": "Das Android-Betriebssystem für Mobiltelefone wird von Google vorgestellt.",
             "eventDescriptionIt": "Il sistema operativo mobile Android viene svelato da Google.",
             "eventDescriptionEs": "Google presenta el sistema operativo móvil Android."
+        },{
+            "eventId": "448",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1973/11/04", 
+            "eventImg": null,
+            "eventDescriptionEn": "The Netherlands experiences its first car-free Sunday caused by the 1973 oil crisis, with highways being used exclusively by cyclists and roller skaters.",
+            "eventDescriptionTr": "Hollanda, 1973 petrol krizi nedeniyle ilk araba kullanılmayan Pazar gününü yaşar, otoyollar yalnızca bisikletçiler ve paten kaykaycılar tarafından kullanılmıştır.",
+            "eventDescriptionDe": "Die Niederlande erleben ihren ersten autofreien Sonntag aufgrund der Ölkrise von 1973, wobei Autobahnen ausschließlich von Radfahrern und Rollschuhläufern genutzt werden.",
+            "eventDescriptionIt": "I Paesi Bassi vivono la loro prima domenica senza auto a causa della crisi petrolifera del 1973, con autostrade utilizzate esclusivamente da ciclisti e pattinatori.",
+            "eventDescriptionEs": "Los Países Bajos experimentan su primer domingo sin coches debido a la crisis del petróleo de 1973, con autopistas utilizadas exclusivamente por ciclistas y patinadores."
         }
+        
         
         
         
