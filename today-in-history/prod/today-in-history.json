@@ -4706,7 +4706,18 @@
             "eventDescriptionDe": "Barack Obama wurde als Präsident der Vereinigten Staaten wiedergewählt und besiegte den republikanischen Kandidaten Mitt Romney.",
             "eventDescriptionIt": "Barack Obama è stato rieletto Presidente degli Stati Uniti, sconfiggendo il candidato repubblicano Mitt Romney.",
             "eventDescriptionEs": "Barack Obama fue reelegido como Presidente de los Estados Unidos, derrotando al candidato republicano Mitt Romney."
+        },{
+            "eventId": "451",
+            "eventCategory": "POLITICS",
+            "eventDate": "1860/11/06",
+            "eventImg": null,
+            "eventDescriptionEn": "Abraham Lincoln is elected the 16th president of the United States with only 40% of the popular vote, defeating John C. Breckinridge, John Bell, and Stephen A. Douglas in a four-way race.",
+            "eventDescriptionTr": "Abraham Lincoln, yalnızca %40'lık halk oyu ile John C. Breckinridge, John Bell ve Stephen A. Douglas'ı dörde bölünmüş bir yarışta yenerek Amerika Birleşik Devletleri'nin 16. başkanı olarak seçildi.",
+            "eventDescriptionDe": "Abraham Lincoln wird mit nur 40 % der Wählerstimmen zum 16. Präsidenten der Vereinigten Staaten gewählt und schlägt John C. Breckinridge, John Bell und Stephen A. Douglas in einem Vierkampf.",
+            "eventDescriptionIt": "Abraham Lincoln è eletto 16° presidente degli Stati Uniti con solo il 40% dei voti popolari, sconfiggendo John C. Breckinridge, John Bell e Stephen A. Douglas in una corsa a quattro.",
+            "eventDescriptionEs": "Abraham Lincoln es elegido el 16º presidente de los Estados Unidos con solo el 40% de los votos populares, derrotando a John C. Breckinridge, John Bell y Stephen A. Douglas en una carrera de cuatro vías."
         }
+        
         
         
         
