@@ -4726,7 +4726,18 @@
             "eventDescriptionDe": "Die Stoughton Musical Society, die älteste musikalische Organisation in den Vereinigten Staaten, wurde gegründet.",
             "eventDescriptionIt": "La Stoughton Musical Society, la più antica organizzazione musicale negli Stati Uniti, è stata fondata.",
             "eventDescriptionEs": "La Stoughton Musical Society, la organización musical más antigua de los Estados Unidos, fue fundada."
+        },{
+            "eventId": "453",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1895/11/08",
+            "eventImg": null,
+            "eventDescriptionEn": "Wilhelm Röntgen discovers X-rays, a breakthrough in medical science.",
+            "eventDescriptionTr": "Wilhelm Röntgen, tıp biliminde bir dönüm noktası olan X-ışınlarını keşfetti.",
+            "eventDescriptionDe": "Wilhelm Röntgen entdeckt Röntgenstrahlen, einen Durchbruch in der medizinischen Wissenschaft.",
+            "eventDescriptionIt": "Wilhelm Röntgen scopre i raggi X, una svolta nella scienza medica.",
+            "eventDescriptionEs": "Wilhelm Röntgen descubre los rayos X, un avance en la ciencia médica."
         }
+        
         
         
         
