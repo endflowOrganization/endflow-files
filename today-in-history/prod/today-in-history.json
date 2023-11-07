@@ -4736,7 +4736,18 @@
             "eventDescriptionDe": "Wilhelm Röntgen entdeckt Röntgenstrahlen, einen Durchbruch in der medizinischen Wissenschaft.",
             "eventDescriptionIt": "Wilhelm Röntgen scopre i raggi X, una svolta nella scienza medica.",
             "eventDescriptionEs": "Wilhelm Röntgen descubre los rayos X, un avance en la ciencia médica."
+        },{
+            "eventId": "454",
+            "eventCategory": "POLITICS",
+            "eventDate": "2016/11/08",
+            "eventImg": null,
+            "eventDescriptionEn": "Donald Trump is elected the 45th President of the United States, defeating Hillary Clinton.",
+            "eventDescriptionTr": "Donald Trump, Hillary Clinton'ı yenerek Amerika Birleşik Devletleri'nin 45. Başkanı olarak seçildi.",
+            "eventDescriptionDe": "Donald Trump wird zum 45. Präsidenten der Vereinigten Staaten gewählt und besiegt Hillary Clinton.",
+            "eventDescriptionIt": "Donald Trump viene eletto 45° Presidente degli Stati Uniti, sconfiggendo Hillary Clinton.",
+            "eventDescriptionEs": "Donald Trump es elegido el 45° Presidente de los Estados Unidos, derrotando a Hillary Clinton."
         }
+        
         
         
         
