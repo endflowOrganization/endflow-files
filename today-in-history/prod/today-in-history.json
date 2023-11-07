@@ -4746,7 +4746,18 @@
             "eventDescriptionDe": "Donald Trump wird zum 45. Präsidenten der Vereinigten Staaten gewählt und besiegt Hillary Clinton.",
             "eventDescriptionIt": "Donald Trump viene eletto 45° Presidente degli Stati Uniti, sconfiggendo Hillary Clinton.",
             "eventDescriptionEs": "Donald Trump es elegido el 45° Presidente de los Estados Unidos, derrotando a Hillary Clinton."
+        },{
+            "eventId": "455",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1957/11/08",
+            "eventImg": null,
+            "eventDescriptionEn": "Operation Grapple X, Round C1: Britain conducts its first successful hydrogen bomb test over Kiritimati in the Pacific.",
+            "eventDescriptionTr": "Operasyon Grapple X, Tur C1: Britanya, Pasifik'teki Kiritimati üzerinde ilk başarılı hidrojen bombası testini gerçekleştirdi.",
+            "eventDescriptionDe": "Operation Grapple X, Runde C1: Großbritannien führt seinen ersten erfolgreichen Wasserstoffbombentest über Kiritimati im Pazifik durch.",
+            "eventDescriptionIt": "Operazione Grapple X, Round C1: Il Regno Unito conduce il suo primo test di successo di una bomba all'idrogeno su Kiritimati nel Pacifico.",
+            "eventDescriptionEs": "Operación Grapple X, Ronda C1: Gran Bretaña lleva a cabo su primera prueba exitosa de bomba de hidrógeno sobre Kiritimati en el Pacífico."
         }
+        
         
         
         
