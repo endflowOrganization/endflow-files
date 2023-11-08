@@ -4766,7 +4766,18 @@
             "eventDescriptionDe": "Zweiter Bergkarabach-Krieg: Ein Waffenstillstandsabkommen wird von Armenien, Aserbaidschan und Russland unterzeichnet.",
             "eventDescriptionIt": "Seconda guerra del Nagorno-Karabakh: Un accordo di armistizio è firmato da Armenia, Azerbaigian e Russia.",
             "eventDescriptionEs": "Segunda Guerra de Nagorno-Karabaj: Se firma un acuerdo de armisticio por Armenia, Azerbaiyán y Rusia."
+        },{
+            "eventId": "457",
+            "eventCategory": "TECH",
+            "eventDate": "2004/11/09",
+            "eventImg": null,
+            "eventDescriptionEn": "Firefox 1.0 is released.",
+            "eventDescriptionTr": "Firefox 1.0 yayımlandı.",
+            "eventDescriptionDe": "Firefox 1.0 wird veröffentlicht.",
+            "eventDescriptionIt": "Viene rilasciato Firefox 1.0.",
+            "eventDescriptionEs": "Se lanza Firefox 1.0."
         }
+        
         
         
         
