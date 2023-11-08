@@ -4806,7 +4806,18 @@
             "eventDescriptionDe": "Der türkische Journalist und Schriftsteller Savaş Ay verstarb.",
             "eventDescriptionIt": "Il giornalista e scrittore turco Savaş Ay è deceduto.",
             "eventDescriptionEs": "El periodista y escritor turco Savaş Ay falleció."
+        },{
+            "eventId": "461",
+            "eventCategory": "POLITICS",
+            "eventDate": "1953/11/09",
+            "eventImg": null,
+            "eventDescriptionEn": "Cambodia becomes independent from France.",
+            "eventDescriptionTr": "Kamboçya, Fransa'dan bağımsızlığını kazandı.",
+            "eventDescriptionDe": "Kambodscha wird unabhängig von Frankreich.",
+            "eventDescriptionIt": "La Cambogia diventa indipendente dalla Francia.",
+            "eventDescriptionEs": "Camboya se independiza de Francia."
         }
+        
         
     ]
 }
