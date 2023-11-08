@@ -4756,7 +4756,18 @@
             "eventDescriptionDe": "Operation Grapple X, Runde C1: Großbritannien führt seinen ersten erfolgreichen Wasserstoffbombentest über Kiritimati im Pazifik durch.",
             "eventDescriptionIt": "Operazione Grapple X, Round C1: Il Regno Unito conduce il suo primo test di successo di una bomba all'idrogeno su Kiritimati nel Pacifico.",
             "eventDescriptionEs": "Operación Grapple X, Ronda C1: Gran Bretaña lleva a cabo su primera prueba exitosa de bomba de hidrógeno sobre Kiritimati en el Pacífico."
+        },{
+            "eventId": "456",
+            "eventCategory": "POLITICS",
+            "eventDate": "2020/11/09",
+            "eventImg": null,
+            "eventDescriptionEn": "Second Nagorno-Karabakh War: An armistice agreement is signed by Armenia, Azerbaijan, and Russia.",
+            "eventDescriptionTr": "İkinci Dağlık Karabağ Savaşı: Ermenistan, Azerbaycan ve Rusya tarafından bir ateşkes anlaşması imzalandı.",
+            "eventDescriptionDe": "Zweiter Bergkarabach-Krieg: Ein Waffenstillstandsabkommen wird von Armenien, Aserbaidschan und Russland unterzeichnet.",
+            "eventDescriptionIt": "Seconda guerra del Nagorno-Karabakh: Un accordo di armistizio è firmato da Armenia, Azerbaigian e Russia.",
+            "eventDescriptionEs": "Segunda Guerra de Nagorno-Karabaj: Se firma un acuerdo de armisticio por Armenia, Azerbaiyán y Rusia."
         }
+        
         
         
         
