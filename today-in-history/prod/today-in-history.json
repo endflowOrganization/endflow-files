@@ -4776,7 +4776,18 @@
             "eventDescriptionDe": "Firefox 1.0 wird veröffentlicht.",
             "eventDescriptionIt": "Viene rilasciato Firefox 1.0.",
             "eventDescriptionEs": "Se lanza Firefox 1.0."
+        },{
+            "eventId": "458",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1994/11/09",
+            "eventImg": null,
+            "eventDescriptionEn": "The chemical element darmstadtium is discovered.",
+            "eventDescriptionTr": "Kimyasal element darmstadtium keşfedildi.",
+            "eventDescriptionDe": "Das chemische Element Darmstadtium wird entdeckt.",
+            "eventDescriptionIt": "Viene scoperto l'elemento chimico darmstadtium.",
+            "eventDescriptionEs": "Se descubre el elemento químico darmstadtium."
         }
+        
         
         
         
