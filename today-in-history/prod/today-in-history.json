@@ -4796,6 +4796,17 @@
             "eventDescriptionDe": "Garry Kasparov, 22, aus der Sowjetunion, wird der jüngste Schachweltmeister, indem er seinen sowjetischen Kollegen Anatoly Karpov besiegt.",
             "eventDescriptionIt": "Garry Kasparov, 22 anni, dell'Unione Sovietica, diventa il più giovane Campione del Mondo di Scacchi battendo il connazionale sovietico Anatoly Karpov.",
             "eventDescriptionEs": "Garry Kasparov, de 22 años, de la Unión Soviética, se convierte en el Campeón Mundial de Ajedrez más joven al vencer a su compatriota soviético Anatoly Karpov."
+        },{
+            "eventId": "460",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2013/11/09",
+            "eventImg": null,
+            "eventDescriptionEn": "Turkish journalist and writer Savaş Ay passed away.",
+            "eventDescriptionTr": "Türk gazeteci ve yazar Savaş Ay vefat etti.",
+            "eventDescriptionDe": "Der türkische Journalist und Schriftsteller Savaş Ay verstarb.",
+            "eventDescriptionIt": "Il giornalista e scrittore turco Savaş Ay è deceduto.",
+            "eventDescriptionEs": "El periodista y escritor turco Savaş Ay falleció."
         }
+        
     ]
 }
