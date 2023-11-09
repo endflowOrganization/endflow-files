@@ -4836,10 +4836,16 @@
             "eventDescriptionDe": "Mustafa Kemal Atatürk, türkischer Feldmarschall und Staatsmann, der 1. Präsident der Türkei, verstarb.",
             "eventDescriptionIt": "Mustafa Kemal Atatürk, maresciallo e statista turco, primo Presidente della Turchia, è morto.",
             "eventDescriptionEs": "Mustafa Kemal Atatürk, mariscal de campo y estadista turco, primer Presidente de Turquía, falleció."
+        },{
+            "eventId": "464",
+            "eventCategory": "TECH",
+            "eventDate": "1951/11/10",
+            "eventImg": null,
+            "eventDescriptionEn": "Direct-dial coast-to-coast telephone service begins in the United States.",
+            "eventDescriptionTr": "Amerika Birleşik Devletleri'nde kıyıdan kıyıya direkt arama telefon hizmeti başladı.",
+            "eventDescriptionDe": "In den Vereinigten Staaten beginnt der direkte Küsten-zu-Küsten-Telefondienst.",
+            "eventDescriptionIt": "Negli Stati Uniti inizia il servizio telefonico diretto da costa a costa.",
+            "eventDescriptionEs": "Comienza el servicio telefónico de marcación directa de costa a costa en los Estados Unidos."
         }
-        
-        
-        
-        
     ]
 }
