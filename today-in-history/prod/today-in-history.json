@@ -4866,7 +4866,18 @@
             "eventDescriptionDe": "Antigua und Barbuda treten den Vereinten Nationen bei.",
             "eventDescriptionIt": "Antigua e Barbuda entrano a far parte delle Nazioni Unite.",
             "eventDescriptionEs": "Antigua y Barbuda se unen a las Naciones Unidas."
+        },{
+            "eventId": "467",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2018/11/12",
+            "eventImg": null,
+            "eventDescriptionEn": "Stan Lee, American comic book writer, editor, and publisher, passed away.",
+            "eventDescriptionTr": "Amerikalı çizgi roman yazarı, editör ve yayıncı Stan Lee vefat etti.",
+            "eventDescriptionDe": "Stan Lee, amerikanischer Comicautor, Herausgeber und Verleger, verstarb.",
+            "eventDescriptionIt": "Stan Lee, scrittore, editore e editore di fumetti americano, è morto.",
+            "eventDescriptionEs": "Stan Lee, escritor, editor y publicador de cómics estadounidense, falleció."
         }
+        
         
         
     ]
