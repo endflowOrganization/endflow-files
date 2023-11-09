@@ -4876,7 +4876,18 @@
             "eventDescriptionDe": "Stan Lee, amerikanischer Comicautor, Herausgeber und Verleger, verstarb.",
             "eventDescriptionIt": "Stan Lee, scrittore, editore e editore di fumetti americano, è morto.",
             "eventDescriptionEs": "Stan Lee, escritor, editor y publicador de cómics estadounidense, falleció."
+        },{
+            "eventId": "468",
+            "eventCategory": "FINANCE",
+            "eventDate": "2013/11/13",
+            "eventImg": null,
+            "eventDescriptionEn": "4 World Trade Center officially opens.",
+            "eventDescriptionTr": "4 Dünya Ticaret Merkezi resmi olarak açıldı.",
+            "eventDescriptionDe": "4 World Trade Center wird offiziell eröffnet.",
+            "eventDescriptionIt": "Il 4 World Trade Center viene ufficialmente inaugurato.",
+            "eventDescriptionEs": "El 4 World Trade Center se inaugura oficialmente."
         }
+        
         
         
         
