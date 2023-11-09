@@ -5071,7 +5071,18 @@
             "eventDescriptionDe": "Der erste bekannte Fall von COVID-19 wird auf einen 55-jährigen Mann zurückgeführt, der einen Markt in Wuhan, Provinz Hubei, China besucht hatte.",
             "eventDescriptionIt": "Il primo caso noto di COVID-19 è ricondotto a un uomo di 55 anni che aveva visitato un mercato a Wuhan, nella provincia di Hubei, in Cina.",
             "eventDescriptionEs": "El primer caso conocido de COVID-19 se rastrea a un hombre de 55 años que había visitado un mercado en Wuhan, provincia de Hubei, China."
+        },{
+            "eventId": "479",
+            "eventCategory": "HISTORY",
+            "eventDate": "1869/11/17",
+            "eventImg": null,
+            "eventDescriptionEn": "In Egypt, the Suez Canal, linking the Mediterranean Sea with the Red Sea, is inaugurated.",
+            "eventDescriptionTr": "Mısır'da, Akdeniz'i Kızıl Deniz ile bağlayan Süveyş Kanalı açıldı.",
+            "eventDescriptionDe": "In Ägypten wird der Sueskanal, der das Mittelmeer mit dem Roten Meer verbindet, eingeweiht.",
+            "eventDescriptionIt": "In Egitto, il Canale di Suez, che collega il Mar Mediterraneo con il Mar Rosso, viene inaugurato.",
+            "eventDescriptionEs": "En Egipto, el Canal de Suez, que conecta el Mar Mediterráneo con el Mar Rojo, es inaugurado."
         }
+        
         
         
         
