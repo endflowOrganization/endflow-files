@@ -4816,7 +4816,29 @@
             "eventDescriptionDe": "Kambodscha wird unabhängig von Frankreich.",
             "eventDescriptionIt": "La Cambogia diventa indipendente dalla Francia.",
             "eventDescriptionEs": "Camboya se independiza de Francia."
+        },{
+            "eventId": "462",
+            "eventCategory": "TECH",
+            "eventDate": "1983/11/10",
+            "eventImg": null,
+            "eventDescriptionEn": "Bill Gates introduces Windows 1.0.",
+            "eventDescriptionTr": "Bill Gates, Windows 1.0'u tanıttı.",
+            "eventDescriptionDe": "Bill Gates stellt Windows 1.0 vor.",
+            "eventDescriptionIt": "Bill Gates presenta Windows 1.0.",
+            "eventDescriptionEs": "Bill Gates presenta Windows 1.0."
+        },{
+            "eventId": "463",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1938/11/10",
+            "eventImg": null,
+            "eventDescriptionEn": "Mustafa Kemal Atatürk, Turkish field marshal and statesman, the 1st President of Turkey, passed away.",
+            "eventDescriptionTr": "Mustafa Kemal Atatürk, Türk mareşal ve devlet adamı, Türkiye'nin ilk Cumhurbaşkanı, vefat etti.",
+            "eventDescriptionDe": "Mustafa Kemal Atatürk, türkischer Feldmarschall und Staatsmann, der 1. Präsident der Türkei, verstarb.",
+            "eventDescriptionIt": "Mustafa Kemal Atatürk, maresciallo e statista turco, primo Presidente della Turchia, è morto.",
+            "eventDescriptionEs": "Mustafa Kemal Atatürk, mariscal de campo y estadista turco, primer Presidente de Turquía, falleció."
         }
+        
+        
         
         
     ]
