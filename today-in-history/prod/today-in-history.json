@@ -4856,7 +4856,18 @@
             "eventDescriptionDe": "Marokko, Sudan und Tunesien treten den Vereinten Nationen bei.",
             "eventDescriptionIt": "Marocco, Sudan e Tunisia entrano a far parte delle Nazioni Unite.",
             "eventDescriptionEs": "Marruecos, Sudán y Túnez se unen a las Naciones Unidas."
+        },{
+            "eventId": "466",
+            "eventCategory": "POLITICS",
+            "eventDate": "1981/11/11",
+            "eventImg": null,
+            "eventDescriptionEn": "Antigua and Barbuda joins the United Nations.",
+            "eventDescriptionTr": "Antigua ve Barbuda, Birleşmiş Milletlere katıldı.",
+            "eventDescriptionDe": "Antigua und Barbuda treten den Vereinten Nationen bei.",
+            "eventDescriptionIt": "Antigua e Barbuda entrano a far parte delle Nazioni Unite.",
+            "eventDescriptionEs": "Antigua y Barbuda se unen a las Naciones Unidas."
         }
+        
         
     ]
 }
