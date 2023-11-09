@@ -5001,7 +5001,18 @@
             "eventDescriptionDe": "Microsoft bringt die Spielkonsole Xbox auf den Markt.",
             "eventDescriptionIt": "Microsoft lancia la console per videogiochi Xbox.",
             "eventDescriptionEs": "Microsoft lanza la consola de juegos Xbox."
+        },{
+            "eventId": "472",
+            "eventCategory": "TECH",
+            "eventDate": "2006/11/15",
+            "eventImg": null,
+            "eventDescriptionEn": "Al Jazeera English launches worldwide.",
+            "eventDescriptionTr": "Al Jazeera English, dünya çapında yayına başladı.",
+            "eventDescriptionDe": "Al Jazeera English startet weltweit.",
+            "eventDescriptionIt": "Al Jazeera English viene lanciato a livello mondiale.",
+            "eventDescriptionEs": "Al Jazeera English se lanza a nivel mundial."
         }
+        
         
     ]
 }
