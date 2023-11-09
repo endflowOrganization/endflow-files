@@ -5052,7 +5052,7 @@
             "eventDescriptionIt": "Il tesoro di Hoxne viene scoperto dal cercatore di metalli Eric Lawes a Hoxne, Suffolk.",
             "eventDescriptionEs": "El Tesoro de Hoxne es descubierto por el detectorista de metales Eric Lawes en Hoxne, Suffolk."
         },{
-            "eventId": "475",
+            "eventId": "477",
             "eventCategory": "POLITICS",
             "eventDate": "2003/11/17",
             "eventImg": null,
@@ -5061,7 +5061,18 @@
             "eventDescriptionDe": "Die Amtszeit von Schauspieler Arnold Schwarzenegger als Gouverneur von Kalifornien begann.",
             "eventDescriptionIt": "Inizia il mandato dell'attore Arnold Schwarzenegger come governatore della California.",
             "eventDescriptionEs": "Comienza el mandato del actor Arnold Schwarzenegger como gobernador de California."
+        },{
+            "eventId": "478",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2019/11/17",
+            "eventImg": null,
+            "eventDescriptionEn": "The first known case of COVID-19 is traced to a 55-year-old man who had visited a market in Wuhan, Hubei Province, China.",
+            "eventDescriptionTr": "COVID-19'un ilk bilinen vakası, Çin'in Hubei Eyaleti, Wuhan'daki bir pazara ziyarette bulunan 55 yaşındaki bir adamla ilişkilendirildi.",
+            "eventDescriptionDe": "Der erste bekannte Fall von COVID-19 wird auf einen 55-jährigen Mann zurückgeführt, der einen Markt in Wuhan, Provinz Hubei, China besucht hatte.",
+            "eventDescriptionIt": "Il primo caso noto di COVID-19 è ricondotto a un uomo di 55 anni che aveva visitato un mercato a Wuhan, nella provincia di Hubei, in Cina.",
+            "eventDescriptionEs": "El primer caso conocido de COVID-19 se rastrea a un hombre de 55 años que había visitado un mercado en Wuhan, provincia de Hubei, China."
         }
+        
         
         
         
