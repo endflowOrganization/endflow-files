@@ -5041,7 +5041,18 @@
             "eventDescriptionDe": "Die erste Linie der Bukarester U-Bahn (Linie M1) wird von Timpuri Noi bis Semănătoarea in Bukarest, Rumänien, eröffnet.",
             "eventDescriptionIt": "Viene aperta la prima linea della metropolitana di Bucarest (Linea M1) da Timpuri Noi a Semănătoarea a Bucarest, Romania.",
             "eventDescriptionEs": "Se inaugura la primera línea del Metro de Bucarest (Línea M1) desde Timpuri Noi hasta Semănătoarea en Bucarest, Rumania."
+        },{
+            "eventId": "476",
+            "eventCategory": "TECH",
+            "eventDate": "1992/11/16",
+            "eventImg": null,
+            "eventDescriptionEn": "The Hoxne Hoard is discovered by metal detectorist Eric Lawes in Hoxne, Suffolk.",
+            "eventDescriptionTr": "Hoxne Hazinesi, metal dedektörü kullanıcısı Eric Lawes tarafından Suffolk, Hoxne'de keşfedildi.",
+            "eventDescriptionDe": "Der Hoxne-Schatz wird von dem Metalldetektoristen Eric Lawes in Hoxne, Suffolk entdeckt.",
+            "eventDescriptionIt": "Il tesoro di Hoxne viene scoperto dal cercatore di metalli Eric Lawes a Hoxne, Suffolk.",
+            "eventDescriptionEs": "El Tesoro de Hoxne es descubierto por el detectorista de metales Eric Lawes en Hoxne, Suffolk."
         }
+        
         
         
         
