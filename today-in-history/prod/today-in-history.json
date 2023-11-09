@@ -4886,7 +4886,18 @@
             "eventDescriptionDe": "4 World Trade Center wird offiziell eröffnet.",
             "eventDescriptionIt": "Il 4 World Trade Center viene ufficialmente inaugurato.",
             "eventDescriptionEs": "El 4 World Trade Center se inaugura oficialmente."
+        },{
+            "eventId": "469",
+            "eventCategory": "POLITICS",
+            "eventDate": "1994/11/13",
+            "eventImg": null,
+            "eventDescriptionEn": "In a referendum, voters in Sweden decide to join the European Union.",
+            "eventDescriptionTr": "Bir referandumda, İsveç'teki seçmenler Avrupa Birliği'ne katılmaya karar verdi.",
+            "eventDescriptionDe": "In einem Referendum entscheiden sich die Wähler in Schweden für den Beitritt zur Europäischen Union.",
+            "eventDescriptionIt": "In un referendum, gli elettori in Svezia decidono di aderire all'Unione Europea.",
+            "eventDescriptionEs": "En un referéndum, los votantes en Suecia deciden unirse a la Unión Europea."
         }
+        
         
         
         
