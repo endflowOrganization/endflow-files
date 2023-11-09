@@ -5031,7 +5031,18 @@
             "eventDescriptionDe": "Die UNESCO wird gegründet.",
             "eventDescriptionIt": "Viene fondata l'UNESCO.",
             "eventDescriptionEs": "Se funda la UNESCO."
+        },{
+            "eventId": "475",
+            "eventCategory": "TECH",
+            "eventDate": "1979/11/16",
+            "eventImg": null,
+            "eventDescriptionEn": "The first line of the Bucharest Metro (Line M1) is opened from Timpuri Noi to Semănătoarea in Bucharest, Romania.",
+            "eventDescriptionTr": "Bükreş Metrosu'nun ilk hattı (Hat M1), Romanya'nın Bükreş kentinde Timpuri Noi'dan Semănătoarea'ya açıldı.",
+            "eventDescriptionDe": "Die erste Linie der Bukarester U-Bahn (Linie M1) wird von Timpuri Noi bis Semănătoarea in Bukarest, Rumänien, eröffnet.",
+            "eventDescriptionIt": "Viene aperta la prima linea della metropolitana di Bucarest (Linea M1) da Timpuri Noi a Semănătoarea a Bucarest, Romania.",
+            "eventDescriptionEs": "Se inaugura la primera línea del Metro de Bucarest (Línea M1) desde Timpuri Noi hasta Semănătoarea en Bucarest, Rumania."
         }
+        
         
         
         
