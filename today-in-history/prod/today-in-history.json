@@ -5011,7 +5011,18 @@
             "eventDescriptionDe": "Al Jazeera English startet weltweit.",
             "eventDescriptionIt": "Al Jazeera English viene lanciato a livello mondiale.",
             "eventDescriptionEs": "Al Jazeera English se lanza a nivel mundial."
+        },{
+            "eventId": "473",
+            "eventCategory": "TECH",
+            "eventDate": "1971/11/15",
+            "eventImg": null,
+            "eventDescriptionEn": "Intel releases the world's first commercial single-chip microprocessor, the 4004.",
+            "eventDescriptionTr": "Intel, dünyanın ilk ticari tek çipli mikroişlemcisi olan 4004'ü piyasaya sürdü.",
+            "eventDescriptionDe": "Intel veröffentlicht den weltweit ersten kommerziellen Ein-Chip-Mikroprozessor, den 4004.",
+            "eventDescriptionIt": "Intel rilascia il primo microprocessore commerciale a singolo chip al mondo, il 4004.",
+            "eventDescriptionEs": "Intel lanza el primer microprocesador comercial de un solo chip del mundo, el 4004."
         }
+        
         
         
     ]
