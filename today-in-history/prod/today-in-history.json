@@ -5101,6 +5101,17 @@
             "eventDescriptionDe": "Die Universität Warschau wird gegründet.",
             "eventDescriptionIt": "Viene fondata l'Università di Varsavia.",
             "eventDescriptionEs": "Se establece la Universidad de Varsovia."
+        },{
+            "eventId": "482",
+            "eventCategory": "POLITICS",
+            "eventDate": "1946/11/19",
+            "eventImg": null,
+            "eventDescriptionEn": "Afghanistan, Iceland, and Sweden join the United Nations.",
+            "eventDescriptionTr": "Afganistan, İzlanda ve İsveç, Birleşmiş Milletlere katıldı.",
+            "eventDescriptionDe": "Afghanistan, Island und Schweden treten den Vereinten Nationen bei.",
+            "eventDescriptionIt": "Afghanistan, Islanda e Svezia entrano a far parte delle Nazioni Unite.",
+            "eventDescriptionEs": "Afganistán, Islandia y Suecia se unen a las Naciones Unidas."
         }
+        
     ]
 }
