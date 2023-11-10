@@ -5082,8 +5082,8 @@
             "eventDescriptionIt": "In Egitto, il Canale di Suez, che collega il Mar Mediterraneo con il Mar Rosso, viene inaugurato.",
             "eventDescriptionEs": "En Egipto, el Canal de Suez, que conecta el Mar Mediterráneo con el Mar Rojo, es inaugurado."
         },{
-            "eventId": "477",
-            "eventCategory": "POLITICAL",
+            "eventId": "480",
+            "eventCategory": "POLITICS",
             "eventDate": "1970/11/18",
             "eventImg": null,
             "eventDescriptionEn": "Oman declares its independence from the United Kingdom.",
@@ -5091,16 +5091,16 @@
             "eventDescriptionDe": "Oman erklärt seine Unabhängigkeit vom Vereinigten Königreich.",
             "eventDescriptionIt": "Oman dichiara la sua indipendenza dal Regno Unito.",
             "eventDescriptionEs": "Omán declara su independencia del Reino Unido."
+        },{
+            "eventId": "481",
+            "eventCategory": "HISTORY",
+            "eventDate": "1816/11/19",
+            "eventImg": null,
+            "eventDescriptionEn": "Warsaw University is established.",
+            "eventDescriptionTr": "Varşova Üniversitesi kuruldu.",
+            "eventDescriptionDe": "Die Universität Warschau wird gegründet.",
+            "eventDescriptionIt": "Viene fondata l'Università di Varsavia.",
+            "eventDescriptionEs": "Se establece la Universidad de Varsovia."
         }
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
     ]
 }
