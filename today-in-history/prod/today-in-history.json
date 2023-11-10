@@ -5081,7 +5081,18 @@
             "eventDescriptionDe": "In Ägypten wird der Sueskanal, der das Mittelmeer mit dem Roten Meer verbindet, eingeweiht.",
             "eventDescriptionIt": "In Egitto, il Canale di Suez, che collega il Mar Mediterraneo con il Mar Rosso, viene inaugurato.",
             "eventDescriptionEs": "En Egipto, el Canal de Suez, que conecta el Mar Mediterráneo con el Mar Rojo, es inaugurado."
+        },{
+            "eventId": "477",
+            "eventCategory": "POLITICAL",
+            "eventDate": "1970/11/18",
+            "eventImg": null,
+            "eventDescriptionEn": "Oman declares its independence from the United Kingdom.",
+            "eventDescriptionTr": "Umman, Birleşik Krallık'tan bağımsızlığını ilan etti.",
+            "eventDescriptionDe": "Oman erklärt seine Unabhängigkeit vom Vereinigten Königreich.",
+            "eventDescriptionIt": "Oman dichiara la sua indipendenza dal Regno Unito.",
+            "eventDescriptionEs": "Omán declara su independencia del Reino Unido."
         }
+        
         
         
         
