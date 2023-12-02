@@ -5145,6 +5145,17 @@
             "eventDescriptionDe": "Der kolumbianische Drogenbaron Pablo Escobar wird in Medellín von der Polizei erschossen.",
             "eventDescriptionIt": "Il signore della droga colombiano Pablo Escobar viene ucciso dalla polizia a Medellín.",
             "eventDescriptionEs": "El narcotraficante colombiano Pablo Escobar es asesinado a tiros por la policía en Medellín."
+        },{
+            "eventId": "485",
+            "eventCategory": "POLITICS",
+            "eventDate": "1976/12/02",
+            "eventImg": null,
+            "eventDescriptionEn": "Fidel Castro becomes President of Cuba, replacing Osvaldo Dorticós Torrado.",
+            "eventDescriptionTr": "Fidel Castro, Osvaldo Dorticós Torrado'nun yerine Küba'nın Başkanı oldu.",
+            "eventDescriptionDe": "Fidel Castro wird Präsident von Kuba und löst Osvaldo Dorticós Torrado ab.",
+            "eventDescriptionIt": "Fidel Castro diventa Presidente di Cuba, sostituendo Osvaldo Dorticós Torrado.",
+            "eventDescriptionEs": "Fidel Castro se convierte en Presidente de Cuba, reemplazando a Osvaldo Dorticós Torrado."
         }
+        
     ]
 }
