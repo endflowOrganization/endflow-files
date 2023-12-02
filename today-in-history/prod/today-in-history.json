@@ -5155,7 +5155,18 @@
             "eventDescriptionDe": "Fidel Castro wird Präsident von Kuba und löst Osvaldo Dorticós Torrado ab.",
             "eventDescriptionIt": "Fidel Castro diventa Presidente di Cuba, sostituendo Osvaldo Dorticós Torrado.",
             "eventDescriptionEs": "Fidel Castro se convierte en Presidente de Cuba, reemplazando a Osvaldo Dorticós Torrado."
+        },{
+            "eventId": "486",
+            "eventCategory": "POLITICS",
+            "eventDate": "1988/12/02",
+            "eventImg": null,
+            "eventDescriptionEn": "Benazir Bhutto is sworn in as Prime Minister of Pakistan, becoming the first woman to head the government of a Muslim-majority state.",
+            "eventDescriptionTr": "Benazir Bhutto, Pakistan'ın Başbakanı olarak yemin ederek, bir Müslüman çoğunluklu devletin hükümetini yöneten ilk kadın oldu.",
+            "eventDescriptionDe": "Benazir Bhutto wird als Premierministerin von Pakistan vereidigt und ist damit die erste Frau, die die Regierung eines muslimisch geprägten Staates leitet.",
+            "eventDescriptionIt": "Benazir Bhutto viene giurata come Primo Ministro del Pakistan, diventando la prima donna a capo del governo di uno stato a maggioranza musulmana.",
+            "eventDescriptionEs": "Benazir Bhutto es juramentada como Primera Ministra de Pakistán, convirtiéndose en la primera mujer en dirigir el gobierno de un estado de mayoría musulmana."
         }
+        
         
     ]
 }
