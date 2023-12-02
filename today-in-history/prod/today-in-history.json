@@ -5134,6 +5134,17 @@
             "eventDescriptionDe": "Kanada und Polen sind die ersten Nationen, die die Unabhängigkeit der Ukraine von der Sowjetunion anerkennen.",
             "eventDescriptionIt": "Canada e Polonia diventano le prime nazioni a riconoscere l'indipendenza dell'Ucraina dall'Unione Sovietica.",
             "eventDescriptionEs": "Canadá y Polonia se convierten en las primeras naciones en reconocer la independencia de Ucrania de la Unión Soviética."
+        },
+        {
+            "eventId": "484",
+            "eventCategory": "HISTORY",
+            "eventDate": "1993/12/02",
+            "eventImg": null,
+            "eventDescriptionEn": "Colombian drug lord Pablo Escobar is shot and killed by police in Medellín.",
+            "eventDescriptionTr": "Kolombiyalı uyuşturucu baronu Pablo Escobar, Medellín'de polis tarafından vurularak öldürüldü.",
+            "eventDescriptionDe": "Der kolumbianische Drogenbaron Pablo Escobar wird in Medellín von der Polizei erschossen.",
+            "eventDescriptionIt": "Il signore della droga colombiano Pablo Escobar viene ucciso dalla polizia a Medellín.",
+            "eventDescriptionEs": "El narcotraficante colombiano Pablo Escobar es asesinado a tiros por la policía en Medellín."
         }
     ]
 }
