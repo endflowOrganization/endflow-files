@@ -5165,7 +5165,17 @@
             "eventDescriptionDe": "Benazir Bhutto wird als Premierministerin von Pakistan vereidigt und ist damit die erste Frau, die die Regierung eines muslimisch geprägten Staates leitet.",
             "eventDescriptionIt": "Benazir Bhutto viene giurata come Primo Ministro del Pakistan, diventando la prima donna a capo del governo di uno stato a maggioranza musulmana.",
             "eventDescriptionEs": "Benazir Bhutto es juramentada como Primera Ministra de Pakistán, convirtiéndose en la primera mujer en dirigir el gobierno de un estado de mayoría musulmana."
-        }
+        },{
+            "eventId": "487",
+            "eventCategory": "TECH",
+            "eventDate": "1932/12/19",
+            "eventImg": null,
+            "eventDescriptionEn": "BBC World Service began broadcasting as the BBC Empire Service.",
+            "eventDescriptionTr": "BBC World Service, BBC Empire Service olarak yayın yapmaya başladı.",
+            "eventDescriptionDe": "BBC World Service begann als BBC Empire Service zu senden.",
+            "eventDescriptionIt": "BBC World Service iniziò a trasmettere come BBC Empire Service.",
+            "eventDescriptionEs": "BBC World Service comenzó a transmitir como BBC Empire Service."
+          }
         
         
     ]
