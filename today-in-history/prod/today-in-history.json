@@ -5231,7 +5231,18 @@
             "eventDescriptionDe": "In einem revolutionären Schritt für die Sportgeschichte veröffentlicht Dr. James Naismith die offiziellen Regeln des Basketballs, eines neuen Spiels, das er wenige Monate zuvor erfunden hat. Diese 13 Regeln bildeten die Grundlage für den weltweit beliebten Sport, den wir heute kennen.",
             "eventDescriptionIt": "In una mossa rivoluzionaria per la storia dello sport, il Dr. James Naismith pubblica le regole ufficiali del basket, un nuovo gioco da lui inventato pochi mesi prima. Queste 13 regole hanno gettato le basi per lo sport amato in tutto il mondo che conosciamo oggi.",
             "eventDescriptionEs": "En un movimiento revolucionario para la historia del deporte, el Dr. James Naismith publica las reglas oficiales del baloncesto, un nuevo juego que inventó apenas unos meses antes. Estas 13 reglas sentaron las bases del deporte amado en todo el mundo que conocemos hoy en día."
-          }
+          },{
+            "eventId": "493",
+            "eventCategory": "MEDIA",
+            "eventDate": "1911/01/14",
+            "eventImg": null,
+            "eventDescriptionEn": "Falastin, a pioneering Palestinian Arabic-language newspaper, is founded in Jaffa.",
+            "eventDescriptionTr": "Yön verici Filistin gazetesi Falastin, Jaffa'da kuruldu.",
+            "eventDescriptionDe": "Die bahnbrechende palästinensisch-arabische Zeitung Falastin wird in Jaffa gegründet. ",
+            "eventDescriptionIt": "Il Falastin, un giornale arabo palestinese pioniere, viene fondato a Jaffa.",
+            "eventDescriptionEs": "El Falastin, un periódico pionero en árabe palestino, es fundado en Jaffa."
+           }
+           
           
           
            
