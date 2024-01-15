@@ -5200,6 +5200,18 @@
             "eventDescriptionDe": "Die NASA hat erfolgreich den ersten von zwei Gravity Recovery and Interior Laboratory (GRAIL) Satelliten in eine Umlaufbahn um den Mond gebracht.",
             "eventDescriptionIt": "La NASA è riuscita a mettere con successo il primo dei due satelliti Gravity Recovery and Interior Laboratory (GRAIL) in orbita intorno alla Luna.",
             "eventDescriptionEs": "La NASA tuvo éxito en poner en órbita alrededor de la Luna el primero de los dos satélites del Gravity Recovery and Interior Laboratory (GRAIL)."
-        }
+        },
+        {
+            "eventId": "490",
+            "eventCategory": "TECH",
+            "eventDate": "2001/01/15", 
+            "eventImg": null,
+            "eventDescriptionEn": "Wikipedia, a free wiki content encyclopedia, is launched.",
+            "eventDescriptionTr": "Özgür bir wiki içerik ansiklopedisi olan Wikipedia yayına girdi.",
+            "eventDescriptionDe": "Wikipedia, eine freie Wiki-Enzyklopädie, wird gestartet.",
+            "eventDescriptionIt": "Wikipedia, un'enciclopedia gratuita con contenuti wiki, viene lanciata.",
+            "eventDescriptionEs": "Se lanza Wikipedia, una enciclopedia gratuita de contenido wiki."
+          }
+          
     ]
 }
