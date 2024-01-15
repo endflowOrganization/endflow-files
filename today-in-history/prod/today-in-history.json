@@ -5211,7 +5211,18 @@
             "eventDescriptionDe": "Wikipedia, eine freie Wiki-Enzyklopädie, wird gestartet.",
             "eventDescriptionIt": "Wikipedia, un'enciclopedia gratuita con contenuti wiki, viene lanciata.",
             "eventDescriptionEs": "Se lanza Wikipedia, una enciclopedia gratuita de contenido wiki."
-          }
+          },{
+            "eventId": "491",
+            "eventCategory": "NATURAL_DISASTER",
+            "eventDate": "2022/01/15",
+            "eventImg": null,
+            "eventDescriptionEn": "The underwater volcano Hunga Tonga-Hunga Haʻapai erupts violently in the Tongan archipelago, triggering a devastating tsunami across the Pacific Ocean. Communications with Tonga are cut off as ash plumes engulf the islands. The eruption, one of the most powerful in recent history, sends shockwaves around the globe, causing significant damage and loss of life.",
+            "eventDescriptionTr": "Tonga takımadalarındaki su altı yanardağı Hunga Tonga-Hunga Haʻapai şiddetli bir şekilde patlar ve Pasifik Okyanusu'nda yıkıcı bir tsunami tetikler. Adaları külle kaplayan kül bulutları nedeniyle Tonga ile iletişim kesilir. Patlama, yakın tarihin en güçlülerinden biri olarak, dünyanın dört bir yanına şok dalgaları göndererek önemli hasara ve can kaybına neden olur.",
+            "eventDescriptionDe": "Der Unterwasservulkan Hunga Tonga-Hunga Haʻapai im Tonga-Archipel bricht heftig aus und löst einen verheerenden Tsunami im Pazifik aus. Die Kommunikation mit Tonga wird abgeschnitten, während Aschewolken die Inseln verschlingen. Die Eruption, eine der stärksten in der jüngeren Geschichte, sendet Schockwellen um den Globus und verursacht erhebliche Schäden und Todesopfer.",
+            "eventDescriptionIt": "Il vulcano sottomarino Hunga Tonga-Hunga Haʻapai nell'arcipelago delle Tonga erutta violentemente, innescando un devastante tsunami nell'Oceano Pacifico. Le comunicazioni con Tonga vengono interrotte mentre nubi di cenere avvolgono le isole. L'eruzione, una delle più potenti della storia recente, invia onde d'urto in tutto il mondo, causando gravi danni e perdita di vite umane.",
+            "eventDescriptionEs": "El volcán submarino Hunga Tonga-Hunga Haʻapai, ubicado en el archipiélago de Tonga, entra en erupción violentamente, provocando un tsunami devastador en el Océano Pacífico. Las comunicaciones con Tonga se cortan a medida que las nubes de ceniza envuelven las islas. La erupción, una de las más poderosas de la historia reciente, envía ondas de choque alrededor del mundo, causando daños considerables y pérdida de vidas humanas."
+           }
+           
           
     ]
 }
