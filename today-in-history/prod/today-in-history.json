@@ -5261,7 +5261,18 @@
             "eventDescriptionDe": "Am 16. Januar 2010 läutete Istanbul, stolz geschmückt mit dem Titel 'Kulturhauptstadt Europas 2010', sein einjähriges Fest mit lebendigen Feierlichkeiten an sieben wichtigen Punkten der Stadt ein. Diese fesselnden Veranstaltungen präsentierten den reichen Teppich an Kulturen und Geschichten der Stadt und markierten einen großartigen Beginn seiner Regentschaft als Kulturhauptstadt.",
             "eventDescriptionIt": "Il 16 gennaio 2010, Istanbul, adornata del titolo di 'Capitale Europea della Cultura 2010', ha dato il via ai suoi festeggiamenti di un anno con vivaci celebrazioni in sette punti chiave della città. Questi eventi accattivanti hanno messo in mostra il ricco tessuto di culture e storie della città, segnando un magnifico inizio del suo regno di capitale culturale.",
             "eventDescriptionEs": "El 16 de enero de 2010, Estambul, adornada con el título de 'Capital Europea de la Cultura 2010', inició sus celebraciones de un año con vibrantes festivales en siete puntos clave de la ciudad. Estos cautivadores eventos mostraron el rico tapiz de culturas e historias de la ciudad, marcando un magnífico comienzo de su reinado como capital cultural."
-          }
+          },{
+  "eventId": "496",
+  "eventCategory": "TECH",
+  "eventDate": "1886/01/29",
+  "eventImg": null,
+  "eventDescriptionEn": "Karl Benz patents the first successful gasoline-driven automobile.",
+  "eventDescriptionTr": "Karl Benz, ilk başarılı benzinli otomobili patentledi.",
+  "eventDescriptionDe": "Karl Benz patentiert das erste erfolgreiche benzinbetriebene Automobil.",
+  "eventDescriptionIt": "Karl Benz brevetta la prima automobile a benzina di successo.",
+  "eventDescriptionEs": "Karl Benz patenta el primer automóvil exitoso impulsado por gasolina."
+}
+
           
           
            
