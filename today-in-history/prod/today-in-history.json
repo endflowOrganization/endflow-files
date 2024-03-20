@@ -5318,7 +5318,18 @@
             "eventDescriptionDe": "Das Alcatraz Federal Penitentiary wurde geschlossen.",
             "eventDescriptionIt": "La prigione federale di Alcatraz è stata chiusa.",
             "eventDescriptionEs": "Se cerró la Penitenciaría Federal de Alcatraz."
+          },{
+            "eventId": "501",
+            "eventCategory": "HISTORY",
+            "eventDate": "1990/03/21",
+            "eventImg": null,
+            "eventDescriptionEn": "Namibia became independent after 75 years of South African rule.",
+            "eventDescriptionTr": "Namibya, Güney Afrika yönetimi altında geçen 75 yılın ardından bağımsız hale geldi.",
+            "eventDescriptionDe": "Namibia wurde nach 75 Jahren südafrikanischer Herrschaft unabhängig.",
+            "eventDescriptionIt": "Namibia è diventata indipendente dopo 75 anni di dominio sudafricano.",
+            "eventDescriptionEs": "Namibia se independizó después de 75 años de dominio sudafricano."
           }
+          
           
           
           
