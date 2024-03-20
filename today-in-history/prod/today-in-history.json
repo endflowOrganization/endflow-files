@@ -5308,7 +5308,18 @@
             "eventDescriptionDe": "David Rockefeller, amerikanischer Milliardär, ist gestorben.",
             "eventDescriptionIt": "Muore David Rockefeller, miliardario americano.",
             "eventDescriptionEs": "Fallece David Rockefeller, multimillonario estadounidense."
+          },{
+            "eventId": "500",
+            "eventCategory": "HISTORY",
+            "eventDate": "1963/03/21",
+            "eventImg": null,
+            "eventDescriptionEn": "Alcatraz Federal Penitentiary closed.",
+            "eventDescriptionTr": "Alcatraz Federal Hapishanesi kapatıldı.",
+            "eventDescriptionDe": "Das Alcatraz Federal Penitentiary wurde geschlossen.",
+            "eventDescriptionIt": "La prigione federale di Alcatraz è stata chiusa.",
+            "eventDescriptionEs": "Se cerró la Penitenciaría Federal de Alcatraz."
           }
+          
           
           
     ]
