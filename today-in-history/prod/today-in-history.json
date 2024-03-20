@@ -5204,14 +5204,15 @@
         {
             "eventId": "490",
             "eventCategory": "TECH",
-            "eventDate": "2001/01/15", 
+            "eventDate": "2001/01/15",
             "eventImg": null,
             "eventDescriptionEn": "Wikipedia, a free wiki content encyclopedia, is launched.",
             "eventDescriptionTr": "Özgür bir wiki içerik ansiklopedisi olan Wikipedia yayına girdi.",
             "eventDescriptionDe": "Wikipedia, eine freie Wiki-Enzyklopädie, wird gestartet.",
             "eventDescriptionIt": "Wikipedia, un'enciclopedia gratuita con contenuti wiki, viene lanciata.",
             "eventDescriptionEs": "Se lanza Wikipedia, una enciclopedia gratuita de contenido wiki."
-          },{
+        },
+        {
             "eventId": "491",
             "eventCategory": "PEOPLE",
             "eventDate": "2022/01/15",
@@ -5221,7 +5222,8 @@
             "eventDescriptionDe": "Am 15. Januar 2022 brach der Unterwasservulkan Hunga Tonga-Hunga Haʻapai im Tonga-Archipel heftig aus und löste einen verheerenden Tsunami im Pazifik aus. Die Kommunikation mit Tonga wurde abgeschnitten, während Aschewolken die Inseln verschlangen. Die Eruption, eine der stärksten in der jüngeren Geschichte, sandte Schockwellen um den Globus und verursachte erhebliche Schäden und Todesopfer.",
             "eventDescriptionIt": "Il 15 gennaio 2022, il vulcano sottomarino Hunga Tonga-Hunga Haʻapai nell'arcipelago delle Tonga eruttò violentemente, innescando un devastante tsunami nell'Oceano Pacifico. Le comunicazioni con Tonga vennero interrotte mentre nubi di cenere avvolsero le isole. L'eruzione, una delle più potenti della storia recente, inviò onde d'urto in tutto il mondo, causando gravi danni e perdita di vite umane.",
             "eventDescriptionEs": "El 15 de enero de 2022, el volcán submarino Hunga Tonga-Hunga Haʻapai, ubicado en el archipiélago de Tonga, entró en erupción violentamente, provocando un tsunami devastador en el Océano Pacífico. Las comunicaciones con Tonga se cortaron a medida que las nubes de ceniza envolvían las islas. La erupción, una de las más poderosas de la historia reciente, envió ondas de choque alrededor del mundo, causando daños considerables y pérdida de vidas humanas."
-          },{
+        },
+        {
             "eventId": "492",
             "eventCategory": "SPORTS",
             "eventDate": "1892/01/15",
@@ -5231,7 +5233,8 @@
             "eventDescriptionDe": "In einem revolutionären Schritt für die Sportgeschichte veröffentlicht Dr. James Naismith die offiziellen Regeln des Basketballs, eines neuen Spiels, das er wenige Monate zuvor erfunden hat. Diese 13 Regeln bildeten die Grundlage für den weltweit beliebten Sport, den wir heute kennen.",
             "eventDescriptionIt": "In una mossa rivoluzionaria per la storia dello sport, il Dr. James Naismith pubblica le regole ufficiali del basket, un nuovo gioco da lui inventato pochi mesi prima. Queste 13 regole hanno gettato le basi per lo sport amato in tutto il mondo che conosciamo oggi.",
             "eventDescriptionEs": "En un movimiento revolucionario para la historia del deporte, el Dr. James Naismith publica las reglas oficiales del baloncesto, un nuevo juego que inventó apenas unos meses antes. Estas 13 reglas sentaron las bases del deporte amado en todo el mundo que conocemos hoy en día."
-          },{
+        },
+        {
             "eventId": "493",
             "eventCategory": "MEDIA",
             "eventDate": "1911/01/15",
@@ -5241,7 +5244,8 @@
             "eventDescriptionDe": "Die bahnbrechende palästinensisch-arabische Zeitung Falastin wird in Jaffa gegründet. ",
             "eventDescriptionIt": "Il Falastin, un giornale arabo palestinese pioniere, viene fondato a Jaffa.",
             "eventDescriptionEs": "El Falastin, un periódico pionero en árabe palestino, es fundado en Jaffa."
-           },{
+        },
+        {
             "eventId": "494",
             "eventCategory": "POLITICS",
             "eventDate": "1920/01/16",
@@ -5251,7 +5255,8 @@
             "eventDescriptionDe": "Der Völkerbund, ein hoffnungsvoller Schritt in Richtung globalen Friedens, hält seine erste Ratssitzung in Paris ab.",
             "eventDescriptionIt": "La Società delle Nazioni, un passo di speranza verso la pace globale, tiene la sua prima riunione del consiglio a Parigi.",
             "eventDescriptionEs": "La Sociedad de Naciones, un paso esperanzador hacia la paz global, celebra su primera reunión del consejo en París."
-          },{
+        },
+        {
             "eventId": "495",
             "eventCategory": "FESTIVAL",
             "eventDate": "2010/01/16",
@@ -5261,35 +5266,39 @@
             "eventDescriptionDe": "Am 16. Januar 2010 läutete Istanbul, stolz geschmückt mit dem Titel 'Kulturhauptstadt Europas 2010', sein einjähriges Fest mit lebendigen Feierlichkeiten an sieben wichtigen Punkten der Stadt ein. Diese fesselnden Veranstaltungen präsentierten den reichen Teppich an Kulturen und Geschichten der Stadt und markierten einen großartigen Beginn seiner Regentschaft als Kulturhauptstadt.",
             "eventDescriptionIt": "Il 16 gennaio 2010, Istanbul, adornata del titolo di 'Capitale Europea della Cultura 2010', ha dato il via ai suoi festeggiamenti di un anno con vivaci celebrazioni in sette punti chiave della città. Questi eventi accattivanti hanno messo in mostra il ricco tessuto di culture e storie della città, segnando un magnifico inizio del suo regno di capitale culturale.",
             "eventDescriptionEs": "El 16 de enero de 2010, Estambul, adornada con el título de 'Capital Europea de la Cultura 2010', inició sus celebraciones de un año con vibrantes festivales en siete puntos clave de la ciudad. Estos cautivadores eventos mostraron el rico tapiz de culturas e historias de la ciudad, marcando un magnífico comienzo de su reinado como capital cultural."
-          },{
-  "eventId": "496",
-  "eventCategory": "TECH",
-  "eventDate": "1886/01/29",
-  "eventImg": null,
-  "eventDescriptionEn": "Karl Benz patents the first successful gasoline-driven automobile.",
-  "eventDescriptionTr": "Karl Benz, ilk başarılı benzinli otomobili patentledi.",
-  "eventDescriptionDe": "Karl Benz patentiert das erste erfolgreiche benzinbetriebene Automobil.",
-  "eventDescriptionIt": "Karl Benz brevetta la prima automobile a benzina di successo.",
-  "eventDescriptionEs": "Karl Benz patenta el primer automóvil exitoso impulsado por gasolina."
-},{
-  "eventId": "497",
-  "eventCategory": "TECH",
-  "eventDate": "1958/01/28",
-  "eventImg": null,
-  "eventDescriptionEn": "The Lego company patents the design of its Lego bricks, still compatible with bricks produced today.",
-  "eventDescriptionTr": "Lego şirketi, Lego tuğlalarının tasarımını patentledi. Bugün üretilenlerle tamamen uyumlu.",
-  "eventDescriptionDe": "Die Lego Company patentiert das Design ihrer Lego Steine. Noch heute kompatibel mit denen von heute.",
-  "eventDescriptionIt": "La società Lego brevetta il design dei suoi mattoncini Lego. Compatibili ancora oggi con quelli prodotti.",
-  "eventDescriptionEs": "La compañía Lego patenta el diseño de sus ladrillos Lego. Todavía compatibles con los producidos hoy."
-}
-
-
-          
-          
-           
-          
-          
-           
+        },
+        {
+            "eventId": "496",
+            "eventCategory": "TECH",
+            "eventDate": "1886/01/29",
+            "eventImg": null,
+            "eventDescriptionEn": "Karl Benz patents the first successful gasoline-driven automobile.",
+            "eventDescriptionTr": "Karl Benz, ilk başarılı benzinli otomobili patentledi.",
+            "eventDescriptionDe": "Karl Benz patentiert das erste erfolgreiche benzinbetriebene Automobil.",
+            "eventDescriptionIt": "Karl Benz brevetta la prima automobile a benzina di successo.",
+            "eventDescriptionEs": "Karl Benz patenta el primer automóvil exitoso impulsado por gasolina."
+        },
+        {
+            "eventId": "497",
+            "eventCategory": "TECH",
+            "eventDate": "1958/01/28",
+            "eventImg": null,
+            "eventDescriptionEn": "The Lego company patents the design of its Lego bricks, still compatible with bricks produced today.",
+            "eventDescriptionTr": "Lego şirketi, Lego tuğlalarının tasarımını patentledi. Bugün üretilenlerle tamamen uyumlu.",
+            "eventDescriptionDe": "Die Lego Company patentiert das Design ihrer Lego Steine. Noch heute kompatibel mit denen von heute.",
+            "eventDescriptionIt": "La società Lego brevetta il design dei suoi mattoncini Lego. Compatibili ancora oggi con quelli prodotti.",
+            "eventDescriptionEs": "La compañía Lego patenta el diseño de sus ladrillos Lego. Todavía compatibles con los producidos hoy."
+        },{
+            "eventId": "498",
+            "eventCategory": "HISTORY",
+            "eventDate": "1956/03/20",
+            "eventImg": null,
+            "eventDescriptionEn": "Tunisia gains independence from France.",
+            "eventDescriptionTr": "Tunus, Fransa'dan bağımsızlığını kazanır.",
+            "eventDescriptionDe": "Tunesien erlangt Unabhängigkeit von Frankreich.",
+            "eventDescriptionIt": "La Tunisia ottiene l'indipendenza dalla Francia.",
+            "eventDescriptionEs": "Túnez obtiene la independencia de Francia."
+          }
           
     ]
 }
