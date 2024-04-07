@@ -5328,10 +5328,16 @@
             "eventDescriptionDe": "Namibia wurde nach 75 Jahren südafrikanischer Herrschaft unabhängig.",
             "eventDescriptionIt": "Namibia è diventata indipendente dopo 75 anni di dominio sudafricano.",
             "eventDescriptionEs": "Namibia se independizó después de 75 años de dominio sudafricano."
-          }
-          
-          
-          
-          
+          },{
+  "eventId": "502",
+  "eventCategory": "HISTORY",
+  "eventDate": "1948/04/07",
+  "eventImg": null,
+  "eventDescriptionEn": "The World Health Organization was established by the United Nations.",
+  "eventDescriptionTr": "Dünya Sağlık Örgütü, Birleşmiş Milletler tarafından kuruldu.",
+  "eventDescriptionDe": "Die Weltgesundheitsorganisation wurde von den Vereinten Nationen gegründet.",
+  "eventDescriptionIt": "L'Organizzazione Mondiale della Sanità è stata istituita dalle Nazioni Unite.",
+  "eventDescriptionEs": "La Organización Mundial de la Salud fue establecida por las Naciones Unidas."
+}          
     ]
 }
