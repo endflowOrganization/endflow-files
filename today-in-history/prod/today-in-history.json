@@ -5225,7 +5225,7 @@
         },
         {
             "eventId": "492",
-            "eventCategory": "SPORTS",
+            "eventCategory": "SPORT",
             "eventDate": "1892/01/15",
             "eventImg": null,
             "eventDescriptionEn": "In a revolutionary move for sports history, Dr. James Naismith publishes the official rules of basketball, a new game he invented just months earlier. These 13 rules laid the foundation for the globally beloved sport we know today.",
@@ -5376,7 +5376,17 @@
             "eventDescriptionDe": "Die Republik Nordmazedonien ist den Vereinten Nationen beigetreten.",
             "eventDescriptionEs": "La República de Macedonia del Norte se unió a las Naciones Unidas.",
             "eventDescriptionIt": "La Repubblica di Macedonia del Nord si è unita alle Nazioni Unite."
-          }
-          
+        },
+        {
+            "eventId": "506",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1906/04/08",
+            "eventImg": null,
+            "eventDescriptionEn": "Auguste Deter, the first person to be diagnosed with Alzheimer's disease, died.",
+            "eventDescriptionTr": "Alzheimer hastalığı teşhisi konulan ilk kişi Auguste Deter, öldü.",
+            "eventDescriptionDe": "Auguste Deter, die erste Person, bei der Alzheimer diagnostiziert wurde, ist gestorben.",
+            "eventDescriptionEs": "Auguste Deter, la primera persona diagnosticada con la enfermedad de Alzheimer, falleció.",
+            "eventDescriptionIt": "Auguste Deter, la prima persona a cui è stata diagnosticata la malattia di Alzheimer, è morta."
+        }
     ]
 }
