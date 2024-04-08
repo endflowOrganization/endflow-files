@@ -5486,7 +5486,19 @@
             "eventDescriptionDe": "Das Vereinigte Königreich stimmt der Selbstregierung Singapurs zu.",
             "eventDescriptionEs": "El Reino Unido acepta la autogestión de Singapur.",
             "eventDescriptionIt": "Il Regno Unito accetta l'autogoverno di Singapore."
+          },
+          {
+            "eventId": "516",
+            "eventCategory": "TECH",
+            "eventDate": "2023/06/05",
+            "eventImg": null,
+            "eventDescriptionEn": "Apple announced Vision Pro.",
+            "eventDescriptionTr": "Apple, Vision Pro'yu duyurdu.",
+            "eventDescriptionDe": "Apple kündigte Vision Pro an.",
+            "eventDescriptionEs": "Apple anunció Vision Pro.",
+            "eventDescriptionIt": "Apple ha annunciato Vision Pro."
           }
+          
           
     ]
 }
