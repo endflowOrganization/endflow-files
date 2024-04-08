@@ -5418,7 +5418,19 @@
             "eventDescriptionDe": "Während des Zweiten Weltkriegs fand die Operation Weserübung statt: Deutschland überfiel Dänemark und Norwegen.",
             "eventDescriptionEs": "Durante la Segunda Guerra Mundial, tuvo lugar la Operación Weserübung: Alemania invadió Dinamarca y Noruega.",
             "eventDescriptionIt": "Durante la Seconda Guerra Mondiale, ha avuto luogo l'Operazione Weserübung: la Germania ha invaso la Danimarca e la Norvegia."
+          },
+          {
+            "eventId": "510",
+            "eventCategory": "HISTORY",
+            "eventDate": "2003/04/09",
+            "eventImg": null,
+            "eventDescriptionEn": "Baghdad fell to American forces during the Iraq War.",
+            "eventDescriptionTr": "Irak Savaşı sırasında Bağdat Amerikan güçlerine düştü.",
+            "eventDescriptionDe": "Während des Irakkrieges fiel Bagdad an die amerikanischen Streitkräfte.",
+            "eventDescriptionEs": "Bagdad cayó ante las fuerzas estadounidenses durante la Guerra de Irak.",
+            "eventDescriptionIt": "Baghdad è caduta nelle mani delle forze americane durante la guerra in Iraq."
           }
+          
           
           
     ]
