@@ -5408,7 +5408,18 @@
             "eventDescriptionDe": "Ein Erdbeben der Stärke 6,1 erschütterte den Iran und tötete 32 Menschen und verletzte über 850 Menschen.",
             "eventDescriptionEs": "Un terremoto de magnitud 6,1 golpeó a Irán, matando a 32 personas e hiriendo a más de 850 personas.",
             "eventDescriptionIt": "Un terremoto di magnitudo 6,1 ha colpito l'Iran, uccidendo 32 persone e ferendone oltre 850."
+          },{
+            "eventId": "509",
+            "eventCategory": "HISTORY",
+            "eventDate": "1940/04/09",
+            "eventImg": null,
+            "eventDescriptionEn": "During World War II, Operation Weserübung took place: Germany invaded Denmark and Norway.",
+            "eventDescriptionTr": "II. Dünya Savaşı sırasında Operasyon Weserübung gerçekleşti: Almanya Danimarka ve Norveç'i işgal etti.",
+            "eventDescriptionDe": "Während des Zweiten Weltkriegs fand die Operation Weserübung statt: Deutschland überfiel Dänemark und Norwegen.",
+            "eventDescriptionEs": "Durante la Segunda Guerra Mundial, tuvo lugar la Operación Weserübung: Alemania invadió Dinamarca y Noruega.",
+            "eventDescriptionIt": "Durante la Seconda Guerra Mondiale, ha avuto luogo l'Operazione Weserübung: la Germania ha invaso la Danimarca e la Norvegia."
           }
+          
           
     ]
 }
