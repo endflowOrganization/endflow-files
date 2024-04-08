@@ -5354,7 +5354,17 @@
             "eventDescriptionDe": "Eine totale Sonnenfinsternis fand am aufsteigenden Knoten des Mondes statt und war über ganz Nordamerika sichtbar.",
             "eventDescriptionEs": "Se produjo un eclipse solar total en el nodo ascendente de la Luna, visible en toda América del Norte.",
             "eventDescriptionIt": "Un'eclissi solare totale si è verificata al nodo ascendente della Luna, visibile in tutta l'America del Nord."
-          }
-          
+        },
+        {
+            "eventId": "504",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1911/04/08",
+            "eventImg": null,
+            "eventDescriptionEn": "Dutch physicist Heike Kamerlingh Onnes discovered superconductivity.",
+            "eventDescriptionTr": "Hollandalı fizikçi Heike Kamerlingh Onnes süperiletkenliği keşfetti.",
+            "eventDescriptionDe": "Der niederländische Physiker Heike Kamerlingh Onnes entdeckte die Supraleitung.",
+            "eventDescriptionEs": "El físico neerlandés Heike Kamerlingh Onnes descubrió la superconductividad.",
+            "eventDescriptionIt": "Il fisico olandese Heike Kamerlingh Onnes scoprì la superconduttività."
+        }
     ]
 }
