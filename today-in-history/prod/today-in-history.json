@@ -5387,6 +5387,17 @@
             "eventDescriptionDe": "Auguste Deter, die erste Person, bei der Alzheimer diagnostiziert wurde, ist gestorben.",
             "eventDescriptionEs": "Auguste Deter, la primera persona diagnosticada con la enfermedad de Alzheimer, falleció.",
             "eventDescriptionIt": "Auguste Deter, la prima persona a cui è stata diagnosticata la malattia di Alzheimer, è morta."
+        },
+        {
+            "eventId": "507",
+            "eventCategory": "HISTORY",
+            "eventDate": "1991/04/09",
+            "eventImg": null,
+            "eventDescriptionEn": "Georgia declared independence from the Soviet Union.",
+            "eventDescriptionTr": "Gürcistan, Sovyetler Birliği'nden bağımsızlığını ilan etti.",
+            "eventDescriptionDe": "Georgien erklärte seine Unabhängigkeit von der Sowjetunion.",
+            "eventDescriptionEs": "Georgia declaró su independencia de la Unión Soviética.",
+            "eventDescriptionIt": "La Georgia ha dichiarato l'indipendenza dall'Unione Sovietica."
         }
     ]
 }
