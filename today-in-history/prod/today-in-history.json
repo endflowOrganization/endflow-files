@@ -5429,9 +5429,17 @@
             "eventDescriptionDe": "Während des Irakkrieges fiel Bagdad an die amerikanischen Streitkräfte.",
             "eventDescriptionEs": "Bagdad cayó ante las fuerzas estadounidenses durante la Guerra de Irak.",
             "eventDescriptionIt": "Baghdad è caduta nelle mani delle forze americane durante la guerra in Iraq."
+          },
+          {
+            "eventId": "511",
+            "eventCategory": "TECH",
+            "eventDate": "1860/04/09",
+            "eventImg": null,
+            "eventDescriptionEn": "On his phonautograph machine, Édouard-Léon Scott de Martinville made the oldest known recording of an audible human voice.",
+            "eventDescriptionTr": "Phonautograph makinesinde Édouard-Léon Scott de Martinville, duyulabilir bir insan sesinin en eski bilinen kaydını yaptı.",
+            "eventDescriptionDe": "Auf seiner Phonautographenmaschine machte Édouard-Léon Scott de Martinville die älteste bekannte Aufnahme einer hörbaren menschlichen Stimme.",
+            "eventDescriptionEs": "En su máquina fonográfica, Édouard-Léon Scott de Martinville hizo la grabación más antigua conocida de una voz humana audible.",
+            "eventDescriptionIt": "Sulla sua macchina fonografa, Édouard-Léon Scott de Martinville ha fatto la registrazione più antica di una voce umana udibile."
           }
-          
-          
-          
     ]
 }
