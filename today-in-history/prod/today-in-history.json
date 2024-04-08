@@ -5398,7 +5398,8 @@
             "eventDescriptionDe": "Georgien erklärte seine Unabhängigkeit von der Sowjetunion.",
             "eventDescriptionEs": "Georgia declaró su independencia de la Unión Soviética.",
             "eventDescriptionIt": "La Georgia ha dichiarato l'indipendenza dall'Unione Sovietica."
-        },{
+        },
+        {
             "eventId": "508",
             "eventCategory": "HISTORY",
             "eventDate": "2023/04/09",
@@ -5408,7 +5409,8 @@
             "eventDescriptionDe": "Ein Erdbeben der Stärke 6,1 erschütterte den Iran und tötete 32 Menschen und verletzte über 850 Menschen.",
             "eventDescriptionEs": "Un terremoto de magnitud 6,1 golpeó a Irán, matando a 32 personas e hiriendo a más de 850 personas.",
             "eventDescriptionIt": "Un terremoto di magnitudo 6,1 ha colpito l'Iran, uccidendo 32 persone e ferendone oltre 850."
-          },{
+        },
+        {
             "eventId": "509",
             "eventCategory": "HISTORY",
             "eventDate": "1940/04/09",
@@ -5418,8 +5420,8 @@
             "eventDescriptionDe": "Während des Zweiten Weltkriegs fand die Operation Weserübung statt: Deutschland überfiel Dänemark und Norwegen.",
             "eventDescriptionEs": "Durante la Segunda Guerra Mundial, tuvo lugar la Operación Weserübung: Alemania invadió Dinamarca y Noruega.",
             "eventDescriptionIt": "Durante la Seconda Guerra Mondiale, ha avuto luogo l'Operazione Weserübung: la Germania ha invaso la Danimarca e la Norvegia."
-          },
-          {
+        },
+        {
             "eventId": "510",
             "eventCategory": "HISTORY",
             "eventDate": "2003/04/09",
@@ -5429,8 +5431,8 @@
             "eventDescriptionDe": "Während des Irakkrieges fiel Bagdad an die amerikanischen Streitkräfte.",
             "eventDescriptionEs": "Bagdad cayó ante las fuerzas estadounidenses durante la Guerra de Irak.",
             "eventDescriptionIt": "Baghdad è caduta nelle mani delle forze americane durante la guerra in Iraq."
-          },
-          {
+        },
+        {
             "eventId": "511",
             "eventCategory": "TECH",
             "eventDate": "1860/04/09",
@@ -5440,8 +5442,8 @@
             "eventDescriptionDe": "Auf seiner Phonautographenmaschine machte Édouard-Léon Scott de Martinville die älteste bekannte Aufnahme einer hörbaren menschlichen Stimme.",
             "eventDescriptionEs": "En su máquina fonográfica, Édouard-Léon Scott de Martinville hizo la grabación más antigua conocida de una voz humana audible.",
             "eventDescriptionIt": "Sulla sua macchina fonografa, Édouard-Léon Scott de Martinville ha fatto la registrazione più antica di una voce umana udibile."
-          },
-          {
+        },
+        {
             "eventId": "512",
             "eventCategory": "TECH",
             "eventDate": "1925/04/09",
@@ -5451,7 +5453,17 @@
             "eventDescriptionDe": "Die Kamikaze kam am Flughafen Croydon in London an. Es war das erste in Japan gebaute Flugzeug, das nach Europa flog.",
             "eventDescriptionEs": "El Kamikaze llegó al Aeropuerto de Croydon en Londres. Fue el primer avión construido en Japón en volar a Europa.",
             "eventDescriptionIt": "Il Kamikaze arrivò all'aeroporto di Croydon a Londra. È stato il primo aereo costruito in Giappone a volare in Europa."
-          }
-          
+        },
+        {
+            "eventId": "513",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2021/04/09",
+            "eventImg": null,
+            "eventDescriptionEn": "Prince Philip, Duke of Edinburgh, passed away.",
+            "eventDescriptionTr": "Edinburg Dükü Prens Philip hayatını kaybetti.",
+            "eventDescriptionDe": "Prinz Philip, Herzog von Edinburgh, ist verstorben.",
+            "eventDescriptionEs": "El príncipe Felipe, duque de Edimburgo, falleció.",
+            "eventDescriptionIt": "Il principe Filippo, duca di Edimburgo, è morto."
+        }
     ]
 }
