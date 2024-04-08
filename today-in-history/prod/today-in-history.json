@@ -5464,6 +5464,17 @@
             "eventDescriptionDe": "Prinz Philip, Herzog von Edinburgh, ist verstorben.",
             "eventDescriptionEs": "El príncipe Felipe, duque de Edimburgo, falleció.",
             "eventDescriptionIt": "Il principe Filippo, duca di Edimburgo, è morto."
+        },
+        {
+            "eventId": "514",
+            "eventCategory": "SCIENCE",
+            "eventDate": "2019/04/10",
+            "eventImg": null,
+            "eventDescriptionEn": "Scientists from the Event Horizon Telescope project announced the first-ever image of a black hole, located in the center of the M87 galaxy.",
+            "eventDescriptionTr": "Olay Ufku Teleskobu projesinden bilim insanları, M87 galaksisinin merkezinde bulunan ilk siyah deliğin görüntüsünü duyurdu.",
+            "eventDescriptionDe": "Wissenschaftler des Event Horizon Telescope-Projekts verkündeten das erste Bild eines schwarzen Lochs, das sich im Zentrum der M87-Galaxie befindet.",
+            "eventDescriptionEs": "Científicos del proyecto Telescopio del Horizonte de Sucesos anunciaron la primera imagen de un agujero negro, ubicado en el centro de la galaxia M87.",
+            "eventDescriptionIt": "Gli scienziati del progetto Event Horizon Telescope hanno annunciato la prima immagine mai vista di un buco nero, situato al centro della galassia M87."
         }
     ]
 }
