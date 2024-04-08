@@ -5398,6 +5398,17 @@
             "eventDescriptionDe": "Georgien erklärte seine Unabhängigkeit von der Sowjetunion.",
             "eventDescriptionEs": "Georgia declaró su independencia de la Unión Soviética.",
             "eventDescriptionIt": "La Georgia ha dichiarato l'indipendenza dall'Unione Sovietica."
-        }
+        },{
+            "eventId": "508",
+            "eventCategory": "HISTORY",
+            "eventDate": "2023/04/09",
+            "eventImg": null,
+            "eventDescriptionEn": "A 6.1-magnitude earthquake struck Iran, killing 32 people and injuring over 850 people.",
+            "eventDescriptionTr": "İran'ı vuran 6,1 büyüklüğünde bir depremde 32 kişi öldü ve 850'den fazla kişi yaralandı.",
+            "eventDescriptionDe": "Ein Erdbeben der Stärke 6,1 erschütterte den Iran und tötete 32 Menschen und verletzte über 850 Menschen.",
+            "eventDescriptionEs": "Un terremoto de magnitud 6,1 golpeó a Irán, matando a 32 personas e hiriendo a más de 850 personas.",
+            "eventDescriptionIt": "Un terremoto di magnitudo 6,1 ha colpito l'Iran, uccidendo 32 persone e ferendone oltre 850."
+          }
+          
     ]
 }
