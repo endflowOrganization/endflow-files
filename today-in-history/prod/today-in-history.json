@@ -5365,6 +5365,18 @@
             "eventDescriptionDe": "Der niederländische Physiker Heike Kamerlingh Onnes entdeckte die Supraleitung.",
             "eventDescriptionEs": "El físico neerlandés Heike Kamerlingh Onnes descubrió la superconductividad.",
             "eventDescriptionIt": "Il fisico olandese Heike Kamerlingh Onnes scoprì la superconduttività."
-        }
+        },
+        {
+            "eventId": "505",
+            "eventCategory": "HISTORY",
+            "eventDate": "1993/04/08",
+            "eventImg": null,
+            "eventDescriptionEn": "The Republic of North Macedonia joined the United Nations.",
+            "eventDescriptionTr": "Kuzey Makedonya Cumhuriyeti Birleşmiş Milletlere katıldı.",
+            "eventDescriptionDe": "Die Republik Nordmazedonien ist den Vereinten Nationen beigetreten.",
+            "eventDescriptionEs": "La República de Macedonia del Norte se unió a las Naciones Unidas.",
+            "eventDescriptionIt": "La Repubblica di Macedonia del Nord si è unita alle Nazioni Unite."
+          }
+          
     ]
 }
