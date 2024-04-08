@@ -5288,7 +5288,8 @@
             "eventDescriptionDe": "Die Lego Company patentiert das Design ihrer Lego Steine. Noch heute kompatibel mit denen von heute.",
             "eventDescriptionIt": "La società Lego brevetta il design dei suoi mattoncini Lego. Compatibili ancora oggi con quelli prodotti.",
             "eventDescriptionEs": "La compañía Lego patenta el diseño de sus ladrillos Lego. Todavía compatibles con los producidos hoy."
-        },{
+        },
+        {
             "eventId": "498",
             "eventCategory": "HISTORY",
             "eventDate": "1956/03/20",
@@ -5298,7 +5299,8 @@
             "eventDescriptionDe": "Tunesien erlangt Unabhängigkeit von Frankreich.",
             "eventDescriptionIt": "La Tunisia ottiene l'indipendenza dalla Francia.",
             "eventDescriptionEs": "Túnez obtiene la independencia de Francia."
-          },{
+        },
+        {
             "eventId": "499",
             "eventCategory": "PEOPLE",
             "eventDate": "2017/03/20",
@@ -5308,7 +5310,8 @@
             "eventDescriptionDe": "David Rockefeller, amerikanischer Milliardär, ist gestorben.",
             "eventDescriptionIt": "Muore David Rockefeller, miliardario americano.",
             "eventDescriptionEs": "Fallece David Rockefeller, multimillonario estadounidense."
-          },{
+        },
+        {
             "eventId": "500",
             "eventCategory": "HISTORY",
             "eventDate": "1963/03/21",
@@ -5318,7 +5321,8 @@
             "eventDescriptionDe": "Das Alcatraz Federal Penitentiary wurde geschlossen.",
             "eventDescriptionIt": "La prigione federale di Alcatraz è stata chiusa.",
             "eventDescriptionEs": "Se cerró la Penitenciaría Federal de Alcatraz."
-          },{
+        },
+        {
             "eventId": "501",
             "eventCategory": "HISTORY",
             "eventDate": "1990/03/21",
@@ -5328,16 +5332,29 @@
             "eventDescriptionDe": "Namibia wurde nach 75 Jahren südafrikanischer Herrschaft unabhängig.",
             "eventDescriptionIt": "Namibia è diventata indipendente dopo 75 anni di dominio sudafricano.",
             "eventDescriptionEs": "Namibia se independizó después de 75 años de dominio sudafricano."
-          },{
-  "eventId": "502",
-  "eventCategory": "HISTORY",
-  "eventDate": "1948/04/07",
-  "eventImg": null,
-  "eventDescriptionEn": "The World Health Organization was established by the United Nations.",
-  "eventDescriptionTr": "Dünya Sağlık Örgütü, Birleşmiş Milletler tarafından kuruldu.",
-  "eventDescriptionDe": "Die Weltgesundheitsorganisation wurde von den Vereinten Nationen gegründet.",
-  "eventDescriptionIt": "L'Organizzazione Mondiale della Sanità è stata istituita dalle Nazioni Unite.",
-  "eventDescriptionEs": "La Organización Mundial de la Salud fue establecida por las Naciones Unidas."
-}          
+        },
+        {
+            "eventId": "502",
+            "eventCategory": "HISTORY",
+            "eventDate": "1948/04/07",
+            "eventImg": null,
+            "eventDescriptionEn": "The World Health Organization was established by the United Nations.",
+            "eventDescriptionTr": "Dünya Sağlık Örgütü, Birleşmiş Milletler tarafından kuruldu.",
+            "eventDescriptionDe": "Die Weltgesundheitsorganisation wurde von den Vereinten Nationen gegründet.",
+            "eventDescriptionIt": "L'Organizzazione Mondiale della Sanità è stata istituita dalle Nazioni Unite.",
+            "eventDescriptionEs": "La Organización Mundial de la Salud fue establecida por las Naciones Unidas."
+        },
+        {
+            "eventId": "503",
+            "eventCategory": "SCIENCE",
+            "eventDate": "2024/04/08",
+            "eventImg": null,
+            "eventDescriptionEn": "A total solar eclipse took place at the Moon's ascending node, visible across North America.",
+            "eventDescriptionTr": "Ay'ın yükselen düğümünde bir toplam güneş tutulması gerçekleşti, Kuzey Amerika'nın genelinde görüldü.",
+            "eventDescriptionDe": "Eine totale Sonnenfinsternis fand am aufsteigenden Knoten des Mondes statt und war über ganz Nordamerika sichtbar.",
+            "eventDescriptionEs": "Se produjo un eclipse solar total en el nodo ascendente de la Luna, visible en toda América del Norte.",
+            "eventDescriptionIt": "Un'eclissi solare totale si è verificata al nodo ascendente della Luna, visibile in tutta l'America del Nord."
+          }
+          
     ]
 }
