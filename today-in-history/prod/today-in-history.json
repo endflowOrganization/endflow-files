@@ -5440,6 +5440,18 @@
             "eventDescriptionDe": "Auf seiner Phonautographenmaschine machte Édouard-Léon Scott de Martinville die älteste bekannte Aufnahme einer hörbaren menschlichen Stimme.",
             "eventDescriptionEs": "En su máquina fonográfica, Édouard-Léon Scott de Martinville hizo la grabación más antigua conocida de una voz humana audible.",
             "eventDescriptionIt": "Sulla sua macchina fonografa, Édouard-Léon Scott de Martinville ha fatto la registrazione più antica di una voce umana udibile."
+          },
+          {
+            "eventId": "512",
+            "eventCategory": "TECH",
+            "eventDate": "1925/04/09",
+            "eventImg": null,
+            "eventDescriptionEn": "The Kamikaze arrived at Croydon Airport in London. It was the first Japanese-built aircraft to fly to Europe.",
+            "eventDescriptionTr": "Kamikaze, Londra'daki Croydon Havaalanı'na geldi. Avrupa'ya uçan ilk Japon yapımı uçaktı.",
+            "eventDescriptionDe": "Die Kamikaze kam am Flughafen Croydon in London an. Es war das erste in Japan gebaute Flugzeug, das nach Europa flog.",
+            "eventDescriptionEs": "El Kamikaze llegó al Aeropuerto de Croydon en Londres. Fue el primer avión construido en Japón en volar a Europa.",
+            "eventDescriptionIt": "Il Kamikaze arrivò all'aeroporto di Croydon a Londra. È stato il primo aereo costruito in Giappone a volare in Europa."
           }
+          
     ]
 }
