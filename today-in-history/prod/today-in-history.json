@@ -5541,6 +5541,17 @@
             "eventDescriptionDe": "Das Statut von Anne, das erste Gesetz zur Regulierung des Urheberrechts, tritt in Großbritannien in Kraft.",
             "eventDescriptionEs": "La Ley de Ana, la primera ley que regula los derechos de autor, entra en vigor en Gran Bretaña.",
             "eventDescriptionIt": "Lo Statuto di Anne, la prima legge che regolamenta il copyright, entra in vigore in Gran Bretagna."
-        }
+        },{
+            "eventId": "521",
+            "eventCategory": "HISTORY",
+            "eventDate": "1992/04/12",
+            "eventImg": null,
+            "eventDescriptionEn": "The Euro Disney Resort officially opens with its theme park Euro Disneyland; the resort and its park's name are subsequently changed to Disneyland Paris.",
+            "eventDescriptionTr": "Euro Disney Resort, temalı parkı Euro Disneyland ile resmi olarak açılır; tatil köyü ve parkın adı daha sonra Disneyland Paris olarak değiştirilir.",
+            "eventDescriptionDe": "Das Euro Disney Resort öffnet offiziell mit seinem Themenpark Euro Disneyland; das Resort und der Park werden später in Disneyland Paris umbenannt.",
+            "eventDescriptionEs": "El Euro Disney Resort abre oficialmente con su parque temático Euro Disneyland; posteriormente, el nombre del resort y su parque se cambian a Disneyland Paris.",
+            "eventDescriptionIt": "Il Euro Disney Resort apre ufficialmente con il suo parco a tema Euro Disneyland; successivamente, il nome del resort e del parco vengono cambiati in Disneyland Paris."
+          }
+          
     ]
 }
