@@ -5561,7 +5561,18 @@
             "eventDescriptionDe": "Der von Dr. Jonas Salk entwickelte Polio-Impfstoff wird als sicher und wirksam erklärt.",
             "eventDescriptionEs": "La vacuna contra la polio, desarrollada por el Dr. Jonas Salk, se declara segura y efectiva.",
             "eventDescriptionIt": "Il vaccino antipolio, sviluppato dal Dr. Jonas Salk, viene dichiarato sicuro ed efficace."
+          },{
+            "eventId": "523",
+            "eventCategory": "TECH",
+            "eventDate": "1960/04/13",
+            "eventImg": null,
+            "eventDescriptionEn": "The United States launches Transit 1-B, the world's first satellite navigation system.",
+            "eventDescriptionTr": "Amerika Birleşik Devletleri, dünyanın ilk uydu navigasyon sistemi Transit 1-B'yi fırlatıyor.",
+            "eventDescriptionDe": "Die Vereinigten Staaten starten Transit 1-B, das weltweit erste Satellitennavigationssystem.",
+            "eventDescriptionEs": "Estados Unidos lanza Transit 1-B, el primer sistema de navegación por satélite del mundo.",
+            "eventDescriptionIt": "Gli Stati Uniti lanciano Transit 1-B, il primo sistema di navigazione satellitare al mondo."
           }
+          
           
           
     ]
