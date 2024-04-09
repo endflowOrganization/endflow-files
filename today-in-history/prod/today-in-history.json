@@ -5508,6 +5508,17 @@
             "eventDescriptionDe": "Apollo 13 wird gestartet.",
             "eventDescriptionEs": "Apollo 13 es lanzado.",
             "eventDescriptionIt": "Apollo 13 viene lanciato."
+        },
+        {
+            "eventId": "518",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2004/04/10",
+            "eventImg": null,
+            "eventDescriptionEn": "Turkish businessman Sakıp Sabancı passed away.",
+            "eventDescriptionTr": "Türk iş insanı Sakıp Sabancı hayatını kaybetti.",
+            "eventDescriptionDe": "Der türkische Geschäftsmann Sakıp Sabancı ist verstorben.",
+            "eventDescriptionEs": "El empresario turco Sakıp Sabancı falleció.",
+            "eventDescriptionIt": "Il businessman turco Sakıp Sabancı è deceduto."
         }
     ]
 }
