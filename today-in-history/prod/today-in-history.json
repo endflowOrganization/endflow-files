@@ -5519,7 +5519,8 @@
             "eventDescriptionDe": "Der türkische Geschäftsmann Sakıp Sabancı ist verstorben.",
             "eventDescriptionEs": "El empresario turco Sakıp Sabancı falleció.",
             "eventDescriptionIt": "Il businessman turco Sakıp Sabancı è deceduto."
-        },{
+        },
+        {
             "eventId": "519",
             "eventCategory": "HISTORY",
             "eventDate": "1912/04/10",
@@ -5529,7 +5530,17 @@
             "eventDescriptionDe": "Die RMS Titanic stach von Southampton, England, zu ihrer Jungfernfahrt und einzigen Reise in See.",
             "eventDescriptionEs": "El RMS Titanic zarpó de Southampton, Inglaterra, en su viaje inaugural y único.",
             "eventDescriptionIt": "Il RMS Titanic salpò da Southampton, Inghilterra, per il suo viaggio inaugurale e unico."
-          }
-          
+        },
+        {
+            "eventId": "520",
+            "eventCategory": "POLITICS",
+            "eventDate": "1710/04/10",
+            "eventImg": null,
+            "eventDescriptionEn": "The Statute of Anne, the first law regulating copyright, comes into force in Great Britain.",
+            "eventDescriptionTr": "Anne Yasası, telif hakkını düzenleyen ilk yasa, Büyük Britanya'da yürürlüğe girer.",
+            "eventDescriptionDe": "Das Statut von Anne, das erste Gesetz zur Regulierung des Urheberrechts, tritt in Großbritannien in Kraft.",
+            "eventDescriptionEs": "La Ley de Ana, la primera ley que regula los derechos de autor, entra en vigor en Gran Bretaña.",
+            "eventDescriptionIt": "Lo Statuto di Anne, la prima legge che regolamenta il copyright, entra in vigore in Gran Bretagna."
+        }
     ]
 }
