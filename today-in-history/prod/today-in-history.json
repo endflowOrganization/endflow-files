@@ -4279,7 +4279,7 @@
         },
         {
             "eventId": "405",
-            "eventCategory": "SPACE",
+            "eventCategory": "SCIENCE",
             "eventDate": "2019/10/18",
             "eventImg": null,
             "eventDescriptionEn": "NASA Astronauts Jessica Meir and Christina Koch make history by taking part in the first all-female spacewalk, venturing out of the International Space Station to replace a power controller.",
@@ -5192,7 +5192,7 @@
         },
         {
             "eventId": "489",
-            "eventCategory": "SPACE",
+            "eventCategory": "SCIENCE",
             "eventDate": "2011/12/31",
             "eventImg": null,
             "eventDescriptionEn": "NASA succeeded in putting the first of two Gravity Recovery and Interior Laboratory (GRAIL) satellites in orbit around the Moon.",
@@ -5258,7 +5258,7 @@
         },
         {
             "eventId": "495",
-            "eventCategory": "FESTIVAL",
+            "eventCategory": "HISTORY",
             "eventDate": "2010/01/16",
             "eventImg": null,
             "eventDescriptionEn": "On January 16, 2010, Istanbul, proudly donned with the title of '2010 European Capital of Culture', launched its year-long celebration with vibrant festivities across seven key points in the city. These captivating events showcased the city's rich tapestry of cultures and histories, marking a magnificent commencement to its reign as cultural capital.",
@@ -5486,8 +5486,8 @@
             "eventDescriptionDe": "Das Vereinigte Königreich stimmt der Selbstregierung Singapurs zu.",
             "eventDescriptionEs": "El Reino Unido acepta la autogestión de Singapur.",
             "eventDescriptionIt": "Il Regno Unito accetta l'autogoverno di Singapore."
-          },
-          {
+        },
+        {
             "eventId": "516",
             "eventCategory": "TECH",
             "eventDate": "2023/06/05",
@@ -5497,8 +5497,17 @@
             "eventDescriptionDe": "Apple kündigte Vision Pro an.",
             "eventDescriptionEs": "Apple anunció Vision Pro.",
             "eventDescriptionIt": "Apple ha annunciato Vision Pro."
-          }
-          
-          
+        },
+        {
+            "eventId": "55",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1970/04/11",
+            "eventImg": null,
+            "eventDescriptionEn": "Apollo 13 is launched.",
+            "eventDescriptionTr": "Apollo 13 fırlatıldı.",
+            "eventDescriptionDe": "Apollo 13 wird gestartet.",
+            "eventDescriptionEs": "Apollo 13 es lanzado.",
+            "eventDescriptionIt": "Apollo 13 viene lanciato."
+        }
     ]
 }
