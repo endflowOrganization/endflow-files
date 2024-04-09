@@ -278,7 +278,7 @@
             "eventId": "35",
             "eventCategory": "PEOPLE",
             "eventDate": "1912/04/15",
-            "eventImg": null,
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/april%2Frms-titanic.jpeg?alt=media&token=4d49de8a-01f6-4087-ad11-8dcfc0b9131c",
             "eventDescriptionEn": "The RMS Titanic, a British passenger liner, sank after hitting an iceberg in the North Atlantic Ocean, resulting in the loss of over 1,500 lives.",
             "eventDescriptionTr": "Britanya yolcu gemisi RMS Titanic, Kuzey Atlantik Okyanusu'nda bir buzdağına çarparak battı ve 1.500'den fazla can kaybına neden oldu."
         },
@@ -5519,6 +5519,17 @@
             "eventDescriptionDe": "Der türkische Geschäftsmann Sakıp Sabancı ist verstorben.",
             "eventDescriptionEs": "El empresario turco Sakıp Sabancı falleció.",
             "eventDescriptionIt": "Il businessman turco Sakıp Sabancı è deceduto."
-        }
+        },{
+            "eventId": "519",
+            "eventCategory": "HISTORY",
+            "eventDate": "1912/04/10",
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/april%2Frms-titanic.jpeg?alt=media&token=4d49de8a-01f6-4087-ad11-8dcfc0b9131c",
+            "eventDescriptionEn": "RMS Titanic set sail from Southampton, England on her maiden and only voyage.",
+            "eventDescriptionTr": "RMS Titanic, ilk ve tek seferine çıkmak üzere Southampton, İngiltere'den yola çıktı.",
+            "eventDescriptionDe": "Die RMS Titanic stach von Southampton, England, zu ihrer Jungfernfahrt und einzigen Reise in See.",
+            "eventDescriptionEs": "El RMS Titanic zarpó de Southampton, Inglaterra, en su viaje inaugural y único.",
+            "eventDescriptionIt": "Il RMS Titanic salpò da Southampton, Inghilterra, per il suo viaggio inaugurale e unico."
+          }
+          
     ]
 }
