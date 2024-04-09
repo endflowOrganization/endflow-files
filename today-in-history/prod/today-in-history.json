@@ -5551,7 +5551,18 @@
             "eventDescriptionDe": "Das Euro Disney Resort öffnet offiziell mit seinem Themenpark Euro Disneyland; das Resort und der Park werden später in Disneyland Paris umbenannt.",
             "eventDescriptionEs": "El Euro Disney Resort abre oficialmente con su parque temático Euro Disneyland; posteriormente, el nombre del resort y su parque se cambian a Disneyland Paris.",
             "eventDescriptionIt": "Il Euro Disney Resort apre ufficialmente con il suo parco a tema Euro Disneyland; successivamente, il nome del resort e del parco vengono cambiati in Disneyland Paris."
+          },{
+            "eventId": "522",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1955/04/12",
+            "eventImg": null,
+            "eventDescriptionEn": "The polio vaccine, developed by Dr. Jonas Salk, is declared safe and effective.",
+            "eventDescriptionTr": "Dr. Jonas Salk tarafından geliştirilen çocuk felci aşısı güvenli ve etkili olarak ilan edilir.",
+            "eventDescriptionDe": "Der von Dr. Jonas Salk entwickelte Polio-Impfstoff wird als sicher und wirksam erklärt.",
+            "eventDescriptionEs": "La vacuna contra la polio, desarrollada por el Dr. Jonas Salk, se declara segura y efectiva.",
+            "eventDescriptionIt": "Il vaccino antipolio, sviluppato dal Dr. Jonas Salk, viene dichiarato sicuro ed efficace."
           }
+          
           
     ]
 }
