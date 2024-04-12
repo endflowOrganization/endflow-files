@@ -5571,7 +5571,19 @@
             "eventDescriptionDe": "Die Vereinigten Staaten starten Transit 1-B, das weltweit erste Satellitennavigationssystem.",
             "eventDescriptionEs": "Estados Unidos lanza Transit 1-B, el primer sistema de navegación por satélite del mundo.",
             "eventDescriptionIt": "Gli Stati Uniti lanciano Transit 1-B, il primo sistema di navigazione satellitare al mondo."
+          },
+          {
+            "eventId": "524",
+            "eventCategory": "POLITICS",
+            "eventDate": "1983/04/12",
+            "eventImg": null,
+            "eventDescriptionEn": "Harold Washington is elected as the first black mayor of Chicago.",
+            "eventDescriptionTr": "Harold Washington, Chicago'nun ilk siyah belediye başkanı olarak seçilir.",
+            "eventDescriptionDe": "Harold Washington wird als erster schwarzer Bürgermeister von Chicago gewählt.",
+            "eventDescriptionEs": "Harold Washington es elegido como el primer alcalde negro de Chicago.",
+            "eventDescriptionIt": "Harold Washington viene eletto primo sindaco nero di Chicago."
           }
+          
           
           
           
