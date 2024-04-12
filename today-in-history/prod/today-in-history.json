@@ -5602,6 +5602,16 @@
             "eventDescriptionDe": "Ein Neutralitätspakt zwischen der UdSSR und Japan wurde unterzeichnet.",
             "eventDescriptionEs": "Se firmó un pacto de neutralidad entre la URSS y Japón.",
             "eventDescriptionIt": "È stato firmato un patto di neutralità tra URSS e Giappone."
-          }
+          },{
+            "eventId": "527",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1970/04/13",
+            "eventImg": null,
+            "eventDescriptionEn": "An oxygen tank aboard the Apollo 13 Service Module explodes, putting the crew in great danger and causing major damage to the Apollo command and service module (codenamed 'Odyssey') while en route to the Moon.",
+            "eventDescriptionTr": "Apollo 13 Servis Modülü'ndeki bir oksijen tankı patladı, mürettebatı büyük tehlikeye soktu ve Ay'a yolculukları sırasında Apollo komuta ve hizmet modülüne (kod adı 'Odyssey') büyük zarar verdi.",
+            "eventDescriptionDe": "Ein Sauerstofftank an Bord des Apollo 13-Servicemoduls explodiert, was die Besatzung in große Gefahr bringt und erhebliche Schäden am Apollo-Kommando- und Servicemodul (Codename 'Odyssey') verursacht, während sie zum Mond unterwegs sind.",
+            "eventDescriptionEs": "Un tanque de oxígeno a bordo del Módulo de Servicio del Apolo 13 explota, poniendo a la tripulación en gran peligro y causando daños importantes al módulo de comando y servicio del Apolo (codificado como 'Odyssey') mientras se dirige a la Luna.",
+            "eventDescriptionIt": "Un serbatoio di ossigeno a bordo del Modulo di Servizio dell'Apollo 13 esplode, mettendo l'equipaggio in grave pericolo e causando gravi danni al modulo di comando e servizio dell'Apollo (chiamato 'Odyssey') durante il viaggio verso la Luna."
+          }          
     ]
 }
