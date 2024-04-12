@@ -5578,11 +5578,22 @@
             "eventDate": "1983/04/12",
             "eventImg": null,
             "eventDescriptionEn": "Harold Washington is elected as the first black mayor of Chicago.",
-            "eventDescriptionTr": "Harold Washington, Chicago'nun ilk siyah belediye başkanı olarak seçilir.",
+            "eventDescriptionTr": "Harold Washington, Chicago'nun ilk siyah belediye başkanı olarak seçildi.",
             "eventDescriptionDe": "Harold Washington wird als erster schwarzer Bürgermeister von Chicago gewählt.",
             "eventDescriptionEs": "Harold Washington es elegido como el primer alcalde negro de Chicago.",
             "eventDescriptionIt": "Harold Washington viene eletto primo sindaco nero di Chicago."
+          },{
+            "eventId": "525",
+            "eventCategory": "HISTORY",
+            "eventDate": "1877/04/12",
+            "eventImg": null,
+            "eventDescriptionEn": "The United Kingdom annexed the Transvaal (former Province of South Africa).",
+            "eventDescriptionTr": "Birleşik Krallık, Transvaal'i (Eski Güney Afrika Eyaleti) ilhak etti.",
+            "eventDescriptionDe": "Das Vereinigte Königreich annektierte das Transvaal (ehemalige Provinz Südafrikas).",
+            "eventDescriptionEs": "El Reino Unido anexó el Transvaal (antigua Provincia de Sudáfrica).",
+            "eventDescriptionIt": "Il Regno Unito annesse il Transvaal (ex Provincia del Sud Africa)."
           }
+          
           
           
           
