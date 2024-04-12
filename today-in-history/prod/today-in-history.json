@@ -5592,11 +5592,16 @@
             "eventDescriptionDe": "Das Vereinigte Königreich annektierte das Transvaal (ehemalige Provinz Südafrikas).",
             "eventDescriptionEs": "El Reino Unido anexó el Transvaal (antigua Provincia de Sudáfrica).",
             "eventDescriptionIt": "Il Regno Unito annesse il Transvaal (ex Provincia del Sud Africa)."
+          },{
+            "eventId": "526",
+            "eventCategory": "POLITICS",
+            "eventDate": "1941/04/13",
+            "eventImg": null,
+            "eventDescriptionEn": "A pact of neutrality between the USSR and Japan was signed.",
+            "eventDescriptionTr": "SSCB ve Japonya arasında bir tarafsızlık antlaşması imzalandı.",
+            "eventDescriptionDe": "Ein Neutralitätspakt zwischen der UdSSR und Japan wurde unterzeichnet.",
+            "eventDescriptionEs": "Se firmó un pacto de neutralidad entre la URSS y Japón.",
+            "eventDescriptionIt": "È stato firmato un patto di neutralità tra URSS e Giappone."
           }
-          
-          
-          
-          
-          
     ]
 }
