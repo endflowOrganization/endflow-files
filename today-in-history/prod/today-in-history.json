@@ -5640,6 +5640,28 @@
             "eventDescriptionDe": "Die Jupiter Icy Moons Explorer (JUICE) wird von der Europäischen Weltraumorganisation gestartet.",
             "eventDescriptionEs": "La Agencia Espacial Europea lanza la Sonda para la Exploración de las Lunas Heladas de Júpiter (JUICE).",
             "eventDescriptionIt": "Il Jupiter Icy Moons Explorer (JUICE) viene lanciato dall'Agenzia Spaziale Europea."
+        },
+        {
+            "eventId": "530",
+            "eventCategory": "HISTORY",
+            "eventDate": "1986/04/14",
+            "eventImg": null,
+            "eventDescriptionEn": "The heaviest hailstones ever recorded, each weighing 1 kilogram (2.2 lb), fall on the Gopalganj district of Bangladesh, killing 92.",
+            "eventDescriptionTr": "Her biri 1 kilogram (2,2 lb) olan tarihte kaydedilen en ağır dolu tanecikleri, Bangladeş'in Gopalganj ilçesine düşer ve 92 kişiyi öldürür.",
+            "eventDescriptionDe": "Die schwersten jemals gemessenen Hagelkörner, jeweils 1 Kilogramm (2,2 lb) schwer, fallen auf den Distrikt Gopalganj in Bangladesch und töten 92 Menschen.",
+            "eventDescriptionEs": "Las piedras de granizo más pesadas jamás registradas, cada una con un peso de 1 kilogramo (2,2 lb), caen en el distrito de Gopalganj en Bangladesh, matando a 92 personas.",
+            "eventDescriptionIt": "I chicchi di grandine più pesanti mai registrati, ognuno con un peso di 1 chilogrammo (2,2 libbre), cadono nel distretto di Gopalganj in Bangladesh, causando 92 morti."
+        },
+        {
+            "eventId": "531",
+            "eventCategory": "HISTORY",
+            "eventDate": "2022/04/14",
+            "eventImg": null,
+            "eventDescriptionEn": "Russian invasion of Ukraine: The Russian warship Moskva sank.",
+            "eventDescriptionTr": "Ukrayna'ya Rusya'nın işgali: Rus savaş gemisi Moskva battı.",
+            "eventDescriptionDe": "Russische Invasion der Ukraine: Das russische Kriegsschiff Moskva sank.",
+            "eventDescriptionEs": "Invasión rusa de Ucrania: El buque de guerra ruso Moskva se hundió.",
+            "eventDescriptionIt": "Invasione russa dell'Ucraina: La nave da guerra russa Moskva affondò."
         }
     ]
 }
