@@ -5541,7 +5541,8 @@
             "eventDescriptionDe": "Das Statut von Anne, das erste Gesetz zur Regulierung des Urheberrechts, tritt in Großbritannien in Kraft.",
             "eventDescriptionEs": "La Ley de Ana, la primera ley que regula los derechos de autor, entra en vigor en Gran Bretaña.",
             "eventDescriptionIt": "Lo Statuto di Anne, la prima legge che regolamenta il copyright, entra in vigore in Gran Bretagna."
-        },{
+        },
+        {
             "eventId": "521",
             "eventCategory": "HISTORY",
             "eventDate": "1992/04/12",
@@ -5551,7 +5552,8 @@
             "eventDescriptionDe": "Das Euro Disney Resort öffnet offiziell mit seinem Themenpark Euro Disneyland; das Resort und der Park werden später in Disneyland Paris umbenannt.",
             "eventDescriptionEs": "El Euro Disney Resort abre oficialmente con su parque temático Euro Disneyland; posteriormente, el nombre del resort y su parque se cambian a Disneyland Paris.",
             "eventDescriptionIt": "Il Euro Disney Resort apre ufficialmente con il suo parco a tema Euro Disneyland; successivamente, il nome del resort e del parco vengono cambiati in Disneyland Paris."
-          },{
+        },
+        {
             "eventId": "522",
             "eventCategory": "SCIENCE",
             "eventDate": "1955/04/12",
@@ -5561,7 +5563,8 @@
             "eventDescriptionDe": "Der von Dr. Jonas Salk entwickelte Polio-Impfstoff wird als sicher und wirksam erklärt.",
             "eventDescriptionEs": "La vacuna contra la polio, desarrollada por el Dr. Jonas Salk, se declara segura y efectiva.",
             "eventDescriptionIt": "Il vaccino antipolio, sviluppato dal Dr. Jonas Salk, viene dichiarato sicuro ed efficace."
-          },{
+        },
+        {
             "eventId": "523",
             "eventCategory": "TECH",
             "eventDate": "1960/04/13",
@@ -5571,8 +5574,8 @@
             "eventDescriptionDe": "Die Vereinigten Staaten starten Transit 1-B, das weltweit erste Satellitennavigationssystem.",
             "eventDescriptionEs": "Estados Unidos lanza Transit 1-B, el primer sistema de navegación por satélite del mundo.",
             "eventDescriptionIt": "Gli Stati Uniti lanciano Transit 1-B, il primo sistema di navigazione satellitare al mondo."
-          },
-          {
+        },
+        {
             "eventId": "524",
             "eventCategory": "POLITICS",
             "eventDate": "1983/04/12",
@@ -5582,7 +5585,8 @@
             "eventDescriptionDe": "Harold Washington wird als erster schwarzer Bürgermeister von Chicago gewählt.",
             "eventDescriptionEs": "Harold Washington es elegido como el primer alcalde negro de Chicago.",
             "eventDescriptionIt": "Harold Washington viene eletto primo sindaco nero di Chicago."
-          },{
+        },
+        {
             "eventId": "525",
             "eventCategory": "HISTORY",
             "eventDate": "1877/04/12",
@@ -5592,7 +5596,8 @@
             "eventDescriptionDe": "Das Vereinigte Königreich annektierte das Transvaal (ehemalige Provinz Südafrikas).",
             "eventDescriptionEs": "El Reino Unido anexó el Transvaal (antigua Provincia de Sudáfrica).",
             "eventDescriptionIt": "Il Regno Unito annesse il Transvaal (ex Provincia del Sud Africa)."
-          },{
+        },
+        {
             "eventId": "526",
             "eventCategory": "POLITICS",
             "eventDate": "1941/04/13",
@@ -5602,7 +5607,8 @@
             "eventDescriptionDe": "Ein Neutralitätspakt zwischen der UdSSR und Japan wurde unterzeichnet.",
             "eventDescriptionEs": "Se firmó un pacto de neutralidad entre la URSS y Japón.",
             "eventDescriptionIt": "È stato firmato un patto di neutralità tra URSS e Giappone."
-          },{
+        },
+        {
             "eventId": "527",
             "eventCategory": "SCIENCE",
             "eventDate": "1970/04/13",
@@ -5612,7 +5618,8 @@
             "eventDescriptionDe": "Ein Sauerstofftank an Bord des Apollo 13-Servicemoduls explodiert, was die Besatzung in große Gefahr bringt und erhebliche Schäden am Apollo-Kommando- und Servicemodul (Codename 'Odyssey') verursacht, während sie zum Mond unterwegs sind.",
             "eventDescriptionEs": "Un tanque de oxígeno a bordo del Módulo de Servicio del Apolo 13 explota, poniendo a la tripulación en gran peligro y causando daños importantes al módulo de comando y servicio del Apolo (codificado como 'Odyssey') mientras se dirige a la Luna.",
             "eventDescriptionIt": "Un serbatoio di ossigeno a bordo del Modulo di Servizio dell'Apollo 13 esplode, mettendo l'equipaggio in grave pericolo e causando gravi danni al modulo di comando e servizio dell'Apollo (chiamato 'Odyssey') durante il viaggio verso la Luna."
-          },{
+        },
+        {
             "eventId": "528",
             "eventCategory": "TECH",
             "eventDate": "1993/04/12",
@@ -5622,7 +5629,17 @@
             "eventDescriptionDe": "Die erste Internetverbindung wurde in der Türkei hergestellt.",
             "eventDescriptionEs": "Se estableció la primera conexión a Internet en Turquía.",
             "eventDescriptionIt": "La prima connessione internet è stata stabilita in Turchia."
-          }
-          
+        },
+        {
+            "eventId": "529",
+            "eventCategory": "SCIENCE",
+            "eventDate": "2022/10/05",
+            "eventImg": null,
+            "eventDescriptionEn": "The Jupiter Icy Moons Explorer (JUICE) is launched by the European Space Agency.",
+            "eventDescriptionTr": "Avrupa Uzay Ajansı tarafından Jüpiter Buzlu Uydular Kaşifi (JUICE) fırlatıldı.",
+            "eventDescriptionDe": "Die Jupiter Icy Moons Explorer (JUICE) wird von der Europäischen Weltraumorganisation gestartet.",
+            "eventDescriptionEs": "La Agencia Espacial Europea lanza la Sonda para la Exploración de las Lunas Heladas de Júpiter (JUICE).",
+            "eventDescriptionIt": "Il Jupiter Icy Moons Explorer (JUICE) viene lanciato dall'Agenzia Spaziale Europea."
+        }
     ]
 }
