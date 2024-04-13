@@ -5662,6 +5662,17 @@
             "eventDescriptionDe": "Russische Invasion der Ukraine: Das russische Kriegsschiff Moskva sank.",
             "eventDescriptionEs": "Invasión rusa de Ucrania: El buque de guerra ruso Moskva se hundió.",
             "eventDescriptionIt": "Invasione russa dell'Ucraina: La nave da guerra russa Moskva affondò."
-        }
+        },{
+            "eventId": "532",
+            "eventCategory": "HISTORY",
+            "eventDate": "1849/04/14",
+            "eventImg": null,
+            "eventDescriptionEn": "Hungary declares itself independent of Austria with Lajos Kossuth as its leader.",
+            "eventDescriptionTr": "Macaristan, Lajos Kossuth'un liderliğinde Avusturya'dan bağımsızlığını ilan eder.",
+            "eventDescriptionDe": "Ungarn erklärt sich unter der Führung von Lajos Kossuth für unabhängig von Österreich.",
+            "eventDescriptionEs": "Hungría se declara independiente de Austria con Lajos Kossuth como líder.",
+            "eventDescriptionIt": "L'Ungheria si dichiara indipendente dall'Austria con Lajos Kossuth come suo leader."
+          }
+          
     ]
 }
