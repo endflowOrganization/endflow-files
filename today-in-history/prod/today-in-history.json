@@ -5662,7 +5662,8 @@
             "eventDescriptionDe": "Russische Invasion der Ukraine: Das russische Kriegsschiff Moskva sank.",
             "eventDescriptionEs": "Invasión rusa de Ucrania: El buque de guerra ruso Moskva se hundió.",
             "eventDescriptionIt": "Invasione russa dell'Ucraina: La nave da guerra russa Moskva affondò."
-        },{
+        },
+        {
             "eventId": "532",
             "eventCategory": "HISTORY",
             "eventDate": "1849/04/14",
@@ -5672,7 +5673,17 @@
             "eventDescriptionDe": "Ungarn erklärt sich unter der Führung von Lajos Kossuth für unabhängig von Österreich.",
             "eventDescriptionEs": "Hungría se declara independiente de Austria con Lajos Kossuth como líder.",
             "eventDescriptionIt": "L'Ungheria si dichiara indipendente dall'Austria con Lajos Kossuth come suo leader."
-          }
-          
+        },
+        {
+            "eventId": "533",
+            "eventCategory": "HISTORY",
+            "eventDate": "1948/04/16",
+            "eventImg": null,
+            "eventDescriptionEn": "The Organization of European Economic Co-operation is formed.",
+            "eventDescriptionTr": "Avrupa Ekonomik İşbirliği Örgütü kuruldu.",
+            "eventDescriptionDe": "Die Organisation für Europäische Wirtschaftliche Zusammenarbeit wird gegründet.",
+            "eventDescriptionEs": "Se forma la Organización de Cooperación Económica Europea.",
+            "eventDescriptionIt": "Viene fondata l'Organizzazione per la Cooperazione Economica Europea."
+        }
     ]
 }
