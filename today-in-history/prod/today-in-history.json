@@ -5739,6 +5739,17 @@
             "eventDescriptionDe": "CERN gibt bekannt, dass die World Wide Web-Protokolle kostenlos sein werden.",
             "eventDescriptionEs": "CERN anuncia que los protocolos de la World Wide Web serán gratuitos.",
             "eventDescriptionIt": "CERN annuncia che i protocolli del World Wide Web saranno gratuiti."
-        }
+        },{
+            "eventId": "539",
+            "eventCategory": "POLITICS",
+            "eventDate": "1961/04/30",
+            "eventImg": null,
+            "eventDescriptionEn": "The Prime Minister of Cuba, Fidel Castro, proclaims Cuba a socialist nation and abolishes elections.",
+            "eventDescriptionTr": "Küba Başbakanı Fidel Castro, Küba'yı sosyalist bir ülke ilan eder ve seçimleri kaldırır.",
+            "eventDescriptionDe": "Der Premierminister von Kuba, Fidel Castro, erklärt Kuba zu einer sozialistischen Nation und schafft Wahlen ab.",
+            "eventDescriptionEs": "El Primer Ministro de Cuba, Fidel Castro, proclama a Cuba como una nación socialista y abole las elecciones.",
+            "eventDescriptionIt": "Il Primo Ministro di Cuba, Fidel Castro, proclama Cuba come una nazione socialista e abolisce le elezioni."
+          }
+          
     ]
 }
