@@ -5749,7 +5749,18 @@
             "eventDescriptionDe": "Der Premierminister von Kuba, Fidel Castro, erklärt Kuba zu einer sozialistischen Nation und schafft Wahlen ab.",
             "eventDescriptionEs": "El Primer Ministro de Cuba, Fidel Castro, proclama a Cuba como una nación socialista y abole las elecciones.",
             "eventDescriptionIt": "Il Primo Ministro di Cuba, Fidel Castro, proclama Cuba come una nazione socialista e abolisce le elezioni."
+          },{
+            "eventId": "540",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2016/11/25",
+            "eventImg": null,
+            "eventDescriptionEn": "Fidel Castro, Cuban revolutionary leader and former Prime Minister and President of Cuba, passed away.",
+            "eventDescriptionTr": "Fidel Castro, Küba Devrimi lideri ve eski Küba Başbakanı ve Devlet Başkanı, hayatını kaybetti.",
+            "eventDescriptionDe": "Fidel Castro, kubanischer Revolutionsführer und ehemaliger Premierminister und Präsident Kubas, ist verstorben.",
+            "eventDescriptionEs": "Fidel Castro, líder revolucionario cubano y ex Primer Ministro y Presidente de Cuba, falleció.",
+            "eventDescriptionIt": "Fidel Castro, leader rivoluzionario cubano ed ex Primo Ministro e Presidente di Cuba, è morto."
           }
+          
           
     ]
 }
