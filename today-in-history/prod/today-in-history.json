@@ -5717,6 +5717,17 @@
             "eventDescriptionDe": "Der letzte Oldsmobile wird in Lansing, Michigan, gebaut und beendet 107 Jahre Fahrzeugproduktion.",
             "eventDescriptionEs": "Se construye el último Oldsmobile en Lansing, Michigan, poniendo fin a 107 años de producción de vehículos.",
             "eventDescriptionIt": "Viene costruita l'ultima Oldsmobile a Lansing, Michigan, mettendo fine a 107 anni di produzione di veicoli."
+        },
+        {
+            "eventId": "537",
+            "eventCategory": "POLITICS",
+            "eventDate": "1997/04/29",
+            "eventImg": null,
+            "eventDescriptionEn": "The Chemical Weapons Convention of 1993 enters into force, outlawing the production, stockpiling and use of chemical weapons by its signatories.",
+            "eventDescriptionTr": "1993 Kimyasal Silahlar Sözleşmesi, imzacılarının kimyasal silahların üretimini, stoklanmasını ve kullanımını yasaklayarak yürürlüğe girer.",
+            "eventDescriptionDe": "Das Chemiewaffenübereinkommen von 1993 tritt in Kraft und verbietet die Produktion, Lagerung und Verwendung von Chemiewaffen durch seine Unterzeichner.",
+            "eventDescriptionEs": "El Convenio sobre Armas Químicas de 1993 entra en vigor, prohibiendo la producción, almacenamiento y uso de armas químicas por parte de sus signatarios.",
+            "eventDescriptionIt": "Entra in vigore la Convenzione sulle Armi Chimiche del 1993, vietando la produzione, l'accumulo e l'uso di armi chimiche da parte dei suoi firmatari."
         }
     ]
 }
