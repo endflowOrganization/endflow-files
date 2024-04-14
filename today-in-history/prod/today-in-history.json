@@ -5794,7 +5794,8 @@
             "eventDescriptionDe": "Prinz Charles heiratete Camilla Parker Bowles.",
             "eventDescriptionEs": "El Príncipe Carlos se casó con Camilla Parker Bowles.",
             "eventDescriptionIt": "Il Principe Carlo sposò Camilla Parker Bowles."
-        },{
+        },
+        {
             "eventId": "544",
             "eventCategory": "HISTORY",
             "eventDate": "1912/04/16",
@@ -5804,7 +5805,8 @@
             "eventDescriptionDe": "Harriet Quimby wird die erste Frau, die mit einem Flugzeug den Ärmelkanal überquert.",
             "eventDescriptionEs": "Harriet Quimby se convierte en la primera mujer en volar un avión a través del Canal de la Mancha.",
             "eventDescriptionIt": "Harriet Quimby diventa la prima donna a volare in aereo attraverso la Manica."
-          },{
+        },
+        {
             "eventId": "545",
             "eventCategory": "POLITICS",
             "eventDate": "1999/05/02",
@@ -5814,8 +5816,17 @@
             "eventDescriptionDe": "Panamaische Parlamentswahl: Mireya Moscoso wird zur ersten Frau gewählt, die Präsidentin Panamas wird.",
             "eventDescriptionEs": "Elecciones generales en Panamá: Mireya Moscoso se convierte en la primera mujer en ser elegida Presidenta de Panamá.",
             "eventDescriptionIt": "Elezioni generali panamensi: Mireya Moscoso diventa la prima donna a essere eletta Presidente di Panama."
-          }
-          
-          
+        },
+        {
+            "eventId": "546",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1975/05/30",
+            "eventImg": null,
+            "eventDescriptionEn": "European Space Agency is established.",
+            "eventDescriptionTr": "Avrupa Uzay Ajansı kuruldu.",
+            "eventDescriptionDe": "Die Europäische Weltraumorganisation wird gegründet.",
+            "eventDescriptionEs": "Se establece la Agencia Espacial Europea.",
+            "eventDescriptionIt": "Viene istituita l'Agenzia Spaziale Europea."
+        }
     ]
 }
