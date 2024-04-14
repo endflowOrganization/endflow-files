@@ -5728,6 +5728,17 @@
             "eventDescriptionDe": "Das Chemiewaffenübereinkommen von 1993 tritt in Kraft und verbietet die Produktion, Lagerung und Verwendung von Chemiewaffen durch seine Unterzeichner.",
             "eventDescriptionEs": "El Convenio sobre Armas Químicas de 1993 entra en vigor, prohibiendo la producción, almacenamiento y uso de armas químicas por parte de sus signatarios.",
             "eventDescriptionIt": "Entra in vigore la Convenzione sulle Armi Chimiche del 1993, vietando la produzione, l'accumulo e l'uso di armi chimiche da parte dei suoi firmatari."
+        },
+        {
+            "eventId": "538",
+            "eventCategory": "TECH",
+            "eventDate": "1993/04/30",
+            "eventImg": null,
+            "eventDescriptionEn": "CERN announces World Wide Web protocols will be free.",
+            "eventDescriptionTr": "CERN, Dünya Çapında Web protokollerinin ücretsiz olacağını duyurdu.",
+            "eventDescriptionDe": "CERN gibt bekannt, dass die World Wide Web-Protokolle kostenlos sein werden.",
+            "eventDescriptionEs": "CERN anuncia que los protocolos de la World Wide Web serán gratuitos.",
+            "eventDescriptionIt": "CERN annuncia che i protocolli del World Wide Web saranno gratuiti."
         }
     ]
 }
