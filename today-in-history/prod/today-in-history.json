@@ -5794,6 +5794,17 @@
             "eventDescriptionDe": "Prinz Charles heiratete Camilla Parker Bowles.",
             "eventDescriptionEs": "El Príncipe Carlos se casó con Camilla Parker Bowles.",
             "eventDescriptionIt": "Il Principe Carlo sposò Camilla Parker Bowles."
-        }
+        },{
+            "eventId": "544",
+            "eventCategory": "HISTORY",
+            "eventDate": "1912/04/16",
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/april%2Fharriet-quimby.jpeg?alt=media&token=14236734-b5da-45df-853c-c47380b4442b",
+            "eventDescriptionEn": "Harriet Quimby becomes the first woman to fly an airplane across the English Channel.",
+            "eventDescriptionTr": "Harriet Quimby, İngiliz Kanalı'nı uçakla geçen ilk kadın olur.",
+            "eventDescriptionDe": "Harriet Quimby wird die erste Frau, die mit einem Flugzeug den Ärmelkanal überquert.",
+            "eventDescriptionEs": "Harriet Quimby se convierte en la primera mujer en volar un avión a través del Canal de la Mancha.",
+            "eventDescriptionIt": "Harriet Quimby diventa la prima donna a volare in aereo attraverso la Manica."
+          }
+          
     ]
 }
