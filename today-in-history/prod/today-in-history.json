@@ -5684,6 +5684,17 @@
             "eventDescriptionDe": "Die Organisation für Europäische Wirtschaftliche Zusammenarbeit wird gegründet.",
             "eventDescriptionEs": "Se forma la Organización de Cooperación Económica Europea.",
             "eventDescriptionIt": "Viene fondata l'Organizzazione per la Cooperazione Economica Europea."
+        },
+        {
+            "eventId": "534",
+            "eventCategory": "HISTORY",
+            "eventDate": "1945/04/28",
+            "eventImg": null,
+            "eventDescriptionEn": "Benito Mussolini and his mistress Clara Petacci were shot dead by Walter Audisio, a member of the Italian resistance movement.",
+            "eventDescriptionTr": "Benito Mussolini ve metresi Clara Petacci, İtalyan direniş hareketi üyesi Walter Audisio tarafından vurularak öldürüldüler.",
+            "eventDescriptionDe": "Benito Mussolini und seine Geliebte Clara Petacci wurden von Walter Audisio, einem Mitglied der italienischen Widerstandsbewegung, erschossen.",
+            "eventDescriptionEs": "Benito Mussolini y su amante Clara Petacci fueron tiroteados por Walter Audisio, un miembro del movimiento de resistencia italiano.",
+            "eventDescriptionIt": "Benito Mussolini e la sua amante Clara Petacci furono uccisi a colpi di pistola da Walter Audisio, un membro del movimento di resistenza italiano."
         }
     ]
 }
