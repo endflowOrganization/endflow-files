@@ -5827,6 +5827,17 @@
             "eventDescriptionDe": "Die Europäische Weltraumorganisation wird gegründet.",
             "eventDescriptionEs": "Se establece la Agencia Espacial Europea.",
             "eventDescriptionIt": "Viene istituita l'Agenzia Spaziale Europea."
+        },
+        {
+            "eventId": "547",
+            "eventCategory": "POLITICS",
+            "eventDate": "1982/05/30",
+            "eventImg": null,
+            "eventDescriptionEn": "Spain joined NATO (North Atlantic Treaty Organization).",
+            "eventDescriptionTr": "İspanya NATO'ya (Kuzey Atlantik Antlaşması Örgütü) katıldı.",
+            "eventDescriptionDe": "Spanien ist der NATO (Nordatlantikpakt) beigetreten.",
+            "eventDescriptionEs": "España se unió a la OTAN (Organización del Tratado del Atlántico Norte).",
+            "eventDescriptionIt": "La Spagna ha aderito alla NATO (Organizzazione del Trattato dell'Atlantico del Nord)."
         }
     ]
 }
