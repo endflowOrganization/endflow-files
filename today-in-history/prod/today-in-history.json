@@ -5772,6 +5772,17 @@
             "eventDescriptionDe": "Das McDonald's-Restaurant datierte seine Gründung auf die Eröffnung eines Franchise-Restaurants durch Ray Kroc in Des Plaines, Illinois.",
             "eventDescriptionEs": "El restaurante McDonald's dató su fundación a la apertura de un restaurante franquiciado por Ray Kroc, en Des Plaines, Illinois.",
             "eventDescriptionIt": "Il ristorante McDonald's fece risalire la sua fondazione all'apertura di un ristorante in franchising da parte di Ray Kroc, a Des Plaines, Illinois."
+        },
+        {
+            "eventId": "542",
+            "eventCategory": "HISTORY",
+            "eventDate": "2019/04/15",
+            "eventImg": null,
+            "eventDescriptionEn": "The cathedral of Notre-Dame de Paris in France is seriously damaged by a large fire.",
+            "eventDescriptionTr": "Fransa'daki Notre-Dame de Paris Katedrali, büyük bir yangın nedeniyle ciddi şekilde hasar gördü.",
+            "eventDescriptionDe": "Die Kathedrale Notre-Dame de Paris in Frankreich wird durch ein großes Feuer schwer beschädigt.",
+            "eventDescriptionEs": "La catedral de Notre-Dame de París en Francia resulta gravemente dañada por un gran incendio.",
+            "eventDescriptionIt": "La cattedrale di Notre-Dame de Paris in Francia viene gravemente danneggiata da un grande incendio."
         }
     ]
 }
