@@ -5783,6 +5783,17 @@
             "eventDescriptionDe": "Die Kathedrale Notre-Dame de Paris in Frankreich wird durch ein großes Feuer schwer beschädigt.",
             "eventDescriptionEs": "La catedral de Notre-Dame de París en Francia resulta gravemente dañada por un gran incendio.",
             "eventDescriptionIt": "La cattedrale di Notre-Dame de Paris in Francia viene gravemente danneggiata da un grande incendio."
+        },
+        {
+            "eventId": "543",
+            "eventCategory": "HISTORY",
+            "eventDate": "2005/04/09",
+            "eventImg": null,
+            "eventDescriptionEn": "Prince Charles married Camilla Parker Bowles.",
+            "eventDescriptionTr": "Prens Charles, Camilla Parker Bowles ile evlendi.",
+            "eventDescriptionDe": "Prinz Charles heiratete Camilla Parker Bowles.",
+            "eventDescriptionEs": "El Príncipe Carlos se casó con Camilla Parker Bowles.",
+            "eventDescriptionIt": "Il Principe Carlo sposò Camilla Parker Bowles."
         }
     ]
 }
