@@ -5695,6 +5695,17 @@
             "eventDescriptionDe": "Benito Mussolini und seine Geliebte Clara Petacci wurden von Walter Audisio, einem Mitglied der italienischen Widerstandsbewegung, erschossen.",
             "eventDescriptionEs": "Benito Mussolini y su amante Clara Petacci fueron tiroteados por Walter Audisio, un miembro del movimiento de resistencia italiano.",
             "eventDescriptionIt": "Benito Mussolini e la sua amante Clara Petacci furono uccisi a colpi di pistola da Walter Audisio, un membro del movimento di resistenza italiano."
+        },
+        {
+            "eventId": "535",
+            "eventCategory": "HISTORY",
+            "eventDate": "2011/04/29",
+            "eventImg": null,
+            "eventDescriptionEn": "The Wedding of Prince William and Catherine Middleton takes place at Westminster Abbey in London.",
+            "eventDescriptionTr": "Prens William ve Catherine Middleton'ın düğünü Londra'daki Westminster Abbey'de gerçekleşti.",
+            "eventDescriptionDe": "Die Hochzeit von Prinz William und Catherine Middleton findet in der Westminster Abbey in London statt.",
+            "eventDescriptionEs": "La boda del Príncipe Guillermo y Catherine Middleton tiene lugar en la Abadía de Westminster en Londres.",
+            "eventDescriptionIt": "Il matrimonio del Principe William e Catherine Middleton ha luogo all'Abbazia di Westminster a Londra."
         }
     ]
 }
