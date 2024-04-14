@@ -5804,7 +5804,18 @@
             "eventDescriptionDe": "Harriet Quimby wird die erste Frau, die mit einem Flugzeug den Ärmelkanal überquert.",
             "eventDescriptionEs": "Harriet Quimby se convierte en la primera mujer en volar un avión a través del Canal de la Mancha.",
             "eventDescriptionIt": "Harriet Quimby diventa la prima donna a volare in aereo attraverso la Manica."
+          },{
+            "eventId": "545",
+            "eventCategory": "POLITICS",
+            "eventDate": "1999/05/02",
+            "eventImg": null,
+            "eventDescriptionEn": "Panamanian general election: Mireya Moscoso becomes the first woman to be elected President of Panama.",
+            "eventDescriptionTr": "Panamalı genel seçimleri: Mireya Moscoso, Panama'nın ilk kadın Devlet Başkanı seçilir.",
+            "eventDescriptionDe": "Panamaische Parlamentswahl: Mireya Moscoso wird zur ersten Frau gewählt, die Präsidentin Panamas wird.",
+            "eventDescriptionEs": "Elecciones generales en Panamá: Mireya Moscoso se convierte en la primera mujer en ser elegida Presidenta de Panamá.",
+            "eventDescriptionIt": "Elezioni generali panamensi: Mireya Moscoso diventa la prima donna a essere eletta Presidente di Panama."
           }
+          
           
     ]
 }
