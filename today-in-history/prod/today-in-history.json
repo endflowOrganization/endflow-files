@@ -5849,6 +5849,17 @@
             "eventDescriptionDe": "Der Ingenuity-Hubschrauber wird das erste Luftfahrzeug, das auf einem anderen Planeten Flug erreicht.",
             "eventDescriptionEs": "El helicóptero Ingenuity se convierte en la primera aeronave en lograr vuelo en otro planeta.",
             "eventDescriptionIt": "L'elicottero Ingenuity diventa il primo aeromobile a raggiungere il volo su un altro pianeta."
+        },
+        {
+            "eventId": "549",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1943/04/19",
+            "eventImg": null,
+            "eventDescriptionEn": "Albert Hofmann accidentally discovers the hallucinogenic effects of the research drug LSD.",
+            "eventDescriptionTr": "Albert Hofmann, araştırma ilacı LSD'nin halüsinojenik etkilerini kazara keşfeder.",
+            "eventDescriptionDe": "Albert Hofmann entdeckt versehentlich die halluzinogenen Wirkungen des Forschungsmedikaments LSD.",
+            "eventDescriptionEs": "Albert Hofmann descubre accidentalmente los efectos alucinógenos de la droga de investigación LSD.",
+            "eventDescriptionIt": "Albert Hofmann scopre accidentalmente gli effetti allucinogeni del farmaco di ricerca LSD."
         }
     ]
 }
