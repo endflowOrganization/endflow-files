@@ -5838,6 +5838,17 @@
             "eventDescriptionDe": "Spanien ist der NATO (Nordatlantikpakt) beigetreten.",
             "eventDescriptionEs": "España se unió a la OTAN (Organización del Tratado del Atlántico Norte).",
             "eventDescriptionIt": "La Spagna ha aderito alla NATO (Organizzazione del Trattato dell'Atlantico del Nord)."
+        },
+        {
+            "eventId": "548",
+            "eventCategory": "SCIENCE",
+            "eventDate": "2021/04/19",
+            "eventImg": null,
+            "eventDescriptionEn": "The Ingenuity helicopter becomes the first aircraft to achieve flight on another planet.",
+            "eventDescriptionTr": "Ingenuity helikopteri, başka bir gezegende uçuş gerçekleştiren ilk hava aracı olur.",
+            "eventDescriptionDe": "Der Ingenuity-Hubschrauber wird das erste Luftfahrzeug, das auf einem anderen Planeten Flug erreicht.",
+            "eventDescriptionEs": "El helicóptero Ingenuity se convierte en la primera aeronave en lograr vuelo en otro planeta.",
+            "eventDescriptionIt": "L'elicottero Ingenuity diventa il primo aeromobile a raggiungere il volo su un altro pianeta."
         }
     ]
 }
