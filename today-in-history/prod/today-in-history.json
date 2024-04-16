@@ -5893,6 +5893,17 @@
             "eventDescriptionDe": "Bernard Baruch wandte erstmals den Begriff 'Kalter Krieg' an, um die Beziehung zwischen den Vereinigten Staaten und der Sowjetunion zu beschreiben.",
             "eventDescriptionEs": "Bernard Baruch aplicó por primera vez el término 'Guerra Fría' para describir la relación entre Estados Unidos y la Unión Soviética.",
             "eventDescriptionIt": "Bernard Baruch applicò per la prima volta il termine 'Guerra Fredda' per descrivere la relazione tra gli Stati Uniti e l'Unione Sovietica."
+        },
+        {
+            "eventId": "553",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1889/04/16",
+            "eventImg": null,
+            "eventDescriptionEn": "Charlie Chaplin was born.",
+            "eventDescriptionTr": "Charlie Chaplin doğdu.",
+            "eventDescriptionDe": "Charlie Chaplin wurde geboren.",
+            "eventDescriptionEs": "Nació Charlie Chaplin.",
+            "eventDescriptionIt": "Charlie Chaplin è nato."
         }
     ]
 }
