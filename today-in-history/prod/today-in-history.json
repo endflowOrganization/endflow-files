@@ -5926,6 +5926,61 @@
             "eventDescriptionDe": "Das Millennium Dome und das London Eye wurden zur Markierung des neuen Jahrtausends eröffnet.",
             "eventDescriptionEs": "El Millennium Dome y el London Eye se abrieron para marcar el nuevo milenio.",
             "eventDescriptionIt": "Il Millennium Dome e il London Eye sono stati inaugurati per segnare il nuovo millennio."
+        },
+        {
+            "eventId": "556",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2002/02/09",
+            "eventImg": null,
+            "eventDescriptionEn": "Princess Margaret passed away.",
+            "eventDescriptionTr": "Prenses Margaret hayatını kaybetti.",
+            "eventDescriptionDe": "Prinzessin Margaret ist verstorben.",
+            "eventDescriptionEs": "La princesa Margarita falleció.",
+            "eventDescriptionIt": "La principessa Margaret è morta."
+        },
+        {
+            "eventId": "557",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2018/04/23",
+            "eventImg": null,
+            "eventDescriptionEn": "Prince Louis of Cambridge was born.",
+            "eventDescriptionTr": "Cambridge Dükü Prens Louis doğdu.",
+            "eventDescriptionDe": "Prinz Louis von Cambridge wurde geboren.",
+            "eventDescriptionEs": "Nació el Príncipe Louis de Cambridge.",
+            "eventDescriptionIt": "È nato il Principe Louis di Cambridge."
+        },
+        {
+            "eventId": "558",
+            "eventCategory": "POLITICS",
+            "eventDate": "1721/04/03",
+            "eventImg": null,
+            "eventDescriptionEn": "Robert Walpole became the first Prime Minister of Great Britain.",
+            "eventDescriptionTr": "Robert Walpole, Büyük Britanya'nın ilk Başbakanı oldu.",
+            "eventDescriptionDe": "Robert Walpole wurde der erste Premierminister von Großbritannien.",
+            "eventDescriptionEs": "Robert Walpole se convirtió en el primer Ministro de Gran Bretaña.",
+            "eventDescriptionIt": "Robert Walpole divenne il primo Primo Ministro della Gran Bretagna."
+        },
+        {
+            "eventId": "559",
+            "eventCategory": "HISTORY",
+            "eventDate": "1775/04/19",
+            "eventImg": null,
+            "eventDescriptionEn": "The American War of Independence began.",
+            "eventDescriptionTr": "Amerikan Bağımsızlık Savaşı başladı.",
+            "eventDescriptionDe": "Der Amerikanische Unabhängigkeitskrieg begann.",
+            "eventDescriptionEs": "Comenzó la Guerra de Independencia de Estados Unidos.",
+            "eventDescriptionIt": "Iniziò la Guerra d'Indipendenza Americana."
+        },
+        {
+            "eventId": "560",
+            "eventCategory": "HISTORY",
+            "eventDate": "1981/07/29",
+            "eventImg": null,
+            "eventDescriptionEn": "The wedding of Prince Charles and Lady Diana Spencer took place.",
+            "eventDescriptionTr": "Prens Charles ile Lady Diana Spencer'ın düğünü gerçekleşti.",
+            "eventDescriptionDe": "Die Hochzeit von Prinz Charles und Lady Diana Spencer fand statt.",
+            "eventDescriptionEs": "Se llevó a cabo la boda del Príncipe Carlos y Lady Diana Spencer.",
+            "eventDescriptionIt": "Si è svolto il matrimonio del Principe Carlo e Lady Diana Spencer."
         }
     ]
 }
