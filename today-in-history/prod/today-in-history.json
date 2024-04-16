@@ -5992,6 +5992,17 @@
             "eventDescriptionDe": "Turgut Özal, der ehemalige Präsident und Premierminister der Türkei, verstarb.",
             "eventDescriptionEs": "Turgut Özal, el ex presidente y primer ministro de Turquía, falleció.",
             "eventDescriptionIt": "Turgut Özal, l'ex presidente e primo ministro della Turchia, è morto."
+        },
+        {
+            "eventId": "562",
+            "eventCategory": "HISTORY",
+            "eventDate": "1912/04/18",
+            "eventImg": null,
+            "eventDescriptionEn": "The Cunard liner RMS Carpathia brings 705 survivors from the RMS Titanic to New York City.",
+            "eventDescriptionTr": "Cunard gemisi RMS Carpathia, RMS Titanic'ten 705 hayatta kalan yolcuyu New York Şehri'ne getiriyor.",
+            "eventDescriptionDe": "Das Cunard-Linienschiff RMS Carpathia bringt 705 Überlebende des RMS Titanic nach New York City.",
+            "eventDescriptionEs": "El transatlántico de Cunard RMS Carpathia trae a 705 supervivientes del RMS Titanic a la ciudad de Nueva York.",
+            "eventDescriptionIt": "Il transatlantico RMS Carpathia della Cunard porta a New York City 705 sopravvissuti del RMS Titanic."
         }
     ]
 }
