@@ -5915,6 +5915,17 @@
             "eventDescriptionDe": "Der Peak District wird zum ersten Nationalpark im Vereinigten Königreich.",
             "eventDescriptionEs": "El Distrito de los Picos se convierte en el primer Parque Nacional del Reino Unido.",
             "eventDescriptionIt": "Il Peak District diventa il primo Parco Nazionale nel Regno Unito."
+        },
+        {
+            "eventId": "555",
+            "eventCategory": "HISTORY",
+            "eventDate": "1999/12/31",
+            "eventImg": null,
+            "eventDescriptionEn": "The Millennium Dome and London Eye were opened to mark the new millennium.",
+            "eventDescriptionTr": "Yeni milenyumu işaretlemek için Millennium Dome ve London Eye açıldı.",
+            "eventDescriptionDe": "Das Millennium Dome und das London Eye wurden zur Markierung des neuen Jahrtausends eröffnet.",
+            "eventDescriptionEs": "El Millennium Dome y el London Eye se abrieron para marcar el nuevo milenio.",
+            "eventDescriptionIt": "Il Millennium Dome e il London Eye sono stati inaugurati per segnare il nuovo millennio."
         }
     ]
 }
