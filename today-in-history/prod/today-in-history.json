@@ -5860,6 +5860,28 @@
             "eventDescriptionDe": "Albert Hofmann entdeckt versehentlich die halluzinogenen Wirkungen des Forschungsmedikaments LSD.",
             "eventDescriptionEs": "Albert Hofmann descubre accidentalmente los efectos alucinógenos de la droga de investigación LSD.",
             "eventDescriptionIt": "Albert Hofmann scopre accidentalmente gli effetti allucinogeni del farmaco di ricerca LSD."
+        },
+        {
+            "eventId": "550",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2013/11/30",
+            "eventImg": null,
+            "eventDescriptionEn": "Paul Walker, best known for his role in the 'Fast & Furious' film series, tragically passed away in a car accident at the age of 40.",
+            "eventDescriptionTr": "En çok 'Hızlı ve Öfkeli' film serisindeki rolleriyle tanınan Paul Walker, 40 yaşında geçirdiği bir trafik kazasında trajik şekilde vefat etti.",
+            "eventDescriptionDe": "Paul Walker, am besten bekannt für seine Rolle in der 'Fast & Furious'-Filmreihe, verstarb tragischerweise im Alter von 40 Jahren bei einem Autounfall.",
+            "eventDescriptionEs": "Paul Walker, mejor conocido por su papel en la serie de películas 'Rápidos y Furiosos', falleció trágicamente en un accidente automovilístico a la edad de 40 años.",
+            "eventDescriptionIt": "Paul Walker, meglio conosciuto per il suo ruolo nella serie di film 'Fast & Furious', è tragicamente scomparso in un incidente automobilistico all'età di 40 anni."
+        },
+        {
+            "eventId": "551",
+            "eventCategory": "POLITICS",
+            "eventDate": "2003/04/16",
+            "eventImg": null,
+            "eventDescriptionEn": "The Treaty of Accession is signed in Athens admitting ten new member states (Cyprus, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia) to the European Union.",
+            "eventDescriptionTr": "Yeni üye devletleri Avrupa Birliği'ne kabul eden Katılım Anlaşması (Kıbrıs, Çek Cumhuriyeti, Estonya, Macaristan, Letonya, Litvanya, Malta, Polonya, Slovakya ve Slovenya),  Atina'da imzalandı.",
+            "eventDescriptionDe": "Der Vertrag über den Beitritt wird in Athen unterzeichnet und zehn neue Mitgliedsstaaten (Zypern, Tschechische Republik, Estland, Ungarn, Lettland, Litauen, Malta, Polen, Slowakei und Slowenien) treten der Europäischen Union bei.",
+            "eventDescriptionEs": "El Tratado de Adhesión se firma en Atenas, admitiendo diez nuevos Estados miembros (Chipre, República Checa, Estonia, Hungría, Letonia, Lituania, Malta, Polonia, Eslovaquia y Eslovenia) en la Unión Europea.",
+            "eventDescriptionIt": "Il Trattato di Adesione viene firmato ad Atene ammettendo dieci nuovi Stati membri (Cipro, Repubblica Ceca, Estonia, Ungheria, Lettonia, Lituania, Malta, Polonia, Slovacchia e Slovenia) nell'Unione Europea."
         }
     ]
 }
