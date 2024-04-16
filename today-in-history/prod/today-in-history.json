@@ -5882,6 +5882,17 @@
             "eventDescriptionDe": "Der Vertrag über den Beitritt wird in Athen unterzeichnet und zehn neue Mitgliedsstaaten (Zypern, Tschechische Republik, Estland, Ungarn, Lettland, Litauen, Malta, Polen, Slowakei und Slowenien) treten der Europäischen Union bei.",
             "eventDescriptionEs": "El Tratado de Adhesión se firma en Atenas, admitiendo diez nuevos Estados miembros (Chipre, República Checa, Estonia, Hungría, Letonia, Lituania, Malta, Polonia, Eslovaquia y Eslovenia) en la Unión Europea.",
             "eventDescriptionIt": "Il Trattato di Adesione viene firmato ad Atene ammettendo dieci nuovi Stati membri (Cipro, Repubblica Ceca, Estonia, Ungheria, Lettonia, Lituania, Malta, Polonia, Slovacchia e Slovenia) nell'Unione Europea."
+        },
+        {
+            "eventId": "552",
+            "eventCategory": "HISTORY",
+            "eventDate": "1947/04/16",
+            "eventImg": null,
+            "eventDescriptionEn": "Bernard Baruch first applied the term 'Cold War' to describe the relationship between the United States and the Soviet Union.",
+            "eventDescriptionTr": "Bernard Baruch, ilk kez ABD ve Sovyetler Birliği arasındaki ilişkiyi tanımlamak için 'Soğuk Savaş' terimini kullandı.",
+            "eventDescriptionDe": "Bernard Baruch wandte erstmals den Begriff 'Kalter Krieg' an, um die Beziehung zwischen den Vereinigten Staaten und der Sowjetunion zu beschreiben.",
+            "eventDescriptionEs": "Bernard Baruch aplicó por primera vez el término 'Guerra Fría' para describir la relación entre Estados Unidos y la Unión Soviética.",
+            "eventDescriptionIt": "Bernard Baruch applicò per la prima volta il termine 'Guerra Fredda' per descrivere la relazione tra gli Stati Uniti e l'Unione Sovietica."
         }
     ]
 }
