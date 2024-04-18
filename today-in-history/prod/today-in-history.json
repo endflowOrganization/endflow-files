@@ -6036,6 +6036,17 @@
             "eventDescriptionDe": "Operation Big Bang, die größte nichtnukleare vom Menschen verursachte Explosion zu dieser Zeit, zerstört Bunker und Militäranlagen auf der Nordseeinsel Helgoland in Deutschland.",
             "eventDescriptionEs": "La Operación Big Bang, la explosión más grande hecha por el hombre no nuclear hasta ese momento, destruye búnkeres e instalaciones militares en la isla de Heligoland en el Mar del Norte, Alemania.",
             "eventDescriptionIt": "L'Operazione Big Bang, la più grande esplosione artificiale non nucleare fino a quel momento, distrugge bunker e installazioni militari sull'isola di Helgoland, nel Mare del Nord, in Germania."
+        },
+        {
+            "eventId": "566",
+            "eventCategory": "HISTORY",
+            "eventDate": "1980/04/18",
+            "eventImg": null,
+            "eventDescriptionEn": "Zimbabwe gained independence from the United Kingdom.",
+            "eventDescriptionTr": "Zimbabve, Birleşik Krallık'tan bağımsızlığını kazandı.",
+            "eventDescriptionDe": "Simbabwe erlangt Unabhängigkeit von Großbritannien.",
+            "eventDescriptionEs": "Zimbabue obtuvo la independencia del Reino Unido.",
+            "eventDescriptionIt": "Lo Zimbabwe ha ottenuto l'indipendenza dal Regno Unito."
         }
     ]
 }
