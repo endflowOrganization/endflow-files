@@ -6014,6 +6014,17 @@
             "eventDescriptionDe": "König Mswati III. von Swasiland kündigt an, dass der Name seines Landes in Eswatini geändert wird.",
             "eventDescriptionEs": "El Rey Mswati III de Suazilandia anuncia que el nombre de su país cambiará a Eswatini.",
             "eventDescriptionIt": "Re Mswati III del Swaziland annuncia che il nome del suo paese cambierà in Eswatini."
+        },
+        {
+            "eventId": "564",
+            "eventCategory": "POLITICS",
+            "eventDate": "1946/04/19",
+            "eventImg": null,
+            "eventDescriptionEn": "The League of Nations was dissolved.",
+            "eventDescriptionTr": "Milletler Cemiyeti dağıtıldı.",
+            "eventDescriptionDe": "Der Völkerbund wurde aufgelöst.",
+            "eventDescriptionEs": "La Sociedad de Naciones se disolvió.",
+            "eventDescriptionIt": "La Società delle Nazioni fu sciolta."
         }
     ]
 }
