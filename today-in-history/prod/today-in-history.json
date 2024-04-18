@@ -6003,6 +6003,17 @@
             "eventDescriptionDe": "Das Cunard-Linienschiff RMS Carpathia bringt 705 Überlebende des RMS Titanic nach New York City.",
             "eventDescriptionEs": "El transatlántico de Cunard RMS Carpathia trae a 705 supervivientes del RMS Titanic a la ciudad de Nueva York.",
             "eventDescriptionIt": "Il transatlantico RMS Carpathia della Cunard porta a New York City 705 sopravvissuti del RMS Titanic."
+        },
+        {
+            "eventId": "563",
+            "eventCategory": "POLITICS",
+            "eventDate": "2018/04/19",
+            "eventImg": null,
+            "eventDescriptionEn": "King Mswati III of Swaziland announces that his country's name will change to Eswatini.",
+            "eventDescriptionTr": "Svaziland Kralı Mswati III, ülkesinin adının Esvatini olarak değişeceğini duyurdu.",
+            "eventDescriptionDe": "König Mswati III. von Swasiland kündigt an, dass der Name seines Landes in Eswatini geändert wird.",
+            "eventDescriptionEs": "El Rey Mswati III de Suazilandia anuncia que el nombre de su país cambiará a Eswatini.",
+            "eventDescriptionIt": "Re Mswati III del Swaziland annuncia che il nome del suo paese cambierà in Eswatini."
         }
     ]
 }
