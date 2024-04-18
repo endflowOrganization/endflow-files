@@ -6047,6 +6047,17 @@
             "eventDescriptionDe": "Simbabwe erlangt Unabhängigkeit von Großbritannien.",
             "eventDescriptionEs": "Zimbabue obtuvo la independencia del Reino Unido.",
             "eventDescriptionIt": "Lo Zimbabwe ha ottenuto l'indipendenza dal Regno Unito."
+        },
+        {
+            "eventId": "567",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1944/04/21",
+            "eventImg": null,
+            "eventDescriptionEn": "Women in France gained the right to vote.",
+            "eventDescriptionTr": "Fransa'da kadınlar oy kullanma hakkını kazandı.",
+            "eventDescriptionDe": "Frauen in Frankreich erlangten das Wahlrecht.",
+            "eventDescriptionEs": "Las mujeres en Francia obtuvieron el derecho al voto.",
+            "eventDescriptionIt": "Le donne in Francia hanno ottenuto il diritto di voto."
         }
     ]
 }
