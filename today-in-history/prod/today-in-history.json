@@ -6190,6 +6190,17 @@
             "eventDescriptionDe": "Der Zerfall Jugoslawiens begann, als Slowenien und Kroatien ihre Unabhängigkeit von Jugoslawien erklärten.",
             "eventDescriptionEs": "El desmembramiento de Yugoslavia comenzó cuando Eslovenia y Croacia declararon su independencia de Yugoslavia.",
             "eventDescriptionIt": "Il disfacimento della Jugoslavia è iniziato quando Slovenia e Croazia hanno dichiarato la loro indipendenza dalla Jugoslavia."
+        },
+        {
+            "eventId": "580",
+            "eventCategory": "POLITICS",
+            "eventDate": "1960/06/26",
+            "eventImg": null,
+            "eventDescriptionEn": "Madagascar gained its independence from France.",
+            "eventDescriptionTr": "Madagaskar, Fransa'dan bağımsızlığını kazandı.",
+            "eventDescriptionDe": "Madagaskar erlangte seine Unabhängigkeit von Frankreich.",
+            "eventDescriptionEs": "Madagascar obtuvo su independencia de Francia.",
+            "eventDescriptionIt": "Madagascar ha ottenuto l'indipendenza dalla Francia."
         }
     ]
 }
