@@ -6223,6 +6223,17 @@
             "eventDescriptionDe": "Die Seychellen wurden unabhängig vom Vereinigten Königreich.",
             "eventDescriptionEs": "Las Seychelles se independizaron del Reino Unido.",
             "eventDescriptionIt": "Le Seychelles sono diventate indipendenti dal Regno Unito."
+        },
+        {
+            "eventId": "583",
+            "eventCategory": "POLITICS",
+            "eventDate": "2019/06/30",
+            "eventImg": null,
+            "eventDescriptionEn": "Donald Trump became the first sitting US President to visit the Democratic People's Republic of Korea (North Korea).",
+            "eventDescriptionTr": "Donald Trump, Kuzey Kore'yi ziyaret eden ilk görevdeki ABD Başkanı oldu.",
+            "eventDescriptionDe": "Donald Trump wurde der erste amtierende US-Präsident, der die Demokratische Volksrepublik Korea (Nordkorea) besuchte.",
+            "eventDescriptionEs": "Donald Trump se convirtió en el primer presidente de los Estados Unidos en ejercicio en visitar la República Popular Democrática de Corea (Corea del Norte).",
+            "eventDescriptionIt": "Donald Trump è diventato il primo presidente degli Stati Uniti in carica a visitare la Repubblica Democratica Popolare di Corea (Corea del Nord)."
         }
     ]
 }
