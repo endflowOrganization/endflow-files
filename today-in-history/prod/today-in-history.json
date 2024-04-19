@@ -6091,6 +6091,17 @@
             "eventDescriptionDe": "An seinem 56. Geburtstag machte Adolf Hitler seine letzte Reise an die Oberfläche, um im Führerbunker während des Zweiten Weltkriegs jungen Soldaten der Hitlerjugend das Eiserne Kreuz zu verleihen.",
             "eventDescriptionEs": "En su 56 cumpleaños, Adolf Hitler realizó su último viaje a la superficie para otorgar Cruces de Hierro a los jóvenes soldados de la Juventud Hitleriana en el Führerbunker durante la Segunda Guerra Mundial.",
             "eventDescriptionIt": "Nel suo 56° compleanno, Adolf Hitler fece il suo ultimo viaggio in superficie per conferire Croci di Ferro ai giovani soldati delle Hitlerjugend nel Führerbunker durante la Seconda Guerra Mondiale."
+        },
+        {
+            "eventId": "571",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1910/04/21",
+            "eventImg": null,
+            "eventDescriptionEn": "Mark Twain passed away.",
+            "eventDescriptionTr": "Mark Twain vefat etti.",
+            "eventDescriptionDe": "Mark Twain ist verstorben.",
+            "eventDescriptionEs": "Mark Twain falleció.",
+            "eventDescriptionIt": "Mark Twain è morto."
         }
     ]
 }
