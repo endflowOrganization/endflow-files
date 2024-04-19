@@ -6135,6 +6135,17 @@
             "eventDescriptionDe": "Das erste YouTube-Video mit dem Titel 'Me at the zoo' wurde vom Mitbegründer Jawed Karim veröffentlicht.",
             "eventDescriptionEs": "El primer video de YouTube, titulado 'Me at the zoo', fue publicado por el cofundador Jawed Karim.",
             "eventDescriptionIt": "Il primo video di YouTube, intitolato 'Me at the zoo', è stato pubblicato dal co-fondatore Jawed Karim."
+        },
+        {
+            "eventId": "575",
+            "eventCategory": "POLITICS",
+            "eventDate": "1990/04/23",
+            "eventImg": null,
+            "eventDescriptionEn": "Namibia becomes the 160th member of the United Nations and the 50th member of the Commonwealth of Nations.",
+            "eventDescriptionTr": "Namibya, Birleşmiş Milletler'in 160. üyesi ve Milletler Topluluğu'nun 50. üyesi oldu.",
+            "eventDescriptionDe": "Namibia wird das 160. Mitglied der Vereinten Nationen und das 50. Mitglied des Commonwealth of Nations.",
+            "eventDescriptionEs": "Namibia se convierte en el miembro número 160 de las Naciones Unidas y el miembro número 50 de la Mancomunidad de Naciones.",
+            "eventDescriptionIt": "La Namibia diventa il 160° membro delle Nazioni Unite e il 50° membro del Commonwealth delle Nazioni."
         }
     ]
 }
