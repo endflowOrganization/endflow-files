@@ -6212,6 +6212,17 @@
             "eventDescriptionDe": "Die NASA startete die Weltraumsonde Interface Region Imaging Spectrograph (IRIS), um die Sonne zu beobachten.",
             "eventDescriptionEs": "La NASA lanzó la sonda espacial Interface Region Imaging Spectrograph (IRIS) para observar el Sol.",
             "eventDescriptionIt": "La NASA ha lanciato la sonda spaziale Interface Region Imaging Spectrograph (IRIS) per osservare il Sole."
+        },
+        {
+            "eventId": "582",
+            "eventCategory": "POLITICS",
+            "eventDate": "1976/06/29",
+            "eventImg": null,
+            "eventDescriptionEn": "The Seychelles became independent from the United Kingdom.",
+            "eventDescriptionTr": "Seyşeller, Birleşik Krallık'tan bağımsızlığını kazandı.",
+            "eventDescriptionDe": "Die Seychellen wurden unabhängig vom Vereinigten Königreich.",
+            "eventDescriptionEs": "Las Seychelles se independizaron del Reino Unido.",
+            "eventDescriptionIt": "Le Seychelles sono diventate indipendenti dal Regno Unito."
         }
     ]
 }
