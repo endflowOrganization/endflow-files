@@ -6168,6 +6168,17 @@
             "eventDescriptionDe": "Kosmonaut Vladimir Komarov stirbt in Sojus 1, als sich der Fallschirm nicht öffnet. Er ist der erste Mensch, der während einer Weltraummission stirbt.",
             "eventDescriptionEs": "El cosmonauta Vladimir Komarov muere en el Soyuz 1 cuando su paracaídas falla al abrirse. Es el primer ser humano en morir durante una misión espacial.",
             "eventDescriptionIt": "Il cosmonauta Vladimir Komarov muore nello Soyuz 1 quando il suo paracadute non si apre. È il primo essere umano a morire durante una missione spaziale."
+        },
+        {
+            "eventId": "578",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1971/04/19",
+            "eventImg": null,
+            "eventDescriptionEn": "The Soviet Union launched the world's first space station, Salyut 1.",
+            "eventDescriptionTr": "Sovyetler Birliği, dünyanın ilk uzay istasyonu olan Salyut 1'i fırlattı.",
+            "eventDescriptionDe": "Die Sowjetunion startete die weltweit erste Raumstation, Salyut 1.",
+            "eventDescriptionEs": "La Unión Soviética lanzó la primera estación espacial del mundo, Salyut 1.",
+            "eventDescriptionIt": "L'Unione Sovietica ha lanciato la prima stazione spaziale del mondo, Salyut 1."
         }
     ]
 }
