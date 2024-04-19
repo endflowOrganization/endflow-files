@@ -6146,6 +6146,28 @@
             "eventDescriptionDe": "Namibia wird das 160. Mitglied der Vereinten Nationen und das 50. Mitglied des Commonwealth of Nations.",
             "eventDescriptionEs": "Namibia se convierte en el miembro número 160 de las Naciones Unidas y el miembro número 50 de la Mancomunidad de Naciones.",
             "eventDescriptionIt": "La Namibia diventa il 160° membro delle Nazioni Unite e il 50° membro del Commonwealth delle Nazioni."
+        },
+        {
+            "eventId": "576",
+            "eventCategory": "HISTORY",
+            "eventDate": "1913/04/24",
+            "eventImg": null,
+            "eventDescriptionEn": "The Woolworth Building, a skyscraper in New York City, is opened.",
+            "eventDescriptionTr": "New York City'deki bir gökdelen olan Woolworth Binası açıldı.",
+            "eventDescriptionDe": "Das Woolworth Building, ein Wolkenkratzer in New York City, wird eröffnet.",
+            "eventDescriptionEs": "Se inaugura el Woolworth Building, un rascacielos en la ciudad de Nueva York.",
+            "eventDescriptionIt": "Viene aperto il Woolworth Building, un grattacielo a New York City."
+        },
+        {
+            "eventId": "577",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1967/04/24",
+            "eventImg": null,
+            "eventDescriptionEn": "Cosmonaut Vladimir Komarov dies in Soyuz 1 when its parachute fails to open. He is the first human to die during a space mission.",
+            "eventDescriptionTr": "Kozmonot Vladimir Komarov, Soyuz 1'de paraşütü açılmadığı için öldü. Uzay görevi sırasında ölen ilk insan oldu.",
+            "eventDescriptionDe": "Kosmonaut Vladimir Komarov stirbt in Sojus 1, als sich der Fallschirm nicht öffnet. Er ist der erste Mensch, der während einer Weltraummission stirbt.",
+            "eventDescriptionEs": "El cosmonauta Vladimir Komarov muere en el Soyuz 1 cuando su paracaídas falla al abrirse. Es el primer ser humano en morir durante una misión espacial.",
+            "eventDescriptionIt": "Il cosmonauta Vladimir Komarov muore nello Soyuz 1 quando il suo paracadute non si apre. È il primo essere umano a morire durante una missione spaziale."
         }
     ]
 }
