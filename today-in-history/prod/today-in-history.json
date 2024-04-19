@@ -6124,6 +6124,17 @@
             "eventDescriptionDe": "Glasfaser wird zum ersten Mal verwendet, um Live-Telefonverkehr zu übertragen.",
             "eventDescriptionEs": "La fibra óptica se utiliza por primera vez para llevar tráfico telefónico en vivo.",
             "eventDescriptionIt": "La fibra ottica viene utilizzata per la prima volta per trasportare traffico telefonico in tempo reale."
+        },
+        {
+            "eventId": "574",
+            "eventCategory": "TECH",
+            "eventDate": "2005/04/23",
+            "eventImg": null,
+            "eventDescriptionEn": "The first YouTube video, titled 'Me at the zoo,' was published by co-founder Jawed Karim.",
+            "eventDescriptionTr": "İlk YouTube videosu olan 'Me at the zoo', kurucu ortak Jawed Karim tarafından yayımlandı.",
+            "eventDescriptionDe": "Das erste YouTube-Video mit dem Titel 'Me at the zoo' wurde vom Mitbegründer Jawed Karim veröffentlicht.",
+            "eventDescriptionEs": "El primer video de YouTube, titulado 'Me at the zoo', fue publicado por el cofundador Jawed Karim.",
+            "eventDescriptionIt": "Il primo video di YouTube, intitolato 'Me at the zoo', è stato pubblicato dal co-fondatore Jawed Karim."
         }
     ]
 }
