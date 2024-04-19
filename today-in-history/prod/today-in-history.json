@@ -6201,6 +6201,17 @@
             "eventDescriptionDe": "Madagaskar erlangte seine Unabhängigkeit von Frankreich.",
             "eventDescriptionEs": "Madagascar obtuvo su independencia de Francia.",
             "eventDescriptionIt": "Madagascar ha ottenuto l'indipendenza dalla Francia."
+        },
+        {
+            "eventId": "581",
+            "eventCategory": "SCIENCE",
+            "eventDate": "2013/06/27",
+            "eventImg": null,
+            "eventDescriptionEn": "NASA launched the Interface Region Imaging Spectrograph (IRIS) space probe to observe the Sun.",
+            "eventDescriptionTr": "NASA, Güneş'i gözlemlemek için Arayüz Bölgesi Görüntüleme Spektrografı (IRIS) uzay probunu fırlattı.",
+            "eventDescriptionDe": "Die NASA startete die Weltraumsonde Interface Region Imaging Spectrograph (IRIS), um die Sonne zu beobachten.",
+            "eventDescriptionEs": "La NASA lanzó la sonda espacial Interface Region Imaging Spectrograph (IRIS) para observar el Sol.",
+            "eventDescriptionIt": "La NASA ha lanciato la sonda spaziale Interface Region Imaging Spectrograph (IRIS) per osservare il Sole."
         }
     ]
 }
