@@ -6245,6 +6245,17 @@
             "eventDescriptionDe": "Der erste Chevrolet Corvette rollte in Flint, Michigan, vom Band.",
             "eventDescriptionEs": "El primer Chevrolet Corvette salió de la línea de ensamblaje en Flint, Michigan.",
             "eventDescriptionIt": "La prima Chevrolet Corvette è uscita dalla linea di montaggio a Flint, Michigan."
+        },
+        {
+            "eventId": "585",
+            "eventCategory": "POLITICS",
+            "eventDate": "2013/07/01",
+            "eventImg": null,
+            "eventDescriptionEn": "Croatia became the 28th member of the European Union.",
+            "eventDescriptionTr": "Hırvatistan, Avrupa Birliği'nin 28. üyesi oldu.",
+            "eventDescriptionDe": "Kroatien wurde das 28. Mitglied der Europäischen Union.",
+            "eventDescriptionEs": "Croacia se convirtió en el 28º miembro de la Unión Europea.",
+            "eventDescriptionIt": "La Croazia è diventata il 28° membro dell'Unione Europea."
         }
     ]
 }
