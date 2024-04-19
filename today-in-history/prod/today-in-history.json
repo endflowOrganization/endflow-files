@@ -6058,6 +6058,17 @@
             "eventDescriptionDe": "Frauen in Frankreich erlangten das Wahlrecht.",
             "eventDescriptionEs": "Las mujeres en Francia obtuvieron el derecho al voto.",
             "eventDescriptionIt": "Le donne in Francia hanno ottenuto il diritto di voto."
+        },
+        {
+            "eventId": "568",
+            "eventCategory": "FINANCE",
+            "eventDate": "2020/04/20",
+            "eventImg": null,
+            "eventDescriptionEn": "For the first time in history, oil prices dropped below zero, as an effect of the 2020 Russia-Saudi Arabia oil price war.",
+            "eventDescriptionTr": "Tarihinde ilk kez, petrol fiyatları sıfırın altına düştü, 2020 Rusya-Suudi Arabistan petrol fiyat savaşının bir etkisi olarak.",
+            "eventDescriptionDe": "Erstmals in der Geschichte fielen die Ölpreise unter Null, als Folge des Ölpreiskriegs zwischen Russland und Saudi-Arabien im Jahr 2020.",
+            "eventDescriptionEs": "Por primera vez en la historia, los precios del petróleo cayeron por debajo de cero, como efecto de la guerra de precios del petróleo entre Rusia y Arabia Saudita en 2020.",
+            "eventDescriptionIt": "Per la prima volta nella storia, i prezzi del petrolio sono scesi sotto zero, come effetto della guerra dei prezzi del petrolio tra Russia e Arabia Saudita nel 2020."
         }
     ]
 }
