@@ -6069,6 +6069,17 @@
             "eventDescriptionDe": "Erstmals in der Geschichte fielen die Ölpreise unter Null, als Folge des Ölpreiskriegs zwischen Russland und Saudi-Arabien im Jahr 2020.",
             "eventDescriptionEs": "Por primera vez en la historia, los precios del petróleo cayeron por debajo de cero, como efecto de la guerra de precios del petróleo entre Rusia y Arabia Saudita en 2020.",
             "eventDescriptionIt": "Per la prima volta nella storia, i prezzi del petrolio sono scesi sotto zero, come effetto della guerra dei prezzi del petrolio tra Russia e Arabia Saudita nel 2020."
+        },
+        {
+            "eventId": "569",
+            "eventCategory": "SPORT",
+            "eventDate": "2008/04/20",
+            "eventImg": null,
+            "eventDescriptionEn": "Danica Patrick won the Indy Japan 300, becoming the first female driver in history to win an Indy car race.",
+            "eventDescriptionTr": "Danica Patrick, Indy Japan 300'ü kazanarak tarihte bir Indy araba yarışını kazanan ilk kadın sürücü oldu.",
+            "eventDescriptionDe": "Danica Patrick gewann das Indy Japan 300 und wurde damit die erste weibliche Fahrerin in der Geschichte, die ein Indy-Auto-Rennen gewann.",
+            "eventDescriptionEs": "Danica Patrick ganó el Indy Japan 300, convirtiéndose en la primera piloto femenina en la historia en ganar una carrera de coches Indy.",
+            "eventDescriptionIt": "Danica Patrick ha vinto l'Indy Japan 300, diventando la prima pilota donna nella storia a vincere una gara di auto Indy."
         }
     ]
 }
