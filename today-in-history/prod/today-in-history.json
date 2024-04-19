@@ -6102,7 +6102,8 @@
             "eventDescriptionDe": "Mark Twain ist verstorben.",
             "eventDescriptionEs": "Mark Twain falleció.",
             "eventDescriptionIt": "Mark Twain è morto."
-        },{
+        },
+        {
             "eventId": "572",
             "eventCategory": "POLITICS",
             "eventDate": "2016/04/22",
@@ -6112,7 +6113,17 @@
             "eventDescriptionDe": "Das Pariser Abkommen wird unterzeichnet, ein Abkommen zur Bekämpfung des Klimawandels.",
             "eventDescriptionEs": "Se firma el Acuerdo de París, un acuerdo para ayudar a combatir el calentamiento global.",
             "eventDescriptionIt": "Viene firmato l'Accordo di Parigi, un accordo per aiutare a combattere il riscaldamento globale."
-          }
-          
+        },
+        {
+            "eventId": "573",
+            "eventCategory": "TECH",
+            "eventDate": "1977/04/22",
+            "eventImg": null,
+            "eventDescriptionEn": "Optical fiber is first used to carry live telephone traffic.",
+            "eventDescriptionTr": "Optik lif ilk kez canlı telefon trafiğini taşımak için kullanıldı.",
+            "eventDescriptionDe": "Glasfaser wird zum ersten Mal verwendet, um Live-Telefonverkehr zu übertragen.",
+            "eventDescriptionEs": "La fibra óptica se utiliza por primera vez para llevar tráfico telefónico en vivo.",
+            "eventDescriptionIt": "La fibra ottica viene utilizzata per la prima volta per trasportare traffico telefonico in tempo reale."
+        }
     ]
 }
