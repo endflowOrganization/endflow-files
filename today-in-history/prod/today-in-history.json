@@ -6234,6 +6234,17 @@
             "eventDescriptionDe": "Donald Trump wurde der erste amtierende US-Präsident, der die Demokratische Volksrepublik Korea (Nordkorea) besuchte.",
             "eventDescriptionEs": "Donald Trump se convirtió en el primer presidente de los Estados Unidos en ejercicio en visitar la República Popular Democrática de Corea (Corea del Norte).",
             "eventDescriptionIt": "Donald Trump è diventato il primo presidente degli Stati Uniti in carica a visitare la Repubblica Democratica Popolare di Corea (Corea del Nord)."
+        },
+        {
+            "eventId": "584",
+            "eventCategory": "HISTORY",
+            "eventDate": "1953/06/30",
+            "eventImg": null,
+            "eventDescriptionEn": "The first Chevrolet Corvette rolled off the assembly line in Flint, Michigan.",
+            "eventDescriptionTr": "İlk Chevrolet Corvette, Flint, Michigan'daki montaj hattından çıktı.",
+            "eventDescriptionDe": "Der erste Chevrolet Corvette rollte in Flint, Michigan, vom Band.",
+            "eventDescriptionEs": "El primer Chevrolet Corvette salió de la línea de ensamblaje en Flint, Michigan.",
+            "eventDescriptionIt": "La prima Chevrolet Corvette è uscita dalla linea di montaggio a Flint, Michigan."
         }
     ]
 }
