@@ -6102,6 +6102,17 @@
             "eventDescriptionDe": "Mark Twain ist verstorben.",
             "eventDescriptionEs": "Mark Twain falleció.",
             "eventDescriptionIt": "Mark Twain è morto."
-        }
+        },{
+            "eventId": "572",
+            "eventCategory": "POLITICS",
+            "eventDate": "2016/04/22",
+            "eventImg": null,
+            "eventDescriptionEn": "The Paris Agreement is signed, an agreement to help fight global warming.",
+            "eventDescriptionTr": "Paris Anlaşması imzalandı, küresel ısınmayla mücadeleye yardımcı olacak bir anlaşma.",
+            "eventDescriptionDe": "Das Pariser Abkommen wird unterzeichnet, ein Abkommen zur Bekämpfung des Klimawandels.",
+            "eventDescriptionEs": "Se firma el Acuerdo de París, un acuerdo para ayudar a combatir el calentamiento global.",
+            "eventDescriptionIt": "Viene firmato l'Accordo di Parigi, un accordo per aiutare a combattere il riscaldamento globale."
+          }
+          
     ]
 }
