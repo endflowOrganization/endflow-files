@@ -6179,6 +6179,17 @@
             "eventDescriptionDe": "Die Sowjetunion startete die weltweit erste Raumstation, Salyut 1.",
             "eventDescriptionEs": "La Unión Soviética lanzó la primera estación espacial del mundo, Salyut 1.",
             "eventDescriptionIt": "L'Unione Sovietica ha lanciato la prima stazione spaziale del mondo, Salyut 1."
+        },
+        {
+            "eventId": "579",
+            "eventCategory": "POLITICS",
+            "eventDate": "1991/06/25",
+            "eventImg": null,
+            "eventDescriptionEn": "The breakup of Yugoslavia began when Slovenia and Croatia declared their independence from Yugoslavia.",
+            "eventDescriptionTr": "Slovenya ve Hırvatistan'ın Yugoslavya'dan bağımsızlıklarını ilan etmeleriyle Yugoslavya'nın parçalanması başladı.",
+            "eventDescriptionDe": "Der Zerfall Jugoslawiens begann, als Slowenien und Kroatien ihre Unabhängigkeit von Jugoslawien erklärten.",
+            "eventDescriptionEs": "El desmembramiento de Yugoslavia comenzó cuando Eslovenia y Croacia declararon su independencia de Yugoslavia.",
+            "eventDescriptionIt": "Il disfacimento della Jugoslavia è iniziato quando Slovenia e Croazia hanno dichiarato la loro indipendenza dalla Jugoslavia."
         }
     ]
 }
