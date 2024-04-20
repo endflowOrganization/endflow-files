@@ -6311,6 +6311,17 @@
             "eventDescriptionDe": "Die Astronauten John Young und Charles Duke flogen das Apollo Lunar Module von Apollo 16 zur Oberfläche des Mondes und markierten damit die fünfte bemannte Mondlandung des NASA Apollo-Programms.",
             "eventDescriptionEs": "Los astronautas John Young y Charles Duke volaron el Módulo Lunar Apollo 16 al suelo de la Luna, marcando el quinto alunizaje tripulado del Programa Apollo de la NASA.",
             "eventDescriptionIt": "Gli astronauti John Young e Charles Duke hanno pilotato il modulo lunare Apollo 16 fino alla superficie della Luna, segnando il quinto allunaggio tripulato del programma Apollo della NASA."
+        },
+        {
+            "eventId": "591",
+            "eventCategory": "SPORT",
+            "eventDate": "1994/05/01",
+            "eventImg": null,
+            "eventDescriptionEn": "Three-time Formula One champion Ayrton Senna was killed in an accident during the San Marino Grand Prix.",
+            "eventDescriptionTr": "Üç kez Formula Bir şampiyonu Ayrton Senna, San Marino Grand Prix'si sırasında bir kaza sonucu hayatını kaybetti.",
+            "eventDescriptionDe": "Der dreimalige Formel-1-Weltmeister Ayrton Senna wurde bei einem Unfall während des San Marino Grand Prix getötet.",
+            "eventDescriptionEs": "El tres veces campeón de Fórmula Uno Ayrton Senna murió en un accidente durante el Gran Premio de San Marino.",
+            "eventDescriptionIt": "Il tre volte campione di Formula Uno Ayrton Senna è morto in un incidente durante il Gran Premio di San Marino."
         }
     ]
 }
