@@ -6278,6 +6278,17 @@
             "eventDescriptionDe": "Das San Jacinto Monument, die weltweit höchste betonvergossene Säule, wurde im US-Bundesstaat Texas eröffnet.",
             "eventDescriptionEs": "El Monumento a San Jacinto, la columna monumental de hormigón más alta del mundo, se inauguró en el estado estadounidense de Texas.",
             "eventDescriptionIt": "Il Monumento a San Jacinto, la colonna monumentale di cemento più alta al mondo, è stato inaugurato nello stato americano del Texas."
+        },
+        {
+            "eventId": "588",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1992/04/21",
+            "eventImg": null,
+            "eventDescriptionEn": "The first extrasolar planets were announced by Polish astronomer Alexander Wolszczan.",
+            "eventDescriptionTr": "İlk ekstrasolar gezegenler, Polonyalı astronom Alexander Wolszczan tarafından duyuruldu.",
+            "eventDescriptionDe": "Die ersten extrasolaren Planeten wurden vom polnischen Astronomen Alexander Wolszczan bekannt gegeben.",
+            "eventDescriptionEs": "Los primeros planetas extrasolares fueron anunciados por el astrónomo polaco Alexander Wolszczan.",
+            "eventDescriptionIt": "I primi pianeti extrasolari sono stati annunciati dall'astronomo polacco Alexander Wolszczan."
         }
     ]
 }
