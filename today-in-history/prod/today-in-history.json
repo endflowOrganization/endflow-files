@@ -6391,6 +6391,17 @@
             "eventDescriptionDe": "Lettland erklärte seine Unabhängigkeit von der Sowjetunion.",
             "eventDescriptionIt": "La Lettonia ha dichiarato l'indipendenza dall'Unione Sovietica.",
             "eventDescriptionEs": "Letonia declaró su independencia de la Unión Soviética."
+        },
+        {
+            "eventId": "598",
+            "eventCategory": "HISTORY",
+            "eventDate": "1964/05/05",
+            "eventImg": null,
+            "eventDescriptionEn": "The Council of Europe declared May 5 as Europe Day.",
+            "eventDescriptionTr": "Avrupa Konseyi, 5 Mayıs'ı Avrupa Günü olarak ilan etti.",
+            "eventDescriptionEs": "El Consejo de Europa declaró el 5 de mayo como el Día de Europa.",
+            "eventDescriptionDe": "Der Europarat erklärte den 5. Mai zum Europatag.",
+            "eventDescriptionIt": "Il Consiglio d'Europa ha dichiarato il 5 maggio come Giornata dell'Europa."
         }
     ]
 }
