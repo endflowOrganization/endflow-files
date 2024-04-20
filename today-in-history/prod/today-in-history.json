@@ -6322,6 +6322,17 @@
             "eventDescriptionDe": "Der dreimalige Formel-1-Weltmeister Ayrton Senna wurde bei einem Unfall während des San Marino Grand Prix getötet.",
             "eventDescriptionEs": "El tres veces campeón de Fórmula Uno Ayrton Senna murió en un accidente durante el Gran Premio de San Marino.",
             "eventDescriptionIt": "Il tre volte campione di Formula Uno Ayrton Senna è morto in un incidente durante il Gran Premio di San Marino."
+        },
+        {
+            "eventId": "592",
+            "eventCategory": "HISTORY",
+            "eventDate": "1931/05/01",
+            "eventImg": null,
+            "eventDescriptionEn": "The Empire State Building was dedicated in New York City.",
+            "eventDescriptionTr": "Empire State Binası, New York Şehri'nde açıldı.",
+            "eventDescriptionDe": "Das Empire State Building wurde in New York City eingeweiht.",
+            "eventDescriptionEs": "El Empire State Building fue dedicado en la ciudad de Nueva York.",
+            "eventDescriptionIt": "L'Empire State Building è stato inaugurato a New York City."
         }
     ]
 }
