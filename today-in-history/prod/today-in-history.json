@@ -6333,6 +6333,17 @@
             "eventDescriptionDe": "Das Empire State Building wurde in New York City eingeweiht.",
             "eventDescriptionEs": "El Empire State Building fue dedicado en la ciudad de Nueva York.",
             "eventDescriptionIt": "L'Empire State Building è stato inaugurato a New York City."
+        },
+        {
+            "eventId": "593",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1999/05/01",
+            "eventImg": null,
+            "eventDescriptionEn": "The body of British climber George Mallory was found on Mount Everest, 75 years after his disappearance in 1924.",
+            "eventDescriptionTr": "İngiliz dağcı George Mallory'nin cesedi, 1924'teki kayboluşundan 75 yıl sonra Everest Dağı'nda bulundu.",
+            "eventDescriptionDe": "Der Körper des britischen Bergsteigers George Mallory wurde 75 Jahre nach seinem Verschwinden im Jahr 1924 am Mount Everest gefunden.",
+            "eventDescriptionEs": "El cuerpo del alpinista británico George Mallory fue encontrado en el monte Everest, 75 años después de su desaparición en 1924.",
+            "eventDescriptionIt": "Il corpo dell'alpinista britannico George Mallory è stato trovato sull'Everest, 75 anni dopo la sua scomparsa nel 1924."
         }
     ]
 }
