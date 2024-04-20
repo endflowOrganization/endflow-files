@@ -6380,6 +6380,17 @@
             "eventDescriptionDe": "Margaret Thatcher gewann die britische Parlamentswahl. Am nächsten Tag wurde sie die erste weibliche Premierministerin Großbritanniens.",
             "eventDescriptionEs": "Margaret Thatcher ganó las elecciones generales del Reino Unido. Al día siguiente, se convirtió en la primera mujer en ser Primera Ministra Británica.",
             "eventDescriptionIt": "Margaret Thatcher vinse le elezioni generali nel Regno Unito. Il giorno successivo divenne la prima donna a essere Primo Ministro britannico."
+        },
+        {
+            "eventId": "597",
+            "eventCategory": "POLITICS",
+            "eventDate": "1990/05/04",
+            "eventImg": null,
+            "eventDescriptionEn": "Latvia declared independence from the Soviet Union.",
+            "eventDescriptionTr": "Letonya, Sovyetler Birliği'nden bağımsızlığını ilan etti.",
+            "eventDescriptionDe": "Lettland erklärte seine Unabhängigkeit von der Sowjetunion.",
+            "eventDescriptionIt": "La Lettonia ha dichiarato l'indipendenza dall'Unione Sovietica.",
+            "eventDescriptionEs": "Letonia declaró su independencia de la Unión Soviética."
         }
     ]
 }
