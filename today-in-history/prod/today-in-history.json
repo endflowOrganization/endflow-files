@@ -6256,6 +6256,17 @@
             "eventDescriptionDe": "Kroatien wurde das 28. Mitglied der Europäischen Union.",
             "eventDescriptionEs": "Croacia se convirtió en el 28º miembro de la Unión Europea.",
             "eventDescriptionIt": "La Croazia è diventata il 28° membro dell'Unione Europea."
+        },
+        {
+            "eventId": "586",
+            "eventCategory": "HISTORY",
+            "eventDate": "1960/04/21",
+            "eventImg": null,
+            "eventDescriptionEn": "Brasília officially became the capital of Brazil. The old capital was Rio de Janeiro.",
+            "eventDescriptionTr": "Brasília resmen Brezilya'nın başkenti oldu. Eski başkent Rio de Janeiro'ydu.",
+            "eventDescriptionDe": "Brasília wurde offiziell zur Hauptstadt Brasiliens erklärt. Die alte Hauptstadt war Rio de Janeiro.",
+            "eventDescriptionEs": "Brasilia se convirtió oficialmente en la capital de Brasil. La antigua capital era Río de Janeiro.",
+            "eventDescriptionIt": "Brasilia è ufficialmente diventata la capitale del Brasile. La vecchia capitale era Rio de Janeiro."
         }
     ]
 }
