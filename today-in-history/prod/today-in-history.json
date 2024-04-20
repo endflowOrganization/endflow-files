@@ -158,7 +158,10 @@
             "eventDate": "1986/04/26",
             "eventImg": null,
             "eventDescriptionEn": "Chernobyl nuclear reactor explosion occurred, resulting in the worst nuclear disaster in history.",
-            "eventDescriptionTr": "Çernobil nükleer reaktör patlaması gerçekleşti ve tarihteki en kötü nükleer felakete sebep oldu."
+            "eventDescriptionTr": "Çernobil nükleer reaktör patlaması gerçekleşti ve tarihteki en kötü nükleer felakete sebep oldu.",
+            "eventDescriptionDe": "Es kam zur Explosion des Kernkraftwerks von Tschernobyl, was zur schlimmsten nuklearen Katastrophe der Geschichte führte.",
+            "eventDescriptionEs": "Ocurrió la explosión del reactor nuclear de Chernóbil, resultando en el peor desastre nuclear de la historia.",
+            "eventDescriptionIt": "Si è verificata l'esplosione del reattore nucleare di Chernobyl, causando il peggiore disastro nucleare della storia."
         },
         {
             "eventId": "21",
@@ -6344,6 +6347,17 @@
             "eventDescriptionDe": "Der Körper des britischen Bergsteigers George Mallory wurde 75 Jahre nach seinem Verschwinden im Jahr 1924 am Mount Everest gefunden.",
             "eventDescriptionEs": "El cuerpo del alpinista británico George Mallory fue encontrado en el monte Everest, 75 años después de su desaparición en 1924.",
             "eventDescriptionIt": "Il corpo dell'alpinista britannico George Mallory è stato trovato sull'Everest, 75 anni dopo la sua scomparsa nel 1924."
+        },
+        {
+            "eventId": "594",
+            "eventCategory": "POLITICS",
+            "eventDate": "2011/05/02",
+            "eventImg": null,
+            "eventDescriptionEn": "Osama bin Laden, the suspected mastermind behind the September 11 attacks and the FBI's most wanted man, is killed by the United States special forces in Abbottabad, Pakistan.",
+            "eventDescriptionTr": "11 Eylül saldırılarının şüpheli kilit ismi ve FBI'ın en çok aranan adamı olan Usame bin Ladin, Amerika Birleşik Devletleri özel kuvvetleri tarafından Pakistan'ın Abbottabad kentinde öldürüldü.",
+            "eventDescriptionDe": "Osama bin Laden, der mutmaßliche Drahtzieher hinter den Anschlägen vom 11. September und der meistgesuchte Mann des FBI, wird von den Spezialeinheiten der Vereinigten Staaten in Abbottabad, Pakistan, getötet.",
+            "eventDescriptionEs": "Osama bin Laden, el presunto cerebro detrás de los ataques del 11 de septiembre y el hombre más buscado del FBI, es asesinado por las fuerzas especiales de Estados Unidos en Abbottabad, Pakistán.",
+            "eventDescriptionIt": "Osama bin Laden, il presunto artefice degli attacchi dell'11 settembre e l'uomo più ricercato dall'FBI, viene ucciso dalle forze speciali degli Stati Uniti ad Abbottabad, Pakistan."
         }
     ]
 }
