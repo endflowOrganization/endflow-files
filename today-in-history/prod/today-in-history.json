@@ -6413,6 +6413,17 @@
             "eventDescriptionEs": "La Organización Mundial de la Salud declaró el fin de la pandemia de COVID-19 como una emergencia sanitaria global.",
             "eventDescriptionDe": "Die Weltgesundheitsorganisation erklärte das Ende der COVID-19-Pandemie als globalen Gesundheitsnotstand.",
             "eventDescriptionIt": "L'Organizzazione Mondiale della Sanità ha dichiarato la fine della pandemia di COVID-19 come emergenza sanitaria globale."
+        },
+        {
+            "eventId": "600",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1988/05/05",
+            "eventImg": null,
+            "eventDescriptionEn": "Adele, the renowned English singer-songwriter, was born on May 5, 1988.",
+            "eventDescriptionTr": "İngiliz şarkıcı-söz yazarı Adele, 5 Mayıs 1988'de doğdu.",
+            "eventDescriptionEs": "Adele, la reconocida cantante y compositora inglesa, nació el 5 de mayo de 1988.",
+            "eventDescriptionDe": "Adele, die bekannte englische Sängerin und Songwriterin, wurde am 5. Mai 1988 geboren.",
+            "eventDescriptionIt": "Adele, la famosa cantautrice inglese, è nata il 5 maggio 1988."
         }
     ]
 }
