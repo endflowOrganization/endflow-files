@@ -6358,6 +6358,28 @@
             "eventDescriptionDe": "Osama bin Laden, der mutmaßliche Drahtzieher hinter den Anschlägen vom 11. September und der meistgesuchte Mann des FBI, wird von den Spezialeinheiten der Vereinigten Staaten in Abbottabad, Pakistan, getötet.",
             "eventDescriptionEs": "Osama bin Laden, el presunto cerebro detrás de los ataques del 11 de septiembre y el hombre más buscado del FBI, es asesinado por las fuerzas especiales de Estados Unidos en Abbottabad, Pakistán.",
             "eventDescriptionIt": "Osama bin Laden, il presunto artefice degli attacchi dell'11 settembre e l'uomo più ricercato dall'FBI, viene ucciso dalle forze speciali degli Stati Uniti ad Abbottabad, Pakistan."
+        },
+        {
+            "eventId": "595",
+            "eventCategory": "HISTORY",
+            "eventDate": "1969/05/02",
+            "eventImg": null,
+            "eventDescriptionEn": "The British ocean liner Queen Elizabeth 2 departs on her maiden voyage to New York City.",
+            "eventDescriptionTr": "İngiliz okyanus gemisi Queen Elizabeth 2, ilk seferine New York Şehri'ne doğru yola çıkar.",
+            "eventDescriptionDe": "Das britische Passagierschiff Queen Elizabeth 2 startet zu seiner Jungfernfahrt nach New York City.",
+            "eventDescriptionEs": "El transatlántico británico Queen Elizabeth 2 parte en su viaje inaugural hacia la ciudad de Nueva York.",
+            "eventDescriptionIt": "Il transatlantico britannico Queen Elizabeth 2 parte per il suo viaggio inaugurale verso la città di New York."
+        },
+        {
+            "eventId": "596",
+            "eventCategory": "POLITICS",
+            "eventDate": "1979/05/03",
+            "eventImg": null,
+            "eventDescriptionEn": "Margaret Thatcher won the United Kingdom general election. The following day, she became the first female British Prime Minister.",
+            "eventDescriptionTr": "Margaret Thatcher Birleşik Krallık genel seçimini kazandı. Ertesi gün, o Birleşik Krallık'ın ilk kadın Başbakanı oldu.",
+            "eventDescriptionDe": "Margaret Thatcher gewann die britische Parlamentswahl. Am nächsten Tag wurde sie die erste weibliche Premierministerin Großbritanniens.",
+            "eventDescriptionEs": "Margaret Thatcher ganó las elecciones generales del Reino Unido. Al día siguiente, se convirtió en la primera mujer en ser Primera Ministra Británica.",
+            "eventDescriptionIt": "Margaret Thatcher vinse le elezioni generali nel Regno Unito. Il giorno successivo divenne la prima donna a essere Primo Ministro britannico."
         }
     ]
 }
