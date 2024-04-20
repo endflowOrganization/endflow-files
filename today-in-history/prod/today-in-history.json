@@ -6289,6 +6289,17 @@
             "eventDescriptionDe": "Die ersten extrasolaren Planeten wurden vom polnischen Astronomen Alexander Wolszczan bekannt gegeben.",
             "eventDescriptionEs": "Los primeros planetas extrasolares fueron anunciados por el astrónomo polaco Alexander Wolszczan.",
             "eventDescriptionIt": "I primi pianeti extrasolari sono stati annunciati dall'astronomo polacco Alexander Wolszczan."
+        },
+        {
+            "eventId": "589",
+            "eventCategory": "HISTORY",
+            "eventDate": "2011/03/11",
+            "eventImg": null,
+            "eventDescriptionEn": "An earthquake measuring 9.0 in magnitude struck 130 km (81 mi) east of Sendai, Japan, triggering a tsunami that killed thousands of people. This event also triggered the second-largest nuclear accident in history, and one of only two events to be classified as a Level 7 on the International Nuclear Event Scale.",
+            "eventDescriptionTr": "Japonya'nın Sendai şehrinin 130 km (81 mi) doğusunda 9.0 büyüklüğünde bir deprem meydana geldi ve binlerce kişinin ölümüne neden olan bir tsunami tetiklendi. Bu olay aynı zamanda tarihteki ikinci büyük nükleer kazaya ve Uluslararası Nükleer Olay Ölçeği'nde 7. seviye olarak sınıflandırılan yalnızca iki olaydan birine neden oldu.",
+            "eventDescriptionDe": "Ein Erdbeben der Stärke 9,0 traf 130 km östlich von Sendai, Japan, und löste einen Tsunami aus, bei dem Tausende von Menschen ums Leben kamen. Dieses Ereignis löste auch den zweitgrößten nuklearen Unfall der Geschichte aus und war eines von nur zwei Ereignissen, die als Stufe 7 auf der Internationalen Skala für nukleare Ereignisse eingestuft wurden.",
+            "eventDescriptionEs": "Un terremoto de magnitud 9.0 golpeó a 130 km (81 millas) al este de Sendai, Japón, desencadenando un tsunami que mató a miles de personas. Este evento también desencadenó el segundo accidente nuclear más grande de la historia, y uno de solo dos eventos clasificados como Nivel 7 en la Escala Internacional de Eventos Nucleares.",
+            "eventDescriptionIt": "Un terremoto di magnitudo 9.0 colpì a 130 km (81 miglia) a est di Sendai, Giappone, scatenando uno tsunami che uccise migliaia di persone. Questo evento scatenò anche il secondo più grande incidente nucleare della storia e uno dei soli due eventi classificati come Livello 7 sulla Scala Internazionale degli Eventi Nucleari."
         }
     ]
 }
