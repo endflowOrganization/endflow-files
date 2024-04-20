@@ -6267,6 +6267,17 @@
             "eventDescriptionDe": "Brasília wurde offiziell zur Hauptstadt Brasiliens erklärt. Die alte Hauptstadt war Rio de Janeiro.",
             "eventDescriptionEs": "Brasilia se convirtió oficialmente en la capital de Brasil. La antigua capital era Río de Janeiro.",
             "eventDescriptionIt": "Brasilia è ufficialmente diventata la capitale del Brasile. La vecchia capitale era Rio de Janeiro."
+        },
+        {
+            "eventId": "587",
+            "eventCategory": "HISTORY",
+            "eventDate": "1939/04/21",
+            "eventImg": null,
+            "eventDescriptionEn": "The San Jacinto Monument, the world's tallest concrete monumental column, was opened in the US state of Texas.",
+            "eventDescriptionTr": "San Jacinto Anıtı, dünyanın en yüksek beton anıtsal sütunu, Teksas eyaletinde açıldı.",
+            "eventDescriptionDe": "Das San Jacinto Monument, die weltweit höchste betonvergossene Säule, wurde im US-Bundesstaat Texas eröffnet.",
+            "eventDescriptionEs": "El Monumento a San Jacinto, la columna monumental de hormigón más alta del mundo, se inauguró en el estado estadounidense de Texas.",
+            "eventDescriptionIt": "Il Monumento a San Jacinto, la colonna monumentale di cemento più alta al mondo, è stato inaugurato nello stato americano del Texas."
         }
     ]
 }
