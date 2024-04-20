@@ -6402,6 +6402,17 @@
             "eventDescriptionEs": "El Consejo de Europa declaró el 5 de mayo como el Día de Europa.",
             "eventDescriptionDe": "Der Europarat erklärte den 5. Mai zum Europatag.",
             "eventDescriptionIt": "Il Consiglio d'Europa ha dichiarato il 5 maggio come Giornata dell'Europa."
+        },
+        {
+            "eventId": "599",
+            "eventCategory": "HISTORY",
+            "eventDate": "2023/05/05",
+            "eventImg": null,
+            "eventDescriptionEn": "The World Health Organization declared the end of the COVID-19 pandemic as a global health emergency.",
+            "eventDescriptionTr": "Dünya Sağlık Örgütü, COVID-19 pandemisinin küresel bir sağlık acil durumu olarak sona erdiğini ilan etti.",
+            "eventDescriptionEs": "La Organización Mundial de la Salud declaró el fin de la pandemia de COVID-19 como una emergencia sanitaria global.",
+            "eventDescriptionDe": "Die Weltgesundheitsorganisation erklärte das Ende der COVID-19-Pandemie als globalen Gesundheitsnotstand.",
+            "eventDescriptionIt": "L'Organizzazione Mondiale della Sanità ha dichiarato la fine della pandemia di COVID-19 come emergenza sanitaria globale."
         }
     ]
 }
