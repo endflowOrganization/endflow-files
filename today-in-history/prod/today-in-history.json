@@ -6493,6 +6493,17 @@
             "eventDescriptionEs": "Mozambique logró su independencia de Portugal el 25 de junio de 1975.",
             "eventDescriptionDe": "Mosambik erlangte am 25. Juni 1975 seine Unabhängigkeit von Portugal.",
             "eventDescriptionIt": "Il Mozambico ottenne l'indipendenza dal Portogallo il 25 giugno 1975."
+        },
+        {
+            "eventId": "607",
+            "eventCategory": "HISTORY",
+            "eventDate": "1950/06/25",
+            "eventImg": null,
+            "eventDescriptionEn": "The Korean War began with the invasion of South Korea by North Korea on June 25, 1950.",
+            "eventDescriptionTr": "Kore Savaşı, 25 Haziran 1950'de Kuzey Kore'nin Güney Kore'yi işgaliyle başladı.",
+            "eventDescriptionEs": "La Guerra de Corea comenzó con la invasión de Corea del Sur por parte de Corea del Norte el 25 de junio de 1950.",
+            "eventDescriptionDe": "Der Koreakrieg begann am 25. Juni 1950 mit der Invasion Südkoreas durch Nordkorea.",
+            "eventDescriptionIt": "La guerra di Corea iniziò il 25 giugno 1950 con l'invasione della Corea del Sud da parte della Corea del Nord."
         }
     ]
 }
