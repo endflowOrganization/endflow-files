@@ -6424,6 +6424,17 @@
             "eventDescriptionEs": "Adele, la reconocida cantante y compositora inglesa, nació el 5 de mayo de 1988.",
             "eventDescriptionDe": "Adele, die bekannte englische Sängerin und Songwriterin, wurde am 5. Mai 1988 geboren.",
             "eventDescriptionIt": "Adele, la famosa cantautrice inglese, è nata il 5 maggio 1988."
+        },
+        {
+            "eventId": "601",
+            "eventCategory": "POLITICS",
+            "eventDate": "1930/04/22",
+            "eventImg": null,
+            "eventDescriptionEn": "The United Kingdom, Japan, and the United States signed the London Naval Treaty, which regulated submarine warfare and limited shipbuilding.",
+            "eventDescriptionTr": "Birleşik Krallık, Japonya ve Amerika Birleşik Devletleri, denizaltı savaşını düzenleyen ve gemi yapımını sınırlayan Londra Deniz Antlaşması'nı imzaladı.",
+            "eventDescriptionEs": "El Reino Unido, Japón y Estados Unidos firmaron el Tratado Naval de Londres, que regulaba la guerra submarina y limitaba la construcción de barcos.",
+            "eventDescriptionDe": "Das Vereinigte Königreich, Japan und die Vereinigten Staaten unterzeichneten den Londoner Flottenvertrag, der den U-Boot-Krieg regulierte und den Schiffbau einschränkte.",
+            "eventDescriptionIt": "Il Regno Unito, il Giappone e gli Stati Uniti firmarono il Trattato Navale di Londra, che regolava la guerra sottomarina e limitava la costruzione navale."
         }
     ]
 }
