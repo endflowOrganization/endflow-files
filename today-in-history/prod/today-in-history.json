@@ -6482,6 +6482,17 @@
             "eventDescriptionEs": "Alfred Nobel, el químico sueco e inventor de la dinamita, falleció.",
             "eventDescriptionDe": "Alfred Nobel, der schwedische Chemiker und Erfinder des Dynamits, verstarb.",
             "eventDescriptionIt": "Alfred Nobel, il chimico svedese e inventore della dinamite, è morto."
+        },
+        {
+            "eventId": "606",
+            "eventCategory": "POLITICS",
+            "eventDate": "1975/06/25",
+            "eventImg": null,
+            "eventDescriptionEn": "Mozambique achieved independence from Portugal on June 25, 1975.",
+            "eventDescriptionTr": "Mozambik, 25 Haziran 1975'te Portekiz'den bağımsızlığını kazandı.",
+            "eventDescriptionEs": "Mozambique logró su independencia de Portugal el 25 de junio de 1975.",
+            "eventDescriptionDe": "Mosambik erlangte am 25. Juni 1975 seine Unabhängigkeit von Portugal.",
+            "eventDescriptionIt": "Il Mozambico ottenne l'indipendenza dal Portogallo il 25 giugno 1975."
         }
     ]
 }
