@@ -6446,6 +6446,17 @@
             "eventDescriptionEs": "El Congreso de los Estados Unidos aprobó la Ley de Monedas de 1864, que permitía la inscripción 'En Dios Confiamos' en todas las monedas acuñadas como moneda de los Estados Unidos.",
             "eventDescriptionDe": "Der US-Kongress verabschiedete das Münzgesetz von 1864, das erlaubte, die Inschrift 'In God We Trust' auf allen Münzen, die als US-Währung geprägt werden, anzubringen.",
             "eventDescriptionIt": "Il Congresso degli Stati Uniti ha approvato il Coinage Act del 1864, che consentiva l'iscrizione 'In God We Trust' su tutte le monete coniate come valuta degli Stati Uniti."
+        },
+        {
+            "eventId": "603",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1724/04/22",
+            "eventImg": null,
+            "eventDescriptionEn": "Immanuel Kant, the influential German philosopher, was born.",
+            "eventDescriptionTr": "Etkili Alman filozof Immanuel Kant doğdu.",
+            "eventDescriptionEs": "Immanuel Kant, el influyente filósofo alemán, nació.",
+            "eventDescriptionDe": "Immanuel Kant, der einflussreiche deutsche Philosoph, wurde geboren.",
+            "eventDescriptionIt": "Immanuel Kant, l'influente filosofo tedesco, è nato."
         }
     ]
 }
