@@ -214,12 +214,15 @@
             "eventDescriptionTr": "Güney Afrika'da ırk ayrımcılığı sistemi olan apartheid resmi olarak sona erdi ve ülkede ilk çok ırklı demokratik seçimler gerçekleşti."
         },
         {
-            "eventId": "27",
-            "eventCategory": "PEOPLE",
-            "eventDate": "2015/12/12",
+            "eventId": "28",
+            "eventCategory": "POLITICS",
+            "eventDate": "2016/06/23",
             "eventImg": null,
-            "eventDescriptionEn": "The Paris Agreement, a global effort to combat climate change, was signed by 196 countries, highlighting the urgency of environmental preservation.",
-            "eventDescriptionTr": "Paris Anlaşması, iklim değişikliğiyle mücadele etmek için 196 ülke tarafından imzalandı ve çevresel korumanın aciliyetini vurguladı."
+            "eventDescriptionEn": "The United Kingdom voted in a referendum to leave the European Union, with 52% voting to leave and 48% voting to remain.",
+            "eventDescriptionTr": "Bir referandumda Birleşik Krallık, Avrupa Birliği'nden ayrılmayı oyladı. Sonuç: %52 ayrılma ve %48 kalma yönündeydi.",
+            "eventDescriptionEs": "El Reino Unido votó en un referéndum para salir de la Unión Europea, con un 52% a favor de la salida y un 48% a favor de quedarse.",
+            "eventDescriptionDe": "Das Vereinigte Königreich stimmte in einem Referendum für den Austritt aus der Europäischen Union, wobei 52% für den Austritt und 48% für den Verbleib stimmten.",
+            "eventDescriptionIt": "Il Regno Unito ha votato in un referendum per lasciare l'Unione Europea, con il 52% a favore dell'uscita e il 48% a favore di rimanere."
         },
         {
             "eventId": "28",
