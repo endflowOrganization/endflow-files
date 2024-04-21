@@ -6468,6 +6468,17 @@
             "eventDescriptionEs": "El primer Día de la Tierra se celebró para promover la conciencia y protección medioambiental.",
             "eventDescriptionDe": "Der erste Tag der Erde wurde gefeiert, um das Umweltbewusstsein und den Umweltschutz zu fördern.",
             "eventDescriptionIt": "Il primo Giorno della Terra è stato celebrato per promuovere la consapevolezza e la protezione ambientale."
+        },
+        {
+            "eventId": "605",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1896/12/10",
+            "eventImg": null,
+            "eventDescriptionEn": "Alfred Nobel, the Swedish chemist and inventor of dynamite, passed away.",
+            "eventDescriptionTr": "Dinamiti icat eden İsveçli kimyager Alfred Nobel hayatını kaybetti.",
+            "eventDescriptionEs": "Alfred Nobel, el químico sueco e inventor de la dinamita, falleció.",
+            "eventDescriptionDe": "Alfred Nobel, der schwedische Chemiker und Erfinder des Dynamits, verstarb.",
+            "eventDescriptionIt": "Alfred Nobel, il chimico svedese e inventore della dinamite, è morto."
         }
     ]
 }
