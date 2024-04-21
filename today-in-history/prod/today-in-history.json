@@ -6435,6 +6435,17 @@
             "eventDescriptionEs": "El Reino Unido, Japón y Estados Unidos firmaron el Tratado Naval de Londres, que regulaba la guerra submarina y limitaba la construcción de barcos.",
             "eventDescriptionDe": "Das Vereinigte Königreich, Japan und die Vereinigten Staaten unterzeichneten den Londoner Flottenvertrag, der den U-Boot-Krieg regulierte und den Schiffbau einschränkte.",
             "eventDescriptionIt": "Il Regno Unito, il Giappone e gli Stati Uniti firmarono il Trattato Navale di Londra, che regolava la guerra sottomarina e limitava la costruzione navale."
+        },
+        {
+            "eventId": "602",
+            "eventCategory": "FINANCE",
+            "eventDate": "1864/04/22",
+            "eventImg": null,
+            "eventDescriptionEn": "The U.S. Congress passed the Coinage Act of 1864, which permitted the inscription 'In God We Trust' to be placed on all coins minted as United States currency.",
+            "eventDescriptionTr": "ABD Kongresi, Amerika Birleşik Devletleri para birimi olarak basılan tüm madeni paralara 'Tanrı'ya Güveniyoruz' yazısının yerleştirilmesine izin veren 1864 Darphane Yasası'nı kabul etti.",
+            "eventDescriptionEs": "El Congreso de los Estados Unidos aprobó la Ley de Monedas de 1864, que permitía la inscripción 'En Dios Confiamos' en todas las monedas acuñadas como moneda de los Estados Unidos.",
+            "eventDescriptionDe": "Der US-Kongress verabschiedete das Münzgesetz von 1864, das erlaubte, die Inschrift 'In God We Trust' auf allen Münzen, die als US-Währung geprägt werden, anzubringen.",
+            "eventDescriptionIt": "Il Congresso degli Stati Uniti ha approvato il Coinage Act del 1864, che consentiva l'iscrizione 'In God We Trust' su tutte le monete coniate come valuta degli Stati Uniti."
         }
     ]
 }
