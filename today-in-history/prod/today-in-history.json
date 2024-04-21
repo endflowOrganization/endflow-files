@@ -6457,6 +6457,17 @@
             "eventDescriptionEs": "Immanuel Kant, el influyente filósofo alemán, nació.",
             "eventDescriptionDe": "Immanuel Kant, der einflussreiche deutsche Philosoph, wurde geboren.",
             "eventDescriptionIt": "Immanuel Kant, l'influente filosofo tedesco, è nato."
+        },
+        {
+            "eventId": "604",
+            "eventCategory": "HISTORY",
+            "eventDate": "1970/04/22",
+            "eventImg": null,
+            "eventDescriptionEn": "The first Earth Day is celebrated to promote environmental awareness and protection.",
+            "eventDescriptionTr": "Çevresel farkındalığı ve korumayı teşvik etmek için ilk Dünya Günü kutlandı.",
+            "eventDescriptionEs": "El primer Día de la Tierra se celebró para promover la conciencia y protección medioambiental.",
+            "eventDescriptionDe": "Der erste Tag der Erde wurde gefeiert, um das Umweltbewusstsein und den Umweltschutz zu fördern.",
+            "eventDescriptionIt": "Il primo Giorno della Terra è stato celebrato per promuovere la consapevolezza e la protezione ambientale."
         }
     ]
 }
