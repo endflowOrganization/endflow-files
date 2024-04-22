@@ -6515,6 +6515,17 @@
             "eventDescriptionEs": "Willis Carrier creó el primer acondicionador de aire en Buffalo, Nueva York, el 17 de julio de 1902.",
             "eventDescriptionDe": "Willis Carrier schuf am 17. Juli 1902 in Buffalo, New York, die erste Klimaanlage.",
             "eventDescriptionIt": "Willis Carrier creò il primo condizionatore d'aria a Buffalo, New York, il 17 luglio 1902."
+        },
+        {
+            "eventId": "609",
+            "eventCategory": "TECH",
+            "eventDate": "1968/07/18",
+            "eventImg": null,
+            "eventDescriptionEn": "Intel was founded in Mountain View, California, on July 18, 1968.",
+            "eventDescriptionTr": "Intel, 18 Temmuz 1968'de Kaliforniya, Mountain View'da kuruldu.",
+            "eventDescriptionEs": "Intel fue fundada en Mountain View, California, el 18 de julio de 1968.",
+            "eventDescriptionDe": "Intel wurde am 18. Juli 1968 in Mountain View, Kalifornien, gegründet.",
+            "eventDescriptionIt": "Intel è stata fondata a Mountain View, California, il 18 luglio 1968."
         }
     ]
 }
