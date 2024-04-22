@@ -6537,6 +6537,28 @@
             "eventDescriptionEs": "La temperatura más baja del mundo en un lugar habitado se registró en la Estación Vostok, en la Antártida, a −89.2 °C (−128.6 °F).",
             "eventDescriptionDe": "Die weltweit niedrigste Temperatur an einem bewohnten Ort wurde an der Vostok-Station in der Antarktis mit −89.2 °C (−128.6 °F) aufgezeichnet.",
             "eventDescriptionIt": "La temperatura più bassa del mondo in un luogo abitato è stata registrata alla Stazione Vostok, in Antartide, a −89,2 °C (−128,6 °F)."
+        },
+        {
+            "eventId": "611",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2012/07/21",
+            "eventImg": null,
+            "eventDescriptionEn": "Erden Eruç completed the first solo human-powered circumnavigation of the world.",
+            "eventDescriptionTr": "Erden Eruç, dünyanın ilk solo insan gücüyle tamamlanan çevresel dolaşımını tamamladı.",
+            "eventDescriptionEs": "Erden Eruç completó la primera circunnavegación del mundo en solitario impulsada por el ser humano.",
+            "eventDescriptionDe": "Erden Eruç beendete die erste solo von Menschen angetriebene Weltumrundung.",
+            "eventDescriptionIt": "Erden Eruç completò la prima circumnavigazione del mondo alimentata solo da energia umana."
+        },
+        {
+            "eventId": "612",
+            "eventCategory": "SPORT",
+            "eventDate": "1904/07/21",
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/july%2Flouis-rigolly-first-exceeded-100-mph.jpeg?alt=media&token=0bda809b-143e-4618-a952-72ad0d18d4f6",
+            "eventDescriptionEn": "Louis Rigolly, a Frenchman, became the first man to break the 100 mph (161 km/h) barrier on land. He drove a 15-liter Gobron-Brillié in Ostend, Belgium.",
+            "eventDescriptionTr": "Fransız Louis Rigolly, karada 100 mil/saat (161 km/saat) hız bariyerini aşan ilk kişi oldu. 15 litrelik Gobron-Brillié ile Ostend, Belçika'da sürdü.",
+            "eventDescriptionEs": "Louis Rigolly, un francés, se convirtió en el primer hombre en superar la barrera de los 100 mph (161 km/h) en tierra. Condujo un Gobron-Brillié de 15 litros en Ostende, Bélgica.",
+            "eventDescriptionDe": "Louis Rigolly, ein Franzose, war der erste Mann, der die 100-Meilen-pro-Stunde-Grenze (161 km/h) auf Land überwand. Er fuhr ein 15-Liter-Gobron-Brillié in Ostende, Belgien.",
+            "eventDescriptionIt": "Louis Rigolly, un francese, è diventato il primo uomo a superare la barriera dei 100 mph (161 km/h) a terra. Ha guidato un Gobron-Brillié da 15 litri a Ostenda, Belgio."
         }
     ]
 }
