@@ -6526,6 +6526,17 @@
             "eventDescriptionEs": "Intel fue fundada en Mountain View, California, el 18 de julio de 1968.",
             "eventDescriptionDe": "Intel wurde am 18. Juli 1968 in Mountain View, Kalifornien, gegründet.",
             "eventDescriptionIt": "Intel è stata fondata a Mountain View, California, il 18 luglio 1968."
+        },
+        {
+            "eventId": "610",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1983/07/21",
+            "eventImg": null,
+            "eventDescriptionEn": "The world's lowest temperature in an inhabited location was recorded at Vostok Station, Antarctica at −89.2 °C (−128.6 °F).",
+            "eventDescriptionTr": "Yaşanılan bir yerde dünyanın en düşük sıcaklığı, Vostok İstasyonu'nda, Antarktika'da, −89.2 °C (−128.6 °F) olarak kaydedildi.",
+            "eventDescriptionEs": "La temperatura más baja del mundo en un lugar habitado se registró en la Estación Vostok, en la Antártida, a −89.2 °C (−128.6 °F).",
+            "eventDescriptionDe": "Die weltweit niedrigste Temperatur an einem bewohnten Ort wurde an der Vostok-Station in der Antarktis mit −89.2 °C (−128.6 °F) aufgezeichnet.",
+            "eventDescriptionIt": "La temperatura più bassa del mondo in un luogo abitato è stata registrata alla Stazione Vostok, in Antartide, a −89,2 °C (−128,6 °F)."
         }
     ]
 }
