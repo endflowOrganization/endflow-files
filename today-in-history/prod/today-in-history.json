@@ -6504,6 +6504,17 @@
             "eventDescriptionEs": "La Guerra de Corea comenzó con la invasión de Corea del Sur por parte de Corea del Norte el 25 de junio de 1950.",
             "eventDescriptionDe": "Der Koreakrieg begann am 25. Juni 1950 mit der Invasion Südkoreas durch Nordkorea.",
             "eventDescriptionIt": "La guerra di Corea iniziò il 25 giugno 1950 con l'invasione della Corea del Sud da parte della Corea del Nord."
+        },
+        {
+            "eventId": "608",
+            "eventCategory": "TECH",
+            "eventDate": "1902/07/17",
+            "eventImg": null,
+            "eventDescriptionEn": "Willis Carrier created the first air conditioner in Buffalo, New York, on July 17, 1902.",
+            "eventDescriptionTr": "Willis Carrier, 17 Temmuz 1902'de New York Buffalo'da ilk klima cihazını oluşturdu.",
+            "eventDescriptionEs": "Willis Carrier creó el primer acondicionador de aire en Buffalo, Nueva York, el 17 de julio de 1902.",
+            "eventDescriptionDe": "Willis Carrier schuf am 17. Juli 1902 in Buffalo, New York, die erste Klimaanlage.",
+            "eventDescriptionIt": "Willis Carrier creò il primo condizionatore d'aria a Buffalo, New York, il 17 luglio 1902."
         }
     ]
 }
