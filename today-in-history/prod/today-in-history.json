@@ -6603,6 +6603,17 @@
             "eventDescriptionEs": "El primer segmento de la Cadena Imperial de Radio, que proporcionaba telegrafía inalámbrica entre Leafield en Oxfordshire, Inglaterra, y El Cairo, Egipto, entró en funcionamiento.",
             "eventDescriptionDe": "Das erste Segment der Imperial Wireless Chain, das drahtlose Telegrafie zwischen Leafield in Oxfordshire, England, und Kairo, Ägypten, ermöglicht, wurde in Betrieb genommen.",
             "eventDescriptionIt": "Il primo segmento dell'Imperial Wireless Chain, che fornisce telegrafia senza fili tra Leafield nell'Oxfordshire, Inghilterra, e il Cairo, in Egitto, è entrato in funzione."
+        },
+        {
+            "eventId": "617",
+            "eventCategory": "HISTORY",
+            "eventDate": "1990/04/24",
+            "eventImg": null,
+            "eventDescriptionEn": "Gruinard Island, Scotland, was officially declared free of the anthrax disease after 48 years of quarantine.",
+            "eventDescriptionTr": "Gruinard Adası, İskoçya, 48 yıllık karantina sonrası resmen şarbon hastalığından arındırıldı.",
+            "eventDescriptionEs": "La isla Gruinard, en Escocia, fue declarada oficialmente libre de la enfermedad del ántrax después de 48 años de cuarentena.",
+            "eventDescriptionDe": "Die Insel Gruinard in Schottland wurde nach 48 Jahren Quarantäne offiziell für frei von Anthrax erklärt.",
+            "eventDescriptionIt": "L'isola di Gruinard, in Scozia, è stata ufficialmente dichiarata libera dalla malattia dell'antrace dopo 48 anni di quarantena."
         }
     ]
 }
