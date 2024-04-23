@@ -6581,6 +6581,17 @@
             "eventDescriptionEs": "Nueva York se convirtió en el primer estado de EE. UU. en exigir placas para automóviles.",
             "eventDescriptionDe": "New York wurde der erste US-Bundesstaat, der Autokennzeichen verlangte.",
             "eventDescriptionIt": "New York è diventato il primo stato degli Stati Uniti a richiedere targhe automobilistiche."
+        },
+        {
+            "eventId": "615",
+            "eventCategory": "HISTORY",
+            "eventDate": "1953/04/24",
+            "eventImg": null,
+            "eventDescriptionEn": "Winston Churchill was knighted by Queen Elizabeth II.",
+            "eventDescriptionTr": "Winston Churchill'e Kraliçe II. Elizabeth tarafından şövalye unvanı verildi.",
+            "eventDescriptionEs": "Winston Churchill fue nombrado caballero por la reina Isabel II.",
+            "eventDescriptionDe": "Winston Churchill wurde von Königin Elisabeth II. zum Ritter geschlagen.",
+            "eventDescriptionIt": "Winston Churchill è stato nominato cavaliere dalla regina Elisabetta II."
         }
     ]
 }
