@@ -6570,6 +6570,17 @@
             "eventDescriptionEs": "La Gran Asamblea Nacional de Turquía (TBMM) se fundó en Ankara.",
             "eventDescriptionDe": "Die Große Nationalversammlung der Türkei (TBMM) wurde in Ankara gegründet.",
             "eventDescriptionIt": "La Grande Assemblea Nazionale della Turchia (TBMM) è stata fondata ad Ankara."
+        },
+        {
+            "eventId": "614",
+            "eventCategory": "HISTORY",
+            "eventDate": "1901/04/25",
+            "eventImg": null,
+            "eventDescriptionEn": "New York became the first U.S. state to require automobile license plates.",
+            "eventDescriptionTr": "New York, otomobil plakalarını zorunlu kılan ilk ABD eyaleti oldu.",
+            "eventDescriptionEs": "Nueva York se convirtió en el primer estado de EE. UU. en exigir placas para automóviles.",
+            "eventDescriptionDe": "New York wurde der erste US-Bundesstaat, der Autokennzeichen verlangte.",
+            "eventDescriptionIt": "New York è diventato il primo stato degli Stati Uniti a richiedere targhe automobilistiche."
         }
     ]
 }
