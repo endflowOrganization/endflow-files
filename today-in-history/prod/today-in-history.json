@@ -6559,6 +6559,17 @@
             "eventDescriptionEs": "Louis Rigolly, un francés, se convirtió en el primer hombre en superar la barrera de los 100 mph (161 km/h) en tierra. Condujo un Gobron-Brillié de 15 litros en Ostende, Bélgica.",
             "eventDescriptionDe": "Louis Rigolly, ein Franzose, war der erste Mann, der die 100-Meilen-pro-Stunde-Grenze (161 km/h) auf Land überwand. Er fuhr ein 15-Liter-Gobron-Brillié in Ostende, Belgien.",
             "eventDescriptionIt": "Louis Rigolly, un francese, è diventato il primo uomo a superare la barriera dei 100 mph (161 km/h) a terra. Ha guidato un Gobron-Brillié da 15 litri a Ostenda, Belgio."
+        },
+        {
+            "eventId": "613",
+            "eventCategory": "POLITICS",
+            "eventDate": "1920/04/23",
+            "eventImg": null,
+            "eventDescriptionEn": "The Grand National Assembly of Turkey (TBMM) was founded in Ankara.",
+            "eventDescriptionTr": "Türkiye Büyük Millet Meclisi (TBMM) Ankara'da kuruldu.",
+            "eventDescriptionEs": "La Gran Asamblea Nacional de Turquía (TBMM) se fundó en Ankara.",
+            "eventDescriptionDe": "Die Große Nationalversammlung der Türkei (TBMM) wurde in Ankara gegründet.",
+            "eventDescriptionIt": "La Grande Assemblea Nazionale della Turchia (TBMM) è stata fondata ad Ankara."
         }
     ]
 }
