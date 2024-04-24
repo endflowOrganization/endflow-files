@@ -6625,6 +6625,18 @@
             "eventDescriptionEs": "STS-31: El telescopio espacial Hubble fue lanzado desde el transbordador espacial Discovery.",
             "eventDescriptionDe": "STS-31: Das Hubble-Weltraumteleskop wurde vom Space Shuttle Discovery aus gestartet.",
             "eventDescriptionIt": "STS-31: Il telescopio spaziale Hubble è stato lanciato dallo Space Shuttle Discovery."
+        },
+        {
+            "eventId": "619",
+            "eventCategory": "POLITICS",
+            "eventDate": "2005/04/25",
+            "eventDateEffective": "2007/01/01",
+            "eventImg": null,
+            "eventDescriptionEn": "The Treaty of Accession of Romania and Bulgaria to the European Union was signed on 25 April 2005 and entered into force on 1 January 2007.",
+            "eventDescriptionTr": "Romanya ve Bulgaristan'ın Avrupa Birliği'ne Katılım Anlaşması 25 Nisan 2005'te imzalandı ve 1 Ocak 2007'de yürürlüğe girdi.",
+            "eventDescriptionEs": "El Tratado de Adhesión de Rumanía y Bulgaria a la Unión Europea se firmó el 25 de abril de 2005 y entró en vigor el 1 de enero de 2007.",
+            "eventDescriptionDe": "Der Beitrittsvertrag von Rumänien und Bulgarien zur Europäischen Union wurde am 25. April 2005 unterzeichnet und trat am 1. Januar 2007 in Kraft.",
+            "eventDescriptionIt": "Il Trattato di adesione di Romania e Bulgaria all'Unione europea è stato firmato il 25 aprile 2005 ed è entrato in vigore il 1º gennaio 2007."
         }
     ]
 }
