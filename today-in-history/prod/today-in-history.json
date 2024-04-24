@@ -6658,6 +6658,17 @@
             "eventDescriptionEs": "Robert Noyce recibió una patente para un circuito integrado.",
             "eventDescriptionDe": "Robert Noyce erhielt ein Patent für eine integrierte Schaltung.",
             "eventDescriptionIt": "Robert Noyce ottenne un brevetto per un circuito integrato."
+        },
+        {
+            "eventId": "622",
+            "eventCategory": "HISTORY",
+            "eventDate": "1915/04/25",
+            "eventImg": null,
+            "eventDescriptionEn": "World War I: The Battle of Gallipoli began: The invasion of the Gallipoli Peninsula by British, French, Indian, Newfoundland, Australian, and New Zealand troops began with the landings at Anzac Cove and Hell's Cape.",
+            "eventDescriptionTr": "I. Dünya Savaşı: Gelibolu Savaşı başladı: İngiliz, Fransız, Hint, Newfoundland, Avustralya ve Yeni Zelanda birliklerinin Gelibolu Yarımadası'na saldırısı, Anzak Koyu ve Cehennem Burnu'na çıkarma ile başladı.",
+            "eventDescriptionEs": "Primera Guerra Mundial: Comenzó la Batalla de Gallipoli: la invasión de la península de Gallipoli por parte de tropas británicas, francesas, indias, de Terranova, australianas y neozelandesas comenzó con los desembarcos en Anzac Cove y Hell's Cape.",
+            "eventDescriptionDe": "Erster Weltkrieg: Die Schlacht von Gallipoli begann: Die Invasion der Halbinsel Gallipoli durch britische, französische, indische, Neufundland-, australische und neuseeländische Truppen begann mit Landungen in Anzac Cove und Hell's Cape.",
+            "eventDescriptionIt": "Prima Guerra Mondiale: Iniziò la Battaglia di Gallipoli: L'invasione della penisola di Gallipoli da parte di truppe britanniche, francesi, indiane, di Terranova, australiane e neozelandesi iniziò con sbarchi ad Anzac Cove e Hell's Cape."
         }
     ]
 }
