@@ -6735,6 +6735,17 @@
             "eventDescriptionEs": "Kosovo declaró su independencia de Serbia.",
             "eventDescriptionDe": "Kosovo erklärte seine Unabhängigkeit von Serbien.",
             "eventDescriptionFr": "Le Kosovo a déclaré son indépendance de la Serbie."
+        },
+        {
+            "eventId": "629",
+            "eventCategory": "POLITICS",
+            "eventDate": "1965/02/18",
+            "eventImg": null,
+            "eventDescriptionEn": "The Gambia became independent from the United Kingdom.",
+            "eventDescriptionTr": "Gambiya, Birleşik Krallık'tan bağımsızlığını kazandı.",
+            "eventDescriptionEs": "Gambia se independizó del Reino Unido.",
+            "eventDescriptionDe": "Gambia erlangte Unabhängigkeit vom Vereinigten Königreich.",
+            "eventDescriptionFr": "La Gambie a obtenu son indépendance du Royaume-Uni."
         }
     ]
 }
