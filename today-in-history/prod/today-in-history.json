@@ -6614,6 +6614,17 @@
             "eventDescriptionEs": "La isla Gruinard, en Escocia, fue declarada oficialmente libre de la enfermedad del ántrax después de 48 años de cuarentena.",
             "eventDescriptionDe": "Die Insel Gruinard in Schottland wurde nach 48 Jahren Quarantäne offiziell für frei von Anthrax erklärt.",
             "eventDescriptionIt": "L'isola di Gruinard, in Scozia, è stata ufficialmente dichiarata libera dalla malattia dell'antrace dopo 48 anni di quarantena."
+        },
+        {
+            "eventId": "618",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1990/04/24",
+            "eventImg": null,
+            "eventDescriptionEn": "STS-31: The Hubble Space Telescope was launched from the Space Shuttle Discovery.",
+            "eventDescriptionTr": "STS-31: Hubble Uzay Teleskobu Uzay Mekiği Discovery'den fırlatıldı.",
+            "eventDescriptionEs": "STS-31: El telescopio espacial Hubble fue lanzado desde el transbordador espacial Discovery.",
+            "eventDescriptionDe": "STS-31: Das Hubble-Weltraumteleskop wurde vom Space Shuttle Discovery aus gestartet.",
+            "eventDescriptionIt": "STS-31: Il telescopio spaziale Hubble è stato lanciato dallo Space Shuttle Discovery."
         }
     ]
 }
