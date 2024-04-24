@@ -6647,6 +6647,17 @@
             "eventDescriptionEs": "El Día de Anzac se conmemoró por primera vez en el primer aniversario del desembarco en la Bahía de ANZAC.",
             "eventDescriptionDe": "Der Anzac-Tag wurde erstmals am ersten Jahrestag der Landung in der ANZAC-Bucht begangen.",
             "eventDescriptionIt": "Il Giorno dell'Anzac è stato commemorato per la prima volta nel primo anniversario dello sbarco ad ANZAC Cove."
+        },
+        {
+            "eventId": "621",
+            "eventCategory": "TECH",
+            "eventDate": "1961/04/25",
+            "eventImg": null,
+            "eventDescriptionEn": "Robert Noyce was granted a patent for an integrated circuit.",
+            "eventDescriptionTr": "Robert Noyce, bir entegre devre için patent aldı.",
+            "eventDescriptionEs": "Robert Noyce recibió una patente para un circuito integrado.",
+            "eventDescriptionDe": "Robert Noyce erhielt ein Patent für eine integrierte Schaltung.",
+            "eventDescriptionIt": "Robert Noyce ottenne un brevetto per un circuito integrato."
         }
     ]
 }
