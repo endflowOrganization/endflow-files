@@ -6636,6 +6636,17 @@
             "eventDescriptionEs": "El Tratado de Adhesión de Rumanía y Bulgaria a la Unión Europea se firmó el 25 de abril de 2005 y entró en vigor el 1 de enero de 2007.",
             "eventDescriptionDe": "Der Beitrittsvertrag von Rumänien und Bulgarien zur Europäischen Union wurde am 25. April 2005 unterzeichnet und trat am 1. Januar 2007 in Kraft.",
             "eventDescriptionIt": "Il Trattato di adesione di Romania e Bulgaria all'Unione europea è stato firmato il 25 aprile 2005 ed è entrato in vigore il 1º gennaio 2007."
+        },
+        {
+            "eventId": "620",
+            "eventCategory": "HISTORY",
+            "eventDate": "1916/04/25",
+            "eventImg": null,
+            "eventDescriptionEn": "Anzac Day was commemorated for the first time on the first anniversary of the landing at ANZAC Cove.",
+            "eventDescriptionTr": "Anzak Günü, ANZAC Koyu'na çıkışın birinci yıldönümünde ilk kez anıldı.",
+            "eventDescriptionEs": "El Día de Anzac se conmemoró por primera vez en el primer aniversario del desembarco en la Bahía de ANZAC.",
+            "eventDescriptionDe": "Der Anzac-Tag wurde erstmals am ersten Jahrestag der Landung in der ANZAC-Bucht begangen.",
+            "eventDescriptionIt": "Il Giorno dell'Anzac è stato commemorato per la prima volta nel primo anniversario dello sbarco ad ANZAC Cove."
         }
     ]
 }
