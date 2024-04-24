@@ -6724,6 +6724,17 @@
             "eventDescriptionEs": "El Sultán del Imperio Otomano, Abdul Hamid II, fue derrocado y sucedido por su hermano, Mehmed V.",
             "eventDescriptionDe": "Der Sultan des Osmanischen Reiches, Abdul Hamid II, wurde gestürzt und von seinem Bruder Mehmed V. abgelöst.",
             "eventDescriptionFr": "Le sultan de l'Empire ottoman Abdul Hamid II a été renversé et remplacé par son frère, Mehmed V."
+        },
+        {
+            "eventId": "628",
+            "eventCategory": "POLITICS",
+            "eventDate": "2008/02/17",
+            "eventImg": null,
+            "eventDescriptionEn": "Kosovo declared independence from Serbia.",
+            "eventDescriptionTr": "Kosova, Sırbistan'dan bağımsızlığını ilan etti.",
+            "eventDescriptionEs": "Kosovo declaró su independencia de Serbia.",
+            "eventDescriptionDe": "Kosovo erklärte seine Unabhängigkeit von Serbien.",
+            "eventDescriptionFr": "Le Kosovo a déclaré son indépendance de la Serbie."
         }
     ]
 }
