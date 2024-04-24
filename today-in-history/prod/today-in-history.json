@@ -6680,6 +6680,17 @@
             "eventDescriptionEs": "Se fundó el club de fútbol Atlético Madrid.",
             "eventDescriptionDe": "Der Fußballverein Atlético Madrid wurde gegründet.",
             "eventDescriptionIt": "Il club di calcio Atlético Madrid è stato fondato."
+        },
+        {
+            "eventId": "624",
+            "eventCategory": "POLITICS",
+            "eventDate": "1964/04/26",
+            "eventImg": null,
+            "eventDescriptionEn": "Tanganyika and Zanzibar merged to form the United Republic of Tanzania.",
+            "eventDescriptionTr": "Tanganyika ve Zanzibar birleşerek Tanzanya Birleşik Cumhuriyeti'ni oluşturdu.",
+            "eventDescriptionEs": "Tanganyika y Zanzíbar se unieron para formar la República Unida de Tanzania.",
+            "eventDescriptionDe": "Tanganyika und Sansibar schlossen sich zur Vereinigten Republik Tansania zusammen.",
+            "eventDescriptionIt": "Tanganyika e Zanzibar si unirono per formare la Repubblica Unita della Tanzania."
         }
     ]
 }
