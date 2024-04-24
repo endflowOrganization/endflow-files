@@ -6691,6 +6691,17 @@
             "eventDescriptionEs": "Tanganyika y Zanzíbar se unieron para formar la República Unida de Tanzania.",
             "eventDescriptionDe": "Tanganyika und Sansibar schlossen sich zur Vereinigten Republik Tansania zusammen.",
             "eventDescriptionIt": "Tanganyika e Zanzibar si unirono per formare la Repubblica Unita della Tanzania."
+        },
+        {
+            "eventId": "625",
+            "eventCategory": "HISTORY",
+            "eventDate": "1915/04/26",
+            "eventImg": null,
+            "eventDescriptionEn": "World War I: Italy secretly signed the Treaty of London, pledging to join the Allied Powers (France, Russia, and Britain).",
+            "eventDescriptionTr": "I. Dünya Savaşı: İtalya, Müttefik Devletlere (Fransa, Rusya ve Britanya) katılacağına dair Londra Antlaşması'nı gizlice imzaladı.",
+            "eventDescriptionEs": "Primera Guerra Mundial: Italia firmó en secreto el Tratado de Londres, comprometiéndose a unirse a las Potencias Aliadas (Francia, Rusia y Gran Bretaña).",
+            "eventDescriptionDe": "Erster Weltkrieg: Italien unterzeichnete heimlich den Londoner Vertrag und verpflichtete sich, den Alliierten (Frankreich, Russland und Großbritannien) beizutreten.",
+            "eventDescriptionIt": "Prima Guerra Mondiale: L'Italia firmò segretamente il Trattato di Londra, impegnandosi ad unirsi alle Potenze Alleate (Francia, Russia e Gran Bretagna)."
         }
     ]
 }
