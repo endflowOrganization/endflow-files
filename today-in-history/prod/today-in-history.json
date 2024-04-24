@@ -6746,6 +6746,17 @@
             "eventDescriptionEs": "Gambia se independizó del Reino Unido.",
             "eventDescriptionDe": "Gambia erlangte Unabhängigkeit vom Vereinigten Königreich.",
             "eventDescriptionFr": "La Gambie a obtenu son indépendance du Royaume-Uni."
+        },
+        {
+            "eventId": "630",
+            "eventCategory": "TECH",
+            "eventDate": "1878/02/19",
+            "eventImg": null,
+            "eventDescriptionEn": "Thomas Edison patented the phonograph.",
+            "eventDescriptionTr": "Thomas Edison fonografın patentini aldı.",
+            "eventDescriptionEs": "Thomas Edison patentó el fonógrafo.",
+            "eventDescriptionDe": "Thomas Edison patentierte das Grammophon.",
+            "eventDescriptionFr": "Thomas Edison a breveté le phonographe."
         }
     ]
 }
