@@ -6702,6 +6702,17 @@
             "eventDescriptionEs": "Primera Guerra Mundial: Italia firmó en secreto el Tratado de Londres, comprometiéndose a unirse a las Potencias Aliadas (Francia, Rusia y Gran Bretaña).",
             "eventDescriptionDe": "Erster Weltkrieg: Italien unterzeichnete heimlich den Londoner Vertrag und verpflichtete sich, den Alliierten (Frankreich, Russland und Großbritannien) beizutreten.",
             "eventDescriptionIt": "Prima Guerra Mondiale: L'Italia firmò segretamente il Trattato di Londra, impegnandosi ad unirsi alle Potenze Alleate (Francia, Russia e Gran Bretagna)."
+        },
+        {
+            "eventId": "626",
+            "eventCategory": "HISTORY",
+            "eventDate": "1941/04/27",
+            "eventImg": null,
+            "eventDescriptionEn": "World War II: German troops entered Athens.",
+            "eventDescriptionTr": "II. Dünya Savaşı: Alman birlikleri Atina'ya girdi.",
+            "eventDescriptionEs": "Segunda Guerra Mundial: Las tropas alemanas entraron en Atenas.",
+            "eventDescriptionDe": "Zweiter Weltkrieg: Deutsche Truppen marschierten in Athen ein.",
+            "eventDescriptionIt": "Seconda Guerra Mondiale: Le truppe tedesche entrarono ad Atene."
         }
     ]
 }
