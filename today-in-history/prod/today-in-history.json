@@ -6713,6 +6713,17 @@
             "eventDescriptionEs": "Segunda Guerra Mundial: Las tropas alemanas entraron en Atenas.",
             "eventDescriptionDe": "Zweiter Weltkrieg: Deutsche Truppen marschierten in Athen ein.",
             "eventDescriptionIt": "Seconda Guerra Mondiale: Le truppe tedesche entrarono ad Atene."
+        },
+        {
+            "eventId": "627",
+            "eventCategory": "HISTORY",
+            "eventDate": "1909/04/27",
+            "eventImg": null,
+            "eventDescriptionEn": "Sultan of Ottoman Empire Abdul Hamid II was overthrown and succeeded by his brother, Mehmed V.",
+            "eventDescriptionTr": "Osmanlı İmparatorluğu'nun Sultanı II. Abdülhamid tahttan indirildi ve yerine kardeşi V. Mehmet geçti.",
+            "eventDescriptionEs": "El Sultán del Imperio Otomano, Abdul Hamid II, fue derrocado y sucedido por su hermano, Mehmed V.",
+            "eventDescriptionDe": "Der Sultan des Osmanischen Reiches, Abdul Hamid II, wurde gestürzt und von seinem Bruder Mehmed V. abgelöst.",
+            "eventDescriptionFr": "Le sultan de l'Empire ottoman Abdul Hamid II a été renversé et remplacé par son frère, Mehmed V."
         }
     ]
 }
