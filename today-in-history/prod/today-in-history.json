@@ -6801,6 +6801,17 @@
             "eventDescriptionEs": "El francés Louis Paulhan ganó la carrera aérea Londres-Manchester de 1910, la primera carrera de aviones de larga distancia en el Reino Unido.",
             "eventDescriptionDe": "Der Franzose Louis Paulhan gewann das Luftrennen von London nach Manchester 1910, das erste Langstreckenflugzeugrennen im Vereinigten Königreich.",
             "eventDescriptionIt": "Il francese Louis Paulhan vinse la gara aerea Londra-Manchester del 1910, la prima gara di aeroplani a lunga distanza nel Regno Unito."
+        },
+        {
+            "eventId": "635",
+            "eventCategory": "POLITICS",
+            "eventDate": "1920/04/28",
+            "eventImg": null,
+            "eventDescriptionEn": "The Azerbaijan Soviet Socialist Republic was founded.",
+            "eventDescriptionTr": "Azerbaycan Sovyet Sosyalist Cumhuriyeti kuruldu.",
+            "eventDescriptionEs": "Se fundó la República Socialista Soviética de Azerbaiyán.",
+            "eventDescriptionDe": "Die Aserbaidschanische Sowjetische Sozialistische Republik wurde gegründet.",
+            "eventDescriptionIt": "La Repubblica Socialista Sovietica dell'Azerbaigian è stata fondata."
         }
     ]
 }
