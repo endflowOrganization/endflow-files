@@ -6790,6 +6790,17 @@
             "eventDescriptionEs": "Togo obtuvo su independencia de Francia.",
             "eventDescriptionDe": "Togo erlangte Unabhängigkeit von Frankreich.",
             "eventDescriptionIt": "Il Togo ha ottenuto l'indipendenza dalla Francia."
+        },
+        {
+            "eventId": "634",
+            "eventCategory": "HISTORY",
+            "eventDate": "1927/05/06",
+            "eventImg": null,
+            "eventDescriptionEn": "The first radio broadcast started in Turkey. A private organization named Türk Telsiz Telefon A.Ş. began its operations, continuing its broadcasts until the state radio was established in 1938.",
+            "eventDescriptionTr": "Türkiye'de ilk radyo yayını başladı. Türk Telsiz Telefon A.Ş. adıyla çalışmalarına başlayan özel kuruluş, yayınlarını 1938'de devlet radyosu kurulana kadar sürdürdü.",
+            "eventDescriptionEs": "Comenzó la primera transmisión de radio en Turquía. Una organización privada llamada Türk Telsiz Telefon A.Ş. comenzó sus operaciones, continuando sus transmisiones hasta que se estableció la radio estatal en 1938.",
+            "eventDescriptionDe": "Die erste Radiosendung begann in der Türkei. Eine private Organisation namens Türk Telsiz Telefon A.Ş. begann mit ihren Aktivitäten und setzte ihre Sendungen fort, bis der Staatssender 1938 gegründet wurde.",
+            "eventDescriptionIt": "La prima trasmissione radiofonica iniziò in Turchia. Un'organizzazione privata chiamata Türk Telsiz Telefon A.Ş. iniziò le sue operazioni, continuando le trasmissioni fino all'istituzione della radio di stato nel 1938."
         }
     ]
 }
