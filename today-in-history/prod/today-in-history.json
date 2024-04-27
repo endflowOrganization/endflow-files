@@ -6779,6 +6779,17 @@
             "eventDescriptionEs": "La compañía Xerox PARC vendió el primer ratón para computadora.",
             "eventDescriptionDe": "Das Unternehmen Xerox PARC verkaufte die erste Computermaus.",
             "eventDescriptionIt": "La compagnia Xerox PARC ha venduto il primo mouse per computer."
+        },
+        {
+            "eventId": "633",
+            "eventCategory": "POLITICS",
+            "eventDate": "1960/04/27",
+            "eventImg": null,
+            "eventDescriptionEn": "Togo gained independence from France.",
+            "eventDescriptionTr": "Togo, Fransa'dan bağımsızlığını kazandı.",
+            "eventDescriptionEs": "Togo obtuvo su independencia de Francia.",
+            "eventDescriptionDe": "Togo erlangte Unabhängigkeit von Frankreich.",
+            "eventDescriptionIt": "Il Togo ha ottenuto l'indipendenza dalla Francia."
         }
     ]
 }
