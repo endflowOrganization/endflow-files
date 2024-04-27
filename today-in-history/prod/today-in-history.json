@@ -6790,6 +6790,17 @@
             "eventDescriptionEs": "Togo obtuvo su independencia de Francia.",
             "eventDescriptionDe": "Togo erlangte Unabhängigkeit von Frankreich.",
             "eventDescriptionIt": "Il Togo ha ottenuto l'indipendenza dalla Francia."
+        },
+        {
+            "eventId": "634",
+            "eventCategory": "SPORT",
+            "eventDate": "1910/04/28",
+            "eventImg": null,
+            "eventDescriptionEn": "Frenchman Louis Paulhan won the 1910 London to Manchester air race, the first long-distance aeroplane race in the United Kingdom.",
+            "eventDescriptionTr": "Fransız Louis Paulhan, Birleşik Krallık'taki ilk uzun mesafeli uçak yarışı olan 1910 Londra-Manchester hava yarışını kazandı.",
+            "eventDescriptionEs": "El francés Louis Paulhan ganó la carrera aérea Londres-Manchester de 1910, la primera carrera de aviones de larga distancia en el Reino Unido.",
+            "eventDescriptionDe": "Der Franzose Louis Paulhan gewann das Luftrennen von London nach Manchester 1910, das erste Langstreckenflugzeugrennen im Vereinigten Königreich.",
+            "eventDescriptionIt": "Il francese Louis Paulhan vinse la gara aerea Londra-Manchester del 1910, la prima gara di aeroplani a lunga distanza nel Regno Unito."
         }
     ]
 }
