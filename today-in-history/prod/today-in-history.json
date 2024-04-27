@@ -6757,6 +6757,17 @@
             "eventDescriptionEs": "Thomas Edison patentó el fonógrafo.",
             "eventDescriptionDe": "Thomas Edison patentierte das Grammophon.",
             "eventDescriptionFr": "Thomas Edison a breveté le phonographe."
+        },
+        {
+            "eventId": "631",
+            "eventCategory": "POLITICS",
+            "eventDate": "1961/04/27",
+            "eventImg": null,
+            "eventDescriptionEn": "Sierra Leone gained independence from the United Kingdom.",
+            "eventDescriptionTr": "Sierra Leone, İngiltere'den bağımsızlığını kazandı.",
+            "eventDescriptionEs": "Sierra Leona obtuvo su independencia del Reino Unido.",
+            "eventDescriptionDe": "Sierra Leone erlangte Unabhängigkeit vom Vereinigten Königreich.",
+            "eventDescriptionIt": "La Sierra Leone ha ottenuto l'indipendenza dal Regno Unito."
         }
     ]
 }
