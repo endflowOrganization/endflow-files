@@ -6768,6 +6768,17 @@
             "eventDescriptionEs": "Sierra Leona obtuvo su independencia del Reino Unido.",
             "eventDescriptionDe": "Sierra Leone erlangte Unabhängigkeit vom Vereinigten Königreich.",
             "eventDescriptionIt": "La Sierra Leone ha ottenuto l'indipendenza dal Regno Unito."
+        },
+        {
+            "eventId": "632",
+            "eventCategory": "TECH",
+            "eventDate": "1981/04/27",
+            "eventImg": null,
+            "eventDescriptionEn": "Xerox PARC Company sold the first computer mouse.",
+            "eventDescriptionTr": "Xerox PARC Şirketi, ilk bilgisayar faresini sattı.",
+            "eventDescriptionEs": "La compañía Xerox PARC vendió el primer ratón para computadora.",
+            "eventDescriptionDe": "Das Unternehmen Xerox PARC verkaufte die erste Computermaus.",
+            "eventDescriptionIt": "La compagnia Xerox PARC ha venduto il primo mouse per computer."
         }
     ]
 }
