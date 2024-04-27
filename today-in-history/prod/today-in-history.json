@@ -6834,6 +6834,17 @@
             "eventDescriptionEs": "El primer turista espacial, Dennis Tito, partió hacia la Estación Espacial Internacional (ISS).",
             "eventDescriptionDe": "Der erste Weltraumtourist, Dennis Tito, reiste zur Internationalen Raumstation (ISS).",
             "eventDescriptionIt": "Il primo turista spaziale, Dennis Tito, partì per la Stazione Spaziale Internazionale (ISS)."
+        },
+        {
+            "eventId": "638",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1916/04/28",
+            "eventImg": null,
+            "eventDescriptionEn": "Ferruccio Lamborghini, the founder of the iconic luxury sports car company Lamborghini, was born.",
+            "eventDescriptionTr": "Lamborghini'nin kurucusu olan lüks spor otomobil şirketi Ferruccio Lamborghini doğdu.",
+            "eventDescriptionEs": "Ferruccio Lamborghini, el fundador de la icónica compañía de autos deportivos de lujo Lamborghini, nació.",
+            "eventDescriptionDe": "Ferruccio Lamborghini, der Gründer des ikonischen Luxus-Sportwagenunternehmens Lamborghini, wurde geboren.",
+            "eventDescriptionIt": "Ferruccio Lamborghini, il fondatore della iconica azienda di auto sportive di lusso Lamborghini, è nato."
         }
     ]
 }
