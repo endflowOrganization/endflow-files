@@ -6823,6 +6823,17 @@
             "eventDescriptionEs": "Se detectaron altos niveles de radiación provenientes del desastre de Chernóbil en una planta de energía nuclear en Suecia, lo que llevó a las autoridades soviéticas a anunciar públicamente el accidente.",
             "eventDescriptionDe": "Hohe Strahlungswerte infolge der Tschernobyl-Katastrophe wurden in einem Kernkraftwerk in Schweden festgestellt, was dazu führte, dass die sowjetischen Behörden den Unfall öffentlich bekannt gaben.",
             "eventDescriptionIt": "Alti livelli di radiazione derivanti dal disastro di Chernobyl furono rilevati in una centrale nucleare in Svezia, portando le autorità sovietiche ad annunciare pubblicamente l'incidente."
+        },
+        {
+            "eventId": "637",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2001/04/28",
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/april%2Fdennis-tito-first-space-tourist.jpg?alt=media&token=548f40e3-f823-4079-a026-6b6190476fb9",
+            "eventDescriptionEn": "The first space tourist, Dennis Tito, departed for the International Space Station (ISS).",
+            "eventDescriptionTr": "İlk uzay turisti, Dennis Tito, Uluslararası Uzay İstasyonu'na (ISS) doğru yola çıktı.",
+            "eventDescriptionEs": "El primer turista espacial, Dennis Tito, partió hacia la Estación Espacial Internacional (ISS).",
+            "eventDescriptionDe": "Der erste Weltraumtourist, Dennis Tito, reiste zur Internationalen Raumstation (ISS).",
+            "eventDescriptionIt": "Il primo turista spaziale, Dennis Tito, partì per la Stazione Spaziale Internazionale (ISS)."
         }
     ]
 }
