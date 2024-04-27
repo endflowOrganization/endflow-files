@@ -6812,6 +6812,17 @@
             "eventDescriptionEs": "Se fundó la República Socialista Soviética de Azerbaiyán.",
             "eventDescriptionDe": "Die Aserbaidschanische Sowjetische Sozialistische Republik wurde gegründet.",
             "eventDescriptionIt": "La Repubblica Socialista Sovietica dell'Azerbaigian è stata fondata."
+        },
+        {
+            "eventId": "636",
+            "eventCategory": "HISTORY",
+            "eventDate": "1986/04/28",
+            "eventImg": null,
+            "eventDescriptionEn": "High levels of radiation resulting from the Chernobyl disaster were detected at a nuclear power plant in Sweden, leading Soviet authorities to publicly announce the accident.",
+            "eventDescriptionTr": "Çernobil felaketinden kaynaklanan yüksek radyasyon seviyeleri İsveç'teki bir nükleer santralde tespit edildi ve bu durum Sovyet yetkililerinin kazayı kamuoyuna açıklamasına neden oldu.",
+            "eventDescriptionEs": "Se detectaron altos niveles de radiación provenientes del desastre de Chernóbil en una planta de energía nuclear en Suecia, lo que llevó a las autoridades soviéticas a anunciar públicamente el accidente.",
+            "eventDescriptionDe": "Hohe Strahlungswerte infolge der Tschernobyl-Katastrophe wurden in einem Kernkraftwerk in Schweden festgestellt, was dazu führte, dass die sowjetischen Behörden den Unfall öffentlich bekannt gaben.",
+            "eventDescriptionIt": "Alti livelli di radiazione derivanti dal disastro di Chernobyl furono rilevati in una centrale nucleare in Svezia, portando le autorità sovietiche ad annunciare pubblicamente l'incidente."
         }
     ]
 }
