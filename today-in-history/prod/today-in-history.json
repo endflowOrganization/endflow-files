@@ -6845,6 +6845,17 @@
             "eventDescriptionEs": "Ferruccio Lamborghini, el fundador de la icónica compañía de autos deportivos de lujo Lamborghini, nació.",
             "eventDescriptionDe": "Ferruccio Lamborghini, der Gründer des ikonischen Luxus-Sportwagenunternehmens Lamborghini, wurde geboren.",
             "eventDescriptionIt": "Ferruccio Lamborghini, il fondatore della iconica azienda di auto sportive di lusso Lamborghini, è nato."
+        },
+        {
+            "eventId": "65",
+            "eventCategory": "TECH",
+            "eventDate": "1953/04/29",
+            "eventImg": null,
+            "eventDescriptionEn": "The first U.S. experimental 3D television broadcast showed an episode of Space Patrol on Los Angeles ABC affiliate KECA-TV.",
+            "eventDescriptionTr": "İlk ABD deneme 3D televizyon yayını, Los Angeles'taki ABC iştiraki KECA-TV'de Space Patrol'un bir bölümünü gösterdi.",
+            "eventDescriptionEs": "La primera transmisión experimental de televisión 3D en los Estados Unidos mostró un episodio de Space Patrol en la filial de ABC en Los Ángeles, KECA-TV.",
+            "eventDescriptionDe": "Die erste US-experimentelle 3D-Fernsehsendung zeigte eine Folge von Space Patrol beim Los Angeles ABC-Sender KECA-TV.",
+            "eventDescriptionIt": "La prima trasmissione televisiva sperimentale 3D degli Stati Uniti mostrò un episodio di Space Patrol sull'affiliato ABC di Los Angeles, KECA-TV."
         }
     ]
 }
