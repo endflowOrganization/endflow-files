@@ -6991,6 +6991,17 @@
             "eventDescriptionEs": "Isabel II del Reino Unido y el presidente francés François Mitterrand oficiaron en la inauguración del Túnel del Canal de la Mancha.",
             "eventDescriptionDe": "Elisabeth II. von Großbritannien und der französische Präsident François Mitterrand leiteten die Eröffnung des Kanaltunnels.",
             "eventDescriptionIt": "Elisabetta II del Regno Unito e il presidente francese François Mitterrand hanno presieduto l'apertura del Tunnel della Manica."
+        },
+        {
+            "eventId": "652",
+            "eventCategory": "HISTORY",
+            "eventDate": "2023/05/06",
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/may%2Fcharles-and-camilla-coronation.jpeg?alt=media&token=357df203-0aa0-45a7-93ea-779861c36b58",
+            "eventDescriptionEn": "The coronation of Charles III and Camilla as King and Queen of the United Kingdom and the other Commonwealth realms was held in Westminster Abbey, London.",
+            "eventDescriptionTr": "Birleşik Krallık ve diğer Milletler Topluluğu krallıkları Kralı ve Kraliçesi olarak III. Charles ve Camilla'nın taç giyme töreni, Londra'daki Westminster Abbey'de gerçekleştirildi.",
+            "eventDescriptionEs": "La coronación de Carlos III y Camilla como Rey y Reina del Reino Unido y los demás reinos de la Commonwealth se llevó a cabo en la Abadía de Westminster, Londres.",
+            "eventDescriptionDe": "Die Krönung von Charles III. und Camilla als König und Königin des Vereinigten Königreichs und der anderen Commonwealth-Reiche fand in der Westminster Abbey in London statt.",
+            "eventDescriptionIt": "L'incoronazione di Carlo III e Camilla come Re e Regina del Regno Unito e degli altri regni del Commonwealth si è svolta nell'Abbazia di Westminster, Londra."
         }
     ]
 }
