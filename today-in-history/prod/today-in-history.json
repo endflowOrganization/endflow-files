@@ -6914,6 +6914,28 @@
             "eventDescriptionEs": "Chrysler se declaró en quiebra bajo el Capítulo 11.",
             "eventDescriptionDe": "Chrysler stellte einen Antrag auf Insolvenz nach Kapitel 11.",
             "eventDescriptionIt": "Chrysler presentò istanza di fallimento secondo il Capitolo 11."
+        },
+        {
+            "eventId": "645",
+            "eventCategory": "POLITICS",
+            "eventDate": "1789/04/30",
+            "eventImg": null,
+            "eventDescriptionEn": "George Washington became the first President of the United States.",
+            "eventDescriptionTr": "George Washington, Amerika Birleşik Devletleri'nin ilk Başkanı oldu.",
+            "eventDescriptionEs": "George Washington se convirtió en el primer presidente de los Estados Unidos.",
+            "eventDescriptionDe": "George Washington wurde der erste Präsident der Vereinigten Staaten.",
+            "eventDescriptionIt": "George Washington divenne il primo Presidente degli Stati Uniti."
+        },
+        {
+            "eventId": "646",
+            "eventCategory": "POLITICS",
+            "eventDate": "1707/05/01",
+            "eventImg": null,
+            "eventDescriptionEn": "The Act of Union joining England and Scotland to form the Kingdom of Great Britain took effect.",
+            "eventDescriptionTr": "İngiltere ve İskoçya'nın Büyük Britanya Krallığı'nı oluşturmak için birleştirildiği Birlik Yasası yürürlüğe girdi.",
+            "eventDescriptionEs": "La Ley de Unión que unió a Inglaterra y Escocia para formar el Reino de Gran Bretaña entró en vigor.",
+            "eventDescriptionDe": "Das Vereinigungs-Gesetz, das England und Schottland zur Bildung des Königreichs Großbritannien zusammenführt, trat in Kraft.",
+            "eventDescriptionIt": "L'Atto di Unione che unì l'Inghilterra e la Scozia per formare il Regno di Gran Bretagna entrò in vigore."
         }
     ]
 }
