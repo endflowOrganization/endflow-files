@@ -6969,6 +6969,17 @@
             "eventDescriptionEs": "La inauguración oficial de la Torre Eiffel fue el 15 de mayo de 1889, el día de apertura de la Exposición Universal.",
             "eventDescriptionDe": "Die offizielle Einweihung des Eiffelturms war am 15. Mai 1889, dem Eröffnungstag der Weltausstellung (Exposition Universelle).",
             "eventDescriptionIt": "L'inaugurazione ufficiale della Torre Eiffel ebbe luogo il 15 maggio 1889, giorno di apertura dell'Esposizione Universale."
+        },
+        {
+            "eventId": "650",
+            "eventCategory": "FINANCE",
+            "eventDate": "2010/05/06",
+            "eventImg": null,
+            "eventDescriptionEn": "In just 36 minutes, the Dow-Jones average plunged nearly 1,000 points in what is known as the 2010 Flash Crash.",
+            "eventDescriptionTr": "Sadece 36 dakikada Dow-Jones ortalaması 2010 Flash Crash olarak bilinen olayda neredeyse 1.000 puan düştü.",
+            "eventDescriptionEs": "En solo 36 minutos, el promedio Dow-Jones cayó casi 1.000 puntos en lo que se conoce como el Flash Crash de 2010.",
+            "eventDescriptionDe": "In nur 36 Minuten fiel der Dow-Jones-Index um fast 1.000 Punkte in dem, was als der Flash-Crash von 2010 bekannt ist.",
+            "eventDescriptionIt": "In soli 36 minuti, la media del Dow-Jones è crollata di quasi 1.000 punti in quello che è noto come il Flash Crash del 2010."
         }
     ]
 }
