@@ -6947,6 +6947,17 @@
             "eventDescriptionEs": "Se fundó el club de fútbol alemán FC Schalke 04.",
             "eventDescriptionDe": "Der deutsche Fußballverein FC Schalke 04 wurde gegründet.",
             "eventDescriptionIt": "È stato fondato il club di calcio tedesco FC Schalke 04."
+        },
+        {
+            "eventId": "648",
+            "eventCategory": "HISTORY",
+            "eventDate": "1937/05/06",
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/may%2Fhindenburg-disaster.jpeg?alt=media&token=7c826ae2-d3ec-4e18-9ccd-b7b2256f0345",
+            "eventDescriptionEn": "Hindenburg disaster: The German zeppelin Hindenburg caught fire and was destroyed within a minute while attempting to dock at Lakehurst, New Jersey. Thirty-six people were killed.",
+            "eventDescriptionTr": "Hindenburg felaketi: Alman zeplin Hindenburg, New Jersey, Lakehurst'ta yanaşmaya çalışırken ateş aldı ve bir dakika içinde yok oldu. Otuz altı kişi öldü.",
+            "eventDescriptionEs": "Desastre del Hindenburg: El dirigible alemán Hindenburg se incendió y fue destruido en un minuto mientras intentaba atracar en Lakehurst, Nueva Jersey. Murieron treinta y seis personas.",
+            "eventDescriptionDe": "Hindenburg-Katastrophe: Der deutsche Zeppelin Hindenburg fing Feuer und wurde innerhalb einer Minute zerstört, als er versuchte, in Lakehurst, New Jersey, anzulegen. Sechsunddreißig Menschen wurden getötet.",
+            "eventDescriptionIt": "Disastro dell'Hindenburg: Il dirigibile tedesco Hindenburg ha preso fuoco ed è stato distrutto in un minuto mentre tentava di attraccare a Lakehurst, nel New Jersey. Trentasei persone sono state uccise."
         }
     ]
 }
