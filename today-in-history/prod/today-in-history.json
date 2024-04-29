@@ -6903,6 +6903,17 @@
             "eventDescriptionEs": "Se inauguró la Exposición Universal de Nueva York de 1939–40.",
             "eventDescriptionDe": "Die Weltausstellung 1939–40 in New York wurde eröffnet.",
             "eventDescriptionIt": "Si aprì la Fiera Mondiale di New York 1939-40."
+        },
+        {
+            "eventId": "644",
+            "eventCategory": "FINANCE",
+            "eventDate": "2009/04/30",
+            "eventImg": null,
+            "eventDescriptionEn": "Chrysler filed for Chapter 11 bankruptcy.",
+            "eventDescriptionTr": "Chrysler, Chapter 11 iflas koruması için başvurdu.",
+            "eventDescriptionEs": "Chrysler se declaró en quiebra bajo el Capítulo 11.",
+            "eventDescriptionDe": "Chrysler stellte einen Antrag auf Insolvenz nach Kapitel 11.",
+            "eventDescriptionIt": "Chrysler presentò istanza di fallimento secondo il Capitolo 11."
         }
     ]
 }
