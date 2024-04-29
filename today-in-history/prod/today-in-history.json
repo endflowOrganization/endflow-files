@@ -7013,6 +7013,28 @@
             "eventDescriptionEs": "Jorge V se convirtió en Rey de Gran Bretaña, Irlanda y muchos territorios de ultramar tras la muerte de su padre, Eduardo VII.",
             "eventDescriptionDe": "Georg V. wurde nach dem Tod seines Vaters, Edward VII., König von Großbritannien, Irland und vielen Überseegebieten.",
             "eventDescriptionIt": "Giorgio V è diventato re di Gran Bretagna, Irlanda e molti territori d'oltremare alla morte di suo padre, Edoardo VII."
+        },
+        {
+            "eventId": "654",
+            "eventCategory": "TECH",
+            "eventDate": "1949/05/06",
+            "eventImg": null,
+            "eventDescriptionEn": "EDSAC, the first practical electronic digital stored-program computer, ran its first operation.",
+            "eventDescriptionTr": "İlk pratik elektronik dijital saklı program bilgisayarı olan EDSAC, ilk çalışmasını gerçekleştirdi.",
+            "eventDescriptionEs": "EDSAC, la primera computadora electrónica digital con almacenamiento de programas prácticos, ejecutó su primera operación.",
+            "eventDescriptionDe": "EDSAC, der erste praktische elektronische digitale Computer mit gespeicherten Programmen, führte seine erste Operation aus.",
+            "eventDescriptionIt": "EDSAC, il primo computer elettronico digitale a programma memorizzato pratico, eseguì la sua prima operazione."
+        },
+        {
+            "eventId": "655",
+            "eventCategory": "SPORT",
+            "eventDate": "1954/05/06",
+            "eventImg": null,
+            "eventDescriptionEn": "Roger Bannister became the first person to run the mile in under four minutes.",
+            "eventDescriptionTr": "Roger Bannister, bir mili dört dakikanın altında koşan ilk kişi oldu.",
+            "eventDescriptionEs": "Roger Bannister se convirtió en la primera persona en correr la milla en menos de cuatro minutos.",
+            "eventDescriptionDe": "Roger Bannister wurde der erste Mensch, der die Meile in unter vier Minuten lief.",
+            "eventDescriptionIt": "Roger Bannister è diventato la prima persona a correre il miglio in meno di quattro minuti."
         }
     ]
 }
