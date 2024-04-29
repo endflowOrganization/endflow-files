@@ -6980,6 +6980,17 @@
             "eventDescriptionEs": "En solo 36 minutos, el promedio Dow-Jones cayó casi 1.000 puntos en lo que se conoce como el Flash Crash de 2010.",
             "eventDescriptionDe": "In nur 36 Minuten fiel der Dow-Jones-Index um fast 1.000 Punkte in dem, was als der Flash-Crash von 2010 bekannt ist.",
             "eventDescriptionIt": "In soli 36 minuti, la media del Dow-Jones è crollata di quasi 1.000 punti in quello che è noto come il Flash Crash del 2010."
+        },
+        {
+            "eventId": "651",
+            "eventCategory": "HISTORY",
+            "eventDate": "1994/05/06",
+            "eventImg": null,
+            "eventDescriptionEn": "Elizabeth II of the United Kingdom and French President François Mitterrand officiated at the opening of the Channel Tunnel.",
+            "eventDescriptionTr": "Birleşik Krallık'tan Elizabeth II ve Fransa Cumhurbaşkanı François Mitterrand, Manş Tüneli'nin açılışını gerçekleştirdiler.",
+            "eventDescriptionEs": "Isabel II del Reino Unido y el presidente francés François Mitterrand oficiaron en la inauguración del Túnel del Canal de la Mancha.",
+            "eventDescriptionDe": "Elisabeth II. von Großbritannien und der französische Präsident François Mitterrand leiteten die Eröffnung des Kanaltunnels.",
+            "eventDescriptionIt": "Elisabetta II del Regno Unito e il presidente francese François Mitterrand hanno presieduto l'apertura del Tunnel della Manica."
         }
     ]
 }
