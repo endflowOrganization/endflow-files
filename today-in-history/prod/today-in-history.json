@@ -18,7 +18,10 @@
             "eventDate": "1967/06/12",
             "eventImg": null,
             "eventDescriptionEn": "The Soviet Union sent the spacecraft Venera 4 to the planet Venus.",
-            "eventDescriptionTr": "Sovyetler Birliği, uzay aracı Venera 4'ü Venüs gezegenine yolladı."
+            "eventDescriptionTr": "Sovyetler Birliği, uzay aracı Venera 4'ü Venüs gezegenine yolladı.",
+            "eventDescriptionEs": "La Unión Soviética envió la nave espacial Venera 4 al planeta Venus.",
+            "eventDescriptionDe": "Die Sowjetunion schickte das Raumschiff Venera 4 zum Planeten Venus.",
+            "eventDescriptionIt": "L'Unione Sovietica inviò l'astronave Venera 4 sul pianeta Venere."
         },
         {
             "eventId": "2",
@@ -6867,6 +6870,17 @@
             "eventDescriptionEs": "Baba Vanga, la famosa mística y clarividente búlgara, murió.",
             "eventDescriptionDe": "Baba Vanga, die berühmte bulgarische Mystikerin und Hellseherin, verstarb.",
             "eventDescriptionIt": "Baba Vanga, la famosa mistica e chiaroveggente bulgara, è morta."
+        },
+        {
+            "eventId": "641",
+            "eventCategory": "POLITICS",
+            "eventDate": "1992/05/22",
+            "eventImg": null,
+            "eventDescriptionEn": "Bosnia and Herzegovina, Croatia, and Slovenia joined the United Nations.",
+            "eventDescriptionTr": "Bosna-Hersek, Hırvatistan ve Slovenya, Birleşmiş Milletlere katıldı.",
+            "eventDescriptionEs": "Bosnia y Herzegovina, Croacia y Eslovenia se unieron a las Naciones Unidas.",
+            "eventDescriptionDe": "Bosnien und Herzegowina, Kroatien und Slowenien traten den Vereinten Nationen bei.",
+            "eventDescriptionIt": "Bosnia ed Erzegovina, Croazia e Slovenia si unirono alle Nazioni Unite."
         }
     ]
 }
