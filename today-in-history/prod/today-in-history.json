@@ -6958,6 +6958,17 @@
             "eventDescriptionEs": "Desastre del Hindenburg: El dirigible alemán Hindenburg se incendió y fue destruido en un minuto mientras intentaba atracar en Lakehurst, Nueva Jersey. Murieron treinta y seis personas.",
             "eventDescriptionDe": "Hindenburg-Katastrophe: Der deutsche Zeppelin Hindenburg fing Feuer und wurde innerhalb einer Minute zerstört, als er versuchte, in Lakehurst, New Jersey, anzulegen. Sechsunddreißig Menschen wurden getötet.",
             "eventDescriptionIt": "Disastro dell'Hindenburg: Il dirigibile tedesco Hindenburg ha preso fuoco ed è stato distrutto in un minuto mentre tentava di attraccare a Lakehurst, nel New Jersey. Trentasei persone sono state uccise."
+        },
+        {
+            "eventId": "649",
+            "eventCategory": "HISTORY",
+            "eventDate": "1889/05/15",
+            "eventImg": null,
+            "eventDescriptionEn": "The official inauguration of the Eiffel Tower was on May 15th, 1889, the opening day of the Exposition Universelle.",
+            "eventDescriptionTr": "Eiffel Kulesi'nin resmi açılışı, Exposition Universelle'nin açılış günü olan 15 Mayıs 1889'da gerçekleşti.",
+            "eventDescriptionEs": "La inauguración oficial de la Torre Eiffel fue el 15 de mayo de 1889, el día de apertura de la Exposición Universal.",
+            "eventDescriptionDe": "Die offizielle Einweihung des Eiffelturms war am 15. Mai 1889, dem Eröffnungstag der Weltausstellung (Exposition Universelle).",
+            "eventDescriptionIt": "L'inaugurazione ufficiale della Torre Eiffel ebbe luogo il 15 maggio 1889, giorno di apertura dell'Esposizione Universale."
         }
     ]
 }
