@@ -6881,6 +6881,17 @@
             "eventDescriptionEs": "Bosnia y Herzegovina, Croacia y Eslovenia se unieron a las Naciones Unidas.",
             "eventDescriptionDe": "Bosnien und Herzegowina, Kroatien und Slowenien traten den Vereinten Nationen bei.",
             "eventDescriptionIt": "Bosnia ed Erzegovina, Croazia e Slovenia si unirono alle Nazioni Unite."
+        },
+        {
+            "eventId": "642",
+            "eventCategory": "EDUCATION",
+            "eventDate": "1905/04/30",
+            "eventImg": null,
+            "eventDescriptionEn": "Albert Einstein completed his doctoral thesis at the University of Zurich.",
+            "eventDescriptionTr": "Albert Einstein, Zürih Üniversitesi'nde doktora tezini tamamladı.",
+            "eventDescriptionEs": "Albert Einstein completó su tesis doctoral en la Universidad de Zúrich.",
+            "eventDescriptionDe": "Albert Einstein schloss seine Doktorarbeit an der Universität Zürich ab.",
+            "eventDescriptionIt": "Albert Einstein completò la sua tesi di dottorato all'Università di Zurigo."
         }
     ]
 }
