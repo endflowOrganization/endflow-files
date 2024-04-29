@@ -6856,6 +6856,17 @@
             "eventDescriptionEs": "La primera transmisión experimental de televisión 3D en los Estados Unidos mostró un episodio de Space Patrol en la filial de ABC en Los Ángeles, KECA-TV.",
             "eventDescriptionDe": "Die erste US-experimentelle 3D-Fernsehsendung zeigte eine Folge von Space Patrol beim Los Angeles ABC-Sender KECA-TV.",
             "eventDescriptionIt": "La prima trasmissione televisiva sperimentale 3D degli Stati Uniti mostrò un episodio di Space Patrol sull'affiliato ABC di Los Angeles, KECA-TV."
+        },
+        {
+            "eventId": "640",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1996/08/11",
+            "eventImg": null,
+            "eventDescriptionEn": "Baba Vanga, the famous Bulgarian mystic and clairvoyant, died.",
+            "eventDescriptionTr": "Ünlü Bulgar mistik ve kahin Baba Vanga hayatını kaybetti.",
+            "eventDescriptionEs": "Baba Vanga, la famosa mística y clarividente búlgara, murió.",
+            "eventDescriptionDe": "Baba Vanga, die berühmte bulgarische Mystikerin und Hellseherin, verstarb.",
+            "eventDescriptionIt": "Baba Vanga, la famosa mistica e chiaroveggente bulgara, è morta."
         }
     ]
 }
