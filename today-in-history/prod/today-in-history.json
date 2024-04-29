@@ -6936,6 +6936,17 @@
             "eventDescriptionEs": "La Ley de Unión que unió a Inglaterra y Escocia para formar el Reino de Gran Bretaña entró en vigor.",
             "eventDescriptionDe": "Das Vereinigungs-Gesetz, das England und Schottland zur Bildung des Königreichs Großbritannien zusammenführt, trat in Kraft.",
             "eventDescriptionIt": "L'Atto di Unione che unì l'Inghilterra e la Scozia per formare il Regno di Gran Bretagna entrò in vigore."
+        },
+        {
+            "eventId": "647",
+            "eventCategory": "SPORT",
+            "eventDate": "1904/05/04",
+            "eventImg": null,
+            "eventDescriptionEn": "FC Schalke 04, Germany's football club, was founded.",
+            "eventDescriptionTr": "Almanya'nın futbol kulübü FC Schalke 04 kuruldu.",
+            "eventDescriptionEs": "Se fundó el club de fútbol alemán FC Schalke 04.",
+            "eventDescriptionDe": "Der deutsche Fußballverein FC Schalke 04 wurde gegründet.",
+            "eventDescriptionIt": "È stato fondato il club di calcio tedesco FC Schalke 04."
         }
     ]
 }
