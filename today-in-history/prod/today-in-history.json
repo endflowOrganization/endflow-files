@@ -7002,6 +7002,17 @@
             "eventDescriptionEs": "La coronación de Carlos III y Camilla como Rey y Reina del Reino Unido y los demás reinos de la Commonwealth se llevó a cabo en la Abadía de Westminster, Londres.",
             "eventDescriptionDe": "Die Krönung von Charles III. und Camilla als König und Königin des Vereinigten Königreichs und der anderen Commonwealth-Reiche fand in der Westminster Abbey in London statt.",
             "eventDescriptionIt": "L'incoronazione di Carlo III e Camilla come Re e Regina del Regno Unito e degli altri regni del Commonwealth si è svolta nell'Abbazia di Westminster, Londra."
+        },
+        {
+            "eventId": "653",
+            "eventCategory": "HISTORY",
+            "eventDate": "1910/05/06",
+            "eventImg": null,
+            "eventDescriptionEn": "George V became King of Great Britain, Ireland, and many overseas territories, on the death of his father, Edward VII.",
+            "eventDescriptionTr": "George V, babası VII. Edward'ın ölümü üzerine, Büyük Britanya, İrlanda ve birçok denizaşırı toprakların Kralı oldu.",
+            "eventDescriptionEs": "Jorge V se convirtió en Rey de Gran Bretaña, Irlanda y muchos territorios de ultramar tras la muerte de su padre, Eduardo VII.",
+            "eventDescriptionDe": "Georg V. wurde nach dem Tod seines Vaters, Edward VII., König von Großbritannien, Irland und vielen Überseegebieten.",
+            "eventDescriptionIt": "Giorgio V è diventato re di Gran Bretagna, Irlanda e molti territori d'oltremare alla morte di suo padre, Edoardo VII."
         }
     ]
 }
