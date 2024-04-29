@@ -6892,6 +6892,17 @@
             "eventDescriptionEs": "Albert Einstein completó su tesis doctoral en la Universidad de Zúrich.",
             "eventDescriptionDe": "Albert Einstein schloss seine Doktorarbeit an der Universität Zürich ab.",
             "eventDescriptionIt": "Albert Einstein completò la sua tesi di dottorato all'Università di Zurigo."
+        },
+        {
+            "eventId": "643",
+            "eventCategory": "HISTORY",
+            "eventDate": "1939/04/30",
+            "eventImg": null,
+            "eventDescriptionEn": "The 1939–40 New York World's Fair opened.",
+            "eventDescriptionTr": "1939-40 New York Dünya Fuarı açıldı.",
+            "eventDescriptionEs": "Se inauguró la Exposición Universal de Nueva York de 1939–40.",
+            "eventDescriptionDe": "Die Weltausstellung 1939–40 in New York wurde eröffnet.",
+            "eventDescriptionIt": "Si aprì la Fiera Mondiale di New York 1939-40."
         }
     ]
 }
