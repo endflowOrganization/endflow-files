@@ -7035,6 +7035,17 @@
             "eventDescriptionEs": "Roger Bannister se convirtió en la primera persona en correr la milla en menos de cuatro minutos.",
             "eventDescriptionDe": "Roger Bannister wurde der erste Mensch, der die Meile in unter vier Minuten lief.",
             "eventDescriptionIt": "Roger Bannister è diventato la prima persona a correre il miglio in meno di quattro minuti."
+        },
+        {
+            "eventId": "656",
+            "eventCategory": "HISTORY",
+            "eventDate": "2008/05/02",
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/may%2Fcyclone-nargis-2008.jpeg?alt=media&token=5e0277b1-f50a-426b-941e-820f99137c80",
+            "eventDescriptionEn": "Cyclone Nargis made landfall in Burma (Myanmar), killing over 138,000 people and leaving millions of people homeless.",
+            "eventDescriptionTr": "Nargis Kasırgası, Burma'da (Myanmar) karaya çıkarak 138.000'den fazla insanı öldürdü ve milyonlarca insanı evsiz bıraktı.",
+            "eventDescriptionEs": "El ciclón Nargis tocó tierra en Birmania (Myanmar), matando a más de 138,000 personas y dejando a millones de personas sin hogar.",
+            "eventDescriptionDe": "Der Zyklon Nargis erreichte Burma (Myanmar), tötete über 138.000 Menschen und machte Millionen obdachlos.",
+            "eventDescriptionIt": "Il ciclone Nargis è approdato in Birmania (Myanmar), uccidendo oltre 138.000 persone e lasciando milioni di persone senza casa."
         }
     ]
 }
