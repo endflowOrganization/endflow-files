@@ -7046,6 +7046,17 @@
             "eventDescriptionEs": "El ciclón Nargis tocó tierra en Birmania (Myanmar), matando a más de 138,000 personas y dejando a millones de personas sin hogar.",
             "eventDescriptionDe": "Der Zyklon Nargis erreichte Burma (Myanmar), tötete über 138.000 Menschen und machte Millionen obdachlos.",
             "eventDescriptionIt": "Il ciclone Nargis è approdato in Birmania (Myanmar), uccidendo oltre 138.000 persone e lasciando milioni di persone senza casa."
+        },
+        {
+            "eventId": "657",
+            "eventCategory": "HISTORY",
+            "eventDate": "2014/05/02",
+            "eventImg": null,
+            "eventDescriptionEn": "Two mudslides in Badakhshan, Afghanistan, left up to 2,500 people missing.",
+            "eventDescriptionTr": "Afganistan'ın Badakhshan bölgesinde meydana gelen iki toprak kayması, 2.500 kadar insanın kaybolmasına neden oldu.",
+            "eventDescriptionEs": "Dos deslizamientos de tierra en Badakhshan, Afganistán, dejaron hasta 2,500 personas desaparecidas.",
+            "eventDescriptionDe": "Zwei Erdrutsche in Badakhshan, Afghanistan, ließen bis zu 2.500 Menschen verschwinden.",
+            "eventDescriptionIt": "Due frane a Badakhshan, in Afghanistan, hanno lasciato fino a 2.500 persone scomparse."
         }
     ]
 }
