@@ -7090,6 +7090,17 @@
             "eventDescriptionEs": "La niña británica de tres años, Madeleine McCann, desapareció en Praia da Luz, Portugal, dando inicio al 'caso de persona desaparecida más publicitado de la historia moderna'.",
             "eventDescriptionDe": "Die dreijährige britische Madeleine McCann verschwand in Praia da Luz, Portugal, und löste damit 'den am meisten berichteten Vermisstenfall der modernen Geschichte' aus.",
             "eventDescriptionIt": "La bambina britannica di tre anni Madeleine McCann è scomparsa a Praia da Luz, in Portogallo, avviando 'il caso di persona scomparsa più riportato della storia moderna'."
+        },
+        {
+            "eventId": "681",
+            "eventCategory": "HISTORY",
+            "eventDate": "1945/05/03",
+            "eventImg": null,
+            "eventDescriptionEn": "World War II: The prison ships Cap Arcona, Thielbek, and Deutschland were sunk by the Royal Air Force in Lübeck Bay.",
+            "eventDescriptionTr": "II. Dünya Savaşı: Cap Arcona, Thielbek ve Deutschland mahkûm gemileri, Lübeck Körfezi'nde Kraliyet Hava Kuvvetleri tarafından batırıldı.",
+            "eventDescriptionEs": "Segunda Guerra Mundial: Los barcos prisión Cap Arcona, Thielbek y Deutschland fueron hundidos por la Royal Air Force en la Bahía de Lübeck.",
+            "eventDescriptionDe": "Zweiter Weltkrieg: Die Gefängnisschiffe Cap Arcona, Thielbek und Deutschland wurden von der Royal Air Force in der Lübecker Bucht versenkt.",
+            "eventDescriptionIt": "Seconda Guerra Mondiale: Le navi-prigione Cap Arcona, Thielbek e Deutschland furono affondate dalla Royal Air Force nella Baia di Lubecca."
         }
     ]
 }
