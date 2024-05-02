@@ -7101,6 +7101,28 @@
             "eventDescriptionEs": "Segunda Guerra Mundial: Los barcos prisión Cap Arcona, Thielbek y Deutschland fueron hundidos por la Royal Air Force en la Bahía de Lübeck.",
             "eventDescriptionDe": "Zweiter Weltkrieg: Die Gefängnisschiffe Cap Arcona, Thielbek und Deutschland wurden von der Royal Air Force in der Lübecker Bucht versenkt.",
             "eventDescriptionIt": "Seconda Guerra Mondiale: Le navi-prigione Cap Arcona, Thielbek e Deutschland furono affondate dalla Royal Air Force nella Baia di Lubecca."
+        },
+        {
+            "eventId": "682",
+            "eventCategory": "FINANCE",
+            "eventDate": "1998/05/07",
+            "eventImg": null,
+            "eventDescriptionEn": "Mercedes-Benz bought Chrysler for US$40 billion and formed DaimlerChrysler in the largest industrial merger in history.",
+            "eventDescriptionTr": "Mercedes-Benz, Chrysler'ı 40 milyar Amerikan Doları karşılığında satın alarak tarihindeki en büyük endüstriyel birleşme olan DaimlerChrysler'ı oluşturdu.",
+            "eventDescriptionEs": "Mercedes-Benz compró Chrysler por US$40 mil millones y formó DaimlerChrysler en la mayor fusión industrial de la historia.",
+            "eventDescriptionDe": "Mercedes-Benz kaufte Chrysler für 40 Milliarden US-Dollar und gründete DaimlerChrysler in der größten industriellen Fusion der Geschichte.",
+            "eventDescriptionIt": "Mercedes-Benz acquistò Chrysler per 40 miliardi di dollari e formò DaimlerChrysler nella più grande fusione industriale della storia."
+        },
+        {
+            "eventId": "683",
+            "eventCategory": "POLITICS",
+            "eventDate": "2000/05/07",
+            "eventImg": null,
+            "eventDescriptionEn": "Vladimir Putin is inaugurated as president of Russia.",
+            "eventDescriptionTr": "Vladimir Putin, Rusya'nın başkanı olarak göreve başladı.",
+            "eventDescriptionEs": "Vladimir Putin es inaugurado como presidente de Rusia.",
+            "eventDescriptionDe": "Wladimir Putin wird als Präsident Russlands vereidigt.",
+            "eventDescriptionIt": "Vladimir Putin è stato inaugurato come presidente della Russia."
         }
     ]
 }
