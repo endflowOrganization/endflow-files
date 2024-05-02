@@ -7068,6 +7068,17 @@
             "eventDescriptionEs": "El deporte del geocaching comenzó con la colocación del primer caché y las coordenadas de un GPS publicadas en Usenet.",
             "eventDescriptionDe": "Die Sportart Geocaching begann, als der erste Cache platziert und die Koordinaten eines GPS auf Usenet gepostet wurden.",
             "eventDescriptionIt": "Lo sport del geocaching iniziò con il primo cache posizionato e le coordinate da un GPS pubblicate su Usenet."
+        },
+        {
+            "eventId": "679",
+            "eventCategory": "TECH",
+            "eventDate": "1978/05/03",
+            "eventImg": null,
+            "eventDescriptionEn": "The first unsolicited bulk commercial email (which would later become known as 'spam') was sent by a Digital Equipment Corporation marketing representative to every ARPANET address on the west coast of the United States.",
+            "eventDescriptionTr": "İlk istenmeyen toplu ticari e-posta (daha sonra 'spam' olarak bilinecek) bir Digital Equipment Corporation pazarlama temsilcisi tarafından Amerika Birleşik Devletleri'nin batı kıyısındaki her ARPANET adresine gönderildi.",
+            "eventDescriptionEs": "El primer correo electrónico comercial no solicitado (que más tarde sería conocido como 'spam') fue enviado por un representante de marketing de Digital Equipment Corporation a todas las direcciones de ARPANET en la costa oeste de Estados Unidos.",
+            "eventDescriptionDe": "Die erste unerwünschte kommerzielle Massen-E-Mail (die später als 'Spam' bekannt werden sollte) wurde von einem Marketingvertreter der Digital Equipment Corporation an jede ARPANET-Adresse an der Westküste der Vereinigten Staaten gesendet.",
+            "eventDescriptionIt": "La prima email commerciale non richiesta (che in seguito sarebbe stata conosciuta come 'spam') fu inviata da un rappresentante del marketing della Digital Equipment Corporation a ogni indirizzo ARPANET sulla costa occidentale degli Stati Uniti."
         }
     ]
 }
