@@ -7079,6 +7079,17 @@
             "eventDescriptionEs": "El primer correo electrónico comercial no solicitado (que más tarde sería conocido como 'spam') fue enviado por un representante de marketing de Digital Equipment Corporation a todas las direcciones de ARPANET en la costa oeste de Estados Unidos.",
             "eventDescriptionDe": "Die erste unerwünschte kommerzielle Massen-E-Mail (die später als 'Spam' bekannt werden sollte) wurde von einem Marketingvertreter der Digital Equipment Corporation an jede ARPANET-Adresse an der Westküste der Vereinigten Staaten gesendet.",
             "eventDescriptionIt": "La prima email commerciale non richiesta (che in seguito sarebbe stata conosciuta come 'spam') fu inviata da un rappresentante del marketing della Digital Equipment Corporation a ogni indirizzo ARPANET sulla costa occidentale degli Stati Uniti."
+        },
+        {
+            "eventId": "680",
+            "eventCategory": "HISTORY",
+            "eventDate": "2007/05/03",
+            "eventImg": null,
+            "eventDescriptionEn": "The three-year-old British girl Madeleine McCann disappeared in Praia da Luz, Portugal, starting 'the most heavily reported missing-person case in modern history'.",
+            "eventDescriptionTr": "Üç yaşındaki İngiliz kız çocuğu Madeleine McCann, Portekiz'deki Praia da Luz'da ortadan kayboldu ve 'modern tarihte en fazla rapor edilen kayıp kişi vakasını' başlattı.",
+            "eventDescriptionEs": "La niña británica de tres años, Madeleine McCann, desapareció en Praia da Luz, Portugal, dando inicio al 'caso de persona desaparecida más publicitado de la historia moderna'.",
+            "eventDescriptionDe": "Die dreijährige britische Madeleine McCann verschwand in Praia da Luz, Portugal, und löste damit 'den am meisten berichteten Vermisstenfall der modernen Geschichte' aus.",
+            "eventDescriptionIt": "La bambina britannica di tre anni Madeleine McCann è scomparsa a Praia da Luz, in Portogallo, avviando 'il caso di persona scomparsa più riportato della storia moderna'."
         }
     ]
 }
