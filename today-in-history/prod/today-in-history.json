@@ -7057,6 +7057,17 @@
             "eventDescriptionEs": "Dos deslizamientos de tierra en Badakhshan, Afganistán, dejaron hasta 2,500 personas desaparecidas.",
             "eventDescriptionDe": "Zwei Erdrutsche in Badakhshan, Afghanistan, ließen bis zu 2.500 Menschen verschwinden.",
             "eventDescriptionIt": "Due frane a Badakhshan, in Afghanistan, hanno lasciato fino a 2.500 persone scomparse."
+        },
+        {
+            "eventId": "678",
+            "eventCategory": "SPORT",
+            "eventDate": "2000/05/03",
+            "eventImg": null,
+            "eventDescriptionEn": "The sport of geocaching began, with the first cache placed and the coordinates from a GPS posted on Usenet.",
+            "eventDescriptionTr": "Geocaching sporu, ilk önbelleğin yerleştirilmesi ve bir GPS'ten koordinatların Usenet'te yayınlanmasıyla başladı.",
+            "eventDescriptionEs": "El deporte del geocaching comenzó con la colocación del primer caché y las coordenadas de un GPS publicadas en Usenet.",
+            "eventDescriptionDe": "Die Sportart Geocaching begann, als der erste Cache platziert und die Koordinaten eines GPS auf Usenet gepostet wurden.",
+            "eventDescriptionIt": "Lo sport del geocaching iniziò con il primo cache posizionato e le coordinate da un GPS pubblicate su Usenet."
         }
     ]
 }
