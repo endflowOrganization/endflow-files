@@ -7255,6 +7255,17 @@
             "eventDescriptionEs": "La Corte Suprema de los Estados Unidos dictó una decisión unánime en Brown v. Board of Education de Topeka, Kansas, prohibiendo la segregación racial en las escuelas públicas.",
             "eventDescriptionDe": "Der Oberste Gerichtshof der Vereinigten Staaten fällte ein einstimmiges Urteil in der Rechtssache Brown gegen Board of Education of Topeka, Kansas, und verbot die Rassentrennung in öffentlichen Schulen.",
             "eventDescriptionIt": "La Corte Suprema degli Stati Uniti ha emesso una decisione unanime nel caso Brown v. Board of Education di Topeka, Kansas, vietando la segregazione razziale nelle scuole pubbliche."
+        },
+        {
+            "eventId": "696",
+            "eventCategory": "HISTORY",
+            "eventDate": "1980/06/01",
+            "eventImg": null,
+            "eventDescriptionEn": "Cable News Network (CNN) began broadcasting.",
+            "eventDescriptionTr": "Cable News Network (CNN) yayına başladı.",
+            "eventDescriptionEs": "Cable News Network (CNN) comenzó a emitir.",
+            "eventDescriptionDe": "Cable News Network (CNN) begann zu senden.",
+            "eventDescriptionIt": "Cable News Network (CNN) ha iniziato a trasmettere."
         }
     ]
 }
