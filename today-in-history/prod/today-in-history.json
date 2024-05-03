@@ -7244,6 +7244,17 @@
             "eventDescriptionEs": "General Motors se declaró en quiebra bajo el Capítulo 11. Es la cuarta mayor quiebra de Estados Unidos en la historia.",
             "eventDescriptionDe": "General Motors meldete Insolvenz nach Kapitel 11 an. Es ist die viertgrößte Insolvenz in der Geschichte der Vereinigten Staaten.",
             "eventDescriptionIt": "General Motors ha presentato istanza di fallimento ai sensi del Capitolo 11. È il quarto più grande fallimento nella storia degli Stati Uniti."
+        },
+        {
+            "eventId": "695",
+            "eventCategory": "HISTORY",
+            "eventDate": "1954/05/17",
+            "eventImg": null,
+            "eventDescriptionEn": "The United States Supreme Court handed down a unanimous decision in Brown v. Board of Education of Topeka, Kansas, outlawing racial segregation in public schools.",
+            "eventDescriptionTr": "Amerika Birleşik Devletleri Yüksek Mahkemesi, Brown v. Board of Education of Topeka, Kansas davasında oybirliğiyle bir karar vererek devlet okullarında ırksal ayrımcılığı yasakladı.",
+            "eventDescriptionEs": "La Corte Suprema de los Estados Unidos dictó una decisión unánime en Brown v. Board of Education de Topeka, Kansas, prohibiendo la segregación racial en las escuelas públicas.",
+            "eventDescriptionDe": "Der Oberste Gerichtshof der Vereinigten Staaten fällte ein einstimmiges Urteil in der Rechtssache Brown gegen Board of Education of Topeka, Kansas, und verbot die Rassentrennung in öffentlichen Schulen.",
+            "eventDescriptionIt": "La Corte Suprema degli Stati Uniti ha emesso una decisione unanime nel caso Brown v. Board of Education di Topeka, Kansas, vietando la segregazione razziale nelle scuole pubbliche."
         }
     ]
 }
