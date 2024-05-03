@@ -7277,6 +7277,17 @@
             "eventDescriptionEs": "Uzbekistán declaró su independencia de la Unión Soviética.",
             "eventDescriptionDe": "Usbekistan erklärte seine Unabhängigkeit von der Sowjetunion.",
             "eventDescriptionIt": "L'Uzbekistan dichiarò la sua indipendenza dall'Unione Sovietica."
+        },
+        {
+            "eventId": "698",
+            "eventCategory": "HISTORY",
+            "eventDate": "1945/05/04",
+            "eventImg": null,
+            "eventDescriptionEn": "World War II: The Neuengamme concentration camp near Hamburg was liberated by the British Army.",
+            "eventDescriptionTr": "II. Dünya Savaşı: Hamburg yakınlarındaki Neuengamme toplama kampı, İngiliz Ordusu tarafından kurtarıldı.",
+            "eventDescriptionEs": "Segunda Guerra Mundial: El campo de concentración de Neuengamme cerca de Hamburgo fue liberado por el Ejército Británico.",
+            "eventDescriptionDe": "Zweiter Weltkrieg: Das Konzentrationslager Neuengamme in der Nähe von Hamburg wurde von der britischen Armee befreit.",
+            "eventDescriptionIt": "Seconda Guerra Mondiale: Il campo di concentramento di Neuengamme vicino ad Amburgo è stato liberato dall'esercito britannico."
         }
     ]
 }
