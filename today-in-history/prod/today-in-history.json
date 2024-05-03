@@ -7200,6 +7200,17 @@
             "eventDescriptionEs": "Como resultado del incendio que estalló en la mina Soma en Turquía, 301 mineros perdieron la vida.",
             "eventDescriptionDe": "Infolge des Feuers, das in der Soma-Mine in der Türkei ausbrach, verloren 301 Bergarbeiter ihr Leben.",
             "eventDescriptionIt": "A seguito dell'incendio scoppiato nella miniera di Soma in Turchia, 301 minatori hanno perso la vita."
+        },
+        {
+            "eventId": "691",
+            "eventCategory": "SCIENCE",
+            "eventDate": "2021/05/15",
+            "eventImg": null,
+            "eventDescriptionEn": "China successfully landed Zhurong, the country's first Mars rover.",
+            "eventDescriptionTr": "Çin, ülkenin ilk Mars gezgini Zhurong'u başarılı bir şekilde indirdi.",
+            "eventDescriptionEs": "China aterrizó con éxito a Zhurong, el primer rover chino en Marte.",
+            "eventDescriptionDe": "China landete erfolgreich Zhurong, den ersten Mars-Rover des Landes.",
+            "eventDescriptionIt": "La Cina ha atterrato con successo Zhurong, il primo rover cinese su Marte."
         }
     ]
 }
