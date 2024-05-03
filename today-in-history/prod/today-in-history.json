@@ -7233,6 +7233,17 @@
             "eventDescriptionEs": "Kuwait permitió el sufragio femenino en una votación de la Asamblea Nacional por 35-23.",
             "eventDescriptionDe": "Kuwait erlaubte das Frauenwahlrecht in einer Abstimmung der Nationalversammlung mit 35–23 Stimmen.",
             "eventDescriptionIt": "Il Kuwait ha permesso il suffragio femminile in una votazione dell'Assemblea Nazionale di 35-23."
+        },
+        {
+            "eventId": "694",
+            "eventCategory": "FINANCE",
+            "eventDate": "2009/06/01",
+            "eventImg": null,
+            "eventDescriptionEn": "General Motors filed for Chapter 11 bankruptcy. It is the fourth largest United States bankruptcy in history.",
+            "eventDescriptionTr": "General Motors, Chapter 11 iflas başvurusunda bulundu. Bu, Amerika Birleşik Devletleri tarihindeki dördüncü en büyük iflas.",
+            "eventDescriptionEs": "General Motors se declaró en quiebra bajo el Capítulo 11. Es la cuarta mayor quiebra de Estados Unidos en la historia.",
+            "eventDescriptionDe": "General Motors meldete Insolvenz nach Kapitel 11 an. Es ist die viertgrößte Insolvenz in der Geschichte der Vereinigten Staaten.",
+            "eventDescriptionIt": "General Motors ha presentato istanza di fallimento ai sensi del Capitolo 11. È il quarto più grande fallimento nella storia degli Stati Uniti."
         }
     ]
 }
