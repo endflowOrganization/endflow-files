@@ -7134,6 +7134,28 @@
             "eventDescriptionEs": "El primer ascenso del Monte Everest sin oxígeno suplementario fue realizado por Reinhold Messner y Peter Habeler.",
             "eventDescriptionDe": "Der erste Aufstieg des Mount Everest ohne zusätzlichen Sauerstoff wurde von Reinhold Messner und Peter Habeler gemacht.",
             "eventDescriptionIt": "La prima salita del Monte Everest senza ossigeno supplementare è stata fatta da Reinhold Messner e Peter Habeler."
+        },
+        {
+            "eventId": "685",
+            "eventCategory": "POLITICS",
+            "eventDate": "1955/05/06",
+            "eventImg": null,
+            "eventDescriptionEn": "Cold War: West Germany joined NATO.",
+            "eventDescriptionTr": "Soğuk Savaş: Batı Almanya NATO'ya katıldı.",
+            "eventDescriptionEs": "Guerra Fría: Alemania Occidental se unió a la OTAN.",
+            "eventDescriptionDe": "Kalter Krieg: Westdeutschland trat der NATO bei.",
+            "eventDescriptionIt": "Guerra Fredda: La Germania Ovest si unì alla NATO."
+        },{
+            "eventId": "686",
+            "eventCategory": "POLITICS",
+            "eventDate": "1994/05/10",
+            "eventImg": null,
+            "eventDescriptionEn": "Nelson Mandela was inaugurated as South Africa's first black president.",
+            "eventDescriptionTr": "Nelson Mandela, Güney Afrika'nın ilk siyah başkanı olarak göreve başladı.",
+            "eventDescriptionEs": "Nelson Mandela fue investido como el primer presidente negro de Sudáfrica.",
+            "eventDescriptionDe": "Nelson Mandela wurde als erster schwarzer Präsident Südafrikas vereidigt.",
+            "eventDescriptionIt": "Nelson Mandela è stato inaugurato come primo presidente nero del Sudafrica."
         }
+        
     ]
 }
