@@ -7145,7 +7145,8 @@
             "eventDescriptionEs": "Guerra Fría: Alemania Occidental se unió a la OTAN.",
             "eventDescriptionDe": "Kalter Krieg: Westdeutschland trat der NATO bei.",
             "eventDescriptionIt": "Guerra Fredda: La Germania Ovest si unì alla NATO."
-        },{
+        },
+        {
             "eventId": "686",
             "eventCategory": "POLITICS",
             "eventDate": "1994/05/10",
@@ -7155,7 +7156,17 @@
             "eventDescriptionEs": "Nelson Mandela fue investido como el primer presidente negro de Sudáfrica.",
             "eventDescriptionDe": "Nelson Mandela wurde als erster schwarzer Präsident Südafrikas vereidigt.",
             "eventDescriptionIt": "Nelson Mandela è stato inaugurato come primo presidente nero del Sudafrica."
+        },
+        {
+            "eventId": "687",
+            "eventCategory": "HISTORY",
+            "eventDate": "1908/05/10",
+            "eventImg": null,
+            "eventDescriptionEn": "Mother's Day was observed for the first time in the United States, in Grafton, West Virginia.",
+            "eventDescriptionTr": "Anneler Günü, Amerika Birleşik Devletleri'nde, West Virginia'nın Grafton şehrinde ilk kez kutlandı.",
+            "eventDescriptionEs": "El Día de la Madre se observó por primera vez en los Estados Unidos, en Grafton, Virginia Occidental.",
+            "eventDescriptionDe": "Der Muttertag wurde zum ersten Mal in den Vereinigten Staaten in Grafton, West Virginia, gefeiert.",
+            "eventDescriptionIt": "La Festa della Mamma fu osservata per la prima volta negli Stati Uniti, a Grafton, West Virginia."
         }
-        
     ]
 }
