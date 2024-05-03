@@ -7211,6 +7211,17 @@
             "eventDescriptionEs": "China aterrizó con éxito a Zhurong, el primer rover chino en Marte.",
             "eventDescriptionDe": "China landete erfolgreich Zhurong, den ersten Mars-Rover des Landes.",
             "eventDescriptionIt": "La Cina ha atterrato con successo Zhurong, il primo rover cinese su Marte."
+        },
+        {
+            "eventId": "692",
+            "eventCategory": "POLITICS",
+            "eventDate": "1991/05/15",
+            "eventImg": null,
+            "eventDescriptionEn": "Édith Cresson becomes France's first female Prime Minister.",
+            "eventDescriptionTr": "Édith Cresson, Fransa'nın ilk kadın başbakanı oldu.",
+            "eventDescriptionEs": "Édith Cresson se convierte en la primera mujer Primera Ministra de Francia.",
+            "eventDescriptionDe": "Édith Cresson wird Frankreichs erste weibliche Premierministerin.",
+            "eventDescriptionIt": "Édith Cresson diventa la prima donna Primo Ministro della Francia."
         }
     ]
 }
