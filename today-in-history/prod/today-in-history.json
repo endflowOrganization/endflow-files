@@ -7266,6 +7266,17 @@
             "eventDescriptionEs": "Cable News Network (CNN) comenzó a emitir.",
             "eventDescriptionDe": "Cable News Network (CNN) begann zu senden.",
             "eventDescriptionIt": "Cable News Network (CNN) ha iniziato a trasmettere."
+        },
+        {
+            "eventId": "697",
+            "eventCategory": "POLITICS",
+            "eventDate": "1991/09/01",
+            "eventImg": null,
+            "eventDescriptionEn": "Uzbekistan declared its independence from the Soviet Union.",
+            "eventDescriptionTr": "Özbekistan, Sovyetler Birliği'nden bağımsızlığını ilan etti.",
+            "eventDescriptionEs": "Uzbekistán declaró su independencia de la Unión Soviética.",
+            "eventDescriptionDe": "Usbekistan erklärte seine Unabhängigkeit von der Sowjetunion.",
+            "eventDescriptionIt": "L'Uzbekistan dichiarò la sua indipendenza dall'Unione Sovietica."
         }
     ]
 }
