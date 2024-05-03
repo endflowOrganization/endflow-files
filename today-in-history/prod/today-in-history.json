@@ -7167,6 +7167,39 @@
             "eventDescriptionEs": "El Día de la Madre se observó por primera vez en los Estados Unidos, en Grafton, Virginia Occidental.",
             "eventDescriptionDe": "Der Muttertag wurde zum ersten Mal in den Vereinigten Staaten in Grafton, West Virginia, gefeiert.",
             "eventDescriptionIt": "La Festa della Mamma fu osservata per la prima volta negli Stati Uniti, a Grafton, West Virginia."
+        },
+        {
+            "eventId": "688",
+            "eventCategory": "TECH",
+            "eventDate": "1941/05/12",
+            "eventImg": null,
+            "eventDescriptionEn": "Konrad Zuse presented the Z3, the world's first working programmable, fully automatic computer, in Berlin.",
+            "eventDescriptionTr": "Konrad Zuse, Berlin'de dünyanın ilk çalışan programlanabilir, tamamen otomatik bilgisayarı olan Z3'ü sundu.",
+            "eventDescriptionEs": "Konrad Zuse presentó el Z3, la primera computadora totalmente automática y programable del mundo, en Berlín.",
+            "eventDescriptionDe": "Konrad Zuse präsentierte den Z3, den weltweit ersten funktionierenden programmierbaren, vollautomatischen Computer, in Berlin.",
+            "eventDescriptionIt": "Konrad Zuse presentò il Z3, il primo computer completamente automatico e programmabile al mondo, a Berlino."
+        },
+        {
+            "eventId": "689",
+            "eventCategory": "TECH",
+            "eventDate": "2017/05/12",
+            "eventImg": null,
+            "eventDescriptionEn": "The WannaCry ransomware attack impacted over 400,000 computers worldwide, targeting computers of the United Kingdom's National Health Services and Telefónica computers.",
+            "eventDescriptionTr": "WannaCry fidye yazılım saldırısı, dünya genelinde 400.000'den fazla bilgisayarı etkiledi ve Birleşik Krallık Ulusal Sağlık Servisleri ve Telefónica bilgisayarlarını hedef aldı.",
+            "eventDescriptionEs": "El ataque de ransomware WannaCry afectó a más de 400,000 computadoras en todo el mundo, apuntando a las computadoras del Servicio Nacional de Salud del Reino Unido y a las computadoras de Telefónica.",
+            "eventDescriptionDe": "Der WannaCry-Ransomware-Angriff betraf über 400.000 Computer weltweit und zielte auf die Computer des National Health Service des Vereinigten Königreichs und Telefónica-Computer ab.",
+            "eventDescriptionIt": "L'attacco ransomware WannaCry ha colpito oltre 400.000 computer in tutto il mondo, prendendo di mira i computer del Servizio sanitario nazionale del Regno Unito e i computer di Telefónica."
+        },
+        {
+            "eventId": "690",
+            "eventCategory": "HISTORY",
+            "eventDate": "2014/05/13",
+            "eventImg": null,
+            "eventDescriptionEn": "As a result of the fire that broke out in the Soma mine in Turkey, 301 mine workers lost their lives.",
+            "eventDescriptionTr": "Soma madeninde çıkan yangın sonucunda 301 madenci hayatını kaybetti.",
+            "eventDescriptionEs": "Como resultado del incendio que estalló en la mina Soma en Turquía, 301 mineros perdieron la vida.",
+            "eventDescriptionDe": "Infolge des Feuers, das in der Soma-Mine in der Türkei ausbrach, verloren 301 Bergarbeiter ihr Leben.",
+            "eventDescriptionIt": "A seguito dell'incendio scoppiato nella miniera di Soma in Turchia, 301 minatori hanno perso la vita."
         }
     ]
 }
