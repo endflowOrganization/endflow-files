@@ -7222,6 +7222,17 @@
             "eventDescriptionEs": "Édith Cresson se convierte en la primera mujer Primera Ministra de Francia.",
             "eventDescriptionDe": "Édith Cresson wird Frankreichs erste weibliche Premierministerin.",
             "eventDescriptionIt": "Édith Cresson diventa la prima donna Primo Ministro della Francia."
+        },
+        {
+            "eventId": "693",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2005/05/16",
+            "eventImg": null,
+            "eventDescriptionEn": "Kuwait permitted women's suffrage in a 35–23 National Assembly vote.",
+            "eventDescriptionTr": "Kuveyt, Ulusal Meclis'te 35–23 oy ile kadınlara oy hakkı verilmesini onayladı.",
+            "eventDescriptionEs": "Kuwait permitió el sufragio femenino en una votación de la Asamblea Nacional por 35-23.",
+            "eventDescriptionDe": "Kuwait erlaubte das Frauenwahlrecht in einer Abstimmung der Nationalversammlung mit 35–23 Stimmen.",
+            "eventDescriptionIt": "Il Kuwait ha permesso il suffragio femminile in una votazione dell'Assemblea Nazionale di 35-23."
         }
     ]
 }
