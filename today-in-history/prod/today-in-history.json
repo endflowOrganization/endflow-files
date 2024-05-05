@@ -7354,6 +7354,17 @@
             "eventDescriptionEs": "Henry Cavill nació el 5 de mayo de 1983.",
             "eventDescriptionDe": "Henry Cavill wurde am 5. Mai 1983 geboren.",
             "eventDescriptionIt": "Henry Cavill è nato il 5 maggio 1983."
+        },
+        {
+            "eventId": "705",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1910/11/20",
+            "eventImg": null,
+            "eventDescriptionEn": "Leo Tolstoy died on November 20, 1910.",
+            "eventDescriptionTr": "Leo Tolstoy, 20 Kasım 1910'da öldü.",
+            "eventDescriptionEs": "Leo Tolstoy murió el 20 de noviembre de 1910.",
+            "eventDescriptionDe": "Leo Tolstoi starb am 20. November 1910.",
+            "eventDescriptionIt": "Leo Tolstoj morì il 20 novembre 1910."
         }
     ]
 }
