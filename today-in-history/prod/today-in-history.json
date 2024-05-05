@@ -7382,6 +7382,17 @@
             "eventDescriptionEs": "Mahatma Gandhi falleció el 30 de enero de 1948 debido a un asesinato.",
             "eventDescriptionDe": "Mahatma Gandhi starb am 30. Januar 1948 durch einen Mordanschlag.",
             "eventDescriptionIt": "Mahatma Gandhi è morto il 30 gennaio 1948 a causa di un attentato."
+        },
+        {
+            "eventId": "707",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2013/12/05",
+            "eventImg": null,
+            "eventDescriptionEn": "Nelson Mandela passed away on December 5, 2013.",
+            "eventDescriptionTr": "Nelson Mandela, 5 Aralık 2013'te hayatını kaybetti.",
+            "eventDescriptionEs": "Nelson Mandela falleció el 5 de diciembre de 2013.",
+            "eventDescriptionDe": "Nelson Mandela verstarb am 5. Dezember 2013.",
+            "eventDescriptionIt": "Nelson Mandela è morto il 5 dicembre 2013."
         }
     ]
 }
