@@ -7302,17 +7302,6 @@
         },
         {
             "eventId": "700",
-            "eventCategory": "HISTORY",
-            "eventDate": "1964/05/05",
-            "eventImg": null,
-            "eventDescriptionEn": "The Council of Europe declared May 5 as Europe Day.",
-            "eventDescriptionTr": "Avrupa Konseyi, 5 Mayıs'ı Avrupa Günü ilan etti.",
-            "eventDescriptionEs": "El Consejo de Europa declaró el 5 de mayo como el Día de Europa.",
-            "eventDescriptionDe": "Der Europarat erklärte den 5. Mai zum Europatag.",
-            "eventDescriptionIt": "Il Consiglio d'Europa ha dichiarato il 5 maggio come Giornata dell'Europa."
-        },
-        {
-            "eventId": "701",
             "eventCategory": "TECH",
             "eventDate": "1809/05/05",
             "eventImg": null,
@@ -7323,7 +7312,7 @@
             "eventDescriptionIt": "Mary Kies divenne la prima donna a ricevere un brevetto statunitense, per una tecnica di tessitura della paglia con seta e filo."
         },
         {
-            "eventId": "702",
+            "eventId": "701",
             "eventCategory": "HISTORY",
             "eventDate": "1835/05/05",
             "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/may%2Fle-belge-1835-first-steam-locomotive.jpeg?alt=media&token=4b53d360-09e0-4524-bdd2-1554b49a973b",
@@ -7334,7 +7323,7 @@
             "eventDescriptionIt": "La prima ferrovia in Europa continentale è stata inaugurata tra Bruxelles e Mechelen."
         },
         {
-            "eventId": "703",
+            "eventId": "702",
             "eventCategory": "SCIENCE",
             "eventDate": "1961/05/05",
             "eventImg": null,
