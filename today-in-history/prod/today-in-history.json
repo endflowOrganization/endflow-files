@@ -7310,6 +7310,17 @@
             "eventDescriptionEs": "El Consejo de Europa declaró el 5 de mayo como el Día de Europa.",
             "eventDescriptionDe": "Der Europarat erklärte den 5. Mai zum Europatag.",
             "eventDescriptionIt": "Il Consiglio d'Europa ha dichiarato il 5 maggio come Giornata dell'Europa."
+        },
+        {
+            "eventId": "701",
+            "eventCategory": "TECH",
+            "eventDate": "1809/05/05",
+            "eventImg": null,
+            "eventDescriptionEn": "Mary Kies became the first woman awarded a U.S. patent, for a technique of weaving straw with silk and thread.",
+            "eventDescriptionTr": "Mary Kies, ipek ve iplikle saman dokuma tekniği için ABD patenti alan ilk kadın oldu.",
+            "eventDescriptionEs": "Mary Kies se convirtió en la primera mujer en recibir una patente estadounidense, por una técnica de tejido de paja con seda e hilo.",
+            "eventDescriptionDe": "Mary Kies wurde die erste Frau, die ein US-Patent für eine Technik zum Weben von Stroh mit Seide und Faden erhielt.",
+            "eventDescriptionIt": "Mary Kies divenne la prima donna a ricevere un brevetto statunitense, per una tecnica di tessitura della paglia con seta e filo."
         }
     ]
 }
