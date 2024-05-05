@@ -7343,6 +7343,17 @@
             "eventDescriptionEs": "Karl Marx nació el 5 de mayo de 1818.",
             "eventDescriptionDe": "Karl Marx wurde am 5. Mai 1818 geboren.",
             "eventDescriptionIt": "Karl Marx nacque il 5 maggio 1818."
+        },
+        {
+            "eventId": "704",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1983/05/05",
+            "eventImg": null,
+            "eventDescriptionEn": "Henry Cavill was born on May 5, 1983.",
+            "eventDescriptionTr": "Henry Cavill, 5 Mayıs 1983'te doğdu.",
+            "eventDescriptionEs": "Henry Cavill nació el 5 de mayo de 1983.",
+            "eventDescriptionDe": "Henry Cavill wurde am 5. Mai 1983 geboren.",
+            "eventDescriptionIt": "Henry Cavill è nato il 5 maggio 1983."
         }
     ]
 }
