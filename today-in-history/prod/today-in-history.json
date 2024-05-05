@@ -7332,6 +7332,17 @@
             "eventDescriptionEs": "El primer ferrocarril en Europa continental se inauguró entre Bruselas y Malinas.",
             "eventDescriptionDe": "Die erste Eisenbahn in Kontinentaleuropa wurde zwischen Brüssel und Mechelen eröffnet.",
             "eventDescriptionIt": "La prima ferrovia in Europa continentale è stata inaugurata tra Bruxelles e Mechelen."
+        },
+        {
+            "eventId": "703",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1961/05/05",
+            "eventImg": null,
+            "eventDescriptionEn": "Project Mercury: Alan Shepard became the first American to travel into outer space, on a sub-orbital flight.",
+            "eventDescriptionTr": "Proje Merkür: Alan Shepard, sub-orbital uçuşla uzaya seyahat eden ilk Amerikalı oldu.",
+            "eventDescriptionEs": "Proyecto Mercurio: Alan Shepard se convirtió en el primer estadounidense en viajar al espacio exterior, en un vuelo suborbital.",
+            "eventDescriptionDe": "Projekt Mercury: Alan Shepard wurde der erste Amerikaner, der bei einem suborbitalen Flug ins All reiste.",
+            "eventDescriptionIt": "Progetto Mercury: Alan Shepard è diventato il primo americano a viaggiare nello spazio, in un volo suborbitale."
         }
     ]
 }
