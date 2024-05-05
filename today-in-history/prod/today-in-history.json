@@ -7332,6 +7332,17 @@
             "eventDescriptionEs": "Proyecto Mercurio: Alan Shepard se convirtió en el primer estadounidense en viajar al espacio exterior, en un vuelo suborbital.",
             "eventDescriptionDe": "Projekt Mercury: Alan Shepard wurde der erste Amerikaner, der bei einem suborbitalen Flug ins All reiste.",
             "eventDescriptionIt": "Progetto Mercury: Alan Shepard è diventato il primo americano a viaggiare nello spazio, in un volo suborbitale."
+        },
+        {
+            "eventId": "703",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1818/05/05",
+            "eventImg": null,
+            "eventDescriptionEn": "Karl Marx was born on May 5, 1818.",
+            "eventDescriptionTr": "Karl Marx, 5 Mayıs 1818'de doğdu.",
+            "eventDescriptionEs": "Karl Marx nació el 5 de mayo de 1818.",
+            "eventDescriptionDe": "Karl Marx wurde am 5. Mai 1818 geboren.",
+            "eventDescriptionIt": "Karl Marx nacque il 5 maggio 1818."
         }
     ]
 }
