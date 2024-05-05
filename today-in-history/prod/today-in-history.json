@@ -7415,6 +7415,28 @@
             "eventDescriptionEs": "Se celebró el primer Día Mundial de los Océanos, coincidiendo con la Cumbre de la Tierra celebrada en Río de Janeiro, Brasil.",
             "eventDescriptionDe": "Der erste Welt-Ozeantag wurde gefeiert, zeitgleich mit dem Erdgipfel in Rio de Janeiro, Brasilien.",
             "eventDescriptionIt": "Il primo Giorno Mondiale degli Oceani è stato celebrato, coincidente con il Vertice della Terra tenuto a Rio de Janeiro, Brasile."
+        },
+        {
+            "eventId": "710",
+            "eventCategory": "HISTORY",
+            "eventDate": "1949/06/08",
+            "eventImg": null,
+            "eventDescriptionEn": "George Orwell's Nineteen Eighty-Four (1984) was published.",
+            "eventDescriptionTr": "George Orwell'in 1984 adlı kitabı yayımlandı.",
+            "eventDescriptionEs": "Se publicó Mil 1984 de George Orwell.",
+            "eventDescriptionDe": "George Orwells 1984 wurde veröffentlicht.",
+            "eventDescriptionIt": "Fu pubblicato 1984 di George Orwell."
+        },
+        {
+            "eventId": "711",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1950/01/21",
+            "eventImg": null,
+            "eventDescriptionEn": "George Orwell died on January 21, 1950.",
+            "eventDescriptionTr": "George Orwell, 21 Ocak 1950'de öldü.",
+            "eventDescriptionEs": "George Orwell murió el 21 de enero de 1950.",
+            "eventDescriptionDe": "George Orwell starb am 21. Januar 1950.",
+            "eventDescriptionIt": "George Orwell è morto il 21 gennaio 1950."
         }
     ]
 }
