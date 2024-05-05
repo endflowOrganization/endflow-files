@@ -7299,6 +7299,17 @@
             "eventDescriptionEs": "Los Estados Unidos comenzaron la construcción del Canal de Panamá.",
             "eventDescriptionDe": "Die Vereinigten Staaten begannen mit dem Bau des Panamakanals.",
             "eventDescriptionIt": "Gli Stati Uniti iniziarono la costruzione del Canale di Panama."
+        },
+        {
+            "eventId": "700",
+            "eventCategory": "HISTORY",
+            "eventDate": "1964/05/05",
+            "eventImg": null,
+            "eventDescriptionEn": "The Council of Europe declared May 5 as Europe Day.",
+            "eventDescriptionTr": "Avrupa Konseyi, 5 Mayıs'ı Avrupa Günü ilan etti.",
+            "eventDescriptionEs": "El Consejo de Europa declaró el 5 de mayo como el Día de Europa.",
+            "eventDescriptionDe": "Der Europarat erklärte den 5. Mai zum Europatag.",
+            "eventDescriptionIt": "Il Consiglio d'Europa ha dichiarato il 5 maggio come Giornata dell'Europa."
         }
     ]
 }
