@@ -7321,6 +7321,17 @@
             "eventDescriptionEs": "Mary Kies se convirtió en la primera mujer en recibir una patente estadounidense, por una técnica de tejido de paja con seda e hilo.",
             "eventDescriptionDe": "Mary Kies wurde die erste Frau, die ein US-Patent für eine Technik zum Weben von Stroh mit Seide und Faden erhielt.",
             "eventDescriptionIt": "Mary Kies divenne la prima donna a ricevere un brevetto statunitense, per una tecnica di tessitura della paglia con seta e filo."
+        },
+        {
+            "eventId": "702",
+            "eventCategory": "HISTORY",
+            "eventDate": "1835/05/05",
+            "eventImg": null,
+            "eventDescriptionEn": "The first railway in continental Europe opened between Brussels and Mechelen.",
+            "eventDescriptionTr": "Kıta Avrupa'sındaki ilk demiryolu Brüksel ile Mechelen arasında açıldı.",
+            "eventDescriptionEs": "El primer ferrocarril en Europa continental se inauguró entre Bruselas y Malinas.",
+            "eventDescriptionDe": "Die erste Eisenbahn in Kontinentaleuropa wurde zwischen Brüssel und Mechelen eröffnet.",
+            "eventDescriptionIt": "La prima ferrovia in Europa continentale è stata inaugurata tra Bruxelles e Mechelen."
         }
     ]
 }
