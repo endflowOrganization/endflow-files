@@ -681,7 +681,10 @@
             "eventDate": "2016/06/03",
             "eventImg": null,
             "eventDescriptionEn": "Muhammad Ali, the legendary professional boxer and one of the greatest athletes in history, passed away at the age of 74 in Scottsdale, Arizona.",
-            "eventDescriptionTr": "Efsanevi profesyonel boksör ve tarihteki en büyük sporcularından biri olan Muhammad Ali, 74 yaşında Scottsdale, Arizona'da vefat etti."
+            "eventDescriptionTr": "Efsanevi profesyonel boksör ve tarihteki en büyük sporcularından biri olan Muhammad Ali, 74 yaşında Scottsdale, Arizona'da vefat etti.",
+            "eventDescriptionEs": "Muhammad Ali, el legendario boxeador profesional y uno de los mayores atletas de la historia, falleció a los 74 años en Scottsdale, Arizona.",
+            "eventDescriptionDe": "Muhammad Ali, der legendäre Profiboxer und einer der größten Athleten der Geschichte, starb im Alter von 74 Jahren in Scottsdale, Arizona.",
+            "eventDescriptionIt": "Muhammad Ali, il leggendario pugile professionista e uno dei più grandi atleti della storia, è morto all'età di 74 anni a Scottsdale, in Arizona."
         },
         {
             "eventId": "86",
@@ -813,7 +816,10 @@
             "eventDate": "1999/07/23",
             "eventImg": null,
             "eventDescriptionEn": "NASA's Chandra X-ray Observatory was launched into space, providing valuable data on X-ray emissions from various cosmic sources.",
-            "eventDescriptionTr": "NASA'nın Chandra X-ışını Gözlemevi, uzaya fırlatıldı ve çeşitli kozmik kaynaklardan X-ışını emisyonlarına ilişkin değerli veriler sağladı."
+            "eventDescriptionTr": "NASA'nın Chandra X-ışını Gözlemevi, uzaya fırlatıldı ve çeşitli kozmik kaynaklardan X-ışını emisyonlarına ilişkin değerli veriler sağladı.",
+            "eventDescriptionEs": "El Observatorio de Rayos X Chandra de la NASA fue lanzado al espacio, proporcionando datos valiosos sobre emisiones de rayos X de diversas fuentes cósmicas.",
+            "eventDescriptionDe": "Das Chandra-Röntgenobservatorium der NASA wurde in den Weltraum gestartet und lieferte wertvolle Daten über Röntgenemissionen aus verschiedenen kosmischen Quellen.",
+            "eventDescriptionIt": "L'Osservatorio a raggi X Chandra della NASA è stato lanciato nello spazio, fornendo preziosi dati sulle emissioni di raggi X da varie fonti cosmiche."
         },
         {
             "eventId": "102",
@@ -7365,6 +7371,17 @@
             "eventDescriptionEs": "Leo Tolstoy murió el 20 de noviembre de 1910.",
             "eventDescriptionDe": "Leo Tolstoi starb am 20. November 1910.",
             "eventDescriptionIt": "Leo Tolstoj morì il 20 novembre 1910."
+        },
+        {
+            "eventId": "706",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1948/01/30",
+            "eventImg": null,
+            "eventDescriptionEn": "Mahatma Gandhi passed away on January 30, 1948, due to assassination.",
+            "eventDescriptionTr": "Mahatma Gandhi, 30 Ocak 1948'de bir suikast nedeniyle hayatını kaybetti.",
+            "eventDescriptionEs": "Mahatma Gandhi falleció el 30 de enero de 1948 debido a un asesinato.",
+            "eventDescriptionDe": "Mahatma Gandhi starb am 30. Januar 1948 durch einen Mordanschlag.",
+            "eventDescriptionIt": "Mahatma Gandhi è morto il 30 gennaio 1948 a causa di un attentato."
         }
     ]
 }
