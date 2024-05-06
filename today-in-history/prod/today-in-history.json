@@ -7437,6 +7437,17 @@
             "eventDescriptionEs": "George Orwell murió el 21 de enero de 1950.",
             "eventDescriptionDe": "George Orwell starb am 21. Januar 1950.",
             "eventDescriptionIt": "George Orwell è morto il 21 gennaio 1950."
+        },
+        {
+            "eventId": "712",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1986/05/07",
+            "eventImg": null,
+            "eventDescriptionEn": "Canadian Patrick Morrow became the first person to climb each of the Seven Summits.",
+            "eventDescriptionTr": "Kanadalı Patrick Morrow, Yedi Zirve'nin her birine tırmanan ilk kişi oldu.",
+            "eventDescriptionEs": "El canadiense Patrick Morrow se convirtió en la primera persona en escalar cada una de las Siete Cumbres.",
+            "eventDescriptionDe": "Der Kanadier Patrick Morrow wurde der erste Mensch, der alle Seven Summits bestieg.",
+            "eventDescriptionIt": "Il canadese Patrick Morrow è diventato la prima persona a scalare ciascuna delle Seven Summits."
         }
     ]
 }
