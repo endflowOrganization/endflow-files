@@ -7470,6 +7470,17 @@
             "eventDescriptionEs": "El farmacéutico John Pemberton vendió por primera vez una bebida carbonatada llamada 'Coca-Cola' como medicamento patentado.",
             "eventDescriptionDe": "Der Apotheker John Pemberton verkaufte erstmals ein kohlensäurehaltiges Getränk namens 'Coca-Cola' als Patentmedizin.",
             "eventDescriptionIt": "Il farmacista John Pemberton vendette per la prima volta una bevanda gassata chiamata 'Coca-Cola' come medicina brevettata."
+        },
+        {
+            "eventId": "715",
+            "eventCategory": "SCIENCE",
+            "eventDate": "2019/05/08",
+            "eventImg": null,
+            "eventDescriptionEn": "British 17-year-old Isabelle Holdaway was reported to be the first patient ever to receive genetically modified phage therapy to treat a drug-resistant infection.",
+            "eventDescriptionTr": "İngiliz 17 yaşındaki Isabelle Holdaway'in, ilaç direncine sahip bir enfeksiyonu tedavi etmek için genetiği değiştirilmiş faj terapisi alan ilk hasta olduğu bildirildi.",
+            "eventDescriptionEs": "Se informó que Isabelle Holdaway, una británica de 17 años, fue la primera paciente en recibir terapia de fagos genéticamente modificada para tratar una infección resistente a medicamentos.",
+            "eventDescriptionDe": "Die britische 17-jährige Isabelle Holdaway wurde gemeldet, dass sie die erste Patientin war, die eine genetisch modifizierte Phagentherapie zur Behandlung einer arzneimittelresistenten Infektion erhielt.",
+            "eventDescriptionIt": "La diciassettenne britannica Isabelle Holdaway è stata segnalata come la prima paziente a ricevere una terapia con fagi geneticamente modificati per trattare un'infezione resistente ai farmaci."
         }
     ]
 }
