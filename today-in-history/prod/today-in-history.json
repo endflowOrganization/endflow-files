@@ -7514,6 +7514,17 @@
             "eventDescriptionEs": "Segunda Guerra Mundial: El submarino alemán U-110 fue capturado por la Marina Real británica. A bordo se encontraba la última máquina Enigma, que luego los criptógrafos aliados utilizaron para descifrar mensajes alemanes codificados.",
             "eventDescriptionDe": "Zweiter Weltkrieg: Das deutsche U-Boot U-110 wurde von der Royal Navy erobert. An Bord befand sich die neueste Enigma-Maschine, die alliierte Kryptografen später verwendeten, um codierte deutsche Nachrichten zu entschlüsseln.",
             "eventDescriptionIt": "Seconda Guerra Mondiale: Il sottomarino tedesco U-110 fu catturato dalla Royal Navy. A bordo c'era l'ultima macchina Enigma, che i crittografi alleati usarono in seguito per decifrare i messaggi tedeschi codificati."
+        },
+        {
+            "eventId": "719",
+            "eventCategory": "POLITICS",
+            "eventDate": "2022/05/09",
+            "eventImg": null,
+            "eventDescriptionEn": "Russo-Ukrainian War: United States President Joe Biden signed the 2022 Lend-Lease Act into law, a rebooted World War II-era policy expediting American equipment to Ukraine and other Eastern European countries.",
+            "eventDescriptionTr": "Rusya-Ukrayna Savaşı: Amerika Birleşik Devletleri Başkanı Joe Biden, Ukrayna ve diğer Doğu Avrupa ülkelerine Amerikan ekipmanlarının hızlandırılmasını sağlayan 2022 Borç Verme-Yasası'nı imzalayarak yasalaştırdı.",
+            "eventDescriptionEs": "Guerra Ruso-Ucraniana: El presidente de Estados Unidos, Joe Biden, firmó la Ley de Préstamo y Arriendo de 2022, una política reinventada de la época de la Segunda Guerra Mundial que acelera el equipo estadounidense a Ucrania y otros países de Europa del Este.",
+            "eventDescriptionDe": "Russisch-Ukrainischer Krieg: Der Präsident der Vereinigten Staaten, Joe Biden, unterzeichnete das Lend-Lease-Gesetz von 2022, eine neu gestartete Politik aus der Zeit des Zweiten Weltkriegs, die die Lieferung amerikanischer Ausrüstung in die Ukraine und andere osteuropäische Länder beschleunigt.",
+            "eventDescriptionIt": "Guerra russo-ucraina: Il presidente degli Stati Uniti Joe Biden ha firmato la legge Lend-Lease del 2022, una politica rinnovata dell'era della seconda guerra mondiale per accelerare le attrezzature americane verso l'Ucraina e altri paesi dell'Europa orientale."
         }
     ]
 }
