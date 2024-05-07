@@ -7503,6 +7503,17 @@
             "eventDescriptionEs": "Robert Schuman presentó la 'Declaración Schuman', considerada por algunos como el comienzo de la creación de lo que ahora es la Unión Europea.",
             "eventDescriptionDe": "Robert Schuman präsentierte die 'Schuman-Erklärung', die von einigen als der Beginn der Entstehung dessen angesehen wird, was heute die Europäische Union ist.",
             "eventDescriptionIt": "Robert Schuman presentò la 'Dichiarazione Schuman', considerata da alcuni come l'inizio della creazione di quello che ora è l'Unione Europea."
+        },
+        {
+            "eventId": "718",
+            "eventCategory": "HISTORY",
+            "eventDate": "1941/05/09",
+            "eventImg": null,
+            "eventDescriptionEn": "World War II: The German submarine U-110 was captured by the Royal Navy. On board was the latest Enigma machine which Allied cryptographers later used to break coded German messages.",
+            "eventDescriptionTr": "II. Dünya Savaşı: Alman denizaltısı U-110, Kraliyet Donanması tarafından ele geçirildi. İçinde Müttefik kriptologların kodlanmış Alman mesajlarını çözmek için daha sonra kullandığı en son Enigma makinesi vardı.",
+            "eventDescriptionEs": "Segunda Guerra Mundial: El submarino alemán U-110 fue capturado por la Marina Real británica. A bordo se encontraba la última máquina Enigma, que luego los criptógrafos aliados utilizaron para descifrar mensajes alemanes codificados.",
+            "eventDescriptionDe": "Zweiter Weltkrieg: Das deutsche U-Boot U-110 wurde von der Royal Navy erobert. An Bord befand sich die neueste Enigma-Maschine, die alliierte Kryptografen später verwendeten, um codierte deutsche Nachrichten zu entschlüsseln.",
+            "eventDescriptionIt": "Seconda Guerra Mondiale: Il sottomarino tedesco U-110 fu catturato dalla Royal Navy. A bordo c'era l'ultima macchina Enigma, che i crittografi alleati usarono in seguito per decifrare i messaggi tedeschi codificati."
         }
     ]
 }
