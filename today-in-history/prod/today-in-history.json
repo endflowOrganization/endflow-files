@@ -7492,6 +7492,17 @@
             "eventDescriptionEs": "Intentando hacer el primer vuelo transatlántico sin escalas de París a Nueva York, los pilotos franceses Charles Nungesser y François Coli desaparecen después de despegar a bordo del biplano El Pájaro Blanco.",
             "eventDescriptionDe": "Bei dem Versuch, den ersten Non-Stop-Transatlantikflug von Paris nach New York zu machen, verschwinden die französischen Piloten Charles Nungesser und François Coli, nachdem sie mit dem Doppeldecker „The White Bird“ abgehoben haben.",
             "eventDescriptionIt": "Nel tentativo di effettuare il primo volo transatlantico senza scalo da Parigi a New York, i piloti francesi Charles Nungesser e François Coli scompaiono dopo il decollo a bordo del biplano The White Bird."
+        },
+        {
+            "eventId": "717",
+            "eventCategory": "POLITICS",
+            "eventDate": "1950/05/09",
+            "eventImg": null,
+            "eventDescriptionEn": "Robert Schuman presented the 'Schuman Declaration', considered by some to be the beginning of the creation of what is now the European Union.",
+            "eventDescriptionTr": "Robert Schuman, şimdi Avrupa Birliği olan yapının başlangıcı olarak kabul edilen 'Schuman Deklarasyonu'nu sundu.",
+            "eventDescriptionEs": "Robert Schuman presentó la 'Declaración Schuman', considerada por algunos como el comienzo de la creación de lo que ahora es la Unión Europea.",
+            "eventDescriptionDe": "Robert Schuman präsentierte die 'Schuman-Erklärung', die von einigen als der Beginn der Entstehung dessen angesehen wird, was heute die Europäische Union ist.",
+            "eventDescriptionIt": "Robert Schuman presentò la 'Dichiarazione Schuman', considerata da alcuni come l'inizio della creazione di quello che ora è l'Unione Europea."
         }
     ]
 }
