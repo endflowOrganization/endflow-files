@@ -7459,6 +7459,17 @@
             "eventDescriptionEs": "La Organización Mundial de la Salud confirmó la erradicación de la viruela.",
             "eventDescriptionDe": "Die Weltgesundheitsorganisation bestätigte die Ausrottung der Pocken.",
             "eventDescriptionIt": "L'Organizzazione Mondiale della Sanità ha confermato l'eradicazione del vaiolo."
+        },
+        {
+            "eventId": "714",
+            "eventCategory": "HISTORY",
+            "eventDate": "1886/05/08",
+            "eventImg": null,
+            "eventDescriptionEn": "Pharmacist John Pemberton first sold a carbonated beverage named 'Coca-Cola' as a patent medicine.",
+            "eventDescriptionTr": "Eczacı John Pemberton, 'Coca-Cola' adlı bir gazlı içeceği patentli ilaç olarak ilk kez sattı.",
+            "eventDescriptionEs": "El farmacéutico John Pemberton vendió por primera vez una bebida carbonatada llamada 'Coca-Cola' como medicamento patentado.",
+            "eventDescriptionDe": "Der Apotheker John Pemberton verkaufte erstmals ein kohlensäurehaltiges Getränk namens 'Coca-Cola' als Patentmedizin.",
+            "eventDescriptionIt": "Il farmacista John Pemberton vendette per la prima volta una bevanda gassata chiamata 'Coca-Cola' come medicina brevettata."
         }
     ]
 }
