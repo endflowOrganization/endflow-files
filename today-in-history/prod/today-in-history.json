@@ -7525,6 +7525,17 @@
             "eventDescriptionEs": "Guerra Ruso-Ucraniana: El presidente de Estados Unidos, Joe Biden, firmó la Ley de Préstamo y Arriendo de 2022, una política reinventada de la época de la Segunda Guerra Mundial que acelera el equipo estadounidense a Ucrania y otros países de Europa del Este.",
             "eventDescriptionDe": "Russisch-Ukrainischer Krieg: Der Präsident der Vereinigten Staaten, Joe Biden, unterzeichnete das Lend-Lease-Gesetz von 2022, eine neu gestartete Politik aus der Zeit des Zweiten Weltkriegs, die die Lieferung amerikanischer Ausrüstung in die Ukraine und andere osteuropäische Länder beschleunigt.",
             "eventDescriptionIt": "Guerra russo-ucraina: Il presidente degli Stati Uniti Joe Biden ha firmato la legge Lend-Lease del 2022, una politica rinnovata dell'era della seconda guerra mondiale per accelerare le attrezzature americane verso l'Ucraina e altri paesi dell'Europa orientale."
+        },
+        {
+            "eventId": "720",
+            "eventCategory": "TECH",
+            "eventDate": "1997/05/11",
+            "eventImg": null,
+            "eventDescriptionEn": "Deep Blue, a chess-playing supercomputer, defeated Garry Kasparov in the last game of the rematch, becoming the first computer to beat a world-champion chess player in a classic match format.",
+            "eventDescriptionTr": "Satranç oynayan süper bilgisayar Deep Blue, rövanşın son oyununda Garry Kasparov'u yenerek klasik maç formatında dünya şampiyonu bir satranç oyuncusunu yenen ilk bilgisayar oldu.",
+            "eventDescriptionEs": "Deep Blue, un superordenador que juega al ajedrez, derrotó a Garry Kasparov en el último juego de la revancha, convirtiéndose en el primer ordenador en vencer a un campeón mundial de ajedrez en un formato de partida clásica.",
+            "eventDescriptionDe": "Deep Blue, ein Schach spielender Supercomputer, besiegte Garry Kasparov im letzten Spiel des Rückkampfs und wurde der erste Computer, der einen Weltmeister-Schachspieler im klassischen Matchformat besiegte.",
+            "eventDescriptionIt": "Deep Blue, un supercomputer che gioca a scacchi, ha sconfitto Garry Kasparov nell'ultima partita della rivincita, diventando il primo computer a battere un campione del mondo di scacchi in un formato di partita classica."
         }
     ]
 }
