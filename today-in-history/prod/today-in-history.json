@@ -7536,6 +7536,17 @@
             "eventDescriptionEs": "Deep Blue, un superordenador que juega al ajedrez, derrotó a Garry Kasparov en el último juego de la revancha, convirtiéndose en el primer ordenador en vencer a un campeón mundial de ajedrez en un formato de partida clásica.",
             "eventDescriptionDe": "Deep Blue, ein Schach spielender Supercomputer, besiegte Garry Kasparov im letzten Spiel des Rückkampfs und wurde der erste Computer, der einen Weltmeister-Schachspieler im klassischen Matchformat besiegte.",
             "eventDescriptionIt": "Deep Blue, un supercomputer che gioca a scacchi, ha sconfitto Garry Kasparov nell'ultima partita della rivincita, diventando il primo computer a battere un campione del mondo di scacchi in un formato di partita classica."
+        },
+        {
+            "eventId": "721",
+            "eventCategory": "POLITICS",
+            "eventDate": "1939/05/11",
+            "eventImg": null,
+            "eventDescriptionEn": "Siam officially changed its name to Thailand.",
+            "eventDescriptionTr": "Siam resmen adını Tayland olarak değiştirdi.",
+            "eventDescriptionEs": "Siam cambió oficialmente su nombre a Tailandia.",
+            "eventDescriptionDe": "Siam änderte offiziell seinen Namen in Thailand.",
+            "eventDescriptionIt": "La Siam cambiò ufficialmente il suo nome in Thailandia."
         }
     ]
 }
