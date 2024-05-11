@@ -7558,6 +7558,18 @@
             "eventDescriptionEs": "Luxemburgo obtuvo independencia de Francia.",
             "eventDescriptionDe": "Luxemburg erlangte die Unabhängigkeit von Frankreich.",
             "eventDescriptionIt": "Il Lussemburgo ottenne l'indipendenza dalla Francia."
+        },
+        {
+            "eventId": "723",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1820/05/12",
+            "eventImg": null,
+            "eventDescriptionEn": "Florence Nightingale, the pioneering nurse known for her work during the Crimean War and as the founder of modern nursing, was born.",
+            "eventDescriptionTr": "Kırım Savaşı sırasındaki çalışmaları ve modern hemşireliğin kurucusu olarak tanınan öncü hemşire Florence Nightingale doğdu.",
+            "eventDescriptionEs": "Florence Nightingale, la enfermera pionera conocida por su trabajo durante la Guerra de Crimea y como fundadora de la enfermería moderna, nació.",
+            "eventDescriptionDe": "Florence Nightingale, die bahnbrechende Krankenschwester, die für ihre Arbeit während des Krimkriegs und als Begründerin der modernen Krankenpflege bekannt ist, wurde geboren.",
+            "eventDescriptionIt": "Florence Nightingale, l'infermiera pioniera nota per il suo lavoro durante la guerra di Crimea e come fondatrice dell'infermieristica moderna, nacque.",
+            "additionalInfo": "Florence Nightingale is considered the founder of modern nursing. She gained fame for her efforts during the Crimean War, where she and a team of nurses improved unsanitary conditions at a British base hospital, reducing the death count significantly. Her work laid the foundation for professional nursing standards and she became an icon of Victorian culture."
         }
     ]
 }
