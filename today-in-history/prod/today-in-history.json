@@ -445,11 +445,14 @@
         },
         {
             "eventId": "56",
-            "eventCategory": "PEOPLE",
-            "eventDate": "1985/07/03",
+            "eventCategory": "HISTORY",
+            "eventDate": "1949/05/12",
             "eventImg": null,
-            "eventDescriptionEn": "Back to the Future, a science fiction comedy film directed by Robert Zemeckis and starring Michael J. Fox, was released in the United States.",
-            "eventDescriptionTr": "Robert Zemeckis'in yönettiği ve Michael J. Fox'un başrolde olduğu Bilim Kurgu-Komedi filmi Back to the Future, Amerika Birleşik Devletleri'nde gösterime girdi."
+            "eventDescriptionEn": "During the Cold War, the Soviet Union lifted its blockade of Berlin.",
+            "eventDescriptionTr": "Soğuk Savaş sırasında, Sovyetler Birliği Berlin ablukasını kaldırdı.",
+            "eventDescriptionEs": "Durante la Guerra Fría, la Unión Soviética levantó su bloqueo de Berlín.",
+            "eventDescriptionDe": "Während des Kalten Krieges hob die Sowjetunion ihre Blockade von Berlin auf.",
+            "eventDescriptionIt": "Durante la guerra fredda, l'Unione Sovietica ha levato il suo blocco di Berlino."
         },
         {
             "eventId": "57",
@@ -1435,7 +1438,7 @@
         },
         {
             "eventId": "153",
-            "eventCategory": "MOVIE",
+            "eventCategory": "HISTORY",
             "eventDate": "1985/07/03",
             "eventImg": null,
             "eventDescriptionEn": "On July 3, 1985, the first 'Back to the Future' movie was released, directed by Robert Zemeckis and starring Michael J. Fox and Christopher Lloyd.",
