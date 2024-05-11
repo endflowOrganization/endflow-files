@@ -7570,6 +7570,17 @@
             "eventDescriptionDe": "Florence Nightingale, die bahnbrechende Krankenschwester, die für ihre Arbeit während des Krimkriegs und als Begründerin der modernen Krankenpflege bekannt ist, wurde geboren.",
             "eventDescriptionIt": "Florence Nightingale, l'infermiera pioniera nota per il suo lavoro durante la guerra di Crimea e come fondatrice dell'infermieristica moderna, nacque.",
             "additionalInfo": "Florence Nightingale is considered the founder of modern nursing. She gained fame for her efforts during the Crimean War, where she and a team of nurses improved unsanitary conditions at a British base hospital, reducing the death count significantly. Her work laid the foundation for professional nursing standards and she became an icon of Victorian culture."
+        },
+        {
+            "eventId": "724",
+            "eventCategory": "HISTORY",
+            "eventDate": "2008/05/12",
+            "eventImg": null,
+            "eventDescriptionEn": "An earthquake measuring around 8.0 magnitude struck Sichuan, China, killing over 69,000 people.",
+            "eventDescriptionTr": "Sichuan, Çin'de 8,0 civarında şiddetinde bir deprem meydana geldi ve 69.000'den fazla kişi hayatını kaybetti.",
+            "eventDescriptionEs": "Un terremoto de alrededor de magnitud 8,0 golpeó Sichuan, China, matando a más de 69.000 personas.",
+            "eventDescriptionDe": "Ein Erdbeben der Stärke etwa 8,0 traf Sichuan, China, und tötete über 69.000 Menschen.",
+            "eventDescriptionIt": "Un terremoto di circa magnitudo 8,0 colpì Sichuan, in Cina, uccidendo oltre 69.000 persone."
         }
     ]
 }
