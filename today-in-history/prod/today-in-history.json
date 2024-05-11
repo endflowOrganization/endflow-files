@@ -7547,6 +7547,17 @@
             "eventDescriptionEs": "Siam cambió oficialmente su nombre a Tailandia.",
             "eventDescriptionDe": "Siam änderte offiziell seinen Namen in Thailand.",
             "eventDescriptionIt": "La Siam cambiò ufficialmente il suo nome in Thailandia."
+        },
+        {
+            "eventId": "722",
+            "eventCategory": "POLITICS",
+            "eventDate": "1867/05/11",
+            "eventImg": null,
+            "eventDescriptionEn": "Luxembourg gained independence from France.",
+            "eventDescriptionTr": "Lüksemburg Fransa'dan bağımsızlığını kazandı.",
+            "eventDescriptionEs": "Luxemburgo obtuvo independencia de Francia.",
+            "eventDescriptionDe": "Luxemburg erlangte die Unabhängigkeit von Frankreich.",
+            "eventDescriptionIt": "Il Lussemburgo ottenne l'indipendenza dalla Francia."
         }
     ]
 }
