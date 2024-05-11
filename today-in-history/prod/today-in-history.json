@@ -7605,6 +7605,17 @@
             "eventDescriptionEs": "Ben Carlin se convierte en la primera (y única) persona en circunnavegar el mundo en un vehículo anfibio, habiendo viajado más de 17.000 kilómetros (11.000 mile) por mar y 62.000 kilómetros (39.000 mile) por tierra durante un viaje de diez años.",
             "eventDescriptionDe": "Ben Carlin wird die erste (und einzige) Person, die die Welt mit einem Amphibienfahrzeug umrundet, indem sie während einer zehnjährigen Reise über 17.000 Kilometer (11.000 mile) auf See und 62.000 Kilometer (39.000 mile) auf dem Land zurücklegt.",
             "eventDescriptionIt": "Ben Carlin diventa la prima (e unica) persona a circumnavigare il mondo con un veicolo anfibio, avendo viaggiato per oltre 17.000 chilometri (11.000 mile) via mare e 62.000 chilometri (39.000 mile) via terra durante un viaggio di dieci anni."
+        },
+        {
+            "eventId": "727",
+            "eventCategory": "HISTORY",
+            "eventDate": "1888/05/13",
+            "eventImg": null,
+            "eventDescriptionEn": "The Empire of Brazil abolished slavery with the passage of the Lei Áurea (Golden Law).",
+            "eventDescriptionTr": "Brezilya İmparatorluğu, Lei Áurea'nın (Altın Kanun) kabul edilmesiyle köleliği sona erdirdi.",
+            "eventDescriptionEs": "El Imperio de Brasil abolió la esclavitud con la aprobación de la Ley Áurea.",
+            "eventDescriptionDe": "Das Kaiserreich Brasilien schaffte mit der Verabschiedung des Lei Áurea (Goldenes Gesetz) die Sklaverei ab.",
+            "eventDescriptionIt": "L'Impero del Brasile abolì la schiavitù con l'approvazione della Legge Áurea."
         }
     ]
 }
