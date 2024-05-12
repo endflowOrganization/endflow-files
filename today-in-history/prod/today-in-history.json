@@ -7638,6 +7638,17 @@
             "eventDescriptionEs": "Se celebró la primera carrera de las 24 Horas de Le Mans y desde entonces se ha disputado anualmente en junio.",
             "eventDescriptionDe": "Das erste 24-Stunden-Rennen von Le Mans fand statt und wird seitdem jährlich im Juni ausgetragen.",
             "eventDescriptionIt": "Si è svolta la prima edizione delle 24 Ore di Le Mans e da allora si tiene annualmente a giugno."
+        },
+        {
+            "eventId": "730",
+            "eventCategory": "POLITICS",
+            "eventDate": "1966/05/26",
+            "eventImg": null,
+            "eventDescriptionEn": "British Guiana gained independence, becoming Guyana.",
+            "eventDescriptionTr": "Britanya Guyanası bağımsızlığını kazandı ve Guyana oldu.",
+            "eventDescriptionEs": "La Guayana Británica obtuvo la independencia, convirtiéndose en Guyana.",
+            "eventDescriptionDe": "Britisch-Guayana erlangte die Unabhängigkeit und wurde zu Guyana.",
+            "eventDescriptionIt": "La Guyana britannica ottenne l'indipendenza, diventando Guyana."
         }
     ]
 }
