@@ -7627,6 +7627,17 @@
             "eventDescriptionEs": "El último Ford Modelo T salió de la línea de ensamblaje después de una producción de 15,007,003 vehículos.",
             "eventDescriptionDe": "Der letzte Ford Model T rollte nach einer Produktionslaufzeit von 15.007.003 Fahrzeugen vom Band.",
             "eventDescriptionIt": "L'ultima Ford Model T è uscita dalla linea di montaggio dopo una produzione di 15.007.003 veicoli."
+        },
+        {
+            "eventId": "729",
+            "eventCategory": "SPORT",
+            "eventDate": "1923/05/26",
+            "eventImg": null,
+            "eventDescriptionEn": "The first 24 Hours of Le Mans was held and has since been run annually in June.",
+            "eventDescriptionTr": "İlk 24 Saat Le Mans yarışı düzenlendi ve o zamandan beri her yıl haziran ayında düzenlenmektedir.",
+            "eventDescriptionEs": "Se celebró la primera carrera de las 24 Horas de Le Mans y desde entonces se ha disputado anualmente en junio.",
+            "eventDescriptionDe": "Das erste 24-Stunden-Rennen von Le Mans fand statt und wird seitdem jährlich im Juni ausgetragen.",
+            "eventDescriptionIt": "Si è svolta la prima edizione delle 24 Ore di Le Mans e da allora si tiene annualmente a giugno."
         }
     ]
 }
