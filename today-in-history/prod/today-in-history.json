@@ -7660,6 +7660,17 @@
             "eventDescriptionEs": "Bayezid II, Sultán del Imperio Otomano, falleció.",
             "eventDescriptionDe": "Bayezid II., Sultan des Osmanischen Reiches, verstarb.",
             "eventDescriptionIt": "Bayezid II, Sultano dell'Impero Ottomano, è morto."
+        },
+        {
+            "eventId": "732",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1999/05/27",
+            "eventImg": null,
+            "eventDescriptionEn": "Space Shuttle Discovery is launched on STS-96, the first shuttle mission to dock with the International Space Station.",
+            "eventDescriptionTr": "Uzay Mekiği Discovery, Uluslararası Uzay İstasyonu'na kenetlenen ilk mekiği STS-96 göreviyle fırlatıldı.",
+            "eventDescriptionEs": "El transbordador espacial Discovery es lanzado en la misión STS-96, la primera misión del transbordador para acoplarse con la Estación Espacial Internacional.",
+            "eventDescriptionDe": "Space Shuttle Discovery wird auf STS-96 gestartet, der ersten Shuttle-Mission, die an die Internationale Raumstation anlegt.",
+            "eventDescriptionIt": "Lo Space Shuttle Discovery viene lanciato sulla missione STS-96, la prima missione dello Shuttle per attraccare alla Stazione Spaziale Internazionale."
         }
     ]
 }
