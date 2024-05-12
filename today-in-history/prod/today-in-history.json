@@ -7616,6 +7616,17 @@
             "eventDescriptionEs": "El Imperio de Brasil abolió la esclavitud con la aprobación de la Ley Áurea.",
             "eventDescriptionDe": "Das Kaiserreich Brasilien schaffte mit der Verabschiedung des Lei Áurea (Goldenes Gesetz) die Sklaverei ab.",
             "eventDescriptionIt": "L'Impero del Brasile abolì la schiavitù con l'approvazione della Legge Áurea."
+        },
+        {
+            "eventId": "728",
+            "eventCategory": "HISTORY",
+            "eventDate": "1927/05/26",
+            "eventImg": null,
+            "eventDescriptionEn": "The last Ford Model T rolled off the assembly line after a production run of 15,007,003 vehicles.",
+            "eventDescriptionTr": "15.007.003 araçlık üretim serisinin ardından son Ford Model T montaj hattından çıktı.",
+            "eventDescriptionEs": "El último Ford Modelo T salió de la línea de ensamblaje después de una producción de 15,007,003 vehículos.",
+            "eventDescriptionDe": "Der letzte Ford Model T rollte nach einer Produktionslaufzeit von 15.007.003 Fahrzeugen vom Band.",
+            "eventDescriptionIt": "L'ultima Ford Model T è uscita dalla linea di montaggio dopo una produzione di 15.007.003 veicoli."
         }
     ]
 }
