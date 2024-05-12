@@ -7649,6 +7649,17 @@
             "eventDescriptionEs": "La Guayana Británica obtuvo la independencia, convirtiéndose en Guyana.",
             "eventDescriptionDe": "Britisch-Guayana erlangte die Unabhängigkeit und wurde zu Guyana.",
             "eventDescriptionIt": "La Guyana britannica ottenne l'indipendenza, diventando Guyana."
+        },
+        {
+            "eventId": "731",
+            "eventCategory": "HISTORY",
+            "eventDate": "1512/05/26",
+            "eventImg": null,
+            "eventDescriptionEn": "Bayezid II, Sultan of the Ottoman Empire, passed away.",
+            "eventDescriptionTr": "Osmanlı İmparatorluğu'nun Sultanı II. Bayezid vefat etti.",
+            "eventDescriptionEs": "Bayezid II, Sultán del Imperio Otomano, falleció.",
+            "eventDescriptionDe": "Bayezid II., Sultan des Osmanischen Reiches, verstarb.",
+            "eventDescriptionIt": "Bayezid II, Sultano dell'Impero Ottomano, è morto."
         }
     ]
 }
