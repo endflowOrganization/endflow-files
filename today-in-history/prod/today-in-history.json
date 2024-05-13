@@ -7729,6 +7729,18 @@
             "eventDescriptionDe": "Louis Pasteur, ein französischer Biologe, Mikrobiologe und Chemiker, der für seine Entdeckungen der Prinzipien der Impfung, mikrobiellen Fermentation und Pasteurisierung bekannt ist, ist verstorben.",
             "eventDescriptionEs": "Louis Pasteur, biólogo, microbiólogo y químico francés conocido por sus descubrimientos sobre los principios de la vacunación, la fermentación microbiana y la pasteurización, falleció.",
             "eventDescriptionIt": "Louis Pasteur, biologo, microbiologo e chimico francese rinomato per le sue scoperte sui principi della vaccinazione, della fermentazione microbica e della pastorizzazione, è morto."
+        },
+        {
+            "eventId": "738",
+            "eventCategory": "HISTORY",
+            "eventDate": "1974/05/18",
+            "eventImg": null,
+            "eventDescriptionEn": "Under project Smiling Buddha, India successfully detonated its first nuclear weapon, becoming the sixth nation to do so.",
+            "eventDescriptionTr": "Hint projesi Smiling Buddha kapsamında Hindistan, ilk nükleer silahını başarıyla patlattı ve bunu gerçekleştiren altıncı ülke oldu.",
+            "eventDescriptionFr": "Dans le cadre du projet Smiling Buddha, l'Inde a réussi à faire exploser sa première arme nucléaire, devenant ainsi le sixième pays à le faire.",
+            "eventDescriptionDe": "Unter dem Projekt Smiling Buddha zündete Indien erfolgreich seine erste Nuklearwaffe und wurde damit zur sechsten Nation, die dies tat.",
+            "eventDescriptionEs": "Bajo el proyecto Smiling Buddha, India detonó con éxito su primera arma nuclear, convirtiéndose en el sexto país en hacerlo.",
+            "eventDescriptionIt": "Nel contesto del progetto Smiling Buddha, l'India ha detonato con successo la sua prima arma nucleare, diventando il sesto paese a farlo."
         }
     ]
 }
