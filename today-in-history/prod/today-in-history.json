@@ -7717,6 +7717,18 @@
             "eventDescriptionDe": "Edward Jenner führte die erste Pockenimpfung durch.",
             "eventDescriptionEs": "Edward Jenner administró la primera inoculación de viruela.",
             "eventDescriptionIt": "Edward Jenner ha somministrato la prima inoculazione di vaiolo."
+        },
+        {
+            "eventId": "737",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1895/09/28",
+            "eventImg": null,
+            "eventDescriptionEn": "Louis Pasteur, a French biologist, microbiologist, and chemist renowned for his discoveries of the principles of vaccination, microbial fermentation, and pasteurization, passed away.",
+            "eventDescriptionTr": "Louis Pasteur, aşıların, mikrobiyal fermantasyonun ve pastörizasyonun prensiplerinin keşifleri ile tanınan Fransız biyolog, mikrobiyolog ve kimyager, hayatını kaybetti.",
+            "eventDescriptionFr": "Louis Pasteur, biologiste, microbiologiste et chimiste français renommé pour ses découvertes sur les principes de la vaccination, de la fermentation microbienne et de la pasteurisation, décède.",
+            "eventDescriptionDe": "Louis Pasteur, ein französischer Biologe, Mikrobiologe und Chemiker, der für seine Entdeckungen der Prinzipien der Impfung, mikrobiellen Fermentation und Pasteurisierung bekannt ist, ist verstorben.",
+            "eventDescriptionEs": "Louis Pasteur, biólogo, microbiólogo y químico francés conocido por sus descubrimientos sobre los principios de la vacunación, la fermentación microbiana y la pasteurización, falleció.",
+            "eventDescriptionIt": "Louis Pasteur, biologo, microbiologo e chimico francese rinomato per le sue scoperte sui principi della vaccinazione, della fermentazione microbica e della pastorizzazione, è morto."
         }
     ]
 }
