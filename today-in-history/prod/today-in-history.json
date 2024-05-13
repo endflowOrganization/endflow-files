@@ -7693,6 +7693,18 @@
             "eventDescriptionEs": "Ocho países del bloque comunista, incluida la Unión Soviética, firmaron un tratado de defensa mutua llamado el Pacto de Varsovia.",
             "eventDescriptionDe": "Acht kommunistische Blockländer, darunter die Sowjetunion, unterzeichneten einen gegenseitigen Verteidigungspakt namens Warschauer Pakt.",
             "eventDescriptionIt": "Otto paesi del blocco comunista, tra cui l'Unione Sovietica, firmarono un trattato di difesa reciproca chiamato il Patto di Varsavia."
+        },
+        {
+            "eventId": "735",
+            "eventCategory": "HISTORY",
+            "eventDate": "1940/05/14",
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/may%2Fwarsaw-pact-1955.jpeg?alt=media&token=777b816d-0f4b-4ab3-be61-160c816a317f",
+            "eventDescriptionEn": "Rotterdam, Netherlands, was bombed by the Luftwaffe of Nazi Germany despite a ceasefire during World War II, killing about 900 people and destroying the historic city center.",
+            "eventDescriptionTr": "Rotterdam, Hollanda, II. Dünya Savaşı sırasında bir ateşkes olmasına rağmen Nazi Almanyası'nın Luftwaffe'si tarafından bombalandı ve yaklaşık 900 kişi öldü, tarihi şehir merkezi yok edildi.",
+            "eventDescriptionEs": "Rotterdam, Países Bajos, fue bombardeada por la Luftwaffe de la Alemania nazi a pesar de un alto el fuego durante la Segunda Guerra Mundial, matando a unas 900 personas y destruyendo el centro histórico de la ciudad.",
+            "eventDescriptionDe": "Rotterdam, Niederlande, wurde während des Zweiten Weltkriegs trotz eines Waffenstillstands von der Luftwaffe des Nazi-Deutschland bombardiert, wobei etwa 900 Menschen getötet und das historische Stadtzentrum zerstört wurden.",
+            "eventDescriptionIt": "Rotterdam, Paesi Bassi, fu bombardata dalla Luftwaffe della Germania nazista nonostante una tregua durante la Seconda Guerra Mondiale, uccidendo circa 900 persone e distruggendo il centro storico della città.",
+            "eventDescriptionFr": "Rotterdam, Pays-Bas, a été bombardée par la Luftwaffe de l'Allemagne nazie malgré un cessez-le-feu pendant la Seconde Guerre mondiale, tuant environ 900 personnes et détruisant le centre-ville historique de la ville."
         }
     ]
 }
