@@ -7741,6 +7741,18 @@
             "eventDescriptionDe": "Unter dem Projekt Smiling Buddha zündete Indien erfolgreich seine erste Nuklearwaffe und wurde damit zur sechsten Nation, die dies tat.",
             "eventDescriptionEs": "Bajo el proyecto Smiling Buddha, India detonó con éxito su primera arma nuclear, convirtiéndose en el sexto país en hacerlo.",
             "eventDescriptionIt": "Nel contesto del progetto Smiling Buddha, l'India ha detonato con successo la sua prima arma nucleare, diventando il sesto paese a farlo."
+        },
+        {
+            "eventId": "739",
+            "eventCategory": "HISTORY",
+            "eventDate": "1953/05/18",
+            "eventImg": null,
+            "eventDescriptionEn": "Jacqueline Cochran becomes the first woman pilot to break the sound barrier.",
+            "eventDescriptionTr": "Jacqueline Cochran, sesten hız bariyerini kıran ilk kadın pilot olur.",
+            "eventDescriptionFr": "Jacqueline Cochran devient la première femme pilote à franchir le mur du son.",
+            "eventDescriptionDe": "Jacqueline Cochran wird die erste Pilotin, die die Schallmauer durchbricht.",
+            "eventDescriptionEs": "Jacqueline Cochran se convierte en la primera mujer piloto en romper la barrera del sonido.",
+            "eventDescriptionIt": "Jacqueline Cochran diventa la prima pilota a superare la barriera del suono."
         }
     ]
 }
