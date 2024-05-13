@@ -7705,6 +7705,18 @@
             "eventDescriptionDe": "Rotterdam, Niederlande, wurde während des Zweiten Weltkriegs trotz eines Waffenstillstands von der Luftwaffe des Nazi-Deutschland bombardiert, wobei etwa 900 Menschen getötet und das historische Stadtzentrum zerstört wurden.",
             "eventDescriptionIt": "Rotterdam, Paesi Bassi, fu bombardata dalla Luftwaffe della Germania nazista nonostante una tregua durante la Seconda Guerra Mondiale, uccidendo circa 900 persone e distruggendo il centro storico della città.",
             "eventDescriptionFr": "Rotterdam, Pays-Bas, a été bombardée par la Luftwaffe de l'Allemagne nazie malgré un cessez-le-feu pendant la Seconde Guerre mondiale, tuant environ 900 personnes et détruisant le centre-ville historique de la ville."
+        },
+        {
+            "eventId": "736",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1796/05/14",
+            "eventImg": null,
+            "eventDescriptionEn": "Edward Jenner administered the first smallpox inoculation.",
+            "eventDescriptionTr": "Edward Jenner, ilk çiçek aşısını yaptı.",
+            "eventDescriptionFr": "Edward Jenner administre la première inoculation contre la variole.",
+            "eventDescriptionDe": "Edward Jenner führte die erste Pockenimpfung durch.",
+            "eventDescriptionEs": "Edward Jenner administró la primera inoculación de viruela.",
+            "eventDescriptionIt": "Edward Jenner ha somministrato la prima inoculazione di vaiolo."
         }
     ]
 }
