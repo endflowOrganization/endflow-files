@@ -7671,6 +7671,17 @@
             "eventDescriptionEs": "El transbordador espacial Discovery es lanzado en la misión STS-96, la primera misión del transbordador para acoplarse con la Estación Espacial Internacional.",
             "eventDescriptionDe": "Space Shuttle Discovery wird auf STS-96 gestartet, der ersten Shuttle-Mission, die an die Internationale Raumstation anlegt.",
             "eventDescriptionIt": "Lo Space Shuttle Discovery viene lanciato sulla missione STS-96, la prima missione dello Shuttle per attraccare alla Stazione Spaziale Internazionale."
+        },
+        {
+            "eventId": "733",
+            "eventCategory": "SPORT",
+            "eventDate": "1950/05/13",
+            "eventImg": null,
+            "eventDescriptionEn": "The inaugural Formula One World Championship race took place at Silverstone Circuit. The race was won by Giuseppe Farina, who went on to become the inaugural champion that year.",
+            "eventDescriptionTr": "İlk Formula Bir Dünya Şampiyonası yarışı Silverstone Pisti'nde gerçekleşti. Yarışı kazanan Giuseppe Farina, o yılın ilk şampiyonu olmayı başardı.",
+            "eventDescriptionEs": "La primera carrera del Campeonato Mundial de Fórmula Uno tuvo lugar en el Circuito de Silverstone. La carrera fue ganada por Giuseppe Farina, quien se convertiría en el campeón inaugural ese año.",
+            "eventDescriptionDe": "Das erste Rennen der Formel-1-Weltmeisterschaft fand auf dem Silverstone Circuit statt. Das Rennen wurde von Giuseppe Farina gewonnen, der später in diesem Jahr zum ersten Champion wurde.",
+            "eventDescriptionIt": "La gara inaugurale del Campionato Mondiale di Formula Uno si è svolta al Circuito di Silverstone. La gara è stata vinta da Giuseppe Farina, che sarebbe diventato il campione inaugurale quell'anno."
         }
     ]
 }
