@@ -7682,6 +7682,17 @@
             "eventDescriptionEs": "La primera carrera del Campeonato Mundial de Fórmula Uno tuvo lugar en el Circuito de Silverstone. La carrera fue ganada por Giuseppe Farina, quien se convertiría en el campeón inaugural ese año.",
             "eventDescriptionDe": "Das erste Rennen der Formel-1-Weltmeisterschaft fand auf dem Silverstone Circuit statt. Das Rennen wurde von Giuseppe Farina gewonnen, der später in diesem Jahr zum ersten Champion wurde.",
             "eventDescriptionIt": "La gara inaugurale del Campionato Mondiale di Formula Uno si è svolta al Circuito di Silverstone. La gara è stata vinta da Giuseppe Farina, che sarebbe diventato il campione inaugurale quell'anno."
+        },
+        {
+            "eventId": "734",
+            "eventCategory": "HISTORY",
+            "eventDate": "1955/05/14",
+            "eventImg": null,
+            "eventDescriptionEn": "Eight Communist bloc countries, including the Soviet Union, signed a mutual defense treaty called the Warsaw Pact.",
+            "eventDescriptionTr": "Sovyetler Birliği de dahil olmak üzere sekiz Komünist blok ülkesi, Varşova Paktı adı verilen bir karşılıklı savunma antlaşması imzaladı.",
+            "eventDescriptionEs": "Ocho países del bloque comunista, incluida la Unión Soviética, firmaron un tratado de defensa mutua llamado el Pacto de Varsovia.",
+            "eventDescriptionDe": "Acht kommunistische Blockländer, darunter die Sowjetunion, unterzeichneten einen gegenseitigen Verteidigungspakt namens Warschauer Pakt.",
+            "eventDescriptionIt": "Otto paesi del blocco comunista, tra cui l'Unione Sovietica, firmarono un trattato di difesa reciproca chiamato il Patto di Varsavia."
         }
     ]
 }
