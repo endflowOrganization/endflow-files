@@ -7753,6 +7753,12 @@
             "eventDescriptionDe": "Jacqueline Cochran wird die erste Pilotin, die die Schallmauer durchbricht.",
             "eventDescriptionEs": "Jacqueline Cochran se convierte en la primera mujer piloto en romper la barrera del sonido.",
             "eventDescriptionIt": "Jacqueline Cochran diventa la prima pilota a superare la barriera del suono."
+        },{
+            "eventId": "740",
+            "eventCategory": "HISTORY",
+            "eventDate": "1972/05/14",
+            "eventImg": null,
+            "eventDescriptionTr": "Bülent Ecevit, CHP kurultayında Atatürk ve İsmet İnönü'den sonra CHP'nin üçüncü Genel Başkanı seçildi."
         }
     ]
 }
