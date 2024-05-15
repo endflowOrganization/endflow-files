@@ -35,7 +35,20 @@
             "eventDescriptionDe": "",
             "eventDescriptionEs": "",
             "eventDescriptionIt": ""
+        },{
+            "eventId": "748",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1969/05/16",
+            "eventImg": null,
+            "eventRegion": "All",
+            "eventDescriptionEn": "Venera 5, a Soviet space probe, lands on Venus.",
+            "eventDescriptionTr": "Venera 5, bir Sovyet uzay sondası, Venüs'e indi.",
+            "eventDescriptionFr": "Venera 5, une sonde spatiale soviétique, atterrit sur Vénus.",
+            "eventDescriptionDe": "Venera 5, eine sowjetische Raumsonde, landet auf der Venus.",
+            "eventDescriptionEs": "Venera 5, una sonda espacial soviética, aterriza en Venus.",
+            "eventDescriptionIt": "Venera 5, una sonda spaziale sovietica, atterra su Venere."
         }
+        
         
     ]
 }
