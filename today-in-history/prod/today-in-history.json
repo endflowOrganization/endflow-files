@@ -23,6 +23,18 @@
             "eventDescriptionDe": "Junko Tabei aus Japan wurde die erste Frau, die den Gipfel des Mount Everest erreichte.",
             "eventDescriptionEs": "Junko Tabei de Japón se convirtió en la primera mujer en alcanzar la cumbre del Monte Everest.",
             "eventDescriptionIt": "Junko Tabei dal Giappone è diventata la prima donna a raggiungere la vetta del Monte Everest."
+        },{
+            "eventId": "747",
+            "eventCategory": "SPORT",
+            "eventDate": "2010/05/16",
+            "eventImg": null,
+            "eventRegion": "TR",
+            "eventDescriptionEn": "",
+            "eventDescriptionTr": "Bursaspor, Turkcell Süper Ligde 4 büyüklerden sonra şampiyon olan ilk takım oldu.",
+            "eventDescriptionFr": "",
+            "eventDescriptionDe": "",
+            "eventDescriptionEs": "",
+            "eventDescriptionIt": ""
         }
         
     ]
