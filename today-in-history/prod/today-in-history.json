@@ -8491,6 +8491,18 @@
             "eventDescriptionDe": "Jessica Watson wurde die jüngste Person, die solo und ohne Unterstützung nonstop um die Welt segelte.",
             "eventDescriptionEs": "Jessica Watson se convirtió en la persona más joven en navegar alrededor del mundo, sin escalas y sin asistencia.",
             "eventDescriptionIt": "Jessica Watson divenne la persona più giovane a navigare in solitaria e senza assistenza intorno al mondo."
+        },
+        {
+            "eventId": "742",
+            "eventCategory": "MUSIC",
+            "eventDate": "2004/05/15",
+            "eventImg": null,
+            "eventDescriptionEn": "At the 49th Eurovision Song Contest held in Istanbul, Ruslana brought Ukraine its first place.",
+            "eventDescriptionTr": "İstanbul'da düzenlenen 49. Eurovision Şarkı Yarışması'nda, Ruslana Ukrayna'ya birinciliği getirdi.",
+            "eventDescriptionFr": "Lors du 49e Concours Eurovision de la chanson qui s'est tenu à Istanbul, Ruslana a apporté à l'Ukraine sa première place.",
+            "eventDescriptionDe": "Beim 49. Eurovision Song Contest in Istanbul brachte Ruslana der Ukraine den ersten Platz.",
+            "eventDescriptionEs": "En el 49º Festival de la Canción de Eurovisión celebrado en Estambul, Ruslana llevó a Ucrania a su primer puesto.",
+            "eventDescriptionIt": "Al 49º Eurovision Song Contest tenutosi a Istanbul, Ruslana ha portato l'Ucraina al primo posto."
         }
     ]
 }
