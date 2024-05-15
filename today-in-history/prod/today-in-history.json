@@ -8479,6 +8479,18 @@
             "eventDescriptionDe": "",
             "eventDescriptionEs": "",
             "eventDescriptionIt": ""
+        },
+        {
+            "eventId": "741",
+            "eventCategory": "SPORT",
+            "eventDate": "2010/05/15",
+            "eventImg": null,
+            "eventDescriptionEn": "Jessica Watson became the youngest person to sail, non-stop and unassisted around the world solo.",
+            "eventDescriptionTr": "Jessica Watson, dünya çapında tek başına, hiç durmadan ve yardım almadan yelkenle dolaşan en genç kişi oldu.",
+            "eventDescriptionFr": "Jessica Watson est devenue la plus jeune personne à faire le tour du monde en solitaire et sans escale.",
+            "eventDescriptionDe": "Jessica Watson wurde die jüngste Person, die solo und ohne Unterstützung nonstop um die Welt segelte.",
+            "eventDescriptionEs": "Jessica Watson se convirtió en la persona más joven en navegar alrededor del mundo, sin escalas y sin asistencia.",
+            "eventDescriptionIt": "Jessica Watson divenne la persona più giovane a navigare in solitaria e senza assistenza intorno al mondo."
         }
     ]
 }
