@@ -8515,6 +8515,18 @@
             "eventDescriptionDe": "",
             "eventDescriptionEs": "",
             "eventDescriptionIt": ""
+        },
+        {
+            "eventId": "744",
+            "eventCategory": "HISTORY",
+            "eventDate": "1905/05/15",
+            "eventImg": null,
+            "eventDescriptionEn": "The city of Las Vegas was founded in Nevada, United States.",
+            "eventDescriptionTr": "Las Vegas şehri, Amerika Birleşik Devletleri'nin Nevada eyaletinde kuruldu.",
+            "eventDescriptionFr": "La ville de Las Vegas a été fondée dans le Nevada, aux États-Unis.",
+            "eventDescriptionDe": "Die Stadt Las Vegas wurde in Nevada, Vereinigte Staaten, gegründet.",
+            "eventDescriptionEs": "La ciudad de Las Vegas fue fundada en Nevada, Estados Unidos.",
+            "eventDescriptionIt": "La città di Las Vegas è stata fondata nel Nevada, Stati Uniti."
         }
     ]
 }
