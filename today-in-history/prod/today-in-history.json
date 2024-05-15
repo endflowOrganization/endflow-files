@@ -59,7 +59,20 @@
             "eventDescriptionDe": "",
             "eventDescriptionEs": "",
             "eventDescriptionIt": ""
+        },{
+            "eventId": "750",
+            "eventCategory": "TECH",
+            "eventDate": "1960/05/16",
+            "eventImg": null,
+            "eventRegion": "All",
+            "eventDescriptionEn": "Theodore Maiman operates the first optical laser (a ruby laser), at Hughes Research Laboratories in Malibu, California.",
+            "eventDescriptionTr": "Theodore Maiman, Kaliforniya, Malibu'daki Hughes Araştırma Laboratuvarları'nda ilk optik lazeri (bir yakut lazer) çalıştırdı.",
+            "eventDescriptionFr": "Theodore Maiman fait fonctionner le premier laser optique (un laser à rubis) aux laboratoires de recherche Hughes à Malibu, en Californie.",
+            "eventDescriptionDe": "Theodore Maiman betreibt den ersten optischen Laser (einen Rubinlaser) in den Hughes Research Laboratories in Malibu, Kalifornien.",
+            "eventDescriptionEs": "Theodore Maiman opera el primer láser óptico (un láser de rubí) en los Laboratorios de Investigación Hughes en Malibu, California.",
+            "eventDescriptionIt": "Theodore Maiman aziona il primo laser ottico (un laser a rubino) presso i Laboratori di Ricerca Hughes a Malibu, California."
         }
+        
         
         
     ]
