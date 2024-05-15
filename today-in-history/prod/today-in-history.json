@@ -11,6 +11,19 @@
             "eventDescriptionDe": "",
             "eventDescriptionEs": "",
             "eventDescriptionIt": ""
+        },{
+            "eventId": "746",
+            "eventCategory": "HISTORY",
+            "eventDate": "1975/05/16",
+            "eventImg": null,
+            "eventRegion": "All",
+            "eventDescriptionEn": "Junko Tabei from Japan became the first woman to reach the summit of Mount Everest.",
+            "eventDescriptionTr": "Japonya'dan Junko Tabei, Everest Dağı'nın zirvesine ulaşan ilk kadın oldu.",
+            "eventDescriptionFr": "Junko Tabei du Japon est devenue la première femme à atteindre le sommet de l'Everest.",
+            "eventDescriptionDe": "Junko Tabei aus Japan wurde die erste Frau, die den Gipfel des Mount Everest erreichte.",
+            "eventDescriptionEs": "Junko Tabei de Japón se convirtió en la primera mujer en alcanzar la cumbre del Monte Everest.",
+            "eventDescriptionIt": "Junko Tabei dal Giappone è diventata la prima donna a raggiungere la vetta del Monte Everest."
         }
+        
     ]
 }
