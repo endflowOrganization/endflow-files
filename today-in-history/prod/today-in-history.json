@@ -83,7 +83,20 @@
             "eventDescriptionDe": "",
             "eventDescriptionEs": "",
             "eventDescriptionIt": ""
+        },{
+            "eventId": "752",
+            "eventCategory": "SPORT",
+            "eventDate": "2000/05/17",
+            "eventImg": null,
+            "eventRegion": "All",
+            "eventDescriptionEn": "Galatasaray won the UEFA Cup, becoming the first Turkish football team to win a European trophy.",
+            "eventDescriptionTr": "Galatasaray, UEFA Kupasını kazanarak Avrupa'da kupa kazanan ilk Türk futbol takımı unvanını aldı.",
+            "eventDescriptionFr": "Galatasaray a remporté la Coupe UEFA, devenant ainsi la première équipe de football turque à remporter un trophée européen.",
+            "eventDescriptionDe": "Galatasaray gewann den UEFA-Pokal und wurde damit die erste türkische Fußballmannschaft, die einen europäischen Pokal gewann.",
+            "eventDescriptionEs": "Galatasaray ganó la Copa de la UEFA, convirtiéndose en el primer equipo de fútbol turco en ganar un trofeo europeo.",
+            "eventDescriptionIt": "Il Galatasaray ha vinto la Coppa UEFA, diventando la prima squadra di calcio turca a vincere un trofeo europeo."
         }
+        
         
         
         
