@@ -247,7 +247,7 @@
             "eventImg": null,
             "eventRegion": "All",
             "eventDescriptionEn": "The United Kingdom voted in a referendum to leave the European Union, with 52% voting to leave and 48% voting to remain.",
-            "eventDescriptionTr": "Bir referandumda Birleşik Krallık, Avrupa Birliği'nden ayrılmayı oyladı. Sonuç: %52 ayrılma ve %48 kalma yönündeydi.",
+            "eventDescriptionTr": "Bir referandumda Birleşik Krallık, Avrupa Birliği'nden ayrılmayı oyladı. Sonuç:%52 ayrılma ve %48 kalma yönündeydi.",
             "eventDescriptionEs": "El Reino Unido votó en un referéndum para salir de la Unión Europea, con un 52% a favor de la salida y un 48% a favor de quedarse.",
             "eventDescriptionDe": "Das Vereinigte Königreich stimmte in einem Referendum für den Austritt aus der Europäischen Union, wobei 52% für den Austritt und 48% für den Verbleib stimmten.",
             "eventDescriptionIt": "Il Regno Unito ha votato in un referendum per lasciare l'Unione Europea, con il 52% a favore dell'uscita e il 48% a favore di rimanere."
@@ -5746,7 +5746,7 @@
             "eventRegion": "All",
             "eventDescriptionEn": "Falastin, a pioneering Palestinian Arabic-language newspaper, is founded in Jaffa.",
             "eventDescriptionTr": "Yön verici Filistin gazetesi Falastin, Jaffa'da kuruldu.",
-            "eventDescriptionDe": "Die bahnbrechende palästinensisch-arabische Zeitung Falastin wird in Jaffa gegründet. ",
+            "eventDescriptionDe": "Die bahnbrechende palästinensisch-arabische Zeitung Falastin wird in Jaffa gegründet.",
             "eventDescriptionIt": "Il Falastin, un giornale arabo palestinese pioniere, viene fondato a Jaffa.",
             "eventDescriptionEs": "El Falastin, un periódico pionero en árabe palestino, es fundado en Jaffa."
         },
@@ -5936,11 +5936,11 @@
             "eventDate": "1940/04/09",
             "eventImg": null,
             "eventRegion": "All",
-            "eventDescriptionEn": "During World War II, Operation Weserübung took place: Germany invaded Denmark and Norway.",
-            "eventDescriptionTr": "II. Dünya Savaşı sırasında Operasyon Weserübung gerçekleşti: Almanya Danimarka ve Norveç'i işgal etti.",
-            "eventDescriptionDe": "Während des Zweiten Weltkriegs fand die Operation Weserübung statt: Deutschland überfiel Dänemark und Norwegen.",
-            "eventDescriptionEs": "Durante la Segunda Guerra Mundial, tuvo lugar la Operación Weserübung: Alemania invadió Dinamarca y Noruega.",
-            "eventDescriptionIt": "Durante la Seconda Guerra Mondiale, ha avuto luogo l'Operazione Weserübung: la Germania ha invaso la Danimarca e la Norvegia."
+            "eventDescriptionEn": "During World War II, Operation Weserübung took place:Germany invaded Denmark and Norway.",
+            "eventDescriptionTr": "II. Dünya Savaşı sırasında Operasyon Weserübung gerçekleşti:Almanya Danimarka ve Norveç'i işgal etti.",
+            "eventDescriptionDe": "Während des Zweiten Weltkriegs fand die Operation Weserübung statt:Deutschland überfiel Dänemark und Norwegen.",
+            "eventDescriptionEs": "Durante la Segunda Guerra Mundial, tuvo lugar la Operación Weserübung:Alemania invadió Dinamarca y Noruega.",
+            "eventDescriptionIt": "Durante la Seconda Guerra Mondiale, ha avuto luogo l'Operazione Weserübung:la Germania ha invaso la Danimarca e la Norvegia."
         },
         {
             "eventId": "510",
@@ -6200,11 +6200,11 @@
             "eventDate": "2022/04/14",
             "eventImg": null,
             "eventRegion": "All",
-            "eventDescriptionEn": "Russian invasion of Ukraine: The Russian warship Moskva sank.",
-            "eventDescriptionTr": "Ukrayna'ya Rusya'nın işgali: Rus savaş gemisi Moskva battı.",
-            "eventDescriptionDe": "Russische Invasion der Ukraine: Das russische Kriegsschiff Moskva sank.",
-            "eventDescriptionEs": "Invasión rusa de Ucrania: El buque de guerra ruso Moskva se hundió.",
-            "eventDescriptionIt": "Invasione russa dell'Ucraina: La nave da guerra russa Moskva affondò."
+            "eventDescriptionEn": "Russian invasion of Ukraine:The Russian warship Moskva sank.",
+            "eventDescriptionTr": "Ukrayna'ya Rusya'nın işgali:Rus savaş gemisi Moskva battı.",
+            "eventDescriptionDe": "Russische Invasion der Ukraine:Das russische Kriegsschiff Moskva sank.",
+            "eventDescriptionEs": "Invasión rusa de Ucrania:El buque de guerra ruso Moskva se hundió.",
+            "eventDescriptionIt": "Invasione russa dell'Ucraina:La nave da guerra russa Moskva affondò."
         },
         {
             "eventId": "532",
@@ -6368,11 +6368,11 @@
             "eventDate": "1999/05/02",
             "eventImg": null,
             "eventRegion": "All",
-            "eventDescriptionEn": "Panamanian general election: Mireya Moscoso becomes the first woman to be elected President of Panama.",
-            "eventDescriptionTr": "Panamalı genel seçimleri: Mireya Moscoso, Panama'nın ilk kadın Devlet Başkanı seçilir.",
-            "eventDescriptionDe": "Panamaische Parlamentswahl: Mireya Moscoso wird zur ersten Frau gewählt, die Präsidentin Panamas wird.",
-            "eventDescriptionEs": "Elecciones generales en Panamá: Mireya Moscoso se convierte en la primera mujer en ser elegida Presidenta de Panamá.",
-            "eventDescriptionIt": "Elezioni generali panamensi: Mireya Moscoso diventa la prima donna a essere eletta Presidente di Panama."
+            "eventDescriptionEn": "Panamanian general election:Mireya Moscoso becomes the first woman to be elected President of Panama.",
+            "eventDescriptionTr": "Panamalı genel seçimleri:Mireya Moscoso, Panama'nın ilk kadın Devlet Başkanı seçilir.",
+            "eventDescriptionDe": "Panamaische Parlamentswahl:Mireya Moscoso wird zur ersten Frau gewählt, die Präsidentin Panamas wird.",
+            "eventDescriptionEs": "Elecciones generales en Panamá:Mireya Moscoso se convierte en la primera mujer en ser elegida Presidenta de Panamá.",
+            "eventDescriptionIt": "Elezioni generali panamensi:Mireya Moscoso diventa la prima donna a essere eletta Presidente di Panama."
         },
         {
             "eventId": "546",
@@ -6441,7 +6441,7 @@
             "eventImg": null,
             "eventRegion": "All",
             "eventDescriptionEn": "The Treaty of Accession is signed in Athens admitting ten new member states (Cyprus, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia) to the European Union.",
-            "eventDescriptionTr": "Yeni üye devletleri Avrupa Birliği'ne kabul eden Katılım Anlaşması (Kıbrıs, Çek Cumhuriyeti, Estonya, Macaristan, Letonya, Litvanya, Malta, Polonya, Slovakya ve Slovenya),  Atina'da imzalandı.",
+            "eventDescriptionTr": "Yeni üye devletleri Avrupa Birliği'ne kabul eden Katılım Anlaşması (Kıbrıs, Çek Cumhuriyeti, Estonya, Macaristan, Letonya, Litvanya, Malta, Polonya, Slovakya ve Slovenya),Atina'da imzalandı.",
             "eventDescriptionDe": "Der Vertrag über den Beitritt wird in Athen unterzeichnet und zehn neue Mitgliedsstaaten (Zypern, Tschechische Republik, Estland, Ungarn, Lettland, Litauen, Malta, Polen, Slowakei und Slowenien) treten der Europäischen Union bei.",
             "eventDescriptionEs": "El Tratado de Adhesión se firma en Atenas, admitiendo diez nuevos Estados miembros (Chipre, República Checa, Estonia, Hungría, Letonia, Lituania, Malta, Polonia, Eslovaquia y Eslovenia) en la Unión Europea.",
             "eventDescriptionIt": "Il Trattato di Adesione viene firmato ad Atene ammettendo dieci nuovi Stati membri (Cipro, Repubblica Ceca, Estonia, Ungheria, Lettonia, Lituania, Malta, Polonia, Slovacchia e Slovenia) nell'Unione Europea."
@@ -7244,11 +7244,11 @@
             "eventDate": "1990/04/24",
             "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/april%2Fhubble-space-telescope.jpeg?alt=media&token=abcb5f33-8d42-45d2-83b1-b1e2983f7216",
             "eventRegion": "All",
-            "eventDescriptionEn": "STS-31: The Hubble Space Telescope was launched from the Space Shuttle Discovery.",
-            "eventDescriptionTr": "STS-31: Hubble Uzay Teleskobu Uzay Mekiği Discovery'den fırlatıldı.",
-            "eventDescriptionEs": "STS-31: El telescopio espacial Hubble fue lanzado desde el transbordador espacial Discovery.",
-            "eventDescriptionDe": "STS-31: Das Hubble-Weltraumteleskop wurde vom Space Shuttle Discovery aus gestartet.",
-            "eventDescriptionIt": "STS-31: Il telescopio spaziale Hubble è stato lanciato dallo Space Shuttle Discovery."
+            "eventDescriptionEn": "STS-31:The Hubble Space Telescope was launched from the Space Shuttle Discovery.",
+            "eventDescriptionTr": "STS-31:Hubble Uzay Teleskobu Uzay Mekiği Discovery'den fırlatıldı.",
+            "eventDescriptionEs": "STS-31:El telescopio espacial Hubble fue lanzado desde el transbordador espacial Discovery.",
+            "eventDescriptionDe": "STS-31:Das Hubble-Weltraumteleskop wurde vom Space Shuttle Discovery aus gestartet.",
+            "eventDescriptionIt": "STS-31:Il telescopio spaziale Hubble è stato lanciato dallo Space Shuttle Discovery."
         },
         {
             "eventId": "619",
@@ -7292,11 +7292,11 @@
             "eventDate": "1915/04/25",
             "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/april%2Fbattle-of-gallipoli.jpeg?alt=media&token=dbced6cc-db7f-4f4b-87db-88ffbeff2bc7",
             "eventRegion": "All",
-            "eventDescriptionEn": "World War I: The Battle of Gallipoli began: The invasion of the Gallipoli Peninsula by British, French, Indian, Newfoundland, Australian, and New Zealand troops began with the landings at Anzac Cove and Hell's Cape.",
-            "eventDescriptionTr": "I. Dünya Savaşı: Gelibolu Savaşı başladı: İngiliz, Fransız, Hint, Newfoundland, Avustralya ve Yeni Zelanda birliklerinin Gelibolu Yarımadası'na saldırısı, Anzak Koyu ve Cehennem Burnu'na çıkarma ile başladı.",
-            "eventDescriptionEs": "Primera Guerra Mundial: Comenzó la Batalla de Gallipoli: la invasión de la península de Gallipoli por parte de tropas británicas, francesas, indias, de Terranova, australianas y neozelandesas comenzó con los desembarcos en Anzac Cove y Hell's Cape.",
-            "eventDescriptionDe": "Erster Weltkrieg: Die Schlacht von Gallipoli begann: Die Invasion der Halbinsel Gallipoli durch britische, französische, indische, Neufundland-, australische und neuseeländische Truppen begann mit Landungen in Anzac Cove und Hell's Cape.",
-            "eventDescriptionIt": "Prima Guerra Mondiale: Iniziò la Battaglia di Gallipoli: L'invasione della penisola di Gallipoli da parte di truppe britanniche, francesi, indiane, di Terranova, australiane e neozelandesi iniziò con sbarchi ad Anzac Cove e Hell's Cape."
+            "eventDescriptionEn": "World War I:The Battle of Gallipoli began:The invasion of the Gallipoli Peninsula by British, French, Indian, Newfoundland, Australian, and New Zealand troops began with the landings at Anzac Cove and Hell's Cape.",
+            "eventDescriptionTr": "I. Dünya Savaşı:Gelibolu Savaşı başladı:İngiliz, Fransız, Hint, Newfoundland, Avustralya ve Yeni Zelanda birliklerinin Gelibolu Yarımadası'na saldırısı, Anzak Koyu ve Cehennem Burnu'na çıkarma ile başladı.",
+            "eventDescriptionEs": "Primera Guerra Mundial:Comenzó la Batalla de Gallipoli:la invasión de la península de Gallipoli por parte de tropas británicas, francesas, indias, de Terranova, australianas y neozelandesas comenzó con los desembarcos en Anzac Cove y Hell's Cape.",
+            "eventDescriptionDe": "Erster Weltkrieg:Die Schlacht von Gallipoli begann:Die Invasion der Halbinsel Gallipoli durch britische, französische, indische, Neufundland-, australische und neuseeländische Truppen begann mit Landungen in Anzac Cove und Hell's Cape.",
+            "eventDescriptionIt": "Prima Guerra Mondiale:Iniziò la Battaglia di Gallipoli:L'invasione della penisola di Gallipoli da parte di truppe britanniche, francesi, indiane, di Terranova, australiane e neozelandesi iniziò con sbarchi ad Anzac Cove e Hell's Cape."
         },
         {
             "eventId": "623",
@@ -7328,11 +7328,11 @@
             "eventDate": "1915/04/26",
             "eventImg": null,
             "eventRegion": "All",
-            "eventDescriptionEn": "World War I: Italy secretly signed the Treaty of London, pledging to join the Allied Powers (France, Russia, and Britain).",
-            "eventDescriptionTr": "I. Dünya Savaşı: İtalya, Müttefik Devletlere (Fransa, Rusya ve Britanya) katılacağına dair Londra Antlaşması'nı gizlice imzaladı.",
-            "eventDescriptionEs": "Primera Guerra Mundial: Italia firmó en secreto el Tratado de Londres, comprometiéndose a unirse a las Potencias Aliadas (Francia, Rusia y Gran Bretaña).",
-            "eventDescriptionDe": "Erster Weltkrieg: Italien unterzeichnete heimlich den Londoner Vertrag und verpflichtete sich, den Alliierten (Frankreich, Russland und Großbritannien) beizutreten.",
-            "eventDescriptionIt": "Prima Guerra Mondiale: L'Italia firmò segretamente il Trattato di Londra, impegnandosi ad unirsi alle Potenze Alleate (Francia, Russia e Gran Bretagna)."
+            "eventDescriptionEn": "World War I:Italy secretly signed the Treaty of London, pledging to join the Allied Powers (France, Russia, and Britain).",
+            "eventDescriptionTr": "I. Dünya Savaşı:İtalya, Müttefik Devletlere (Fransa, Rusya ve Britanya) katılacağına dair Londra Antlaşması'nı gizlice imzaladı.",
+            "eventDescriptionEs": "Primera Guerra Mundial:Italia firmó en secreto el Tratado de Londres, comprometiéndose a unirse a las Potencias Aliadas (Francia, Rusia y Gran Bretaña).",
+            "eventDescriptionDe": "Erster Weltkrieg:Italien unterzeichnete heimlich den Londoner Vertrag und verpflichtete sich, den Alliierten (Frankreich, Russland und Großbritannien) beizutreten.",
+            "eventDescriptionIt": "Prima Guerra Mondiale:L'Italia firmò segretamente il Trattato di Londra, impegnandosi ad unirsi alle Potenze Alleate (Francia, Russia e Gran Bretagna)."
         },
         {
             "eventId": "626",
@@ -7340,11 +7340,11 @@
             "eventDate": "1941/04/27",
             "eventImg": null,
             "eventRegion": "All",
-            "eventDescriptionEn": "World War II: German troops entered Athens.",
-            "eventDescriptionTr": "II. Dünya Savaşı: Alman birlikleri Atina'ya girdi.",
-            "eventDescriptionEs": "Segunda Guerra Mundial: Las tropas alemanas entraron en Atenas.",
-            "eventDescriptionDe": "Zweiter Weltkrieg: Deutsche Truppen marschierten in Athen ein.",
-            "eventDescriptionIt": "Seconda Guerra Mondiale: Le truppe tedesche entrarono ad Atene."
+            "eventDescriptionEn": "World War II:German troops entered Athens.",
+            "eventDescriptionTr": "II. Dünya Savaşı:Alman birlikleri Atina'ya girdi.",
+            "eventDescriptionEs": "Segunda Guerra Mundial:Las tropas alemanas entraron en Atenas.",
+            "eventDescriptionDe": "Zweiter Weltkrieg:Deutsche Truppen marschierten in Athen ein.",
+            "eventDescriptionIt": "Seconda Guerra Mondiale:Le truppe tedesche entrarono ad Atene."
         },
         {
             "eventId": "627",
@@ -7434,7 +7434,7 @@
             "eventId": "634",
             "eventCategory": "SPORT",
             "eventDate": "1910/04/28",
-            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/april%2Flouis-paulhan-aeroplane-win-race.jpeg?alt=media&token=311a7a54-3e5e-47c7-ac1e-01a13e05af74 ",
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/april%2Flouis-paulhan-aeroplane-win-race.jpeg?alt=media&token=311a7a54-3e5e-47c7-ac1e-01a13e05af74",
             "eventRegion": "All",
             "eventDescriptionEn": "Frenchman Louis Paulhan won the 1910 London to Manchester air race, the first long-distance aeroplane race in the United Kingdom.",
             "eventDescriptionTr": "Fransız Louis Paulhan, Birleşik Krallık'taki ilk uzun mesafeli uçak yarışı olan 1910 Londra-Manchester hava yarışını kazandı.",
@@ -7604,11 +7604,11 @@
             "eventDate": "1937/05/06",
             "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/may%2Fhindenburg-disaster.jpeg?alt=media&token=7c826ae2-d3ec-4e18-9ccd-b7b2256f0345",
             "eventRegion": "All",
-            "eventDescriptionEn": "Hindenburg disaster: The German zeppelin Hindenburg caught fire and was destroyed within a minute while attempting to dock at Lakehurst, New Jersey. Thirty-six people were killed.",
-            "eventDescriptionTr": "Hindenburg felaketi: Alman zeplin Hindenburg, New Jersey, Lakehurst'ta yanaşmaya çalışırken ateş aldı ve bir dakika içinde yok oldu. Otuz altı kişi öldü.",
-            "eventDescriptionEs": "Desastre del Hindenburg: El dirigible alemán Hindenburg se incendió y fue destruido en un minuto mientras intentaba atracar en Lakehurst, Nueva Jersey. Murieron treinta y seis personas.",
-            "eventDescriptionDe": "Hindenburg-Katastrophe: Der deutsche Zeppelin Hindenburg fing Feuer und wurde innerhalb einer Minute zerstört, als er versuchte, in Lakehurst, New Jersey, anzulegen. Sechsunddreißig Menschen wurden getötet.",
-            "eventDescriptionIt": "Disastro dell'Hindenburg: Il dirigibile tedesco Hindenburg ha preso fuoco ed è stato distrutto in un minuto mentre tentava di attraccare a Lakehurst, nel New Jersey. Trentasei persone sono state uccise."
+            "eventDescriptionEn": "Hindenburg disaster:The German zeppelin Hindenburg caught fire and was destroyed within a minute while attempting to dock at Lakehurst, New Jersey. Thirty-six people were killed.",
+            "eventDescriptionTr": "Hindenburg felaketi:Alman zeplin Hindenburg, New Jersey, Lakehurst'ta yanaşmaya çalışırken ateş aldı ve bir dakika içinde yok oldu. Otuz altı kişi öldü.",
+            "eventDescriptionEs": "Desastre del Hindenburg:El dirigible alemán Hindenburg se incendió y fue destruido en un minuto mientras intentaba atracar en Lakehurst, Nueva Jersey. Murieron treinta y seis personas.",
+            "eventDescriptionDe": "Hindenburg-Katastrophe:Der deutsche Zeppelin Hindenburg fing Feuer und wurde innerhalb einer Minute zerstört, als er versuchte, in Lakehurst, New Jersey, anzulegen. Sechsunddreißig Menschen wurden getötet.",
+            "eventDescriptionIt": "Disastro dell'Hindenburg:Il dirigibile tedesco Hindenburg ha preso fuoco ed è stato distrutto in un minuto mentre tentava di attraccare a Lakehurst, nel New Jersey. Trentasei persone sono state uccise."
         },
         {
             "eventId": "649",
@@ -7760,11 +7760,11 @@
             "eventDate": "1945/05/03",
             "eventImg": null,
             "eventRegion": "All",
-            "eventDescriptionEn": "World War II: The prison ships Cap Arcona, Thielbek, and Deutschland were sunk by the Royal Air Force in Lübeck Bay.",
-            "eventDescriptionTr": "II. Dünya Savaşı: Cap Arcona, Thielbek ve Deutschland mahkûm gemileri, Lübeck Körfezi'nde Kraliyet Hava Kuvvetleri tarafından batırıldı.",
-            "eventDescriptionEs": "Segunda Guerra Mundial: Los barcos prisión Cap Arcona, Thielbek y Deutschland fueron hundidos por la Royal Air Force en la Bahía de Lübeck.",
-            "eventDescriptionDe": "Zweiter Weltkrieg: Die Gefängnisschiffe Cap Arcona, Thielbek und Deutschland wurden von der Royal Air Force in der Lübecker Bucht versenkt.",
-            "eventDescriptionIt": "Seconda Guerra Mondiale: Le navi-prigione Cap Arcona, Thielbek e Deutschland furono affondate dalla Royal Air Force nella Baia di Lubecca."
+            "eventDescriptionEn": "World War II:The prison ships Cap Arcona, Thielbek, and Deutschland were sunk by the Royal Air Force in Lübeck Bay.",
+            "eventDescriptionTr": "II. Dünya Savaşı:Cap Arcona, Thielbek ve Deutschland mahkûm gemileri, Lübeck Körfezi'nde Kraliyet Hava Kuvvetleri tarafından batırıldı.",
+            "eventDescriptionEs": "Segunda Guerra Mundial:Los barcos prisión Cap Arcona, Thielbek y Deutschland fueron hundidos por la Royal Air Force en la Bahía de Lübeck.",
+            "eventDescriptionDe": "Zweiter Weltkrieg:Die Gefängnisschiffe Cap Arcona, Thielbek und Deutschland wurden von der Royal Air Force in der Lübecker Bucht versenkt.",
+            "eventDescriptionIt": "Seconda Guerra Mondiale:Le navi-prigione Cap Arcona, Thielbek e Deutschland furono affondate dalla Royal Air Force nella Baia di Lubecca."
         },
         {
             "eventId": "682",
@@ -7808,11 +7808,11 @@
             "eventDate": "1955/05/06",
             "eventImg": null,
             "eventRegion": "All",
-            "eventDescriptionEn": "Cold War: West Germany joined NATO.",
-            "eventDescriptionTr": "Soğuk Savaş: Batı Almanya NATO'ya katıldı.",
-            "eventDescriptionEs": "Guerra Fría: Alemania Occidental se unió a la OTAN.",
-            "eventDescriptionDe": "Kalter Krieg: Westdeutschland trat der NATO bei.",
-            "eventDescriptionIt": "Guerra Fredda: La Germania Ovest si unì alla NATO."
+            "eventDescriptionEn": "Cold War:West Germany joined NATO.",
+            "eventDescriptionTr": "Soğuk Savaş:Batı Almanya NATO'ya katıldı.",
+            "eventDescriptionEs": "Guerra Fría:Alemania Occidental se unió a la OTAN.",
+            "eventDescriptionDe": "Kalter Krieg:Westdeutschland trat der NATO bei.",
+            "eventDescriptionIt": "Guerra Fredda:La Germania Ovest si unì alla NATO."
         },
         {
             "eventId": "686",
@@ -7964,11 +7964,11 @@
             "eventDate": "1945/05/04",
             "eventImg": null,
             "eventRegion": "All",
-            "eventDescriptionEn": "World War II: The Neuengamme concentration camp near Hamburg was liberated by the British Army.",
-            "eventDescriptionTr": "II. Dünya Savaşı: Hamburg yakınlarındaki Neuengamme toplama kampı, İngiliz Ordusu tarafından kurtarıldı.",
-            "eventDescriptionEs": "Segunda Guerra Mundial: El campo de concentración de Neuengamme cerca de Hamburgo fue liberado por el Ejército Británico.",
-            "eventDescriptionDe": "Zweiter Weltkrieg: Das Konzentrationslager Neuengamme in der Nähe von Hamburg wurde von der britischen Armee befreit.",
-            "eventDescriptionIt": "Seconda Guerra Mondiale: Il campo di concentramento di Neuengamme vicino ad Amburgo è stato liberato dall'esercito britannico."
+            "eventDescriptionEn": "World War II:The Neuengamme concentration camp near Hamburg was liberated by the British Army.",
+            "eventDescriptionTr": "II. Dünya Savaşı:Hamburg yakınlarındaki Neuengamme toplama kampı, İngiliz Ordusu tarafından kurtarıldı.",
+            "eventDescriptionEs": "Segunda Guerra Mundial:El campo de concentración de Neuengamme cerca de Hamburgo fue liberado por el Ejército Británico.",
+            "eventDescriptionDe": "Zweiter Weltkrieg:Das Konzentrationslager Neuengamme in der Nähe von Hamburg wurde von der britischen Armee befreit.",
+            "eventDescriptionIt": "Seconda Guerra Mondiale:Il campo di concentramento di Neuengamme vicino ad Amburgo è stato liberato dall'esercito britannico."
         },
         {
             "eventId": "699",
@@ -8012,11 +8012,11 @@
             "eventDate": "1961/05/05",
             "eventImg": null,
             "eventRegion": "All",
-            "eventDescriptionEn": "Project Mercury: Alan Shepard became the first American to travel into outer space, on a sub-orbital flight.",
-            "eventDescriptionTr": "Proje Merkür: Alan Shepard, sub-orbital uçuşla uzaya seyahat eden ilk Amerikalı oldu.",
-            "eventDescriptionEs": "Proyecto Mercurio: Alan Shepard se convirtió en el primer estadounidense en viajar al espacio exterior, en un vuelo suborbital.",
-            "eventDescriptionDe": "Projekt Mercury: Alan Shepard wurde der erste Amerikaner, der bei einem suborbitalen Flug ins All reiste.",
-            "eventDescriptionIt": "Progetto Mercury: Alan Shepard è diventato il primo americano a viaggiare nello spazio, in un volo suborbitale."
+            "eventDescriptionEn": "Project Mercury:Alan Shepard became the first American to travel into outer space, on a sub-orbital flight.",
+            "eventDescriptionTr": "Proje Merkür:Alan Shepard, sub-orbital uçuşla uzaya seyahat eden ilk Amerikalı oldu.",
+            "eventDescriptionEs": "Proyecto Mercurio:Alan Shepard se convirtió en el primer estadounidense en viajar al espacio exterior, en un vuelo suborbital.",
+            "eventDescriptionDe": "Projekt Mercury:Alan Shepard wurde der erste Amerikaner, der bei einem suborbitalen Flug ins All reiste.",
+            "eventDescriptionIt": "Progetto Mercury:Alan Shepard è diventato il primo americano a viaggiare nello spazio, in un volo suborbitale."
         },
         {
             "eventId": "703",
@@ -8204,11 +8204,11 @@
             "eventDate": "1941/05/09",
             "eventImg": null,
             "eventRegion": "All",
-            "eventDescriptionEn": "World War II: The German submarine U-110 was captured by the Royal Navy. On board was the latest Enigma machine which Allied cryptographers later used to break coded German messages.",
-            "eventDescriptionTr": "II. Dünya Savaşı: Alman denizaltısı U-110, Kraliyet Donanması tarafından ele geçirildi. İçinde Müttefik kriptologların kodlanmış Alman mesajlarını çözmek için daha sonra kullandığı en son Enigma makinesi vardı.",
-            "eventDescriptionEs": "Segunda Guerra Mundial: El submarino alemán U-110 fue capturado por la Marina Real británica. A bordo se encontraba la última máquina Enigma, que luego los criptógrafos aliados utilizaron para descifrar mensajes alemanes codificados.",
-            "eventDescriptionDe": "Zweiter Weltkrieg: Das deutsche U-Boot U-110 wurde von der Royal Navy erobert. An Bord befand sich die neueste Enigma-Maschine, die alliierte Kryptografen später verwendeten, um codierte deutsche Nachrichten zu entschlüsseln.",
-            "eventDescriptionIt": "Seconda Guerra Mondiale: Il sottomarino tedesco U-110 fu catturato dalla Royal Navy. A bordo c'era l'ultima macchina Enigma, che i crittografi alleati usarono in seguito per decifrare i messaggi tedeschi codificati."
+            "eventDescriptionEn": "World War II:The German submarine U-110 was captured by the Royal Navy. On board was the latest Enigma machine which Allied cryptographers later used to break coded German messages.",
+            "eventDescriptionTr": "II. Dünya Savaşı:Alman denizaltısı U-110, Kraliyet Donanması tarafından ele geçirildi. İçinde Müttefik kriptologların kodlanmış Alman mesajlarını çözmek için daha sonra kullandığı en son Enigma makinesi vardı.",
+            "eventDescriptionEs": "Segunda Guerra Mundial:El submarino alemán U-110 fue capturado por la Marina Real británica. A bordo se encontraba la última máquina Enigma, que luego los criptógrafos aliados utilizaron para descifrar mensajes alemanes codificados.",
+            "eventDescriptionDe": "Zweiter Weltkrieg:Das deutsche U-Boot U-110 wurde von der Royal Navy erobert. An Bord befand sich die neueste Enigma-Maschine, die alliierte Kryptografen später verwendeten, um codierte deutsche Nachrichten zu entschlüsseln.",
+            "eventDescriptionIt": "Seconda Guerra Mondiale:Il sottomarino tedesco U-110 fu catturato dalla Royal Navy. A bordo c'era l'ultima macchina Enigma, che i crittografi alleati usarono in seguito per decifrare i messaggi tedeschi codificati."
         },
         {
             "eventId": "719",
@@ -8216,11 +8216,11 @@
             "eventDate": "2022/05/09",
             "eventImg": null,
             "eventRegion": "All",
-            "eventDescriptionEn": "Russo-Ukrainian War: United States President Joe Biden signed the 2022 Lend-Lease Act into law, a rebooted World War II-era policy expediting American equipment to Ukraine and other Eastern European countries.",
-            "eventDescriptionTr": "Rusya-Ukrayna Savaşı: Amerika Birleşik Devletleri Başkanı Joe Biden, Ukrayna ve diğer Doğu Avrupa ülkelerine Amerikan ekipmanlarının hızlandırılmasını sağlayan 2022 Borç Verme-Yasası'nı imzalayarak yasalaştırdı.",
-            "eventDescriptionEs": "Guerra Ruso-Ucraniana: El presidente de Estados Unidos, Joe Biden, firmó la Ley de Préstamo y Arriendo de 2022, una política reinventada de la época de la Segunda Guerra Mundial que acelera el equipo estadounidense a Ucrania y otros países de Europa del Este.",
-            "eventDescriptionDe": "Russisch-Ukrainischer Krieg: Der Präsident der Vereinigten Staaten, Joe Biden, unterzeichnete das Lend-Lease-Gesetz von 2022, eine neu gestartete Politik aus der Zeit des Zweiten Weltkriegs, die die Lieferung amerikanischer Ausrüstung in die Ukraine und andere osteuropäische Länder beschleunigt.",
-            "eventDescriptionIt": "Guerra russo-ucraina: Il presidente degli Stati Uniti Joe Biden ha firmato la legge Lend-Lease del 2022, una politica rinnovata dell'era della seconda guerra mondiale per accelerare le attrezzature americane verso l'Ucraina e altri paesi dell'Europa orientale."
+            "eventDescriptionEn": "Russo-Ukrainian War:United States President Joe Biden signed the 2022 Lend-Lease Act into law, a rebooted World War II-era policy expediting American equipment to Ukraine and other Eastern European countries.",
+            "eventDescriptionTr": "Rusya-Ukrayna Savaşı:Amerika Birleşik Devletleri Başkanı Joe Biden, Ukrayna ve diğer Doğu Avrupa ülkelerine Amerikan ekipmanlarının hızlandırılmasını sağlayan 2022 Borç Verme-Yasası'nı imzalayarak yasalaştırdı.",
+            "eventDescriptionEs": "Guerra Ruso-Ucraniana:El presidente de Estados Unidos, Joe Biden, firmó la Ley de Préstamo y Arriendo de 2022, una política reinventada de la época de la Segunda Guerra Mundial que acelera el equipo estadounidense a Ucrania y otros países de Europa del Este.",
+            "eventDescriptionDe": "Russisch-Ukrainischer Krieg:Der Präsident der Vereinigten Staaten, Joe Biden, unterzeichnete das Lend-Lease-Gesetz von 2022, eine neu gestartete Politik aus der Zeit des Zweiten Weltkriegs, die die Lieferung amerikanischer Ausrüstung in die Ukraine und andere osteuropäische Länder beschleunigt.",
+            "eventDescriptionIt": "Guerra russo-ucraina:Il presidente degli Stati Uniti Joe Biden ha firmato la legge Lend-Lease del 2022, una politica rinnovata dell'era della seconda guerra mondiale per accelerare le attrezzature americane verso l'Ucraina e altri paesi dell'Europa orientale."
         },
         {
             "eventId": "720",
@@ -8483,8 +8483,9 @@
         {
             "eventId": "741",
             "eventCategory": "SPORT",
-            "eventDate": "2010/05/15",
+            "eventDate": "1993/05/15",
             "eventImg": null,
+            "eventRegion": "All",
             "eventDescriptionEn": "Jessica Watson became the youngest person to sail, non-stop and unassisted around the world solo.",
             "eventDescriptionTr": "Jessica Watson, dünya çapında tek başına, hiç durmadan ve yardım almadan yelkenle dolaşan en genç kişi oldu.",
             "eventDescriptionFr": "Jessica Watson est devenue la plus jeune personne à faire le tour du monde en solitaire et sans escale.",
@@ -8497,6 +8498,7 @@
             "eventCategory": "MUSIC",
             "eventDate": "2004/05/15",
             "eventImg": null,
+            "eventRegion": "All",
             "eventDescriptionEn": "At the 49th Eurovision Song Contest held in Istanbul, Ruslana brought Ukraine its first place.",
             "eventDescriptionTr": "İstanbul'da düzenlenen 49. Eurovision Şarkı Yarışması'nda, Ruslana Ukrayna'ya birinciliği getirdi.",
             "eventDescriptionFr": "Lors du 49e Concours Eurovision de la chanson qui s'est tenu à Istanbul, Ruslana a apporté à l'Ukraine sa première place.",
@@ -8509,6 +8511,7 @@
             "eventCategory": "HISTORY",
             "eventDate": "1919/05/15",
             "eventImg": null,
+            "eventRegion": "TR",
             "eventDescriptionEn": "",
             "eventDescriptionTr": "İtilaf Devletleri desteğindeki Yunanlar, İzmir'i işgal etti. Gazeteci Hasan Tahsin ve Askerlik Şubesi Başkanı Albay Süleyman Fethi, Yunan askerleri tarafından öldürüldüler ve Türk Kurtuluş Savaşı'nın ilk şehitleri oldular.",
             "eventDescriptionFr": "",
@@ -8517,16 +8520,160 @@
             "eventDescriptionIt": ""
         },
         {
-            "eventId": "744",
+            "eventId":"744",
             "eventCategory": "HISTORY",
             "eventDate": "1905/05/15",
+            "eventRegion": "US",
             "eventImg": null,
-            "eventDescriptionEn": null,
+            "eventDescriptionEn": "The city of Las Vegas was founded in Nevada, United States.",
             "eventDescriptionTr": "Las Vegas şehri, Amerika Birleşik Devletleri'nin Nevada eyaletinde kuruldu.",
             "eventDescriptionFr": "La ville de Las Vegas a été fondée dans le Nevada, aux États-Unis.",
             "eventDescriptionDe": "Die Stadt Las Vegas wurde in Nevada, Vereinigte Staaten, gegründet.",
             "eventDescriptionEs": "La ciudad de Las Vegas fue fundada en Nevada, Estados Unidos.",
             "eventDescriptionIt": "La città di Las Vegas è stata fondata nel Nevada, Stati Uniti."
+        },
+        {
+            "eventId": "745",
+            "eventCategory": "HISTORY",
+            "eventDate": "1919/05/16",
+            "eventImg": null,
+            "eventRegion": "TR",
+            "eventDescriptionEn": "",
+            "eventDescriptionTr": "Mustafa Kemal Paşa, Türk Kurtuluş Savaşı'nı başlatmak üzere İstanbul'dan Samsun'a doğru yola çıktı.",
+            "eventDescriptionFr": "",
+            "eventDescriptionDe": "",
+            "eventDescriptionEs": "",
+            "eventDescriptionIt": ""
+        },
+        {
+            "eventId": "746",
+            "eventCategory": "HISTORY",
+            "eventDate": "1975/05/16",
+            "eventImg": null,
+            "eventRegion": "All",
+            "eventDescriptionEn": "Junko Tabei from Japan became the first woman to reach the summit of Mount Everest.",
+            "eventDescriptionTr": "Japonya'dan Junko Tabei, Everest Dağı'nın zirvesine ulaşan ilk kadın oldu.",
+            "eventDescriptionFr": "Junko Tabei du Japon est devenue la première femme à atteindre le sommet de l'Everest.",
+            "eventDescriptionDe": "Junko Tabei aus Japan wurde die erste Frau, die den Gipfel des Mount Everest erreichte.",
+            "eventDescriptionEs": "Junko Tabei de Japón se convirtió en la primera mujer en alcanzar la cumbre del Monte Everest.",
+            "eventDescriptionIt": "Junko Tabei dal Giappone è diventata la prima donna a raggiungere la vetta del Monte Everest."
+        },
+        {
+            "eventId": "747",
+            "eventCategory": "SPORT",
+            "eventDate": "2010/05/16",
+            "eventImg": null,
+            "eventRegion": "TR",
+            "eventDescriptionEn": "",
+            "eventDescriptionTr": "Bursaspor, Turkcell Süper Ligde 4 büyüklerden sonra şampiyon olan ilk takım oldu.",
+            "eventDescriptionFr": "",
+            "eventDescriptionDe": "",
+            "eventDescriptionEs": "",
+            "eventDescriptionIt": ""
+        },
+        {
+            "eventId": "748",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1969/05/16",
+            "eventImg": null,
+            "eventRegion": "All",
+            "eventDescriptionEn": "Venera 5, a Soviet space probe, lands on Venus.",
+            "eventDescriptionTr": "Venera 5, bir Sovyet uzay sondası, Venüs'e indi.",
+            "eventDescriptionFr": "Venera 5, une sonde spatiale soviétique, atterrit sur Vénus.",
+            "eventDescriptionDe": "Venera 5, eine sowjetische Raumsonde, landet auf der Venus.",
+            "eventDescriptionEs": "Venera 5, una sonda espacial soviética, aterriza en Venus.",
+            "eventDescriptionIt": "Venera 5, una sonda spaziale sovietica, atterra su Venere."
+        },
+        {
+            "eventId": "749",
+            "eventCategory": "HISTORY",
+            "eventDate": "1926/05/16",
+            "eventImg": null,
+            "eventRegion": "TR",
+            "eventDescriptionEn": "",
+            "eventDescriptionTr": "Vahidettin (VI. Mehmet), İtalya'nın San Remo kentinde kalp yetmezliği sebebi ile öldü.",
+            "eventDescriptionFr": "",
+            "eventDescriptionDe": "",
+            "eventDescriptionEs": "",
+            "eventDescriptionIt": ""
+        },
+        {
+            "eventId": "750",
+            "eventCategory": "TECH",
+            "eventDate": "1960/05/16",
+            "eventImg": null,
+            "eventRegion": "All",
+            "eventDescriptionEn": "Theodore Maiman operates the first optical laser (a ruby laser), at Hughes Research Laboratories in Malibu, California.",
+            "eventDescriptionTr": "Theodore Maiman, Kaliforniya, Malibu'daki Hughes Araştırma Laboratuvarları'nda ilk optik lazeri (bir yakut lazer) çalıştırdı.",
+            "eventDescriptionFr": "Theodore Maiman fait fonctionner le premier laser optique (un laser à rubis) aux laboratoires de recherche Hughes à Malibu, en Californie.",
+            "eventDescriptionDe": "Theodore Maiman betreibt den ersten optischen Laser (einen Rubinlaser) in den Hughes Research Laboratories in Malibu, Kalifornien.",
+            "eventDescriptionEs": "Theodore Maiman opera el primer láser óptico (un láser de rubí) en los Laboratorios de Investigación Hughes en Malibu, California.",
+            "eventDescriptionIt": "Theodore Maiman aziona il primo laser ottico (un laser a rubino) presso i Laboratori di Ricerca Hughes a Malibu, California."
+        },
+        {
+            "eventId": "751",
+            "eventCategory": "HISTORY",
+            "eventDate": "1991/05/16",
+            "eventImg": null,
+            "eventRegion": "GB, US",
+            "eventDescriptionEn": "Queen Elizabeth II of the United Kingdom addresses a joint session of the United States Congress. She is the first British monarch to address the U.S. Congress.",
+            "eventDescriptionTr": "",
+            "eventDescriptionFr": "",
+            "eventDescriptionDe": "",
+            "eventDescriptionEs": "",
+            "eventDescriptionIt": ""
+        },
+        {
+            "eventId": "752",
+            "eventCategory": "SPORT",
+            "eventDate": "2000/05/17",
+            "eventImg": null,
+            "eventRegion": "All",
+            "eventDescriptionEn": "Galatasaray won the UEFA Cup, becoming the first Turkish football team to win a European trophy.",
+            "eventDescriptionTr": "Galatasaray, UEFA Kupasını kazanarak Avrupa'da kupa kazanan ilk Türk futbol takımı unvanını aldı.",
+            "eventDescriptionFr": "Galatasaray a remporté la Coupe UEFA, devenant ainsi la première équipe de football turque à remporter un trophée européen.",
+            "eventDescriptionDe": "Galatasaray gewann den UEFA-Pokal und wurde damit die erste türkische Fußballmannschaft, die einen europäischen Pokal gewann.",
+            "eventDescriptionEs": "Galatasaray ganó la Copa de la UEFA, convirtiéndose en el primer equipo de fútbol turco en ganar un trofeo europeo.",
+            "eventDescriptionIt": "Il Galatasaray ha vinto la Coppa UEFA, diventando la prima squadra di calcio turca a vincere un trofeo europeo."
+        },
+        {
+            "eventId": "753",
+            "eventCategory": "SPORT",
+            "eventDate": "1995/05/17",
+            "eventImg": null,
+            "eventRegion": "TR",
+            "eventDescriptionEn": "",
+            "eventDescriptionTr": "Nasuh Mahruki, Everest'in zirvesine çıkan ilk Türk oldu. (Bazı kaynaklar 25 Mayıs olarak yazsa da bu tarih, Nasuh Mahruki tarafından teyit edilmiştir.)",
+            "eventDescriptionFr": "",
+            "eventDescriptionDe": "",
+            "eventDescriptionEs": "",
+            "eventDescriptionIt": ""
+        },
+        {
+            "eventId": "754",
+            "eventCategory": "HISTORY",
+            "eventDate": "1982/05/17",
+            "eventImg": null,
+            "eventRegion": "TR",
+            "eventDescriptionEn": "",
+            "eventDescriptionTr": "Türk Silahlı Kuvvetleri Mehmetçik Vakfı kuruldu. Vakıf, Devlet Başkanı Orgeneral Kenan Evren ve diğer Millî Güvenlik Konseyi üyesi komutanların aralarında topladıkları parayla kuruldu.",
+            "eventDescriptionFr": "",
+            "eventDescriptionDe": "",
+            "eventDescriptionEs": "",
+            "eventDescriptionIt": ""
+        },
+        {
+            "eventId": "755",
+            "eventCategory": "HISTORY",
+            "eventDate": "1865/05/17",
+            "eventImg": null,
+            "eventRegion": "All",
+            "eventDescriptionEn": "The International Telegraph Union (later the International Telecommunication Union) is established in Paris.",
+            "eventDescriptionTr": "Uluslararası Telgraf Birliği (daha sonra Uluslararası Telekomünikasyon Birliği) Paris'te kuruldu.",
+            "eventDescriptionFr": "L'Union internationale du télégraphe (devenue plus tard l'Union internationale des télécommunications) est créée à Paris.",
+            "eventDescriptionDe": "Die Internationale Telegraphenunion (später Internationale Fernmeldeunion) wird in Paris gegründet.",
+            "eventDescriptionEs": "La Unión Internacional del Telégrafo (más tarde la Unión Internacional de Telecomunicaciones) se establece en París.",
+            "eventDescriptionIt": "L'Unione Internazionale del Telegrafo (poi Unione Internazionale delle Telecomunicazioni) viene fondata a Parigi."
         }
     ]
 }
