@@ -119,7 +119,20 @@
             "eventDescriptionDe": "Die Mehmetçik-Stiftung der Türkischen Streitkräfte wurde gegründet. Die Stiftung wurde mit Geld gegründet, das von Präsident General Kenan Evren und anderen Mitgliedern des Nationalen Sicherheitsrates gesammelt wurde.",
             "eventDescriptionEs": "Se estableció la Fundación Mehmetçik de las Fuerzas Armadas Turcas. La fundación fue fundada con dinero recaudado por el presidente general Kenan Evren y otros miembros del Consejo de Seguridad Nacional.",
             "eventDescriptionIt": "La Fondazione Mehmetçik delle Forze Armate Turche è stata fondata. La fondazione è stata istituita con il denaro raccolto dal presidente generale Kenan Evren e da altri membri del Consiglio di Sicurezza Nazionale."
+        },{
+            "eventId": "755",
+            "eventCategory": "HISTORY",
+            "eventDate": "1865/05/17",
+            "eventImg": null,
+            "eventRegion": "All",
+            "eventDescriptionEn": "The International Telegraph Union (later the International Telecommunication Union) is established in Paris.",
+            "eventDescriptionTr": "Uluslararası Telgraf Birliği (daha sonra Uluslararası Telekomünikasyon Birliği) Paris'te kuruldu.",
+            "eventDescriptionFr": "L'Union internationale du télégraphe (devenue plus tard l'Union internationale des télécommunications) est créée à Paris.",
+            "eventDescriptionDe": "Die Internationale Telegraphenunion (später Internationale Fernmeldeunion) wird in Paris gegründet.",
+            "eventDescriptionEs": "La Unión Internacional del Telégrafo (más tarde la Unión Internacional de Telecomunicaciones) se establece en París.",
+            "eventDescriptionIt": "L'Unione Internazionale del Telegrafo (poi Unione Internazionale delle Telecomunicazioni) viene fondata a Parigi."
         }
+        
         
         
         
