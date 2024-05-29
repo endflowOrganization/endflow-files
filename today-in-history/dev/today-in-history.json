@@ -8615,7 +8615,7 @@
             "eventCategory": "HISTORY",
             "eventDate": "1991/05/16",
             "eventImg": null,
-            "eventRegion": "GB, US",
+            "eventRegion": ["GB, US"],
             "eventDescriptionEn": "Queen Elizabeth II of the United Kingdom addresses a joint session of the United States Congress. She is the first British monarch to address the U.S. Congress.",
             "eventDescriptionTr": "",
             "eventDescriptionFr": "",
