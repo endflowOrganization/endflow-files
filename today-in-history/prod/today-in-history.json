@@ -9402,6 +9402,19 @@
             "eventDescriptionDe": "Die Deccan Queen wurde als erster Intercity-Zug zwischen Bombay VT (jetzt Mumbai CST) und Poona (Pune) eingeführt, der mit Elektrolokomotiven betrieben wird.",
             "eventDescriptionEs": "El Deccan Queen se introdujo como el primer tren interurbano entre Bombay VT (ahora Mumbai CST) y Poona (Pune) que funciona con locomotoras eléctricas.",
             "eventDescriptionIt": "La Deccan Queen è stata introdotta come il primo treno interurbano tra Bombay VT (ora Mumbai CST) e Poona (Pune) a funzionare con locomotive elettriche."
+        },
+        {
+            "eventId": "833",
+            "eventCategory": "HISTORY",
+            "eventDate": "1450/06/01",
+            "eventImg": null,
+            "eventRegion": "TR",
+            "eventDescriptionEn": "",
+            "eventDescriptionTr": "İstanbul'da Galata Köprüsü'nde 85 yıldır alınan geçiş ücreti kaldırıldı. Köprü 1845'te açıldığında geçiş tarifesi; yayalar için 5 para, hamallar için 10 para, yüklü arabalar için 5 kuruş, yüklü beygirler için 40 para, koyunlar için 3 para olarak belirlenmişti.",
+            "eventDescriptionFr": "",
+            "eventDescriptionDe": "",
+            "eventDescriptionEs": "",
+            "eventDescriptionIt": ""
         }
     ]
 }
