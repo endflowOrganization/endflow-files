@@ -32,7 +32,11 @@
             "eventImg": null,
             "eventRegion": "ALL",
             "eventDescriptionEn": "The Pioneer 10 space probe became the first man-made object to leave the solar system.",
-            "eventDescriptionTr": "Pioneer 10 uzay sondası, güneş sistemi dışına çıkan ilk insan yapımı nesne oldu."
+            "eventDescriptionTr": "Pioneer 10 uzay sondası, güneş sistemi dışına çıkan ilk insan yapımı nesne oldu.",
+            "eventDescriptionFr": "La sonde spatiale Pioneer 10 est devenue le premier objet fabriqué par l'homme à quitter le système solaire.",
+            "eventDescriptionDe": "Die Raumsonde Pioneer 10 wurde das erste von Menschenhand geschaffene Objekt, das das Sonnensystem verließ.",
+            "eventDescriptionEs": "La sonda espacial Pioneer 10 se convirtió en el primer objeto hecho por el hombre en salir del sistema solar.",
+            "eventDescriptionIt": "La sonda spaziale Pioneer 10 è diventata il primo oggetto costruito dall'uomo a lasciare il sistema solare."
         },
         {
             "eventId": "3",
@@ -41,7 +45,11 @@
             "eventImg": null,
             "eventRegion": "ALL",
             "eventDescriptionEn": "Volkswagen is fined one billion euros over the emissions scandal.",
-            "eventDescriptionTr": "Volkswagen'e, emisyon skandalı nedeniyle bir milyar euro para cezasına verildi."
+            "eventDescriptionTr": "Volkswagen'e, emisyon skandalı nedeniyle bir milyar euro para cezası verildi.",
+            "eventDescriptionFr": "Volkswagen a été condamné à une amende d'un milliard d'euros pour le scandale des émissions.",
+            "eventDescriptionDe": "Volkswagen wurde wegen des Abgasskandals zu einer Geldstrafe von einer Milliarde Euro verurteilt.",
+            "eventDescriptionEs": "Volkswagen fue multada con mil millones de euros por el escándalo de emisiones.",
+            "eventDescriptionIt": "Volkswagen è stata multata per un miliardo di euro a causa dello scandalo delle emissioni."
         },
         {
             "eventId": "4",
@@ -50,7 +58,11 @@
             "eventImg": null,
             "eventRegion": "ALL",
             "eventDescriptionEn": "Brazil leaves the League of Nations.",
-            "eventDescriptionTr": "Brezilya Millet Cemiyeti'nden ayrıldı."
+            "eventDescriptionTr": "Brezilya Millet Cemiyeti'nden ayrıldı.",
+            "eventDescriptionFr": "Le Brésil quitte la Société des Nations.",
+            "eventDescriptionDe": "Brasilien verlässt den Völkerbund.",
+            "eventDescriptionEs": "Brasil abandona la Liga de las Naciones.",
+            "eventDescriptionIt": "Il Brasile lascia la Società delle Nazioni."
         },
         {
             "eventId": "5",
@@ -9518,6 +9530,19 @@
             "eventDescriptionDe": "Surveyor-Programm:Surveyor 1 landete im Oceanus Procellarum auf dem Mond und wurde das erste US-Raumschiff, das auf einer anderen Welt weich landete.",
             "eventDescriptionEs": "Programa Surveyor: Surveyor 1 aterrizó en Oceanus Procellarum en la Luna, convirtiéndose en la primera nave espacial estadounidense en aterrizar suavemente en otro mundo.",
             "eventDescriptionIt": "Programma Surveyor: Surveyor 1 atterrò in Oceanus Procellarum sulla Luna, diventando la prima navicella spaziale statunitense ad atterrare dolcemente su un altro mondo."
+        },
+        {
+            "eventId": "841",
+            "eventCategory": "HISTORY",
+            "eventDate": "1848/06/02",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "The Slavic congress in Prague began.",
+            "eventDescriptionTr": "Prag'da Slav kongresi başladı.",
+            "eventDescriptionFr": "Le congrès slave à Prague a commencé.",
+            "eventDescriptionDe": "Der Slawenkongress in Prag begann.",
+            "eventDescriptionEs": "El congreso eslavo en Praga comenzó.",
+            "eventDescriptionIt": "Il congresso slavo a Praga iniziò."
         }
     ]
 }
