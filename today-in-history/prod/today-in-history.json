@@ -9569,6 +9569,19 @@
             "eventDescriptionDe": "Nach einer Notlandung aufgrund eines Brandes während des Fluges kamen dreiundzwanzig Passagiere an Bord von Air Canada Flug 797 ums Leben, als ein Flammendurchschlag auftrat, als sich die Türen des Flugzeugs öffneten. Aufgrund dieses Vorfalls wurden zahlreiche neue Sicherheitsvorschriften eingeführt.",
             "eventDescriptionEs": "Después de un aterrizaje de emergencia debido a un incendio en vuelo, veintitrés pasajeros a bordo del vuelo 797 de Air Canada murieron cuando se produjo una llamarada al abrirse las puertas del avión. Debido a este incidente, se implementaron numerosas nuevas regulaciones de seguridad.",
             "eventDescriptionIt": "Dopo un atterraggio di emergenza a causa di un incendio in volo, ventitré passeggeri a bordo del volo Air Canada 797 furono uccisi quando si verificò un flashover all'apertura delle porte dell'aereo. A causa di questo incidente, furono messe in atto numerose nuove normative di sicurezza."
+        },{
+            "eventId": "844",
+            "eventCategory": "POLITICS",
+            "eventDate": "2006/06/03",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "The union of Serbia and Montenegro came to an end with Montenegro's formal declaration of independence.",
+            "eventDescriptionTr": "Sırbistan ve Karadağ'ın birliği, Karadağ'ın resmi bağımsızlık ilanıyla sona erdi.",
+            "eventDescriptionFr": "L'union de la Serbie et du Monténégro a pris fin avec la déclaration formelle d'indépendance du Monténégro.",
+            "eventDescriptionDe": "Die Union von Serbien und Montenegro endete mit der formellen Unabhängigkeitserklärung Montenegros.",
+            "eventDescriptionEs": "La unión de Serbia y Montenegro llegó a su fin con la declaración formal de independencia de Montenegro.",
+            "eventDescriptionIt": "L'unione di Serbia e Montenegro si è conclusa con la dichiarazione formale di indipendenza del Montenegro."
         }
+        
     ]
 }
