@@ -9593,7 +9593,20 @@
             "eventDescriptionDe": "Die erste Fernübertragungsleitung für elektrischen Strom in den Vereinigten Staaten wurde fertiggestellt und verlief über 14 Meilen (23 km) zwischen einem Generator bei den Willamette Falls und der Innenstadt von Portland, Oregon.",
             "eventDescriptionEs": "Se completó la primera línea de transmisión de energía eléctrica de larga distancia en los Estados Unidos, que recorre 14 millas (23 km) entre un generador en Willamette Falls y el centro de Portland, Oregón.",
             "eventDescriptionIt": "La prima linea di trasmissione di energia elettrica a lunga distanza negli Stati Uniti è stata completata, correndo per 14 miglia (23 km) tra un generatore alle Willamette Falls e il centro di Portland, Oregon."
+        },{
+            "eventId": "846",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1965/06/03",
+            "eventImg": null,
+            "eventRegion": "US",
+            "eventDescriptionEn": "The launch of Gemini 4, the first multi-day space mission by a NASA crew. Ed White, a crew member, performed the first American spacewalk.",
+            "eventDescriptionTr": "Gemini 4'ün fırlatılışı, NASA mürettebatı tarafından gerçekleştirilen ilk çok günlük uzay misyonu. Mürettebat üyesi Ed White, ilk Amerikan uzay yürüyüşünü gerçekleştirdi.",
+            "eventDescriptionFr": "Le lancement de Gemini 4, la première mission spatiale de plusieurs jours par un équipage de la NASA. Ed White, un membre de l'équipage, a effectué la première sortie dans l'espace américaine.",
+            "eventDescriptionDe": "Der Start von Gemini 4, der ersten mehrtägigen Weltraummission eines NASA-Teams. Ed White, ein Besatzungsmitglied, führte den ersten amerikanischen Weltraumspaziergang durch.",
+            "eventDescriptionEs": "El lanzamiento del Gemini 4, la primera misión espacial de varios días realizada por una tripulación de la NASA. Ed White, un miembro de la tripulación, realizó el primer paseo espacial estadounidense.",
+            "eventDescriptionIt": "Il lancio di Gemini 4, la prima missione spaziale di più giorni da parte di un equipaggio della NASA. Ed White, un membro dell'equipaggio, ha eseguito la prima passeggiata spaziale americana."
         }
+        
         
         
     ]
