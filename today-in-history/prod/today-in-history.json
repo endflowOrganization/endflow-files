@@ -9543,6 +9543,19 @@
             "eventDescriptionDe": "Der Slawenkongress in Prag begann.",
             "eventDescriptionEs": "El congreso eslavo en Praga comenzó.",
             "eventDescriptionIt": "Il congresso slavo a Praga iniziò."
+        },
+        {
+            "eventId": "842",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1970/06/02",
+            "eventImg": null,
+            "eventRegion": "TR",
+            "eventDescriptionEn": "",
+            "eventDescriptionTr": "Orhan Kemal hayatını kaybetti.",
+            "eventDescriptionFr": "",
+            "eventDescriptionDe": "",
+            "eventDescriptionEs": "",
+            "eventDescriptionIt": ""
         }
     ]
 }
