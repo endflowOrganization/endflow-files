@@ -9581,7 +9581,20 @@
             "eventDescriptionDe": "Die Union von Serbien und Montenegro endete mit der formellen Unabhängigkeitserklärung Montenegros.",
             "eventDescriptionEs": "La unión de Serbia y Montenegro llegó a su fin con la declaración formal de independencia de Montenegro.",
             "eventDescriptionIt": "L'unione di Serbia e Montenegro si è conclusa con la dichiarazione formale di indipendenza del Montenegro."
+        },{
+            "eventId": "845",
+            "eventCategory": "TECH",
+            "eventDate": "1889/06/03",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "The first long-distance electric power transmission line in the United States was completed, running 14 miles (23 km) between a generator at Willamette Falls and downtown Portland, Oregon.",
+            "eventDescriptionTr": "Amerika Birleşik Devletleri'ndeki ilk uzun mesafeli elektrik gücü iletim hattı tamamlandı ve Willamette Falls'taki bir jeneratör ile Oregon, Portland şehir merkezi arasında 14 mil (23 km) mesafeyi kapsıyordu.",
+            "eventDescriptionFr": "La première ligne de transmission d'électricité longue distance aux États-Unis a été achevée, reliant un générateur à Willamette Falls et le centre-ville de Portland, Oregon, sur 14 miles (23 km).",
+            "eventDescriptionDe": "Die erste Fernübertragungsleitung für elektrischen Strom in den Vereinigten Staaten wurde fertiggestellt und verlief über 14 Meilen (23 km) zwischen einem Generator bei den Willamette Falls und der Innenstadt von Portland, Oregon.",
+            "eventDescriptionEs": "Se completó la primera línea de transmisión de energía eléctrica de larga distancia en los Estados Unidos, que recorre 14 millas (23 km) entre un generador en Willamette Falls y el centro de Portland, Oregón.",
+            "eventDescriptionIt": "La prima linea di trasmissione di energia elettrica a lunga distanza negli Stati Uniti è stata completata, correndo per 14 miglia (23 km) tra un generatore alle Willamette Falls e il centro di Portland, Oregon."
         }
+        
         
     ]
 }
