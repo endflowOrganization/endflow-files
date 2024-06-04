@@ -9659,7 +9659,20 @@
             "eventDescriptionDe": "Henry Ford vollendete den Ford Quadricycle, sein erstes benzinbetriebenes Automobil, und führte eine erfolgreiche Testfahrt durch.",
             "eventDescriptionEs": "Henry Ford completó el Ford Quadricycle, su primer automóvil a gasolina, y realizó una prueba exitosa.",
             "eventDescriptionIt": "Henry Ford completò la Ford Quadricycle, la sua prima automobile a benzina, e la testò con successo."
+        },{
+            "eventId": "851",
+            "eventCategory": "POLITICS",
+            "eventDate": "1970/06/04",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "Tonga gained independence from the British Empire.",
+            "eventDescriptionTr": "Tonga, Britanya İmparatorluğu'ndan bağımsızlığını kazandı.",
+            "eventDescriptionFr": "Les Tonga ont obtenu leur indépendance de l'Empire britannique.",
+            "eventDescriptionDe": "Tonga erlangte die Unabhängigkeit vom Britischen Empire.",
+            "eventDescriptionEs": "Tonga obtuvo la independencia del Imperio Británico.",
+            "eventDescriptionIt": "Tonga ottenne l'indipendenza dall'Impero britannico."
         }
+        
         
     ]
 }
