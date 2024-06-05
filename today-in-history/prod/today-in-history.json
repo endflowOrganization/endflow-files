@@ -9647,7 +9647,8 @@
             "eventDescriptionDe": "",
             "eventDescriptionEs": "",
             "eventDescriptionIt": ""
-        },{
+        },
+        {
             "eventId": "850",
             "eventCategory": "TECH",
             "eventDate": "1896/06/04",
@@ -9659,7 +9660,8 @@
             "eventDescriptionDe": "Henry Ford vollendete den Ford Quadricycle, sein erstes benzinbetriebenes Automobil, und führte eine erfolgreiche Testfahrt durch.",
             "eventDescriptionEs": "Henry Ford completó el Ford Quadricycle, su primer automóvil a gasolina, y realizó una prueba exitosa.",
             "eventDescriptionIt": "Henry Ford completò la Ford Quadricycle, la sua prima automobile a benzina, e la testò con successo."
-        },{
+        },
+        {
             "eventId": "851",
             "eventCategory": "POLITICS",
             "eventDate": "1970/06/04",
@@ -9671,7 +9673,8 @@
             "eventDescriptionDe": "Tonga erlangte die Unabhängigkeit vom Britischen Empire.",
             "eventDescriptionEs": "Tonga obtuvo la independencia del Imperio Británico.",
             "eventDescriptionIt": "Tonga ottenne l'indipendenza dall'Impero britannico."
-        },{
+        },
+        {
             "eventId": "852",
             "eventCategory": "POLITICS",
             "eventDate": "2017/06/05",
@@ -9683,9 +9686,19 @@
             "eventDescriptionDe": "Montenegro wurde das 29. Mitglied der NATO.",
             "eventDescriptionEs": "Montenegro se convirtió en el 29º miembro de la OTAN.",
             "eventDescriptionIt": "Il Montenegro è diventato il 29º membro della NATO."
+        },
+        {
+            "eventId": "853",
+            "eventCategory": "HISTORY",
+            "eventDate": "1933/06/06",
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/june%2Ffirst-drive-in-theater-camden-nj-1933.jpeg?alt=media&token=a1c55be0-db67-471d-9003-21b7a2f0c611",
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "The first drive-in theater opened in Camden, New Jersey.",
+            "eventDescriptionTr": "İlk araba sineması Camden, New Jersey'de açıldı.",
+            "eventDescriptionFr": "Le premier cinéma en plein air a ouvert à Camden, New Jersey.",
+            "eventDescriptionDe": "Das erste Autokino wurde in Camden, New Jersey, eröffnet.",
+            "eventDescriptionEs": "El primer autocine se inauguró en Camden, Nueva Jersey.",
+            "eventDescriptionIt": "Il primo drive-in theater è stato aperto a Camden, New Jersey."
         }
-        
-        
-        
     ]
 }
