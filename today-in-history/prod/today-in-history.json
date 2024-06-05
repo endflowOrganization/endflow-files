@@ -9671,7 +9671,20 @@
             "eventDescriptionDe": "Tonga erlangte die Unabhängigkeit vom Britischen Empire.",
             "eventDescriptionEs": "Tonga obtuvo la independencia del Imperio Británico.",
             "eventDescriptionIt": "Tonga ottenne l'indipendenza dall'Impero britannico."
+        },{
+            "eventId": "852",
+            "eventCategory": "POLITICS",
+            "eventDate": "2017/06/05",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "Montenegro became the 29th member of NATO.",
+            "eventDescriptionTr": "Karadağ, NATO'nun 29. üyesi oldu.",
+            "eventDescriptionFr": "Le Monténégro est devenu le 29e membre de l'OTAN.",
+            "eventDescriptionDe": "Montenegro wurde das 29. Mitglied der NATO.",
+            "eventDescriptionEs": "Montenegro se convirtió en el 29º miembro de la OTAN.",
+            "eventDescriptionIt": "Il Montenegro è diventato il 29º membro della NATO."
         }
+        
         
         
     ]
