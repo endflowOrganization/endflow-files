@@ -9712,6 +9712,19 @@
             "eventDescriptionDe": "Die ursprüngliche Chrysler Corporation wurde von Walter Chrysler aus den Überresten der Maxwell Motor Company gegründet.",
             "eventDescriptionEs": "La corporación original de Chrysler fue fundada por Walter Chrysler a partir de los restos de la Maxwell Motor Company.",
             "eventDescriptionIt": "La Chrysler Corporation originale è stata fondata da Walter Chrysler dai resti della Maxwell Motor Company."
+        },
+        {
+            "eventId": "855",
+            "eventCategory": "HISTORY",
+            "eventDate": "1889/06/06",
+            "eventImg": null,
+            "eventRegion": "US",
+            "eventDescriptionEn": "The Great Seattle Fire destroyed all of downtown Seattle.",
+            "eventDescriptionTr": "Büyük Seattle Yangını, Seattle şehir merkezinin tamamını yok etti.",
+            "eventDescriptionFr": "Le Grand Incendie de Seattle a détruit tout le centre-ville de Seattle.",
+            "eventDescriptionDe": "Das Große Feuer von Seattle zerstörte die gesamte Innenstadt von Seattle.",
+            "eventDescriptionEs": "El Gran Incendio de Seattle destruyó todo el centro de Seattle.",
+            "eventDescriptionIt": "Il Grande Incendio di Seattle distrusse tutto il centro di Seattle."
         }
     ]
 }
