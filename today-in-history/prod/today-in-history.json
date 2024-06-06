@@ -9699,6 +9699,19 @@
             "eventDescriptionDe": "Das erste Autokino wurde in Camden, New Jersey, eröffnet.",
             "eventDescriptionEs": "El primer autocine se inauguró en Camden, Nueva Jersey.",
             "eventDescriptionIt": "Il primo drive-in theater è stato aperto a Camden, New Jersey."
+        },
+        {
+            "eventId": "854",
+            "eventCategory": "HISTORY",
+            "eventDate": "1925/06/06",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "The original Chrysler Corporation was founded by Walter Chrysler from the remains of the Maxwell Motor Company.",
+            "eventDescriptionTr": "Orijinal Chrysler Corporation, Walter Chrysler tarafından Maxwell Motor Company'nin kalıntılarından kuruldu.",
+            "eventDescriptionFr": "La Chrysler Corporation originale a été fondée par Walter Chrysler à partir des restes de la Maxwell Motor Company.",
+            "eventDescriptionDe": "Die ursprüngliche Chrysler Corporation wurde von Walter Chrysler aus den Überresten der Maxwell Motor Company gegründet.",
+            "eventDescriptionEs": "La corporación original de Chrysler fue fundada por Walter Chrysler a partir de los restos de la Maxwell Motor Company.",
+            "eventDescriptionIt": "La Chrysler Corporation originale è stata fondata da Walter Chrysler dai resti della Maxwell Motor Company."
         }
     ]
 }
