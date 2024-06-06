@@ -9738,6 +9738,19 @@
             "eventDescriptionDe": "Die britische BBC nahm ihren Fernsehdienst wieder auf, der aufgrund des Zweiten Weltkriegs sieben Jahre lang unterbrochen war.",
             "eventDescriptionEs": "La BBC del Reino Unido volvió a transmitir su servicio de televisión, que había estado fuera del aire durante siete años debido a la Segunda Guerra Mundial.",
             "eventDescriptionIt": "La BBC del Regno Unito ha ripreso a trasmettere il suo servizio televisivo, che era stato interrotto per sette anni a causa della seconda guerra mondiale."
+        },
+        {
+            "eventId": "857",
+            "eventCategory": "HISTORY",
+            "eventDate": "1973/06/07",
+            "eventImg": null,
+            "eventRegion": "TR",
+            "eventDescriptionEn": "",
+            "eventDescriptionTr": "Yavuz zırhlısı Deniz Kuvvetleri'nden törenle emekliye ayrıldı.",
+            "eventDescriptionFr": "",
+            "eventDescriptionDe": "",
+            "eventDescriptionEs": "",
+            "eventDescriptionIt": ""
         }
     ]
 }
