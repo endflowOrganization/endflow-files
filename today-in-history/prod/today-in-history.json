@@ -9751,6 +9751,19 @@
             "eventDescriptionDe": "",
             "eventDescriptionEs": "",
             "eventDescriptionIt": ""
+        },{
+            "eventId": "858",
+            "eventCategory": "HISTORY",
+            "eventDate": "1943/06/07",
+            "eventImg": null,
+            "eventRegion": "TR",
+            "eventDescriptionEn": "",
+            "eventDescriptionTr": "İstanbul'da tifüs salgını başladı, bazı sinemalar kapatıldı ve eskicilerin satış yapması yasaklandı.",
+            "eventDescriptionFr": "",
+            "eventDescriptionDe": "",
+            "eventDescriptionEs": "",
+            "eventDescriptionIt": ""
         }
+        
     ]
 }
