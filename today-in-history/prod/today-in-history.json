@@ -9725,6 +9725,19 @@
             "eventDescriptionDe": "Das Große Feuer von Seattle zerstörte die gesamte Innenstadt von Seattle.",
             "eventDescriptionEs": "El Gran Incendio de Seattle destruyó todo el centro de Seattle.",
             "eventDescriptionIt": "Il Grande Incendio di Seattle distrusse tutto il centro di Seattle."
+        },
+        {
+            "eventId": "856",
+            "eventCategory": "HISTORY",
+            "eventDate": "1946/06/07",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "The United Kingdom's BBC returned to broadcasting its television service, which had been off air for seven years because of World War II.",
+            "eventDescriptionTr": "Birleşik Krallık'ın BBC'si, İkinci Dünya Savaşı nedeniyle yedi yıldır yayında olmayan televizyon hizmetini tekrar yayınlamaya başladı.",
+            "eventDescriptionFr": "La BBC du Royaume-Uni a repris la diffusion de son service de télévision, qui avait été interrompu pendant sept ans à cause de la Seconde Guerre mondiale.",
+            "eventDescriptionDe": "Die britische BBC nahm ihren Fernsehdienst wieder auf, der aufgrund des Zweiten Weltkriegs sieben Jahre lang unterbrochen war.",
+            "eventDescriptionEs": "La BBC del Reino Unido volvió a transmitir su servicio de televisión, que había estado fuera del aire durante siete años debido a la Segunda Guerra Mundial.",
+            "eventDescriptionIt": "La BBC del Regno Unito ha ripreso a trasmettere il suo servizio televisivo, che era stato interrotto per sette anni a causa della seconda guerra mondiale."
         }
     ]
 }
