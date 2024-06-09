@@ -9868,6 +9868,21 @@
             "eventDescriptionDe": "Saab produziert sein erstes Auto.",
             "eventDescriptionEs": "Saab produce su primer automóvil.",
             "eventDescriptionIt": "Saab produce la sua prima automobile."
+        },
+        {
+            "eventId": "858",
+            "eventCategory": "HISTORY",
+            "eventDate": "1943/06/07",
+            "eventImg": null,
+            "eventRegion": "TR",
+            "eventDescriptionEn": "",
+            "eventDescriptionTr": "Türkiye Gazeteciler Cemiyeti kuruldu.",
+            "eventDescriptionFr": "",
+            "eventDescriptionDe": "",
+            "eventDescriptionEs": "",
+            "eventDescriptionIt": ""
         }
+
+        
     ]
 }
