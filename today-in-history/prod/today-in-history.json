@@ -9793,7 +9793,7 @@
         },
         {
             "eventId": "861",
-            "eventCategory": "HISTORY",
+            "eventCategory": "PEOPLE",
             "eventDate": "68/06/09",
             "eventImg": null,
             "eventRegion": "ALL",
@@ -9803,6 +9803,19 @@
             "eventDescriptionDe": "Der römische Kaiser Nero beging Selbstmord.",
             "eventDescriptionEs": "El emperador romano Nerón se suicidó.",
             "eventDescriptionIt": "L'imperatore romano Nerone si suicidò."
+        },
+        {
+            "eventId": "862",
+            "eventCategory": "PEOPLE",
+            "eventDate": "1870/06/09",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "Charles Dickens passed away.",
+            "eventDescriptionTr": "Charles Dickens hayatını kaybetti.",
+            "eventDescriptionFr": "Charles Dickens est décédé.",
+            "eventDescriptionDe": "Charles Dickens ist gestorben.",
+            "eventDescriptionEs": "Charles Dickens falleció.",
+            "eventDescriptionIt": "Charles Dickens è morto."
         }
     ]
 }
