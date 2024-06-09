@@ -9881,8 +9881,19 @@
             "eventDescriptionDe": "",
             "eventDescriptionEs": "",
             "eventDescriptionIt": ""
+        },
+        {
+            "eventId": "868",
+            "eventCategory": "HISTORY",
+            "eventDate": "1940/06/10",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "In World War II, Italy declared war on France and the United Kingdom, beginning an invasion of southern France.",
+            "eventDescriptionTr": "İkinci Dünya Savaşı'nda İtalya, Fransa ve Birleşik Krallık'a savaş ilan ederek güney Fransa'nın işgaline başladı.",
+            "eventDescriptionFr": "Lors de la Seconde Guerre mondiale, l'Italie a déclaré la guerre à la France et au Royaume-Uni, lançant une invasion du sud de la France.",
+            "eventDescriptionDe": "Im Zweiten Weltkrieg erklärte Italien Frankreich und dem Vereinigten Königreich den Krieg und begann mit einer Invasion im Süden Frankreichs.",
+            "eventDescriptionEs": "En la Segunda Guerra Mundial, Italia declaró la guerra a Francia y al Reino Unido, comenzando una invasión del sur de Francia.",
+            "eventDescriptionIt": "Durante la seconda guerra mondiale, l'Italia dichiarò guerra alla Francia e al Regno Unito, dando inizio a un'invasione del sud della Francia."
         }
-
-        
     ]
 }
