@@ -9841,7 +9841,20 @@
             "eventDescriptionDe": "Jugoslawien und die NATO unterzeichneten ein Abkommen über den Abzug der serbischen Truppen aus dem Kosovo. Die NATO stellte die Luftangriffe ein und beendete sie offiziell am 20. Juni.",
             "eventDescriptionEs": "Yugoslavia y la OTAN firmaron un acuerdo sobre la retirada de las tropas serbias de Kosovo. La OTAN detuvo los bombardeos y los finalizó oficialmente el 20 de junio.",
             "eventDescriptionIt": "La Jugoslavia e la NATO hanno firmato un accordo sul ritiro delle truppe serbe dal Kosovo. La NATO interruppe gli attacchi aerei e li concluse ufficialmente il 20 giugno."
+        },{
+            "eventId": "865",
+            "eventCategory": "HISTORY",
+            "eventDate": "1979/06/09",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "The Ghost Train fire at Luna Park Sydney, Australia, killed seven people.",
+            "eventDescriptionTr": "Avustralya, Sydney'deki Luna Park'taki Hayalet Tren yangınında yedi kişi hayatını kaybetti.",
+            "eventDescriptionFr": "L'incendie du Train Fantôme à Luna Park Sydney, en Australie, a tué sept personnes.",
+            "eventDescriptionDe": "Das Feuer im Geisterzug im Luna Park Sydney, Australien, forderte sieben Menschenleben.",
+            "eventDescriptionEs": "El incendio del Tren Fantasma en Luna Park Sydney, Australia, mató a siete personas.",
+            "eventDescriptionIt": "L'incendio del Treno Fantasma a Luna Park Sydney, Australia, ha causato la morte di sette persone."
         }
+        
         
     ]
 }
