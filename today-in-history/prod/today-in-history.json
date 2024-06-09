@@ -9816,6 +9816,19 @@
             "eventDescriptionDe": "Charles Dickens ist gestorben.",
             "eventDescriptionEs": "Charles Dickens falleció.",
             "eventDescriptionIt": "Charles Dickens è morto."
+        },
+        {
+            "eventId": "863",
+            "eventCategory": "HISTORY",
+            "eventDate": "1948/06/09",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "The International Council on Archives was founded under the auspices of UNESCO.",
+            "eventDescriptionTr": "Uluslararası Arşivler Konseyi, UNESCO himayesinde kuruldu.",
+            "eventDescriptionFr": "Le Conseil international des archives a été fondé sous les auspices de l'UNESCO.",
+            "eventDescriptionDe": "Der Internationale Archivrat wurde unter der Schirmherrschaft der UNESCO gegründet.",
+            "eventDescriptionEs": "El Consejo Internacional de Archivos fue fundado bajo los auspicios de la UNESCO.",
+            "eventDescriptionIt": "Il Consiglio Internazionale degli Archivi è stato fondato sotto gli auspici dell'UNESCO."
         }
     ]
 }
