@@ -9829,6 +9829,19 @@
             "eventDescriptionDe": "Der Internationale Archivrat wurde unter der Schirmherrschaft der UNESCO gegründet.",
             "eventDescriptionEs": "El Consejo Internacional de Archivos fue fundado bajo los auspicios de la UNESCO.",
             "eventDescriptionIt": "Il Consiglio Internazionale degli Archivi è stato fondato sotto gli auspici dell'UNESCO."
+        },{
+            "eventId": "864",
+            "eventCategory": "POLITICS",
+            "eventDate": "1999/06/09",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "Yugoslavia and NATO signed an agreement on the withdrawal of Serbian troops from Kosovo. NATO halted air strikes and officially ended them on June 20.",
+            "eventDescriptionTr": "Yugoslavya ve NATO, Sırp birliklerinin Kosova'dan çekilmesi konusunda bir anlaşma imzaladı. NATO hava saldırılarını durdurdu ve resmen 20 Haziran'da sona erdirdi.",
+            "eventDescriptionFr": "La Yougoslavie et l'OTAN ont signé un accord sur le retrait des troupes serbes du Kosovo. L'OTAN a arrêté les frappes aériennes et les a officiellement terminées le 20 juin.",
+            "eventDescriptionDe": "Jugoslawien und die NATO unterzeichneten ein Abkommen über den Abzug der serbischen Truppen aus dem Kosovo. Die NATO stellte die Luftangriffe ein und beendete sie offiziell am 20. Juni.",
+            "eventDescriptionEs": "Yugoslavia y la OTAN firmaron un acuerdo sobre la retirada de las tropas serbias de Kosovo. La OTAN detuvo los bombardeos y los finalizó oficialmente el 20 de junio.",
+            "eventDescriptionIt": "La Jugoslavia e la NATO hanno firmato un accordo sul ritiro delle truppe serbe dal Kosovo. La NATO interruppe gli attacchi aerei e li concluse ufficialmente il 20 giugno."
         }
+        
     ]
 }
