@@ -9894,6 +9894,32 @@
             "eventDescriptionDe": "Im Zweiten Weltkrieg erklärte Italien Frankreich und dem Vereinigten Königreich den Krieg und begann mit einer Invasion im Süden Frankreichs.",
             "eventDescriptionEs": "En la Segunda Guerra Mundial, Italia declaró la guerra a Francia y al Reino Unido, comenzando una invasión del sur de Francia.",
             "eventDescriptionIt": "Durante la seconda guerra mondiale, l'Italia dichiarò guerra alla Francia e al Regno Unito, dando inizio a un'invasione del sud della Francia."
+        },
+        {
+            "eventId": "869",
+            "eventCategory": "HISTORY",
+            "eventDate": "1987/06/10",
+            "eventImg": null,
+            "eventRegion": "TR",
+            "eventDescriptionEn": "",
+            "eventDescriptionTr": "Eskişehir F-16 uçak motor fabrikası, Cumhurbaşkanı Kenan Evren tarafından açıldı.",
+            "eventDescriptionFr": "",
+            "eventDescriptionDe": "",
+            "eventDescriptionEs": "",
+            "eventDescriptionIt": ""
+        },
+        {
+            "eventId": "870",
+            "eventCategory": "HISTORY",
+            "eventDate": "1949/06/10",
+            "eventImg": null,
+            "eventRegion": "TR",
+            "eventDescriptionEn": "",
+            "eventDescriptionTr": "Devlet Tiyatro ve Operası, TBMM'de kabul edilen yasayla Türkiye Cumhuriyeti Millî Eğitim Bakanlığı'na bağlı olarak kuruldu. İlk Genel Müdür Muhsin Ertuğrul oldu.",
+            "eventDescriptionFr": "",
+            "eventDescriptionDe": "",
+            "eventDescriptionEs": "",
+            "eventDescriptionIt": ""
         }
     ]
 }
