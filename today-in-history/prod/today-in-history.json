@@ -9933,6 +9933,32 @@
             "eventDescriptionDe": "",
             "eventDescriptionEs": "",
             "eventDescriptionIt": ""
+        },{
+            "eventId": "872",
+            "eventCategory": "SPORT",
+            "eventDate": "2010/06/11",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "The first African FIFA World Cup kicked off in South Africa.",
+            "eventDescriptionTr": "İlk Afrika FIFA Dünya Kupası Güney Afrika'da başladı.",
+            "eventDescriptionFr": "La première Coupe du Monde de la FIFA en Afrique a débuté en Afrique du Sud.",
+            "eventDescriptionDe": "Die erste afrikanische FIFA-Weltmeisterschaft begann in Südafrika.",
+            "eventDescriptionEs": "La primera Copa Mundial de la FIFA en África comenzó en Sudáfrica.",
+            "eventDescriptionIt": "La prima Coppa del Mondo FIFA africana è iniziata in Sudafrica."
+        },{
+            "eventId": "873",
+            "eventCategory": "TECH",
+            "eventDate": "2002/06/11",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "Antonio Meucci was acknowledged as the first inventor of the telephone by the United States Congress.",
+            "eventDescriptionTr": "Antonio Meucci, Amerika Birleşik Devletleri Kongresi tarafından telefonun ilk mucidi olarak kabul edildi.",
+            "eventDescriptionFr": "Antonio Meucci a été reconnu comme le premier inventeur du téléphone par le Congrès des États-Unis.",
+            "eventDescriptionDe": "Antonio Meucci wurde vom Kongress der Vereinigten Staaten als der erste Erfinder des Telefons anerkannt.",
+            "eventDescriptionEs": "Antonio Meucci fue reconocido como el primer inventor del teléfono por el Congreso de los Estados Unidos.",
+            "eventDescriptionIt": "Antonio Meucci è stato riconosciuto come il primo inventore del telefono dal Congresso degli Stati Uniti."
         }
+        
+        
     ]
 }
