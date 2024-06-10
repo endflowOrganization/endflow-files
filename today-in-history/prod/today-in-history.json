@@ -10089,6 +10089,19 @@
             "eventDescriptionDe": "",
             "eventDescriptionEs": "",
             "eventDescriptionIt": ""
+        },
+        {
+            "eventId": "884",
+            "eventCategory": "HISTORY",
+            "eventDate": "1967/06/12",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "The United States Supreme Court in Loving v. Virginia declared all U.S. state laws which prohibited interracial marriage to be unconstitutional.",
+            "eventDescriptionTr": "Amerika Birleşik Devletleri Yüksek Mahkemesi, Loving v. Virginia davasında, ırklar arası evliliği yasaklayan tüm eyalet yasalarının anayasaya aykırı olduğunu ilan etti.",
+            "eventDescriptionFr": "La Cour suprême des États-Unis, dans l'affaire Loving contre Virginia, a déclaré que toutes les lois des États américains interdisant le mariage interracial étaient inconstitutionnelles.",
+            "eventDescriptionDe": "Der Oberste Gerichtshof der Vereinigten Staaten erklärte im Fall Loving gegen Virginia alle US-Bundesstaatengesetze, die die Ehe zwischen den Rassen verboten, für verfassungswidrig.",
+            "eventDescriptionEs": "La Corte Suprema de los Estados Unidos en el caso Loving contra Virginia declaró inconstitucionales todas las leyes estatales de EE. UU. que prohibían el matrimonio interracial.",
+            "eventDescriptionIt": "La Corte Suprema degli Stati Uniti nel caso Loving contro Virginia ha dichiarato incostituzionali tutte le leggi statali degli Stati Uniti che proibivano i matrimoni interrazziali."
         }
     ]
 }
