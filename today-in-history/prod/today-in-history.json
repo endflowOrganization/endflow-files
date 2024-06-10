@@ -9985,7 +9985,8 @@
             "eventDescriptionDe": "Diane Abbott, Paul Boateng und Bernie Grant wurden als die ersten schwarzen Abgeordneten in Großbritannien gewählt.",
             "eventDescriptionEs": "Diane Abbott, Paul Boateng y Bernie Grant fueron elegidos como los primeros diputados negros en Gran Bretaña.",
             "eventDescriptionIt": "Diane Abbott, Paul Boateng e Bernie Grant sono stati eletti come i primi deputati neri in Gran Bretagna."
-        },{
+        },
+        {
             "eventId": "876",
             "eventCategory": "HISTORY",
             "eventDate": "1970/06/11",
@@ -9997,7 +9998,19 @@
             "eventDescriptionDe": "Nach ihrer Ernennung am 15. Mai erhielten Anna Mae Hays und Elizabeth P. Hoisington offiziell ihre Ränge als Generäle der US-Armee und wurden die ersten Frauen, die dies erreichten.",
             "eventDescriptionEs": "Después de ser nombradas el 15 de mayo, Anna Mae Hays y Elizabeth P. Hoisington recibieron oficialmente sus rangos como oficiales generales del ejército de EE. UU., convirtiéndose en las primeras mujeres en hacerlo.",
             "eventDescriptionIt": "Dopo essere state nominate il 15 maggio, Anna Mae Hays ed Elizabeth P. Hoisington hanno ricevuto ufficialmente i loro gradi di ufficiali generali dell'esercito degli Stati Uniti, diventando le prime donne a farlo."
+        },
+        {
+            "eventId": "877",
+            "eventCategory": "HISTORY",
+            "eventDate": "1962/06/11",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "Frank Morris, John Anglin, and Clarence Anglin allegedly became the only prisoners to escape from the prison on Alcatraz Island.",
+            "eventDescriptionTr": "Frank Morris, John Anglin ve Clarence Anglin'in, Alcatraz Adası'ndaki hapishaneden kaçan tek mahkumlar olduğu iddia edildi.",
+            "eventDescriptionFr": "Frank Morris, John Anglin et Clarence Anglin seraient devenus les seuls prisonniers à s'évader de la prison sur l'île d'Alcatraz.",
+            "eventDescriptionDe": "Frank Morris, John Anglin und Clarence Anglin sollen angeblich die einzigen Gefangenen gewesen sein, die aus dem Gefängnis auf der Insel Alcatraz entkommen sind.",
+            "eventDescriptionEs": "Frank Morris, John Anglin y Clarence Anglin supuestamente se convirtieron en los únicos prisioneros en escapar de la prisión en la isla de Alcatraz.",
+            "eventDescriptionIt": "Frank Morris, John Anglin e Clarence Anglin sarebbero diventati i soli prigionieri a fuggire dalla prigione sull'isola di Alcatraz."
         }
-        
     ]
 }
