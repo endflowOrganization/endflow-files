@@ -10024,6 +10024,19 @@
             "eventDescriptionDe": "Der russische Entdecker Gerasim Izmailov erreichte Alaska.",
             "eventDescriptionEs": "El explorador ruso Gerasim Izmailov llegó a Alaska.",
             "eventDescriptionIt": "L'esploratore russo Gerasim Izmailov raggiunse l'Alaska."
+        },
+        {
+            "eventId": "879",
+            "eventCategory": "SPORT",
+            "eventDate": "1955/06/11",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "Eighty-three spectators were killed and at least one hundred were injured after an Austin-Healey and a Mercedes-Benz collided at the 24 Hours of Le Mans, the deadliest accident in motorsports history.",
+            "eventDescriptionTr": "24 Saat Le Mans yarışında bir Austin-Healey ve Mercedes-Benz çarpıştıktan sonra seksen üç izleyici öldü ve en az yüz kişi yaralandı. Bu olay, motor sporları tarihinin en ölümcül kazası oldu.",
+            "eventDescriptionFr": "Quatre-vingt-trois spectateurs ont été tués et au moins cent autres blessés après la collision entre une Austin-Healey et une Mercedes-Benz lors des 24 Heures du Mans, l'accident le plus meurtrier de l'histoire du sport automobile.",
+            "eventDescriptionDe": "Dreiundachtzig Zuschauer kamen ums Leben und mindestens hundert wurden verletzt, nachdem ein Austin-Healey und ein Mercedes-Benz bei den 24 Stunden von Le Mans kollidierten. Dies war der tödlichste Unfall in der Geschichte des Motorsports.",
+            "eventDescriptionEs": "Ochenta y tres espectadores murieron y al menos cien resultaron heridos después de que un Austin-Healey y un Mercedes-Benz colisionaran en las 24 Horas de Le Mans, el accidente más mortífero en la historia del automovilismo.",
+            "eventDescriptionIt": "Ottantatré spettatori rimasero uccisi e almeno cento feriti dopo la collisione tra un Austin-Healey e una Mercedes-Benz alla 24 Ore di Le Mans, il più mortale incidente nella storia del motorsport."
         }
     ]
 }
