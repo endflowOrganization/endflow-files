@@ -9933,7 +9933,8 @@
             "eventDescriptionDe": "",
             "eventDescriptionEs": "",
             "eventDescriptionIt": ""
-        },{
+        },
+        {
             "eventId": "872",
             "eventCategory": "SPORT",
             "eventDate": "2010/06/11",
@@ -9945,7 +9946,8 @@
             "eventDescriptionDe": "Die erste afrikanische FIFA-Weltmeisterschaft begann in Südafrika.",
             "eventDescriptionEs": "La primera Copa Mundial de la FIFA en África comenzó en Sudáfrica.",
             "eventDescriptionIt": "La prima Coppa del Mondo FIFA africana è iniziata in Sudafrica."
-        },{
+        },
+        {
             "eventId": "873",
             "eventCategory": "TECH",
             "eventDate": "2002/06/11",
@@ -9957,8 +9959,32 @@
             "eventDescriptionDe": "Antonio Meucci wurde vom Kongress der Vereinigten Staaten als der erste Erfinder des Telefons anerkannt.",
             "eventDescriptionEs": "Antonio Meucci fue reconocido como el primer inventor del teléfono por el Congreso de los Estados Unidos.",
             "eventDescriptionIt": "Antonio Meucci è stato riconosciuto come il primo inventore del telefono dal Congresso degli Stati Uniti."
+        },
+        {
+            "eventId": "874",
+            "eventCategory": "SCIENCE",
+            "eventDate": "2008/06/11",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "The Fermi Gamma-ray Space Telescope was launched into orbit.",
+            "eventDescriptionTr": "Fermi Gamma-ışını Uzay Teleskobu yörüngeye fırlatıldı.",
+            "eventDescriptionFr": "Le télescope spatial Fermi à rayons gamma a été lancé en orbite.",
+            "eventDescriptionDe": "Das Fermi-Gammastrahlen-Weltraumteleskop wurde in die Umlaufbahn gebracht.",
+            "eventDescriptionEs": "El Telescopio Espacial de Rayos Gamma Fermi fue lanzado a la órbita.",
+            "eventDescriptionIt": "Il telescopio spaziale a raggi gamma Fermi è stato lanciato in orbita."
+        },
+        {
+            "eventId": "875",
+            "eventCategory": "POLITICS",
+            "eventDate": "1987/06/11",
+            "eventImg": null,
+            "eventRegion": "GB",
+            "eventDescriptionEn": "Diane Abbott, Paul Boateng, and Bernie Grant were elected as the first black MPs in Great Britain.",
+            "eventDescriptionTr": "Diane Abbott, Paul Boateng ve Bernie Grant, Büyük Britanya'da seçilen ilk siyahi milletvekilleri oldu.",
+            "eventDescriptionFr": "Diane Abbott, Paul Boateng et Bernie Grant ont été élus comme les premiers députés noirs en Grande-Bretagne.",
+            "eventDescriptionDe": "Diane Abbott, Paul Boateng und Bernie Grant wurden als die ersten schwarzen Abgeordneten in Großbritannien gewählt.",
+            "eventDescriptionEs": "Diane Abbott, Paul Boateng y Bernie Grant fueron elegidos como los primeros diputados negros en Gran Bretaña.",
+            "eventDescriptionIt": "Diane Abbott, Paul Boateng e Bernie Grant sono stati eletti come i primi deputati neri in Gran Bretagna."
         }
-        
-        
     ]
 }
