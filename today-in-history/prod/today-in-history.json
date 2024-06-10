@@ -10011,6 +10011,19 @@
             "eventDescriptionDe": "Frank Morris, John Anglin und Clarence Anglin sollen angeblich die einzigen Gefangenen gewesen sein, die aus dem Gefängnis auf der Insel Alcatraz entkommen sind.",
             "eventDescriptionEs": "Frank Morris, John Anglin y Clarence Anglin supuestamente se convirtieron en los únicos prisioneros en escapar de la prisión en la isla de Alcatraz.",
             "eventDescriptionIt": "Frank Morris, John Anglin e Clarence Anglin sarebbero diventati i soli prigionieri a fuggire dalla prigione sull'isola di Alcatraz."
+        },
+        {
+            "eventId": "878",
+            "eventCategory": "HISTORY",
+            "eventDate": "1788/06/11",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "Russian explorer Gerasim Izmailov reached Alaska.",
+            "eventDescriptionTr": "Rus kaşif Gerasim Izmailov Alaska'ya ulaştı.",
+            "eventDescriptionFr": "L'explorateur russe Gerasim Izmailov a atteint l'Alaska.",
+            "eventDescriptionDe": "Der russische Entdecker Gerasim Izmailov erreichte Alaska.",
+            "eventDescriptionEs": "El explorador ruso Gerasim Izmailov llegó a Alaska.",
+            "eventDescriptionIt": "L'esploratore russo Gerasim Izmailov raggiunse l'Alaska."
         }
     ]
 }
