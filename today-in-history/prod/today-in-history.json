@@ -10050,6 +10050,32 @@
             "eventDescriptionDe": "",
             "eventDescriptionEs": "",
             "eventDescriptionIt": ""
+        },
+        {
+            "eventId": "881",
+            "eventCategory": "HISTORY",
+            "eventDate": "1898/06/12",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "Philippine Declaration of Independence: General Emilio Aguinaldo declared the Philippines' independence from Spain.",
+            "eventDescriptionTr": "Filipinler Bağımsızlık Bildirgesi: General Emilio Aguinaldo, Filipinler'in İspanya'dan bağımsızlığını ilan etti.",
+            "eventDescriptionFr": "Déclaration d'indépendance des Philippines : le général Emilio Aguinaldo a déclaré l'indépendance des Philippines vis-à-vis de l'Espagne.",
+            "eventDescriptionDe": "Philippinische Unabhängigkeitserklärung: General Emilio Aguinaldo erklärte die Unabhängigkeit der Philippinen von Spanien.",
+            "eventDescriptionEs": "Declaración de Independencia de Filipinas: el general Emilio Aguinaldo declaró la independencia de Filipinas de España.",
+            "eventDescriptionIt": "Dichiarazione di indipendenza delle Filippine: il generale Emilio Aguinaldo dichiarò l'indipendenza delle Filippine dalla Spagna."
+        },
+        {
+            "eventId": "882",
+            "eventCategory": "HISTORY",
+            "eventDate": "2002/06/12",
+            "eventImg": null,
+            "eventRegion": "TR",
+            "eventDescriptionEn": "",
+            "eventDescriptionTr": "TOFAŞ Kuş Serisi’nin üretimini sonlandırdı.",
+            "eventDescriptionFr": "",
+            "eventDescriptionDe": "",
+            "eventDescriptionEs": "",
+            "eventDescriptionIt": ""
         }
     ]
 }
