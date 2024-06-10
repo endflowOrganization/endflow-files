@@ -10076,6 +10076,19 @@
             "eventDescriptionDe": "",
             "eventDescriptionEs": "",
             "eventDescriptionIt": ""
+        },
+        {
+            "eventId": "883",
+            "eventCategory": "HISTORY",
+            "eventDate": "1957/07/01",
+            "eventImg": null,
+            "eventRegion": "TR",
+            "eventDescriptionEn": "",
+            "eventDescriptionTr": "1 Temmuz 1957'de Kırşehir yeniden il oldu. 20 Temmuz 1954 tarihinde Nevşehir'e bağlı bir ilçe haline getirilmişti.",
+            "eventDescriptionFr": "",
+            "eventDescriptionDe": "",
+            "eventDescriptionEs": "",
+            "eventDescriptionIt": ""
         }
     ]
 }
