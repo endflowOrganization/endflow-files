@@ -10037,6 +10037,19 @@
             "eventDescriptionDe": "Dreiundachtzig Zuschauer kamen ums Leben und mindestens hundert wurden verletzt, nachdem ein Austin-Healey und ein Mercedes-Benz bei den 24 Stunden von Le Mans kollidierten. Dies war der tödlichste Unfall in der Geschichte des Motorsports.",
             "eventDescriptionEs": "Ochenta y tres espectadores murieron y al menos cien resultaron heridos después de que un Austin-Healey y un Mercedes-Benz colisionaran en las 24 Horas de Le Mans, el accidente más mortífero en la historia del automovilismo.",
             "eventDescriptionIt": "Ottantatré spettatori rimasero uccisi e almeno cento feriti dopo la collisione tra un Austin-Healey e una Mercedes-Benz alla 24 Ore di Le Mans, il più mortale incidente nella storia del motorsport."
+        },
+        {
+            "eventId": "880",
+            "eventCategory": "HISTORY",
+            "eventDate": "1930/06/11",
+            "eventImg": null,
+            "eventRegion": "TR",
+            "eventDescriptionEn": "",
+            "eventDescriptionTr": "Türkiye Cumhuriyet Merkez Bankası'nın kurulmasına ilişkin kanun, Türkiye Büyük Millet Meclisi'nde kabul edildi.",
+            "eventDescriptionFr": "",
+            "eventDescriptionDe": "",
+            "eventDescriptionEs": "",
+            "eventDescriptionIt": ""
         }
     ]
 }
