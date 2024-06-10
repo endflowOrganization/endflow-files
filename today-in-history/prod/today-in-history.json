@@ -9920,6 +9920,19 @@
             "eventDescriptionDe": "",
             "eventDescriptionEs": "",
             "eventDescriptionIt": ""
+        },
+        {
+            "eventId": "871",
+            "eventCategory": "HISTORY",
+            "eventDate": "1969/04/13",
+            "eventImg": null,
+            "eventRegion": "TR",
+            "eventDescriptionEn": "",
+            "eventDescriptionTr": "Bursa'da TOFAŞ fabrikasının inşaatı başladı.",
+            "eventDescriptionFr": "",
+            "eventDescriptionDe": "",
+            "eventDescriptionEs": "",
+            "eventDescriptionIt": ""
         }
     ]
 }
