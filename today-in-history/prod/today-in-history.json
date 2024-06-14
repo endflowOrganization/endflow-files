@@ -10154,6 +10154,19 @@
             "eventDescriptionDe": "Max Weber, ein bedeutender deutscher Soziologe, Philosoph und Volkswirtschaftler, ist verstorben.",
             "eventDescriptionEs": "Max Weber, destacado sociólogo, filósofo y economista político alemán, falleció.",
             "eventDescriptionIt": "Max Weber, eminente sociologo, filosofo ed economista politico tedesco, è morto."
+        },
+        {
+            "eventId": "889",
+            "eventCategory": "HISTORY",
+            "eventDate": "1977/06/14",
+            "eventImg": null,
+            "eventRegion": "TR",
+            "eventDescriptionEn": "",
+            "eventDescriptionTr": "Cumhurbaşkanı Fahri Korutürk, Hükûmet kurma görevini CHP Genel Başkanı Bülent Ecevit'e verdi.",
+            "eventDescriptionFr": "",
+            "eventDescriptionDe": "",
+            "eventDescriptionEs": "",
+            "eventDescriptionIt": ""
         }
     ]
 }
