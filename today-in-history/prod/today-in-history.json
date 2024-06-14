@@ -10134,13 +10134,26 @@
             "eventCategory": "TECH",
             "eventDate": "1951/06/14",
             "eventImg": null,
-            "eventRegion": "UNITED STATES",
+            "eventRegion": "ALL",
             "eventDescriptionEn": "The first commercial computer, UNIVAC I, was introduced, and the first machine was allocated to the U.S. Census Bureau.",
             "eventDescriptionTr": "İlk ticari bilgisayar olan UNIVAC I tanıtıldı ve ilk makine ABD Nüfus Bürosu'na tahsis edildi.",
             "eventDescriptionFr": "Le premier ordinateur commercial, UNIVAC I, a été introduit et la première machine a été allouée au Bureau du recensement des États-Unis.",
             "eventDescriptionDe": "Der erste kommerzielle Computer, UNIVAC I, wurde vorgestellt, und die erste Maschine wurde dem US-Zensusbüro zugewiesen.",
             "eventDescriptionEs": "Se presentó la primera computadora comercial, UNIVAC I, y la primera máquina se asignó a la Oficina del Censo de EE. UU.",
             "eventDescriptionIt": "Il primo computer commerciale, UNIVAC I, è stato presentato e la prima macchina è stata assegnata all'Ufficio del censimento degli Stati Uniti."
+        },
+        {
+            "eventId": "888",
+            "eventCategory": "HISTORY",
+            "eventDate": "1920/06/14",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "Max Weber, a prominent German sociologist, philosopher, and political economist, passed away.",
+            "eventDescriptionTr": "Önde gelen Alman sosyolog, filozof ve siyasi iktisatçı Max Weber hayatını kaybetti.",
+            "eventDescriptionFr": "Max Weber, éminent sociologue, philosophe et économiste politique allemand, est décédé.",
+            "eventDescriptionDe": "Max Weber, ein bedeutender deutscher Soziologe, Philosoph und Volkswirtschaftler, ist verstorben.",
+            "eventDescriptionEs": "Max Weber, destacado sociólogo, filósofo y economista político alemán, falleció.",
+            "eventDescriptionIt": "Max Weber, eminente sociologo, filosofo ed economista politico tedesco, è morto."
         }
     ]
 }
