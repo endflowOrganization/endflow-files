@@ -10128,6 +10128,19 @@
             "eventDescriptionDe": "Zweiter Weltkrieg: Deutsche Truppen marschierten in Paris ein.",
             "eventDescriptionEs": "Segunda Guerra Mundial: las tropas alemanas entraron en París.",
             "eventDescriptionIt": "Seconda guerra mondiale: le truppe tedesche entrarono a Parigi."
+        },
+        {
+            "eventId": "887",
+            "eventCategory": "TECH",
+            "eventDate": "1951/06/14",
+            "eventImg": null,
+            "eventRegion": "UNITED STATES",
+            "eventDescriptionEn": "The first commercial computer, UNIVAC I, was introduced, and the first machine was allocated to the U.S. Census Bureau.",
+            "eventDescriptionTr": "İlk ticari bilgisayar olan UNIVAC I tanıtıldı ve ilk makine ABD Nüfus Bürosu'na tahsis edildi.",
+            "eventDescriptionFr": "Le premier ordinateur commercial, UNIVAC I, a été introduit et la première machine a été allouée au Bureau du recensement des États-Unis.",
+            "eventDescriptionDe": "Der erste kommerzielle Computer, UNIVAC I, wurde vorgestellt, und die erste Maschine wurde dem US-Zensusbüro zugewiesen.",
+            "eventDescriptionEs": "Se presentó la primera computadora comercial, UNIVAC I, y la primera máquina se asignó a la Oficina del Censo de EE. UU.",
+            "eventDescriptionIt": "Il primo computer commerciale, UNIVAC I, è stato presentato e la prima macchina è stata assegnata all'Ufficio del censimento degli Stati Uniti."
         }
     ]
 }
