@@ -10206,6 +10206,19 @@
             "eventDescriptionDe": "Nuklearwaffentests: China gab den erfolgreichen Test seiner ersten thermonuklearen Waffe bekannt.",
             "eventDescriptionEs": "Pruebas de armas nucleares: China anunció una prueba exitosa de su primera arma termonuclear.",
             "eventDescriptionIt": "Test di armi nucleari: la Cina ha annunciato il successo del test della sua prima arma termonucleare."
+        },
+        {
+            "eventId": "893",
+            "eventCategory": "HISTORY",
+            "eventDate": "1944/06/17",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "Iceland declared independence from Denmark and became a republic.",
+            "eventDescriptionTr": "İzlanda, Danimarka'dan bağımsızlığını ilan etti ve bir cumhuriyet oldu.",
+            "eventDescriptionFr": "L'Islande a déclaré son indépendance du Danemark et est devenue une république.",
+            "eventDescriptionDe": "Island erklärte seine Unabhängigkeit von Dänemark und wurde eine Republik.",
+            "eventDescriptionEs": "Islandia declaró su independencia de Dinamarca y se convirtió en una república.",
+            "eventDescriptionIt": "L'Islanda dichiarò l'indipendenza dalla Danimarca e divenne una repubblica."
         }
     ]
 }
