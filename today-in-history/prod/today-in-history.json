@@ -10232,6 +10232,19 @@
             "eventDescriptionDe": "",
             "eventDescriptionEs": "",
             "eventDescriptionIt": ""
+        },
+        {
+            "eventId": "895",
+            "eventCategory": "HISTORY",
+            "eventDate": "1939/06/17",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "Last public guillotining in France: Eugen Weidmann, a convicted murderer, was executed in Versailles outside the Saint-Pierre prison.",
+            "eventDescriptionTr": "Fransa'daki son halka açık giyotinle idam: Mahkum bir katil olan Eugen Weidmann, Versailles'de Saint-Pierre hapishanesinin dışında idam edildi.",
+            "eventDescriptionFr": "Dernière exécution publique par guillotine en France : Eugen Weidmann, un meurtrier condamné, a été exécuté à Versailles devant la prison de Saint-Pierre.",
+            "eventDescriptionDe": "Letzte öffentliche Guillotinierung in Frankreich: Eugen Weidmann, ein verurteilter Mörder, wurde vor dem Saint-Pierre-Gefängnis in Versailles hingerichtet.",
+            "eventDescriptionEs": "Última ejecución pública con guillotina en Francia: Eugen Weidmann, un asesino condenado, fue ejecutado en Versalles frente a la prisión de Saint-Pierre.",
+            "eventDescriptionIt": "Ultima esecuzione pubblica con la ghigliottina in Francia: Eugen Weidmann, un assassino condannato, fu giustiziato a Versailles fuori dalla prigione di Saint-Pierre."
         }
     ]
 }
