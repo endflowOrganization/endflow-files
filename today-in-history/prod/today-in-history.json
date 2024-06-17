@@ -10193,9 +10193,19 @@
             "eventDescriptionDe": "",
             "eventDescriptionEs": "",
             "eventDescriptionIt": ""
+        },
+        {
+            "eventId": "892",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1967/06/17",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "Nuclear weapons testing: China announced a successful test of its first thermonuclear weapon.",
+            "eventDescriptionTr": "Nükleer silah testleri: Çin, ilk termonükleer silah testinin başarılı olduğunu duyurdu.",
+            "eventDescriptionFr": "Essais d'armes nucléaires : la Chine a annoncé un test réussi de sa première arme thermonucléaire.",
+            "eventDescriptionDe": "Nuklearwaffentests: China gab den erfolgreichen Test seiner ersten thermonuklearen Waffe bekannt.",
+            "eventDescriptionEs": "Pruebas de armas nucleares: China anunció una prueba exitosa de su primera arma termonuclear.",
+            "eventDescriptionIt": "Test di armi nucleari: la Cina ha annunciato il successo del test della sua prima arma termonucleare."
         }
-
-
-        
     ]
 }
