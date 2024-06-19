@@ -9471,7 +9471,7 @@
             "eventCategory": "PEOPLE",
             "eventDate": "2022/08/30",
             "eventImg": null,
-            "eventRegion": "All",
+            "eventRegion": "ALL",
             "eventDescriptionEn": "Mikhail Gorbachev, the last leader of the Soviet Union and a key figure in ending the Cold War, passed away.",
             "eventDescriptionTr": "Sovyetler Birliği'nin son lideri ve Soğuk Savaş'ı sona erdiren önemli bir figür olan Mihail Gorbaçov hayatını kaybetti.",
             "eventDescriptionFr": "Mikhaïl Gorbatchev, le dernier dirigeant de l'Union soviétique et une figure clé de la fin de la guerre froide, est décédé.",
@@ -10284,7 +10284,8 @@
             "eventDescriptionDe": "Der erste Vatertag wurde in Spokane, Washington, gefeiert.",
             "eventDescriptionEs": "El primer Día del Padre se celebró en Spokane, Washington.",
             "eventDescriptionIt": "La prima Festa del Papà è stata celebrata a Spokane, Washington."
-        },{
+        },
+        {
             "eventId": "899",
             "eventCategory": "TECH",
             "eventDate": "2018/06/19",
@@ -10296,7 +10297,19 @@
             "eventDescriptionDe": "Das 10.000.000. US-Patent wurde erteilt.",
             "eventDescriptionEs": "Se emitió la patente número 10.000.000 de los Estados Unidos.",
             "eventDescriptionIt": "È stato rilasciato il 10.000.000º brevetto degli Stati Uniti."
+        },
+        {
+            "eventId": "900",
+            "eventCategory": "SPORT",
+            "eventDate": "1949/06/19",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "The first NASCAR race was held at Charlotte Motor Speedway.",
+            "eventDescriptionTr": "İlk NASCAR yarışı Charlotte Motor Speedway'de yapıldı.",
+            "eventDescriptionFr": "La première course NASCAR a eu lieu au Charlotte Motor Speedway.",
+            "eventDescriptionDe": "Das erste NASCAR-Rennen fand auf dem Charlotte Motor Speedway statt.",
+            "eventDescriptionEs": "La primera carrera de NASCAR se celebró en el Charlotte Motor Speedway.",
+            "eventDescriptionIt": "La prima gara NASCAR si è tenuta al Charlotte Motor Speedway."
         }
-        
     ]
 }
