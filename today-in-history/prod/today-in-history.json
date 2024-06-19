@@ -10271,6 +10271,19 @@
             "eventDescriptionDe": "",
             "eventDescriptionEs": "",
             "eventDescriptionIt": ""
+        },
+        {
+            "eventId": "898",
+            "eventCategory": "HISTORY",
+            "eventDate": "1910/06/19",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "The first Father's Day was celebrated in Spokane, Washington.",
+            "eventDescriptionTr": "İlk Babalar Günü, Washington Spokane'de kutlandı.",
+            "eventDescriptionFr": "La première fête des Pères a été célébrée à Spokane, Washington.",
+            "eventDescriptionDe": "Der erste Vatertag wurde in Spokane, Washington, gefeiert.",
+            "eventDescriptionEs": "El primer Día del Padre se celebró en Spokane, Washington.",
+            "eventDescriptionIt": "La prima Festa del Papà è stata celebrata a Spokane, Washington."
         }
     ]
 }
