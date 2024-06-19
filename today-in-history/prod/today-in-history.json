@@ -10245,6 +10245,19 @@
             "eventDescriptionDe": "Letzte öffentliche Guillotinierung in Frankreich: Eugen Weidmann, ein verurteilter Mörder, wurde vor dem Saint-Pierre-Gefängnis in Versailles hingerichtet.",
             "eventDescriptionEs": "Última ejecución pública con guillotina en Francia: Eugen Weidmann, un asesino condenado, fue ejecutado en Versalles frente a la prisión de Saint-Pierre.",
             "eventDescriptionIt": "Ultima esecuzione pubblica con la ghigliottina in Francia: Eugen Weidmann, un assassino condannato, fu giustiziato a Versailles fuori dalla prigione di Saint-Pierre."
+        },
+        {
+            "eventId": "896",
+            "eventCategory": "HISTORY",
+            "eventDate": "1965/06/19",
+            "eventImg": null,
+            "eventRegion": "TR",
+            "eventDescriptionEn": "",
+            "eventDescriptionTr": "Eskişehirspor kuruldu.",
+            "eventDescriptionFr": "",
+            "eventDescriptionDe": "",
+            "eventDescriptionEs": "",
+            "eventDescriptionIt": ""
         }
     ]
 }
