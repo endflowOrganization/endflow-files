@@ -10375,6 +10375,19 @@
             "eventDescriptionDe": "",
             "eventDescriptionEs": "",
             "eventDescriptionIt": ""
+        },{
+            "eventId": "906",
+            "eventCategory": "SCIENCE",
+            "eventDate": "2006/06/21",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "Pluto's newly discovered moons were officially named Nix and Hydra.",
+            "eventDescriptionTr": "Plüton'un yeni keşfedilen uydularına resmen Nix ve Hydra adı verildi.",
+            "eventDescriptionFr": "Les nouvelles lunes découvertes de Pluton ont été officiellement nommées Nix et Hydra.",
+            "eventDescriptionDe": "Plutos neu entdeckte Monde wurden offiziell Nix und Hydra genannt.",
+            "eventDescriptionEs": "Las nuevas lunas descubiertas de Plutón fueron nombradas oficialmente Nix e Hydra.",
+            "eventDescriptionIt": "Le lune recentemente scoperte di Plutone sono state ufficialmente chiamate Nix e Hydra."
         }
+        
     ]
 }
