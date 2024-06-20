@@ -10401,6 +10401,19 @@
             "eventDescriptionDe": "SpaceShipOne wurde das erste privat finanzierte Raumflugzeug, das einen Weltraumflug erreichte.",
             "eventDescriptionEs": "SpaceShipOne se convirtió en el primer avión espacial financiado de forma privada en lograr un vuelo espacial.",
             "eventDescriptionIt": "SpaceShipOne è diventato il primo spazioplano finanziato privatamente a raggiungere un volo spaziale."
+        },
+        {
+            "eventId": "908",
+            "eventCategory": "HISTORY",
+            "eventDate": "2012/06/21",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "A boat carrying more than 200 migrants capsized in the Indian Ocean between the Indonesian island of Java and Christmas Island, killing 17 people and leaving 70 others missing.",
+            "eventDescriptionTr": "Endonezya'nın Cava Adası ile Christmas Adası arasında Hint Okyanusu'nda 200'den fazla göçmen taşıyan bir tekne alabora oldu, 17 kişi öldü ve 70 kişi kayboldu.",
+            "eventDescriptionFr": "Un bateau transportant plus de 200 migrants a chaviré dans l'océan Indien entre l'île indonésienne de Java et l'île Christmas, tuant 17 personnes et laissant 70 autres portées disparues.",
+            "eventDescriptionDe": "Ein Boot mit mehr als 200 Migranten kenterte im Indischen Ozean zwischen der indonesischen Insel Java und der Weihnachtsinsel, wobei 17 Menschen starben und 70 weitere vermisst wurden.",
+            "eventDescriptionEs": "Un barco que transportaba a más de 200 migrantes volcó en el océano Índico entre la isla indonesia de Java y la isla de Navidad, matando a 17 personas y dejando a 70 desaparecidas.",
+            "eventDescriptionIt": "Una barca che trasportava più di 200 migranti è naufragata nell'Oceano Indiano tra l'isola indonesiana di Giava e l'Isola di Natale, uccidendo 17 persone e lasciandone altre 70 disperse."
         }
     ]
 }
