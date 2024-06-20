@@ -10310,6 +10310,19 @@
             "eventDescriptionDe": "Das erste NASCAR-Rennen fand auf dem Charlotte Motor Speedway statt.",
             "eventDescriptionEs": "La primera carrera de NASCAR se celebró en el Charlotte Motor Speedway.",
             "eventDescriptionIt": "La prima gara NASCAR si è tenuta al Charlotte Motor Speedway."
+        },
+        {
+            "eventId": "901",
+            "eventCategory": "TECH",
+            "eventDate": "1840/06/20",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "Samuel Morse received the patent for the telegraph.",
+            "eventDescriptionTr": "Samuel Morse telgraf için patent aldı.",
+            "eventDescriptionFr": "Samuel Morse a reçu le brevet pour le télégraphe.",
+            "eventDescriptionDe": "Samuel Morse erhielt das Patent für den Telegraphen.",
+            "eventDescriptionEs": "Samuel Morse recibió la patente para el telégrafo.",
+            "eventDescriptionIt": "Samuel Morse ha ricevuto il brevetto per il telegrafo."
         }
     ]
 }
