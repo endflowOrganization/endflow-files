@@ -10323,7 +10323,8 @@
             "eventDescriptionDe": "Samuel Morse erhielt das Patent für den Telegraphen.",
             "eventDescriptionEs": "Samuel Morse recibió la patente para el telégrafo.",
             "eventDescriptionIt": "Samuel Morse ha ricevuto il brevetto per il telegrafo."
-        },{
+        },
+        {
             "eventId": "902",
             "eventCategory": "TECH",
             "eventDate": "2003/06/20",
@@ -10335,7 +10336,19 @@
             "eventDescriptionDe": "Die Wikimedia Foundation wurde in St. Petersburg, Florida, gegründet.",
             "eventDescriptionEs": "La Fundación Wikimedia fue fundada en San Petersburgo, Florida.",
             "eventDescriptionIt": "La Wikimedia Foundation è stata fondata a San Pietroburgo, in Florida."
+        },
+        {
+            "eventId": "903",
+            "eventCategory": "HISTORY",
+            "eventDate": "1921/06/21",
+            "eventImg": null,
+            "eventRegion": "TR",
+            "eventDescriptionEn": "",
+            "eventDescriptionTr": "Sakarya'nın düşman işgalinden kurtuldu",
+            "eventDescriptionFr": "",
+            "eventDescriptionDe": "",
+            "eventDescriptionEs": "",
+            "eventDescriptionIt": ""
         }
-        
     ]
 }
