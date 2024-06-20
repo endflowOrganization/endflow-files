@@ -10414,6 +10414,19 @@
             "eventDescriptionDe": "Ein Boot mit mehr als 200 Migranten kenterte im Indischen Ozean zwischen der indonesischen Insel Java und der Weihnachtsinsel, wobei 17 Menschen starben und 70 weitere vermisst wurden.",
             "eventDescriptionEs": "Un barco que transportaba a más de 200 migrantes volcó en el océano Índico entre la isla indonesia de Java y la isla de Navidad, matando a 17 personas y dejando a 70 desaparecidas.",
             "eventDescriptionIt": "Una barca che trasportava più di 200 migranti è naufragata nell'Oceano Indiano tra l'isola indonesiana di Giava e l'Isola di Natale, uccidendo 17 persone e lasciandone altre 70 disperse."
+        },
+        {
+            "eventId": "909",
+            "eventCategory": "POLITICS",
+            "eventDate": "2009/06/21",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "Greenland declared independence. (Greenland's National Day).",
+            "eventDescriptionTr": "Grönland bağımsızlığını ilan etti. (Grönland'ın Ulusal Günü).",
+            "eventDescriptionFr": "Le Groenland a déclaré son indépendance. (Jour national du Groenland).",
+            "eventDescriptionDe": "Grönland erklärte seine Unabhängigkeit. (Grönlands Nationalfeiertag).",
+            "eventDescriptionEs": "Groenlandia declaró su independencia. (Día Nacional de Groenlandia).",
+            "eventDescriptionIt": "La Groenlandia ha dichiarato l'indipendenza. (Giorno nazionale della Groenlandia)."
         }
     ]
 }
