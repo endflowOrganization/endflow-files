@@ -10375,7 +10375,8 @@
             "eventDescriptionDe": "",
             "eventDescriptionEs": "",
             "eventDescriptionIt": ""
-        },{
+        },
+        {
             "eventId": "906",
             "eventCategory": "SCIENCE",
             "eventDate": "2006/06/21",
@@ -10387,7 +10388,19 @@
             "eventDescriptionDe": "Plutos neu entdeckte Monde wurden offiziell Nix und Hydra genannt.",
             "eventDescriptionEs": "Las nuevas lunas descubiertas de Plutón fueron nombradas oficialmente Nix e Hydra.",
             "eventDescriptionIt": "Le lune recentemente scoperte di Plutone sono state ufficialmente chiamate Nix e Hydra."
+        },
+        {
+            "eventId": "907",
+            "eventCategory": "SCIENCE",
+            "eventDate": "2004/06/21",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "SpaceShipOne became the first privately funded spaceplane to achieve spaceflight.",
+            "eventDescriptionTr": "SpaceShipOne, uzay uçuşu gerçekleştiren ilk özel olarak finanse edilen uzay uçağı oldu.",
+            "eventDescriptionFr": "SpaceShipOne est devenu le premier avion spatial financé par des fonds privés à réaliser un vol spatial.",
+            "eventDescriptionDe": "SpaceShipOne wurde das erste privat finanzierte Raumflugzeug, das einen Weltraumflug erreichte.",
+            "eventDescriptionEs": "SpaceShipOne se convirtió en el primer avión espacial financiado de forma privada en lograr un vuelo espacial.",
+            "eventDescriptionIt": "SpaceShipOne è diventato il primo spazioplano finanziato privatamente a raggiungere un volo spaziale."
         }
-        
     ]
 }
