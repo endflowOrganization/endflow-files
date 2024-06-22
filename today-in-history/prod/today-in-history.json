@@ -10427,6 +10427,19 @@
             "eventDescriptionDe": "Grönland erklärte seine Unabhängigkeit. (Grönlands Nationalfeiertag).",
             "eventDescriptionEs": "Groenlandia declaró su independencia. (Día Nacional de Groenlandia).",
             "eventDescriptionIt": "La Groenlandia ha dichiarato l'indipendenza. (Giorno nazionale della Groenlandia)."
+        },{
+            "eventId": "910",
+            "eventCategory": "HISTORY",
+            "eventDate": "1940/06/22",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "World War II: France was forced to sign the Second Compiègne armistice with Germany, in the same railroad car in which the Germans signed the Armistice in 1918.",
+            "eventDescriptionTr": "II. Dünya Savaşı: Fransa, Almanya ile İkinci Compiègne Ateşkesini, Almanların 1918'de Ateşkesi imzaladıkları aynı demiryolu vagonunda imzalamak zorunda kaldı.",
+            "eventDescriptionFr": "Seconde Guerre mondiale : La France a été contrainte de signer l'armistice de Compiègne avec l'Allemagne, dans le même wagon où les Allemands ont signé l'armistice en 1918.",
+            "eventDescriptionDe": "Zweiter Weltkrieg: Frankreich wurde gezwungen, den Zweiten Compiègne-Waffenstillstand mit Deutschland in demselben Eisenbahnwaggon zu unterzeichnen, in dem die Deutschen 1918 den Waffenstillstand unterzeichneten.",
+            "eventDescriptionEs": "Segunda Guerra Mundial: Francia se vio obligada a firmar el Segundo armisticio de Compiègne con Alemania, en el mismo vagón de tren en el que los alemanes firmaron el Armisticio en 1918.",
+            "eventDescriptionIt": "Seconda Guerra Mondiale: La Francia fu costretta a firmare l'armistizio di Compiègne con la Germania, nello stesso vagone ferroviario in cui i tedeschi firmarono l'armistizio nel 1918."
         }
+        
     ]
 }
