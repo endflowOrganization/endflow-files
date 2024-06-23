@@ -10490,7 +10490,20 @@
             "eventDescriptionDe": "Die erste Siegesparade fand auf dem Roten Platz in Moskau, Sowjetunion, statt und symbolisierte den Sieg der Sowjetunion über Nazi-Deutschland.",
             "eventDescriptionEs": "El primer desfile del Día de la Victoria tuvo lugar en la Plaza Roja de Moscú, Unión Soviética, simbolizando la victoria de la Unión Soviética sobre la Alemania nazi.",
             "eventDescriptionIt": "La prima Parata del Giorno della Vittoria ebbe luogo sulla Piazza Rossa a Mosca, Unione Sovietica, simboleggiando la vittoria dell'Unione Sovietica sulla Germania nazista."
+        },{
+            "eventId": "915",
+            "eventCategory": "POLITICS",
+            "eventDate": "1939/06/24",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "Siam was renamed Thailand by Plaek Phibunsongkhram, the country's third prime minister.",
+            "eventDescriptionTr": "Siyam, ülkenin üçüncü başbakanı Plaek Phibunsongkhram tarafından Tayland olarak yeniden adlandırıldı.",
+            "eventDescriptionFr": "Le Siam a été renommé Thaïlande par Plaek Phibunsongkhram, le troisième Premier ministre du pays.",
+            "eventDescriptionDe": "Siam wurde von Plaek Phibunsongkhram, dem dritten Premierminister des Landes, in Thailand umbenannt.",
+            "eventDescriptionEs": "Siam fue renombrado Tailandia por Plaek Phibunsongkhram, el tercer primer ministro del país.",
+            "eventDescriptionIt": "Il Siam è stato rinominato Thailandia da Plaek Phibunsongkhram, il terzo primo ministro del paese."
         }
+        
         
         
     ]
