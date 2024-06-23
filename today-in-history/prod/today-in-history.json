@@ -10466,6 +10466,32 @@
             "eventDescriptionDe": "Nik Wallenda wurde der erste Mensch, der erfolgreich über den Grand Canyon auf einem Seil balancierte.",
             "eventDescriptionEs": "Nik Wallenda se convirtió en el primer hombre en caminar con éxito sobre el Gran Cañón en una cuerda floja.",
             "eventDescriptionIt": "Nik Wallenda è diventato il primo uomo a camminare con successo attraverso il Grand Canyon su una fune tesa."
+        },{
+            "eventId": "913",
+            "eventCategory": "POLITICS",
+            "eventDate": "2010/06/24",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "Julia Gillard assumed office as the first female Prime Minister of Australia.",
+            "eventDescriptionTr": "Julia Gillard, Avustralya'nın ilk kadın Başbakanı olarak göreve başladı.",
+            "eventDescriptionFr": "Julia Gillard a pris ses fonctions en tant que première femme Premier ministre de l'Australie.",
+            "eventDescriptionDe": "Julia Gillard trat ihr Amt als erste weibliche Premierministerin Australiens an.",
+            "eventDescriptionEs": "Julia Gillard asumió el cargo como la primera mujer Primera Ministra de Australia.",
+            "eventDescriptionIt": "Julia Gillard ha assunto l'incarico come prima donna Primo Ministro dell'Australia."
+        },{
+            "eventId": "914",
+            "eventCategory": "HISTORY",
+            "eventDate": "1945/06/24",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "The first Victory Day Parade took place on Red Square in Moscow, Soviet Union, symbolizing the victory of the Soviet Union over Nazi Germany.",
+            "eventDescriptionTr": "Sovyetler Birliği'nin Nazi Almanyası'na karşı zaferini simgeleyen ilk Zafer Günü Geçit Töreni, Sovyetler Birliği'nin Moskova'daki Kızıl Meydan'da gerçekleşti.",
+            "eventDescriptionFr": "La première parade du Jour de la Victoire a eu lieu sur la Place Rouge à Moscou, Union soviétique, symbolisant la victoire de l'Union soviétique sur l'Allemagne nazie.",
+            "eventDescriptionDe": "Die erste Siegesparade fand auf dem Roten Platz in Moskau, Sowjetunion, statt und symbolisierte den Sieg der Sowjetunion über Nazi-Deutschland.",
+            "eventDescriptionEs": "El primer desfile del Día de la Victoria tuvo lugar en la Plaza Roja de Moscú, Unión Soviética, simbolizando la victoria de la Unión Soviética sobre la Alemania nazi.",
+            "eventDescriptionIt": "La prima Parata del Giorno della Vittoria ebbe luogo sulla Piazza Rossa a Mosca, Unione Sovietica, simboleggiando la vittoria dell'Unione Sovietica sulla Germania nazista."
         }
+        
+        
     ]
 }
