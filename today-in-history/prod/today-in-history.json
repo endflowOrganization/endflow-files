@@ -10427,7 +10427,8 @@
             "eventDescriptionDe": "Grönland erklärte seine Unabhängigkeit. (Grönlands Nationalfeiertag).",
             "eventDescriptionEs": "Groenlandia declaró su independencia. (Día Nacional de Groenlandia).",
             "eventDescriptionIt": "La Groenlandia ha dichiarato l'indipendenza. (Giorno nazionale della Groenlandia)."
-        },{
+        },
+        {
             "eventId": "910",
             "eventCategory": "HISTORY",
             "eventDate": "1940/06/22",
@@ -10439,7 +10440,32 @@
             "eventDescriptionDe": "Zweiter Weltkrieg: Frankreich wurde gezwungen, den Zweiten Compiègne-Waffenstillstand mit Deutschland in demselben Eisenbahnwaggon zu unterzeichnen, in dem die Deutschen 1918 den Waffenstillstand unterzeichneten.",
             "eventDescriptionEs": "Segunda Guerra Mundial: Francia se vio obligada a firmar el Segundo armisticio de Compiègne con Alemania, en el mismo vagón de tren en el que los alemanes firmaron el Armisticio en 1918.",
             "eventDescriptionIt": "Seconda Guerra Mondiale: La Francia fu costretta a firmare l'armistizio di Compiègne con la Germania, nello stesso vagone ferroviario in cui i tedeschi firmarono l'armistizio nel 1918."
+        },
+        {
+            "eventId": "911",
+            "eventCategory": "PEOPLE",
+            "eventDate": "2021/06/23",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "John McAfee, the creator of the first commercial antivirus software, died.",
+            "eventDescriptionTr": "İlk ticari antivirüs yazılımının yaratıcısı John McAfee öldü.",
+            "eventDescriptionFr": "John McAfee, le créateur du premier logiciel antivirus commercial, est décédé.",
+            "eventDescriptionDe": "John McAfee, der Entwickler der ersten kommerziellen Antivirensoftware, ist gestorben.",
+            "eventDescriptionEs": "John McAfee, el creador del primer software antivirus comercial, murió.",
+            "eventDescriptionIt": "John McAfee, il creatore del primo software antivirus commerciale, è morto."
+        },
+        {
+            "eventId": "912",
+            "eventCategory": "SPORT",
+            "eventDate": "2013/06/23",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "Nik Wallenda became the first man to successfully walk across the Grand Canyon on a tightrope.",
+            "eventDescriptionTr": "Nik Wallenda, Grand Canyon üzerinde ip üstünde başarılı bir şekilde yürüyen ilk kişi oldu.",
+            "eventDescriptionFr": "Nik Wallenda est devenu le premier homme à traverser avec succès le Grand Canyon sur un fil de fer.",
+            "eventDescriptionDe": "Nik Wallenda wurde der erste Mensch, der erfolgreich über den Grand Canyon auf einem Seil balancierte.",
+            "eventDescriptionEs": "Nik Wallenda se convirtió en el primer hombre en caminar con éxito sobre el Gran Cañón en una cuerda floja.",
+            "eventDescriptionIt": "Nik Wallenda è diventato il primo uomo a camminare con successo attraverso il Grand Canyon su una fune tesa."
         }
-        
     ]
 }
