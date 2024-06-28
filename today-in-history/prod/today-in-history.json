@@ -10466,7 +10466,8 @@
             "eventDescriptionDe": "Nik Wallenda wurde der erste Mensch, der erfolgreich über den Grand Canyon auf einem Seil balancierte.",
             "eventDescriptionEs": "Nik Wallenda se convirtió en el primer hombre en caminar con éxito sobre el Gran Cañón en una cuerda floja.",
             "eventDescriptionIt": "Nik Wallenda è diventato il primo uomo a camminare con successo attraverso il Grand Canyon su una fune tesa."
-        },{
+        },
+        {
             "eventId": "913",
             "eventCategory": "POLITICS",
             "eventDate": "2010/06/24",
@@ -10478,7 +10479,8 @@
             "eventDescriptionDe": "Julia Gillard trat ihr Amt als erste weibliche Premierministerin Australiens an.",
             "eventDescriptionEs": "Julia Gillard asumió el cargo como la primera mujer Primera Ministra de Australia.",
             "eventDescriptionIt": "Julia Gillard ha assunto l'incarico come prima donna Primo Ministro dell'Australia."
-        },{
+        },
+        {
             "eventId": "914",
             "eventCategory": "HISTORY",
             "eventDate": "1945/06/24",
@@ -10490,7 +10492,8 @@
             "eventDescriptionDe": "Die erste Siegesparade fand auf dem Roten Platz in Moskau, Sowjetunion, statt und symbolisierte den Sieg der Sowjetunion über Nazi-Deutschland.",
             "eventDescriptionEs": "El primer desfile del Día de la Victoria tuvo lugar en la Plaza Roja de Moscú, Unión Soviética, simbolizando la victoria de la Unión Soviética sobre la Alemania nazi.",
             "eventDescriptionIt": "La prima Parata del Giorno della Vittoria ebbe luogo sulla Piazza Rossa a Mosca, Unione Sovietica, simboleggiando la vittoria dell'Unione Sovietica sulla Germania nazista."
-        },{
+        },
+        {
             "eventId": "915",
             "eventCategory": "POLITICS",
             "eventDate": "1939/06/24",
@@ -10502,9 +10505,19 @@
             "eventDescriptionDe": "Siam wurde von Plaek Phibunsongkhram, dem dritten Premierminister des Landes, in Thailand umbenannt.",
             "eventDescriptionEs": "Siam fue renombrado Tailandia por Plaek Phibunsongkhram, el tercer primer ministro del país.",
             "eventDescriptionIt": "Il Siam è stato rinominato Thailandia da Plaek Phibunsongkhram, il terzo primo ministro del paese."
+        },
+        {
+            "eventId": "916",
+            "eventCategory": "SPORT",
+            "eventDate": "2008/06/29",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "In the final of the UEFA Euro 2008, Spain defeated Germany to become the European champions.",
+            "eventDescriptionTr": "2008 Avrupa Futbol Şampiyonası finalinde İspanya, Almanya'yı yenerek Avrupa şampiyonu oldu.",
+            "eventDescriptionFr": "Lors de la finale de l'UEFA Euro 2008, l'Espagne a battu l'Allemagne pour devenir championne d'Europe.",
+            "eventDescriptionDe": "Im Finale der UEFA Euro 2008 besiegte Spanien Deutschland und wurde Europameister.",
+            "eventDescriptionEs": "En la final de la Eurocopa 2008, España derrotó a Alemania para convertirse en campeones de Europa.",
+            "eventDescriptionIt": "Nella finale di UEFA Euro 2008, la Spagna ha sconfitto la Germania diventando campione d'Europa."
         }
-        
-        
-        
     ]
 }
