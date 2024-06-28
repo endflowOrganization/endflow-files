@@ -10518,6 +10518,19 @@
             "eventDescriptionDe": "Im Finale der UEFA Euro 2008 besiegte Spanien Deutschland und wurde Europameister.",
             "eventDescriptionEs": "En la final de la Eurocopa 2008, España derrotó a Alemania para convertirse en campeones de Europa.",
             "eventDescriptionIt": "Nella finale di UEFA Euro 2008, la Spagna ha sconfitto la Germania diventando campione d'Europa."
+        },
+        {
+            "eventId": "917",
+            "eventCategory": "HISTORY",
+            "eventDate": "2008/06/21",
+            "eventImg": null,
+            "eventRegion": "TR",
+            "eventDescriptionEn": "",
+            "eventDescriptionTr": "Türkiye, 2002 FIFA Dünya Kupası'nda 3. oldu.",
+            "eventDescriptionFr": "",
+            "eventDescriptionDe": "",
+            "eventDescriptionEs": "",
+            "eventDescriptionIt": ""
         }
     ]
 }
