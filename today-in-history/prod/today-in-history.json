@@ -10570,6 +10570,19 @@
             "eventDescriptionDe": "Der Belgisch-Kongo erlangte seine Unabhängigkeit und wurde zur Republik Kongo (Léopoldville).",
             "eventDescriptionEs": "El Congo Belga obtuvo la independencia y se convirtió en la República del Congo (Léopoldville).",
             "eventDescriptionIt": "Il Congo Belga ottenne l'indipendenza e divenne la Repubblica del Congo (Léopoldville)."
+        },
+        {
+            "eventId": "921",
+            "eventCategory": "TECH",
+            "eventDate": "1937/06/30",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "The world's first emergency telephone number, 999, was introduced in London.",
+            "eventDescriptionTr": "Dünyanın ilk acil telefon numarası olan 999, Londra'da kullanıma sunuldu.",
+            "eventDescriptionFr": "Le premier numéro d'urgence téléphonique au monde, le 999, a été introduit à Londres.",
+            "eventDescriptionDe": "Die weltweit erste Notrufnummer, 999, wurde in London eingeführt.",
+            "eventDescriptionEs": "El primer número de emergencia telefónico del mundo, el 999, se introdujo en Londres.",
+            "eventDescriptionIt": "Il primo numero di emergenza telefonica al mondo, il 999, è stato introdotto a Londra."
         }
     ]
 }
