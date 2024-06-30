@@ -10557,8 +10557,19 @@
             "eventDescriptionDe": "",
             "eventDescriptionEs": "",
             "eventDescriptionIt": ""
+        },
+        {
+            "eventId": "920",
+            "eventCategory": "POLITICS",
+            "eventDate": "1960/06/30",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "The Belgian Congo gained independence and became the Republic of the Congo (Léopoldville).",
+            "eventDescriptionTr": "Belçika Kongosu bağımsızlığını kazandı ve Kongo Cumhuriyeti (Léopoldville) oldu.",
+            "eventDescriptionFr": "Le Congo belge a obtenu son indépendance et est devenu la République du Congo (Léopoldville).",
+            "eventDescriptionDe": "Der Belgisch-Kongo erlangte seine Unabhängigkeit und wurde zur Republik Kongo (Léopoldville).",
+            "eventDescriptionEs": "El Congo Belga obtuvo la independencia y se convirtió en la República del Congo (Léopoldville).",
+            "eventDescriptionIt": "Il Congo Belga ottenne l'indipendenza e divenne la Repubblica del Congo (Léopoldville)."
         }
-
-        
     ]
 }
