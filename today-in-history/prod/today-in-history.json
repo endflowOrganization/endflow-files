@@ -10533,18 +10533,32 @@
             "eventDescriptionIt": ""
         },
         {
-    "eventId": "918",
-    "eventCategory": "SCIENCE",
-    "eventDate": "1971/06/29",
-    "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/june%2Fsoyuz-11-crew-1971.jpg?alt=media&token=21929fdf-7e9b-47fb-9678-bf27059d84be",
-    "eventRegion": "ALL",
-    "eventDescriptionEn": "Prior to re-entry (following a record-setting stay aboard the Soviet Union’s Salyut 1 space station), the crew capsule of the Soyuz 11 spacecraft depressurized, killing the three cosmonauts on board. Georgy Dobrovolsky, Vladislav Volkov, and Viktor Patsayev were the first humans to die in space.",
-    "eventDescriptionTr": "Yeniden girişten önce (Sovyetler Birliği'nin Salyut 1 uzay istasyonunda rekor sürede kaldıktan sonra), Soyuz 11 uzay aracının mürettebat kapsülü basınç kaybetti ve içindeki üç kozmonot öldü. Georgy Dobrovolsky, Vladislav Volkov ve Viktor Patsayev, uzayda ölen ilk insanlar oldu.",
-    "eventDescriptionFr": "Avant la rentrée (après un séjour record à bord de la station spatiale Saliout 1 de l'Union soviétique), la capsule de l'équipage du vaisseau spatial Soyouz 11 s'est dépressurisée, tuant les trois cosmonautes à bord. Georgy Dobrovolsky, Vladislav Volkov et Viktor Patsayev ont été les premiers humains à mourir dans l'espace.",
-    "eventDescriptionDe": "Vor dem Wiedereintritt (nach einem rekordverdächtigen Aufenthalt an Bord der sowjetischen Raumstation Saljut 1) verlor die Crew-Kapsel des Raumfahrzeugs Sojus 11 den Druck, was zum Tod der drei Kosmonauten an Bord führte. Georgy Dobrovolsky, Vladislav Volkov und Viktor Patsayev waren die ersten Menschen, die im Weltraum starben.",
-    "eventDescriptionEs": "Antes de la reentrada (después de una estancia récord a bordo de la estación espacial Salyut 1 de la Unión Soviética), la cápsula de la tripulación de la nave Soyuz 11 se despresurizó, matando a los tres cosmonautas a bordo. Georgy Dobrovolsky, Vladislav Volkov y Viktor Patsayev fueron los primeros humanos en morir en el espacio.",
-    "eventDescriptionIt": "Prima del rientro (dopo una permanenza da record a bordo della stazione spaziale Salyut 1 dell'Unione Sovietica), la capsula dell'equipaggio della Soyuz 11 si depressurizzò, uccidendo i tre cosmonauti a bordo. Georgy Dobrovolsky, Vladislav Volkov e Viktor Patsayev furono i primi esseri umani a morire nello spazio."
-}
+            "eventId": "918",
+            "eventCategory": "SCIENCE",
+            "eventDate": "1971/06/29",
+            "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/june%2Fsoyuz-11-crew-1971.jpg?alt=media&token=21929fdf-7e9b-47fb-9678-bf27059d84be",
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "Prior to re-entry (following a record-setting stay aboard the Soviet Union’s Salyut 1 space station), the crew capsule of the Soyuz 11 spacecraft depressurized, killing the three cosmonauts on board. Georgy Dobrovolsky, Vladislav Volkov, and Viktor Patsayev were the first humans to die in space.",
+            "eventDescriptionTr": "Yeniden girişten önce (Sovyetler Birliği'nin Salyut 1 uzay istasyonunda rekor sürede kaldıktan sonra), Soyuz 11 uzay aracının mürettebat kapsülü basınç kaybetti ve içindeki üç kozmonot öldü. Georgy Dobrovolsky, Vladislav Volkov ve Viktor Patsayev, uzayda ölen ilk insanlar oldu.",
+            "eventDescriptionFr": "Avant la rentrée (après un séjour record à bord de la station spatiale Saliout 1 de l'Union soviétique), la capsule de l'équipage du vaisseau spatial Soyouz 11 s'est dépressurisée, tuant les trois cosmonautes à bord. Georgy Dobrovolsky, Vladislav Volkov et Viktor Patsayev ont été les premiers humains à mourir dans l'espace.",
+            "eventDescriptionDe": "Vor dem Wiedereintritt (nach einem rekordverdächtigen Aufenthalt an Bord der sowjetischen Raumstation Saljut 1) verlor die Crew-Kapsel des Raumfahrzeugs Sojus 11 den Druck, was zum Tod der drei Kosmonauten an Bord führte. Georgy Dobrovolsky, Vladislav Volkov und Viktor Patsayev waren die ersten Menschen, die im Weltraum starben.",
+            "eventDescriptionEs": "Antes de la reentrada (después de una estancia récord a bordo de la estación espacial Salyut 1 de la Unión Soviética), la cápsula de la tripulación de la nave Soyuz 11 se despresurizó, matando a los tres cosmonautas a bordo. Georgy Dobrovolsky, Vladislav Volkov y Viktor Patsayev fueron los primeros humanos en morir en el espacio.",
+            "eventDescriptionIt": "Prima del rientro (dopo una permanenza da record a bordo della stazione spaziale Salyut 1 dell'Unione Sovietica), la capsula dell'equipaggio della Soyuz 11 si depressurizzò, uccidendo i tre cosmonauti a bordo. Georgy Dobrovolsky, Vladislav Volkov e Viktor Patsayev furono i primi esseri umani a morire nello spazio."
+        },
+        {
+            "eventId": "919",
+            "eventCategory": "SPORT",
+            "eventDate": "1965/06/30",
+            "eventImg": null,
+            "eventRegion": "TR",
+            "eventDescriptionEn": "",
+            "eventDescriptionTr": "Samsunspor kuruldu.",
+            "eventDescriptionFr": "",
+            "eventDescriptionDe": "",
+            "eventDescriptionEs": "",
+            "eventDescriptionIt": ""
+        }
 
+        
     ]
 }
