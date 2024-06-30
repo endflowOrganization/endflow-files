@@ -10583,6 +10583,32 @@
             "eventDescriptionDe": "Die weltweit erste Notrufnummer, 999, wurde in London eingeführt.",
             "eventDescriptionEs": "El primer número de emergencia telefónico del mundo, el 999, se introdujo en Londres.",
             "eventDescriptionIt": "Il primo numero di emergenza telefonica al mondo, il 999, è stato introdotto a Londra."
+        },
+        {
+            "eventId": "922",
+            "eventCategory": "TECH",
+            "eventDate": "1972/06/30",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "The first leap second was added to the UTC time system.",
+            "eventDescriptionTr": "UTC zaman sistemine ilk artık saniye eklendi.",
+            "eventDescriptionFr": "La première seconde intercalaire a été ajoutée au système de temps UTC.",
+            "eventDescriptionDe": "Die erste Schaltsekunde wurde dem UTC-Zeitsystem hinzugefügt.",
+            "eventDescriptionEs": "Se añadió el primer segundo intercalar al sistema de tiempo UTC.",
+            "eventDescriptionIt": "Il primo secondo intercalare è stato aggiunto al sistema di tempo UTC."
+        },
+        {
+            "eventId": "923",
+            "eventCategory": "HISTORY",
+            "eventDate": "1966/06/30",
+            "eventImg": null,
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "The National Organization for Women (NOW), the United States' largest feminist organization, was founded.",
+            "eventDescriptionTr": "Amerika Birleşik Devletleri'nin en büyük feminist örgütü olan Kadınlar Ulusal Organizasyonu (NOW) kuruldu.",
+            "eventDescriptionFr": "L'Organisation nationale pour les femmes (NOW), la plus grande organisation féministe des États-Unis, a été fondée.",
+            "eventDescriptionDe": "Die National Organization for Women (NOW), die größte feministische Organisation der Vereinigten Staaten, wurde gegründet.",
+            "eventDescriptionEs": "La Organización Nacional para las Mujeres (NOW), la organización feminista más grande de Estados Unidos, fue fundada.",
+            "eventDescriptionIt": "La National Organization for Women (NOW), la più grande organizzazione femminista degli Stati Uniti, è stata fondata."
         }
     ]
 }
