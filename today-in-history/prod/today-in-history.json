@@ -12,6 +12,19 @@
     "eventDescriptionDe": "",
     "eventDescriptionEs": "",
     "eventDescriptionIt": ""
+},{
+    "eventId": "927",
+    "eventCategory": "SCIENCE",
+    "eventDate": "2001/07/02",
+    "eventImg": null,
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The AbioCor self-contained artificial heart was first implanted.",
+    "eventDescriptionTr": "AbioCor kendi kendine yeten yapay kalp ilk kez implante edildi.",
+    "eventDescriptionFr": "Le cœur artificiel autonome AbioCor a été implanté pour la première fois.",
+    "eventDescriptionDe": "Das AbioCor selbstenthaltende künstliche Herz wurde erstmals implantiert.",
+    "eventDescriptionEs": "El corazón artificial autosuficiente AbioCor se implantó por primera vez.",
+    "eventDescriptionIt": "Il cuore artificiale autonomo AbioCor è stato impiantato per la prima volta."
 }
+
 
 ]}
