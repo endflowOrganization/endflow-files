@@ -10609,6 +10609,20 @@
             "eventDescriptionDe": "Die National Organization for Women (NOW), die größte feministische Organisation der Vereinigten Staaten, wurde gegründet.",
             "eventDescriptionEs": "La Organización Nacional para las Mujeres (NOW), la organización feminista más grande de Estados Unidos, fue fundada.",
             "eventDescriptionIt": "La National Organization for Women (NOW), la più grande organizzazione femminista degli Stati Uniti, è stata fondata."
-        }
+        },
+        {
+    "eventId": "924",
+    "eventCategory": "FINANCE",
+    "eventDate": "1962/07/02",
+    "eventImg": null,
+    "eventRegion": "US",
+    "eventDescriptionEn": "The first Walmart store, then known as Wal-Mart, opened for business in Rogers, Arkansas.",
+    "eventDescriptionTr": "",
+    "eventDescriptionFr": "",
+    "eventDescriptionDe": "",
+    "eventDescriptionEs": "",
+    "eventDescriptionIt": ""
+}
+
     ]
 }
