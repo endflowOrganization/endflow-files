@@ -124,7 +124,7 @@
 },{
     "eventId": "938",
     "eventCategory": "PEOPLE",
-    "eventDate": "2007/07/02",
+    "eventDate": "2007/07/04",
     "eventImg": null,
     "eventRegion": "TR",
     "eventDescriptionEn": "",
@@ -133,7 +133,21 @@
     "eventDescriptionDe": "",
     "eventDescriptionEs": "",
     "eventDescriptionIt": ""
+},{
+    "eventId": "939",
+    "eventCategory": "HISTORY",
+    "eventDate": "1995/07/04",
+    "eventImg": null,
+    "eventRegion": "TR",
+    "eventDescriptionEn": "",
+    "eventDescriptionTr": "Türk Silahlı Kuvvetleri, PKK'ya karşı sınır ötesi 'Ejder Operasyonu'nu başlattı.",
+    "eventDescriptionFr": "",
+    "eventDescriptionDe": "",
+    "eventDescriptionEs": "",
+    "eventDescriptionIt": ""
 }
+
+     
 
 
 ]}
