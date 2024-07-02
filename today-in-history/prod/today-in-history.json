@@ -104,11 +104,24 @@
     "eventImg": null,
     "eventRegion": "TR",
     "eventDescriptionEn": "",
-    "eventDescriptionTr": "Sivas Madımak Oteli yakıldı. Otelde bulunan kişilerden 37'si yanarak öldü.",
+    "eventDescriptionTr": "Sivas Madımak Oteli yakıldı. Otelde bulunan kişilerden 37'si yanarak hayatını kaybetti.",
     "eventDescriptionFr": "",
     "eventDescriptionDe": "",
     "eventDescriptionEs": "",
     "eventDescriptionIt": ""
+},{
+    "eventId": "937",
+    "eventCategory": "HISTORY",
+    "eventDate": "1990/07/02",
+    "eventImg": null,
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "In the 1990 Mecca tunnel tragedy, 1,426 Muslim pilgrims died in a pedestrian tunnel leading to the holy city of Mecca.",
+    "eventDescriptionTr": "1990 Mekke tünel trajedisinde, kutsal Mekke şehrine giden bir yaya tünelinde 1.426 Müslüman hacı hayatını kaybetti.",
+    "eventDescriptionFr": "Lors de la tragédie du tunnel de La Mecque en 1990, 1 426 pèlerins musulmans sont morts dans un tunnel piétonnier menant à la ville sainte de La Mecque.",
+    "eventDescriptionDe": "Bei der Tunnelkatastrophe von Mekka 1990 kamen 1.426 muslimische Pilger in einem Fußgängertunnel, der zur heiligen Stadt Mekka führte, ums Leben.",
+    "eventDescriptionEs": "En la tragedia del túnel de La Meca de 1990, 1.426 peregrinos musulmanes murieron en un túnel peatonal que conducía a la ciudad santa de La Meca.",
+    "eventDescriptionIt": "Nella tragedia del tunnel della Mecca del 1990, 1.426 pellegrini musulmani morirono in un tunnel pedonale che conduceva alla città santa della Mecca."
 }
+
 
 ]}
