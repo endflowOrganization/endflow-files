@@ -62,7 +62,7 @@
     "eventDescriptionEs": "La Noche de los cuchillos largos, una purga en la que el régimen nazi asesinó a varios adversarios políticos, terminó después de tres días de matanza.",
     "eventDescriptionIt": "La Notte dei lunghi coltelli, una purga in cui il regime nazista uccise diversi avversari politici, terminò dopo tre giorni di uccisioni."
 },{
-    "eventId": "914",
+    "eventId": "931",
     "eventCategory": "POLITICS",
     "eventDate": "1976/07/02",
     "eventImg": null,
@@ -73,10 +73,17 @@
     "eventDescriptionDe": "Ende von Südvietnam; Das kommunistische Nordvietnam annektierte das ehemalige Südvietnam und bildete die einheitliche Sozialistische Republik Vietnam.",
     "eventDescriptionEs": "Fin del Vietnam del Sur; El Vietnam del Norte comunista anexó el antiguo Vietnam del Sur para formar la unificada República Socialista de Vietnam.",
     "eventDescriptionIt": "Fine del Vietnam del Sud; Il Vietnam del Nord comunista ha annesso l'ex Vietnam del Sud per formare la Repubblica Socialista unificata del Vietnam."
+},{
+    "eventId": "932",
+    "eventCategory": "HISTORY",
+    "eventDate": "1932/07/02",
+    "eventImg": null,
+    "eventRegion": "TR",
+    "eventDescriptionEn": "",
+    "eventDescriptionTr": "Birinci Türk Tarih Kurultayı Ankara Halkevi'nde toplandı.",
+    "eventDescriptionFr": "",
+    "eventDescriptionDe": "",
+    "eventDescriptionEs": "",
+    "eventDescriptionIt": ""
 }
-
-
-
-
-
 ]}
