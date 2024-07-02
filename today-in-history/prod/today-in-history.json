@@ -85,5 +85,18 @@
     "eventDescriptionDe": "",
     "eventDescriptionEs": "",
     "eventDescriptionIt": ""
+},{
+    "eventId": "933",
+    "eventCategory": "PEOPLE",
+    "eventDate": "1961/07/02",
+    "eventImg": null,
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Ernest Hemingway, the American novelist and Nobel Prize laureate, died.",
+    "eventDescriptionTr": "Amerikalı yazar ve Nobel Ödülü sahibi Ernest Hemingway öldü.",
+    "eventDescriptionFr": "Ernest Hemingway, le romancier américain et lauréat du prix Nobel, est décédé.",
+    "eventDescriptionDe": "Ernest Hemingway, der amerikanische Romanautor und Nobelpreisträger, ist gestorben.",
+    "eventDescriptionEs": "Ernest Hemingway, el novelista estadounidense y premio Nobel, murió.",
+    "eventDescriptionIt": "Ernest Hemingway, il romanziere americano e premio Nobel, è morto."
 }
+
 ]}
