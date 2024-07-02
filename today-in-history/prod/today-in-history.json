@@ -36,7 +36,21 @@
     "eventDescriptionDe": "",
     "eventDescriptionEs": "",
     "eventDescriptionIt": ""
+},
+    {
+    "eventId": "929",
+    "eventCategory": "FINANCE",
+    "eventDate": "1997/07/02",
+    "eventImg": null,
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The Bank of Thailand floated the baht (Thailand's currency), triggering the Asian financial crisis.",
+    "eventDescriptionTr": "Tayland Merkez Bankası, Tayland'ın para birimi olan bahtı serbest bırakınca Asya finansal krizi başladı.",
+    "eventDescriptionFr": "La Banque de Thaïlande a flotté le baht (la monnaie thaïlandaise), déclenchant la crise financière asiatique.",
+    "eventDescriptionDe": "Die Bank von Thailand ließ den Baht (die Währung Thailands) frei schweben, was die Asien-Finanzkrise auslöste.",
+    "eventDescriptionEs": "El Banco de Tailandia flotó el baht (la moneda de Tailandia), desencadenando la crisis financiera asiática.",
+    "eventDescriptionIt": "La Banca di Thailandia ha reso fluttuante il baht (la valuta della Thailandia), scatenando la crisi finanziaria asiatica."
 }
+
 
 
 ]}
