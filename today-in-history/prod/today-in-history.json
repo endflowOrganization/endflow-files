@@ -49,7 +49,20 @@
     "eventDescriptionDe": "Die Bank von Thailand ließ den Baht (die Währung Thailands) frei schweben, was die Asien-Finanzkrise auslöste.",
     "eventDescriptionEs": "El Banco de Tailandia flotó el baht (la moneda de Tailandia), desencadenando la crisis financiera asiática.",
     "eventDescriptionIt": "La Banca di Thailandia ha reso fluttuante il baht (la valuta della Thailandia), scatenando la crisi finanziaria asiatica."
+},{
+    "eventId": "930",
+    "eventCategory": "HISTORY",
+    "eventDate": "1934/07/02",
+    "eventImg": null,
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The Night of the Long Knives, a purge that saw the killing of several political adversaries by the Nazi regime, ended after three days of killings.",
+    "eventDescriptionTr": "Nazi rejiminin birçok siyasi rakibi öldürdüğü Uzun Bıçaklar Gecesi, üç gün süren öldürme olaylarının ardından sona erdi.",
+    "eventDescriptionFr": "La Nuit des longs couteaux, une purge où le régime nazi a tué plusieurs adversaires politiques, s'est terminée après trois jours de meurtres.",
+    "eventDescriptionDe": "Die Nacht der langen Messer, eine Säuberungsaktion, bei der das NS-Regime mehrere politische Gegner tötete, endete nach drei Tagen des Mordens.",
+    "eventDescriptionEs": "La Noche de los cuchillos largos, una purga en la que el régimen nazi asesinó a varios adversarios políticos, terminó después de tres días de matanza.",
+    "eventDescriptionIt": "La Notte dei lunghi coltelli, una purga in cui il regime nazista uccise diversi avversari politici, terminò dopo tre giorni di uccisioni."
 }
+
 
 
 
