@@ -61,7 +61,20 @@
     "eventDescriptionDe": "Die Nacht der langen Messer, eine Säuberungsaktion, bei der das NS-Regime mehrere politische Gegner tötete, endete nach drei Tagen des Mordens.",
     "eventDescriptionEs": "La Noche de los cuchillos largos, una purga en la que el régimen nazi asesinó a varios adversarios políticos, terminó después de tres días de matanza.",
     "eventDescriptionIt": "La Notte dei lunghi coltelli, una purga in cui il regime nazista uccise diversi avversari politici, terminò dopo tre giorni di uccisioni."
+},{
+    "eventId": "914",
+    "eventCategory": "POLITICS",
+    "eventDate": "1976/07/02",
+    "eventImg": null,
+    "eventRegion": "VIETNAM",
+    "eventDescriptionEn": "End of South Vietnam; Communist North Vietnam annexed the former South Vietnam to form the unified Socialist Republic of Vietnam.",
+    "eventDescriptionTr": "Güney Vietnam'ın sonu; Komünist Kuzey Vietnam, eski Güney Vietnam'ı ilhak ederek birleşik Sosyalist Vietnam Cumhuriyeti'ni kurdu.",
+    "eventDescriptionFr": "Fin du Sud-Vietnam; Le Vietnam du Nord communiste a annexé l'ancien Sud-Vietnam pour former la République socialiste unifiée du Vietnam.",
+    "eventDescriptionDe": "Ende von Südvietnam; Das kommunistische Nordvietnam annektierte das ehemalige Südvietnam und bildete die einheitliche Sozialistische Republik Vietnam.",
+    "eventDescriptionEs": "Fin del Vietnam del Sur; El Vietnam del Norte comunista anexó el antiguo Vietnam del Sur para formar la unificada República Socialista de Vietnam.",
+    "eventDescriptionIt": "Fine del Vietnam del Sud; Il Vietnam del Nord comunista ha annesso l'ex Vietnam del Sud per formare la Repubblica Socialista unificata del Vietnam."
 }
+
 
 
 
