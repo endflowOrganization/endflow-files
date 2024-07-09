@@ -256,18 +256,29 @@
     "eventDescriptionDe": "Der Libanonkrieg 2006 begann.",
     "eventDescriptionEs": "Comenzó la Guerra del Líbano de 2006.",
     "eventDescriptionIt": "È iniziata la guerra del Libano del 2006."
+},{
+    "eventId": "963",
+    "eventCategory": "SPORT",
+    "eventDate": "1930/07/13",
+    "eventImg": null,
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The inaugural FIFA World Cup began in Uruguay.",
+    "eventDescriptionTr": "İlk FIFA Dünya Kupası Uruguay'da başladı.",
+    "eventDescriptionFr": "La première Coupe du Monde de la FIFA a commencé en Uruguay.",
+    "eventDescriptionDe": "Die erste FIFA-Weltmeisterschaft begann in Uruguay.",
+    "eventDescriptionEs": "La primera Copa Mundial de la FIFA comenzó en Uruguay.",
+    "eventDescriptionIt": "La prima Coppa del Mondo FIFA è iniziata in Uruguay."
+},{
+    "eventId": "964",
+    "eventCategory": "HISTORY",
+    "eventDate": "1938/07/13",
+    "eventImg": null,
+    "eventRegion": "TR",
+    "eventDescriptionEn": "",
+    "eventDescriptionTr": "Toprak Mahsulleri Ofisi kuruldu.",
+    "eventDescriptionFr": "",
+    "eventDescriptionDe": "",
+    "eventDescriptionEs": "",
+    "eventDescriptionIt": ""
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 ]}
