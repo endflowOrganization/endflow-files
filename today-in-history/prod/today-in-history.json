@@ -184,6 +184,18 @@
     "eventDescriptionDe": "Spanien besiegte die Niederlande, um die FIFA-Weltmeisterschaft 2010 in Johannesburg zu gewinnen.",
     "eventDescriptionEs": "España derrotó a los Países Bajos para ganar la Copa Mundial de la FIFA 2010 en Johannesburgo.",
     "eventDescriptionIt": "La Spagna ha sconfitto i Paesi Bassi per vincere la Coppa del Mondo FIFA 2010 a Johannesburg."
+},{
+    "eventId": "957",
+    "eventCategory": "HISTORY",
+    "eventDate": "2010/07/12",
+    "eventImg": null,
+    "eventRegion": "TR",
+    "eventDescriptionEn": "",
+    "eventDescriptionTr": "İstanbul Voleybol Kulübü kuruldu.",
+    "eventDescriptionFr": "",
+    "eventDescriptionDe": "",
+    "eventDescriptionEs": "",
+    "eventDescriptionIt": ""
 }
 
 
