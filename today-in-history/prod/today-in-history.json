@@ -148,7 +148,20 @@
     "eventDescriptionDe": "Portugal besiegte Frankreich im Finale der UEFA Euro 2016 und gewann seinen ersten Europameistertitel.",
     "eventDescriptionEs": "Portugal derrotó a Francia en la final de la UEFA Euro 2016 para ganar su primer título europeo.",
     "eventDescriptionIt": "Il Portogallo ha sconfitto la Francia nella finale di UEFA Euro 2016 per vincere il suo primo titolo europeo."
+},{
+    "eventId": "954",
+    "eventCategory": "HISTORY",
+    "eventDate": "1943/07/09",
+    "eventImg": null,
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "World War II: Operation Husky began in Sicily.",
+    "eventDescriptionTr": "II. Dünya Savaşı: Sicilya'da Husky Harekâtı başladı.",
+    "eventDescriptionFr": "Seconde Guerre mondiale : L'opération Husky a commencé en Sicile.",
+    "eventDescriptionDe": "Zweiter Weltkrieg: Die Operation Husky begann in Sizilien.",
+    "eventDescriptionEs": "Segunda Guerra Mundial: La Operación Husky comenzó en Sicilia.",
+    "eventDescriptionIt": "Seconda guerra mondiale: l'Operazione Husky iniziò in Sicilia."
 }
+
 
 
 
