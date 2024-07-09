@@ -220,7 +220,20 @@
     "eventDescriptionDe": "Die Inselnation Kiribati wurde von Großbritannien unabhängig.",
     "eventDescriptionEs": "La nación insular de Kiribati se independizó del Reino Unido.",
     "eventDescriptionIt": "La nazione insulare di Kiribati è diventata indipendente dal Regno Unito."
+},{
+    "eventId": "960",
+    "eventCategory": "HISTORY",
+    "eventDate": "1975/07/12",
+    "eventImg": null,
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "São Tomé and Príncipe declared independence from Portugal.",
+    "eventDescriptionTr": "São Tomé ve Príncipe, Portekiz'den bağımsızlığını ilan etti.",
+    "eventDescriptionFr": "São Tomé et Príncipe ont déclaré leur indépendance du Portugal.",
+    "eventDescriptionDe": "São Tomé und Príncipe erklärten ihre Unabhängigkeit von Portugal.",
+    "eventDescriptionEs": "Santo Tomé y Príncipe declararon su independencia de Portugal.",
+    "eventDescriptionIt": "São Tomé e Príncipe dichiararono l'indipendenza dal Portogallo."
 }
+
 
 
 
