@@ -292,6 +292,19 @@
     "eventDescriptionDe": "Deutschland gewann die FIFA-Weltmeisterschaft 2014, indem es Argentinien im Finale nach Verlängerung mit 1:0 besiegte.",
     "eventDescriptionEs": "Alemania ganó la Copa Mundial de la FIFA 2014, derrotando a Argentina en la final con una victoria de 1-0 en tiempo extra.",
     "eventDescriptionIt": "La Germania ha vinto la Coppa del Mondo FIFA 2014, sconfiggendo l'Argentina in finale con una vittoria per 1-0 dopo i tempi supplementari."
+},{
+    "eventId": "966",
+    "eventCategory": "HISTORY",
+    "eventDate": "1878/07/13",
+    "eventImg": null,
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The Treaty of Berlin was signed between the Ottoman Empire, the Russian Empire, Great Britain, the German Empire, the Austro-Hungarian Empire, the Kingdom of Italy, and France.",
+    "eventDescriptionTr": "Osmanlı İmparatorluğu, Çarlık Rusyası, Büyük Britanya, Alman İmparatorluğu, Avusturya-Macaristan İmparatorluğu, İtalya Krallığı ve Fransa arasında Berlin Antlaşması imzalandı.",
+    "eventDescriptionFr": "Le traité de Berlin a été signé entre l'Empire ottoman, l'Empire russe, la Grande-Bretagne, l'Empire allemand, l'Empire austro-hongrois, le Royaume d'Italie et la France.",
+    "eventDescriptionDe": "Der Berliner Vertrag wurde zwischen dem Osmanischen Reich, dem Russischen Reich, Großbritannien, dem Deutschen Reich, dem Österreichisch-Ungarischen Reich, dem Königreich Italien und Frankreich unterzeichnet.",
+    "eventDescriptionEs": "El Tratado de Berlín fue firmado entre el Imperio Otomano, el Imperio Ruso, Gran Bretaña, el Imperio Alemán, el Imperio Austrohúngaro, el Reino de Italia y Francia.",
+    "eventDescriptionIt": "Il Trattato di Berlino è stato firmato tra l'Impero Ottomano, l'Impero Russo, la Gran Bretagna, l'Impero Tedesco, l'Impero Austro-Ungarico, il Regno d'Italia e la Francia."
 }
+
 
 ]}
