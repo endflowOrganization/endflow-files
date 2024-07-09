@@ -244,7 +244,20 @@
     "eventDescriptionDe": "Charles Rolls, englischer Ingenieur und Geschäftsmann, Mitbegründer von Rolls-Royce Limited, starb.",
     "eventDescriptionEs": "Charles Rolls, ingeniero y empresario inglés, cofundador de Rolls-Royce Limited, falleció.",
     "eventDescriptionIt": "Charles Rolls, ingegnere e imprenditore inglese, co-fondatore della Rolls-Royce Limited, è morto."
+},{
+    "eventId": "962",
+    "eventCategory": "HISTORY",
+    "eventDate": "2006/07/12",
+    "eventImg": null,
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The 2006 Lebanon War began.",
+    "eventDescriptionTr": "2006 Lübnan Savaşı başladı.",
+    "eventDescriptionFr": "La guerre du Liban de 2006 a commencé.",
+    "eventDescriptionDe": "Der Libanonkrieg 2006 begann.",
+    "eventDescriptionEs": "Comenzó la Guerra del Líbano de 2006.",
+    "eventDescriptionIt": "È iniziata la guerra del Libano del 2006."
 }
+
 
 
 
