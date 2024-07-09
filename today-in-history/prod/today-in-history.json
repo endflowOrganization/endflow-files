@@ -124,7 +124,20 @@
     "eventDescriptionDe": "",
     "eventDescriptionEs": "",
     "eventDescriptionIt": ""
+},{
+    "eventId": "952",
+    "eventCategory": "TECH",
+    "eventDate": "1962/07/10",
+    "eventImg": null,
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Telstar, the world's first communications satellite, was launched into orbit.",
+    "eventDescriptionTr": "Dünyanın ilk iletişim uydusu olan Telstar yörüngeye fırlatıldı.",
+    "eventDescriptionFr": "Telstar, le premier satellite de communication au monde, a été lancé en orbite.",
+    "eventDescriptionDe": "Telstar, der weltweit erste Kommunikationssatellit, wurde in die Umlaufbahn gebracht.",
+    "eventDescriptionEs": "Telstar, el primer satélite de comunicaciones del mundo, fue lanzado en órbita.",
+    "eventDescriptionIt": "Telstar, il primo satellite di comunicazione al mondo, è stato lanciato in orbita."
 }
+
 
 
 
