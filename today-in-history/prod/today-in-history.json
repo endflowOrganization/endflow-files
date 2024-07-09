@@ -186,12 +186,24 @@
     "eventDescriptionIt": "La Spagna ha sconfitto i Paesi Bassi per vincere la Coppa del Mondo FIFA 2010 a Johannesburg."
 },{
     "eventId": "957",
-    "eventCategory": "HISTORY",
+    "eventCategory": "SPORT",
     "eventDate": "2010/07/12",
     "eventImg": null,
     "eventRegion": "TR",
     "eventDescriptionEn": "",
     "eventDescriptionTr": "İstanbul Voleybol Kulübü kuruldu.",
+    "eventDescriptionFr": "",
+    "eventDescriptionDe": "",
+    "eventDescriptionEs": "",
+    "eventDescriptionIt": ""
+},{
+    "eventId": "958",
+    "eventCategory": "HISTORY",
+    "eventDate": "1932/07/12",
+    "eventImg": null,
+    "eventRegion": "TR",
+    "eventDescriptionEn": "",
+    "eventDescriptionTr": "Türk Dil Kurumu kuruldu.",
     "eventDescriptionFr": "",
     "eventDescriptionDe": "",
     "eventDescriptionEs": "",
