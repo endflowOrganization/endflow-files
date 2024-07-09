@@ -112,6 +112,18 @@
     "eventDescriptionDe": "Die Bahamas erlangten die volle Unabhängigkeit innerhalb des Commonwealth of Nations.",
     "eventDescriptionEs": "Las Bahamas obtuvieron la plena independencia dentro de la Commonwealth de Naciones.",
     "eventDescriptionIt": "Le Bahamas hanno ottenuto la piena indipendenza all'interno del Commonwealth delle Nazioni."
+},{
+    "eventId": "951",
+    "eventCategory": "HISTORY",
+    "eventDate": "2020/07/24",
+    "eventImg": null,
+    "eventRegion": "TR",
+    "eventDescriptionEn": "",
+    "eventDescriptionTr": "Ayasofya, cami olarak ibadete açıldı.",
+    "eventDescriptionFr": "",
+    "eventDescriptionDe": "",
+    "eventDescriptionEs": "",
+    "eventDescriptionIt": ""
 }
 
 
