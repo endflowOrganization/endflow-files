@@ -280,5 +280,18 @@
     "eventDescriptionDe": "",
     "eventDescriptionEs": "",
     "eventDescriptionIt": ""
+},{
+    "eventId": "965",
+    "eventCategory": "SPORT",
+    "eventDate": "2014/07/13",
+    "eventImg": null,
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Germany won the 2014 FIFA World Cup, defeating Argentina in the final with a 1-0 win after extra time.",
+    "eventDescriptionTr": "Almanya, Arjantin'i uzatmalarda 1-0 yenerek 2014 FIFA Dünya Kupası'nı kazandı.",
+    "eventDescriptionFr": "L'Allemagne a remporté la Coupe du Monde de la FIFA 2014 en battant l'Argentine en finale 1-0 après prolongation.",
+    "eventDescriptionDe": "Deutschland gewann die FIFA-Weltmeisterschaft 2014, indem es Argentinien im Finale nach Verlängerung mit 1:0 besiegte.",
+    "eventDescriptionEs": "Alemania ganó la Copa Mundial de la FIFA 2014, derrotando a Argentina en la final con una victoria de 1-0 en tiempo extra.",
+    "eventDescriptionIt": "La Germania ha vinto la Coppa del Mondo FIFA 2014, sconfiggendo l'Argentina in finale con una vittoria per 1-0 dopo i tempi supplementari."
 }
+
 ]}
