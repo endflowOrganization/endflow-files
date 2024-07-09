@@ -100,7 +100,20 @@
     "eventDescriptionDe": "Italien gewann die FIFA-Weltmeisterschaft, nachdem es Frankreich in einem Spiel, das in der regulären Spielzeit 1-1 endete, mit 5-4 im Elfmeterschießen besiegt hatte.",
     "eventDescriptionEs": "Italia ganó la Copa Mundial de la FIFA después de derrotar a Francia 5-4 en penales en un partido que terminó 1-1 en el tiempo reglamentario en Berlín.",
     "eventDescriptionIt": "L'Italia ha vinto la Coppa del Mondo FIFA dopo aver battuto la Francia 5-4 ai rigori in una partita terminata 1-1 nei tempi regolamentari a Berlino."
+},{
+    "eventId": "950",
+    "eventCategory": "HISTORY",
+    "eventDate": "1973/07/10",
+    "eventImg": null,
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The Bahamas gained full independence within the Commonwealth of Nations.",
+    "eventDescriptionTr": "Bahamalar, Milletler Topluluğu içinde tam bağımsızlık kazandı.",
+    "eventDescriptionFr": "Les Bahamas ont obtenu leur pleine indépendance au sein du Commonwealth des Nations.",
+    "eventDescriptionDe": "Die Bahamas erlangten die volle Unabhängigkeit innerhalb des Commonwealth of Nations.",
+    "eventDescriptionEs": "Las Bahamas obtuvieron la plena independencia dentro de la Commonwealth de Naciones.",
+    "eventDescriptionIt": "Le Bahamas hanno ottenuto la piena indipendenza all'interno del Commonwealth delle Nazioni."
 }
+
 
 
 
