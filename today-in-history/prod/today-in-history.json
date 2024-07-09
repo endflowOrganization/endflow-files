@@ -136,7 +136,20 @@
     "eventDescriptionDe": "Telstar, der weltweit erste Kommunikationssatellit, wurde in die Umlaufbahn gebracht.",
     "eventDescriptionEs": "Telstar, el primer satélite de comunicaciones del mundo, fue lanzado en órbita.",
     "eventDescriptionIt": "Telstar, il primo satellite di comunicazione al mondo, è stato lanciato in orbita."
+},{
+    "eventId": "953",
+    "eventCategory": "SPORT",
+    "eventDate": "2016/07/10",
+    "eventImg": null,
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Portugal defeated France in the UEFA Euro 2016 Final to win their first European title.",
+    "eventDescriptionTr": "Portekiz, UEFA Euro 2016 Finalinde Fransa'yı yenerek ilk Avrupa şampiyonluğunu kazandı.",
+    "eventDescriptionFr": "Le Portugal a battu la France en finale de l'UEFA Euro 2016 pour remporter son premier titre européen.",
+    "eventDescriptionDe": "Portugal besiegte Frankreich im Finale der UEFA Euro 2016 und gewann seinen ersten Europameistertitel.",
+    "eventDescriptionEs": "Portugal derrotó a Francia en la final de la UEFA Euro 2016 para ganar su primer título europeo.",
+    "eventDescriptionIt": "Il Portogallo ha sconfitto la Francia nella finale di UEFA Euro 2016 per vincere il suo primo titolo europeo."
 }
+
 
 
 
