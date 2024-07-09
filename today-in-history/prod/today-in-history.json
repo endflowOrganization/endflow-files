@@ -88,7 +88,20 @@
     "eventDescriptionDe": "",
     "eventDescriptionEs": "",
     "eventDescriptionIt": ""
+},{
+    "eventId": "949",
+    "eventCategory": "SPORT",
+    "eventDate": "2006/07/09",
+    "eventImg": null,
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Italy won the FIFA World Cup after defeating France 5-4 on penalties in a match that ended 1-1 in normal time in Berlin.",
+    "eventDescriptionTr": "İtalya, Berlin'de normal süresi 1-1 biten maçta Fransa'yı penaltılarla 5-4 yenerek FIFA Dünya Kupası'nı kazandı.",
+    "eventDescriptionFr": "L'Italie a remporté la Coupe du Monde de la FIFA après avoir battu la France 5-4 aux tirs au but dans un match qui s'est terminé 1-1 en temps normal à Berlin.",
+    "eventDescriptionDe": "Italien gewann die FIFA-Weltmeisterschaft, nachdem es Frankreich in einem Spiel, das in der regulären Spielzeit 1-1 endete, mit 5-4 im Elfmeterschießen besiegt hatte.",
+    "eventDescriptionEs": "Italia ganó la Copa Mundial de la FIFA después de derrotar a Francia 5-4 en penales en un partido que terminó 1-1 en el tiempo reglamentario en Berlín.",
+    "eventDescriptionIt": "L'Italia ha vinto la Coppa del Mondo FIFA dopo aver battuto la Francia 5-4 ai rigori in una partita terminata 1-1 nei tempi regolamentari a Berlino."
 }
+
 
 
 
