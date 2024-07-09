@@ -51,7 +51,21 @@
     "eventDescriptionDe": "",
     "eventDescriptionEs": "",
     "eventDescriptionIt": ""
+},
+{
+    "eventId": "946",
+    "eventCategory": "HISTORY",
+    "eventDate": "2011/07/09",
+    "eventImg": null,
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "South Sudan gained independence and seceded from Sudan.",
+    "eventDescriptionTr": "Güney Sudan bağımsızlığını kazandı ve Sudan'dan ayrıldı.",
+    "eventDescriptionFr": "Le Soudan du Sud a obtenu son indépendance et a fait sécession du Soudan.",
+    "eventDescriptionDe": "Der Südsudan erlangte die Unabhängigkeit und trennte sich vom Sudan ab.",
+    "eventDescriptionEs": "Sudán del Sur se independizó y se separó de Sudán.",
+    "eventDescriptionIt": "Il Sud Sudan ha ottenuto l'indipendenza e si è separato dal Sudan."
 }
+
 
 
 ]}
