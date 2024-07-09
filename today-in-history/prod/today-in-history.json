@@ -160,6 +160,18 @@
     "eventDescriptionDe": "Zweiter Weltkrieg: Die Operation Husky begann in Sizilien.",
     "eventDescriptionEs": "Segunda Guerra Mundial: La Operación Husky comenzó en Sicilia.",
     "eventDescriptionIt": "Seconda guerra mondiale: l'Operazione Husky iniziò in Sicilia."
+},{
+    "eventId": "955",
+    "eventCategory": "HISTORY",
+    "eventDate": "1933/07/11",
+    "eventImg": null,
+    "eventRegion": "TR",
+    "eventDescriptionEn": "",
+    "eventDescriptionTr": "Sümerbank kuruldu.",
+    "eventDescriptionFr": "",
+    "eventDescriptionDe": "",
+    "eventDescriptionEs": "",
+    "eventDescriptionIt": ""
 }
 
 
