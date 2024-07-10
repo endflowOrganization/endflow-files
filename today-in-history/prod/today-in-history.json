@@ -304,6 +304,18 @@
     "eventDescriptionDe": "Der Berliner Vertrag wurde zwischen dem Osmanischen Reich, dem Russischen Reich, Großbritannien, dem Deutschen Reich, dem Österreichisch-Ungarischen Reich, dem Königreich Italien und Frankreich unterzeichnet.",
     "eventDescriptionEs": "El Tratado de Berlín fue firmado entre el Imperio Otomano, el Imperio Ruso, Gran Bretaña, el Imperio Alemán, el Imperio Austrohúngaro, el Reino de Italia y Francia.",
     "eventDescriptionIt": "Il Trattato di Berlino è stato firmato tra l'Impero Ottomano, l'Impero Russo, la Gran Bretagna, l'Impero Tedesco, l'Impero Austro-Ungarico, il Regno d'Italia e la Francia."
+},{
+    "eventId": "967",
+    "eventCategory": "HISTORY",
+    "eventDate": "1970/07/14",
+    "eventImg": null,
+    "eventRegion": "TR",
+    "eventDescriptionEn": "",
+    "eventDescriptionTr": "Askerlik 20, yedek subaylık 18 aya indirildi.",
+    "eventDescriptionFr": "",
+    "eventDescriptionDe": "",
+    "eventDescriptionEs": "",
+    "eventDescriptionIt": ""
 }
 
 
