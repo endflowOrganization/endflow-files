@@ -342,6 +342,19 @@
     "eventDescriptionDe": "",
     "eventDescriptionEs": "",
     "eventDescriptionIt": ""
+},{
+    "eventId": "969",
+    "eventCategory": "TECH",
+    "eventDate": "1935/07/16",
+    "eventImg": null,
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The world's first parking meter is installed in Oklahoma City, Oklahoma.",
+    "eventDescriptionTr": "Dünyanın ilk parkometresi Oklahoma City, Oklahoma'ya kuruldu.",
+    "eventDescriptionFr": "Le premier parcmètre au monde est installé à Oklahoma City, Oklahoma.",
+    "eventDescriptionDe": "Der weltweit erste Parkuhr wird in Oklahoma City, Oklahoma, installiert.",
+    "eventDescriptionEs": "El primer parquímetro del mundo se instala en la ciudad de Oklahoma, Oklahoma.",
+    "eventDescriptionIt": "Il primo parchimetro del mondo viene installato a Oklahoma City, Oklahoma."
 }
+
 
 ]}
