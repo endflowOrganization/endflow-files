@@ -414,7 +414,32 @@
     "eventDescriptionDe": "",
     "eventDescriptionEs": "",
     "eventDescriptionIt": ""
+},{
+    "eventId": "975",
+    "eventCategory": "HISTORY",
+    "eventDate": "1997/08/16",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "",
+    "eventDescriptionTr": "İlköğretimin 8 yıl zorunlu ve kesintisiz olmasını öngören yasa tasarısı, 242'ye karşı 277 oyla TBMM Genel Kurulunda kabul edildi.",
+    "eventDescriptionFr": "",
+    "eventDescriptionDe": "",
+    "eventDescriptionEs": "",
+    "eventDescriptionIt": ""
+},{
+    "eventId": "976",
+    "eventCategory": "HISTORY",
+    "eventDate": "1999/08/17",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "",
+    "eventDescriptionTr": "Gölcük, Kocaeli merkezli 7.8 büyüklüğündeki Marmara depreminde, resmi rakamlara göre 18.373 kişi öldü. Depremde ülkenin can damarı sanayi tesisleri de büyük hasar gördü. Hasarlı konut ve işyeri sayısı 245 bini aştı.",
+    "eventDescriptionFr": "",
+    "eventDescriptionDe": "",
+    "eventDescriptionEs": "",
+    "eventDescriptionIt": ""
 }
+
 
 
 ]}
