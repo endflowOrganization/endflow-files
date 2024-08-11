@@ -366,6 +366,30 @@
     "eventDescriptionDe": "Das französische Fußballteam Paris Saint-Germain FC wurde gegründet.",
     "eventDescriptionEs": "El equipo de fútbol francés Paris Saint-Germain FC fue fundado.",
     "eventDescriptionIt": "La squadra di calcio francese Paris Saint-Germain FC è stata fondata."
+},{
+    "eventId": "971",
+    "eventCategory": "HISTORY",
+    "eventDate": "1921/08/12",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "",
+    "eventDescriptionTr": "Atatürk, Polatlı'da başkomutan sıfatıyla ordunun başına geçti.",
+    "eventDescriptionFr": "",
+    "eventDescriptionDe": "",
+    "eventDescriptionEs": "",
+    "eventDescriptionIt": ""
+},{
+    "eventId": "972",
+    "eventCategory": "HISTORY",
+    "eventDate": "1930/08/12",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "",
+    "eventDescriptionTr": "Serbest Cumhuriyet Fırkası kuruldu, genel başkanlığına Fethi Okyar getirildi.",
+    "eventDescriptionFr": "",
+    "eventDescriptionDe": "",
+    "eventDescriptionEs": "",
+    "eventDescriptionIt": ""
 }
 
 
