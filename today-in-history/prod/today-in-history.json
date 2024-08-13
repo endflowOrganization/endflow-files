@@ -510,6 +510,19 @@
     "eventDescriptionDe": "Zweiter Weltkrieg: Winston Churchill und Franklin D. Roosevelt unterzeichnen die Atlantik-Charta, die die Ziele nach dem Krieg festlegt.",
     "eventDescriptionEs": "Segunda Guerra Mundial: Winston Churchill y Franklin D. Roosevelt firman la Carta del Atlántico que establece los objetivos de la posguerra.",
     "eventDescriptionIt": "Seconda Guerra Mondiale: Winston Churchill e Franklin D. Roosevelt firmano la Carta Atlantica che enuncia gli obiettivi del dopoguerra."
+},{
+    "eventId": "983",
+    "eventCategory": "SPORT",
+    "eventDate": "2009/08/16",
+    "eventImg": null,
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Usain Bolt sets a new world record in the 200 meters with a time of 19.19 seconds at the 2009 World Athletics Championships.",
+    "eventDescriptionTr": "Usain Bolt, 2009 Dünya Atletizm Şampiyonası'nda 200 metrede, 19.19 ile dünya rekorunu yeniledi.",
+    "eventDescriptionFr": "Usain Bolt établit un nouveau record du monde du 200 mètres avec un temps de 19,19 secondes lors des Championnats du monde d'athlétisme 2009.",
+    "eventDescriptionDe": "Usain Bolt stellt bei den Leichtathletik-Weltmeisterschaften 2009 mit einer Zeit von 19,19 Sekunden einen neuen Weltrekord über 200 Meter auf.",
+    "eventDescriptionEs": "Usain Bolt establece un nuevo récord mundial de 200 metros con un tiempo de 19,19 segundos en los Campeonatos Mundiales de Atletismo 2009.",
+    "eventDescriptionIt": "Usain Bolt stabilisce un nuovo record del mondo nei 200 metri con un tempo di 19,19 secondi ai Campionati del Mondo di Atletica 2009."
 }
+
 
 ]}
