@@ -522,7 +522,17 @@
     "eventDescriptionDe": "Usain Bolt stellt bei den Leichtathletik-Weltmeisterschaften 2009 mit einer Zeit von 19,19 Sekunden einen neuen Weltrekord über 200 Meter auf.",
     "eventDescriptionEs": "Usain Bolt establece un nuevo récord mundial de 200 metros con un tiempo de 19,19 segundos en los Campeonatos Mundiales de Atletismo 2009.",
     "eventDescriptionIt": "Usain Bolt stabilisce un nuovo record del mondo nei 200 metri con un tempo di 19,19 secondi ai Campionati del Mondo di Atletica 2009."
+},{
+    "eventId": "984",
+    "eventCategory": "HISTORY",
+    "eventDate": "1923/08/23",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "",
+    "eventDescriptionTr": "Lozan Barış Antlaşması, Türkiye Büyük Millet Meclisi tarafından onaylandı.",
+    "eventDescriptionFr": "",
+    "eventDescriptionDe": "",
+    "eventDescriptionEs": "",
+    "eventDescriptionIt": ""
 }
-
-
 ]}
