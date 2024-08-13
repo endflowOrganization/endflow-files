@@ -474,8 +474,19 @@
     "eventDescriptionDe": "Die Zentralafrikanische Republik erklärt ihre Unabhängigkeit von Frankreich.",
     "eventDescriptionEs": "La República Centroafricana declara su independencia de Francia.",
     "eventDescriptionIt": "La Repubblica Centrafricana dichiara l'indipendenza dalla Francia."
+},{
+    "eventId": "980",
+    "eventCategory": "HISTORY",
+    "eventDate": "1922/08/13",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "",
+    "eventDescriptionTr": "Büyük Taarruz öncesinde, Fevzi Paşa ve Karargahı, gizlice cepheye gitti. 14 Ağustos'ta birliklerin güneye ve cepheye doğru kaydırılmasına sessizce başlandı.",
+    "eventDescriptionFr": "",
+    "eventDescriptionDe": "",
+    "eventDescriptionEs": "",
+    "eventDescriptionIt": ""
 }
-
 
 
 
