@@ -462,7 +462,20 @@
     "eventDescriptionDe": "",
     "eventDescriptionEs": "",
     "eventDescriptionIt": ""
+},{
+    "eventId": "979",
+    "eventCategory": "POLITICS",
+    "eventDate": "1960/08/13",
+    "eventImg": null,
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The Central African Republic declares independence from France.",
+    "eventDescriptionTr": "Orta Afrika Cumhuriyeti, Fransa'dan bağımsızlığını ilan etti.",
+    "eventDescriptionFr": "La République centrafricaine déclare son indépendance de la France.",
+    "eventDescriptionDe": "Die Zentralafrikanische Republik erklärt ihre Unabhängigkeit von Frankreich.",
+    "eventDescriptionEs": "La República Centroafricana declara su independencia de Francia.",
+    "eventDescriptionIt": "La Repubblica Centrafricana dichiara l'indipendenza dalla Francia."
 }
+
 
 
 
