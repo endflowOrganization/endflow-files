@@ -89,6 +89,18 @@
     "eventDescriptionDe": "In Titusville, Pennsylvania, wird Erdöl entdeckt, was zum ersten kommerziell erfolgreichen Ölbrunnen der Welt führt.",
     "eventDescriptionEs": "Se descubre petróleo en Titusville, Pensilvania, lo que lleva al primer pozo de petróleo comercialmente exitoso del mundo.",
     "eventDescriptionIt": "Il petrolio viene scoperto a Titusville, in Pennsylvania, portando al primo pozzo di petrolio commercialmente di successo al mondo."
+},{
+    "eventId": "990",
+    "eventCategory": "POLITICS",
+    "eventDate": "2007/08/28",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "",
+    "eventDescriptionTr": "Abdullah Gül, 339 oyla TBMM tarafından 11. Cumhurbaşkanı seçildi.",
+    "eventDescriptionFr": "",
+    "eventDescriptionDe": "",
+    "eventDescriptionEs": "",
+    "eventDescriptionIt": ""   
 }
 
 
