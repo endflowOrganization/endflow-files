@@ -53,6 +53,21 @@
     "eventDescriptionDe": "Paris wurde von der deutschen Besatzung befreit.",
     "eventDescriptionEs": "París fue liberada de la ocupación alemana.",
     "eventDescriptionIt": "Parigi è stata liberata dall'occupazione tedesca."
+},{
+    "eventId": "987",
+    "eventCategory": "HISTORY",
+    "eventDate": "1922/08/26",
+    "eventImg": "Türk Kurtuluş Savaşı: Türk Ordusu, Batı Cephesi'nde Yunan Ordusu'na karşı Büyük Taarruz'a başladı. Türk Ordusu Başkomutanı Mareşal Gazi Mustafa Kemal Paşa, taarruzu bizzat Kocatepe'den idare ediyordu.",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "",
+    "eventDescriptionTr": "Türk Kurtuluş Savaşı: Türk Ordusu, Batı Cephesi'nde Yunan Ordusu'na karşı Büyük Taarruz'a başladı. Türk Ordusu Başkomutanı Mareşal Gazi Mustafa Kemal Paşa, taarruzu bizzat Kocatepe'den idare ediyordu.",
+    "eventDescriptionFr": "",
+    "eventDescriptionDe": "",
+    "eventDescriptionEs": "",
+    "eventDescriptionIt": ""   
 }
+
+
+
 
 ]}
