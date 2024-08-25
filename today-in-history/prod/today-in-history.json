@@ -77,6 +77,19 @@
     "eventDescriptionDe": "",
     "eventDescriptionEs": "",
     "eventDescriptionIt": ""   
+},{
+    "eventId": "989",
+    "eventCategory": "FINANCE",
+    "eventDate": "1859/08/27",
+    "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/aug%2Fworld-first-oil-well.jpg?alt=media&token=9926cc36-1e5b-4220-8045-b8f6000e0735",
+    "eventRegion": "NA",
+    "eventDescriptionEn": "Petroleum is discovered in Titusville, Pennsylvania, leading to the world's first commercially successful oil well.",
+    "eventDescriptionTr": "Dünyanın ilk petrol kuyusu, ABD’nin Pensilvanya eyaletinde açıldı.",
+    "eventDescriptionFr": "Le pétrole est découvert à Titusville, en Pennsylvanie, conduisant au premier puits de pétrole commercialement réussi au monde.",
+    "eventDescriptionDe": "In Titusville, Pennsylvania, wird Erdöl entdeckt, was zum ersten kommerziell erfolgreichen Ölbrunnen der Welt führt.",
+    "eventDescriptionEs": "Se descubre petróleo en Titusville, Pensilvania, lo que lleva al primer pozo de petróleo comercialmente exitoso del mundo.",
+    "eventDescriptionIt": "Il petrolio viene scoperto a Titusville, in Pennsylvania, portando al primo pozzo di petrolio commercialmente di successo al mondo."
 }
+
 
 ]}
