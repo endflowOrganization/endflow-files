@@ -46,7 +46,7 @@
     "eventCategory": "HISTORY",
     "eventDate": "1944/08/25",
     "eventImg": null,
-    "eventRegion": "All",
+    "eventRegion": "ALL",
     "eventDescriptionEn": "Paris was liberated from German occupation.",
     "eventDescriptionTr": "Paris, Alman işgalinden kurtuldu.",
     "eventDescriptionFr": "Paris a été libérée de l'occupation allemande.",
@@ -82,7 +82,7 @@
     "eventCategory": "FINANCE",
     "eventDate": "1859/08/27",
     "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/aug%2Fworld-first-oil-well.jpg?alt=media&token=9926cc36-1e5b-4220-8045-b8f6000e0735",
-    "eventRegion": "NA",
+    "eventRegion": "ALL",
     "eventDescriptionEn": "Petroleum is discovered in Titusville, Pennsylvania, leading to the world's first commercially successful oil well.",
     "eventDescriptionTr": "Dünyanın ilk petrol kuyusu, ABD’nin Pensilvanya eyaletinde açıldı.",
     "eventDescriptionFr": "Le pétrole est découvert à Titusville, en Pennsylvanie, conduisant au premier puits de pétrole commercialement réussi au monde.",
@@ -125,7 +125,20 @@
     "eventDescriptionDe": "",
     "eventDescriptionEs": "",
     "eventDescriptionIt": ""   
+},{
+    "eventId": "993",
+    "eventCategory": "HISTORY",
+    "eventDate": "2021/08/30",
+    "eventImg": null,
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The Afghanistan War, which lasted 20 years, ended as U.S. President Joe Biden withdrew the military from Afghanistan.",
+    "eventDescriptionTr": "ABD başkanı Joe Biden'nın orduyu Afganistan'dan çekmesi üzerine, 20 yıl sürmüş olan Afganistan Savaşı sona erdi.",
+    "eventDescriptionFr": "La guerre en Afghanistan, qui a duré 20 ans, a pris fin lorsque le président américain Joe Biden a retiré l'armée d'Afghanistan.",
+    "eventDescriptionDe": "Der 20 Jahre dauernde Afghanistan-Krieg endete, als US-Präsident Joe Biden die Truppen aus Afghanistan abzog.",
+    "eventDescriptionEs": "La guerra de Afganistán, que duró 20 años, terminó cuando el presidente estadounidense Joe Biden retiró al ejército de Afganistán.",
+    "eventDescriptionIt": "La guerra in Afghanistan, durata 20 anni, è terminata quando il presidente degli Stati Uniti Joe Biden ha ritirato l'esercito dall'Afghanistan."
 }
+
 
 
 
