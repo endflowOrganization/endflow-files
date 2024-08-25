@@ -57,7 +57,7 @@
     "eventId": "987",
     "eventCategory": "HISTORY",
     "eventDate": "1922/08/26",
-    "eventImg": "Türk Kurtuluş Savaşı: Türk Ordusu, Batı Cephesi'nde Yunan Ordusu'na karşı Büyük Taarruz'a başladı. Türk Ordusu Başkomutanı Mareşal Gazi Mustafa Kemal Paşa, taarruzu bizzat Kocatepe'den idare ediyordu.",
+    "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/aug%2F26-agustos-buyuk-taarruz.jpg?alt=media&token=7cff8028-d589-440a-87c4-125910d76dbd",
     "eventRegion": "TR",
     "eventDescriptionEn": "",
     "eventDescriptionTr": "Türk Kurtuluş Savaşı: Türk Ordusu, Batı Cephesi'nde Yunan Ordusu'na karşı Büyük Taarruz'a başladı. Türk Ordusu Başkomutanı Mareşal Gazi Mustafa Kemal Paşa, taarruzu bizzat Kocatepe'den idare ediyordu.",
@@ -65,9 +65,18 @@
     "eventDescriptionDe": "",
     "eventDescriptionEs": "",
     "eventDescriptionIt": ""   
+},{
+    "eventId": "987",
+    "eventCategory": "HISTORY",
+    "eventDate": "2021/08/26",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "",
+    "eventDescriptionTr": "Zafer Partisi, Ümit Özdağ tarafından kuruldu.",
+    "eventDescriptionFr": "",
+    "eventDescriptionDe": "",
+    "eventDescriptionEs": "",
+    "eventDescriptionIt": ""   
 }
-
-
-
 
 ]}
