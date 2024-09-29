@@ -176,7 +176,7 @@
 }
 ,{
     "eventId": "997",
-    "eventCategory": "ALL",
+    "eventCategory": "PEOPLE",
     "eventDate": "2000/09/29",
     "eventImg": "",
     "eventRegion": "ALL",
@@ -186,6 +186,18 @@
     "eventDescriptionDe": "Der Weltherztag ist ein von der World Heart Federation und anderen Organisationen organisierter Tag, der das Thema und die Bedeutung der Herzgesundheit hervorhebt.",
     "eventDescriptionEs": "El Día Mundial del Corazón es un día organizado por la Federación Mundial del Corazón y otras organizaciones, que enfatiza el tema y la importancia de la salud del corazón.",
     "eventDescriptionIt": "La Giornata mondiale del cuore è una giornata organizzata dalla World Heart Federation e da altre organizzazioni, sottolineando il tema e l'importanza della salute del cuore."
+},{
+    "eventId": "998",
+    "eventCategory": "TECH",
+    "eventDate": "2014/09/30",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Today is celebrated as World Podcast Day to highlight the importance of podcasts and listeners.",
+    "eventDescriptionTr": "Podcastlerin ve dinleyicilerin önemini vurgulamak amacıyla bugün, Dünya Podcast Günü olarak kutlanmaktadır.",
+    "eventDescriptionFr": "Aujourd'hui est célébré comme la « Journée mondiale du podcast » pour souligner l'importance des podcasts et des auditeurs.",
+    "eventDescriptionDe": "Heute wird der „Welt-Podcast-Tag“ gefeiert, um die Bedeutung von Podcasts und Zuhörern hervorzuheben.",
+    "eventDescriptionEs": "Hoy se celebra el ‘Día Mundial del Podcast’ para destacar la importancia de los podcasts y los oyentes.",
+    "eventDescriptionIt": "Oggi si celebra la Giornata mondiale del podcast per sottolineare l'importanza dei podcast e degli ascoltatori."
 }
 
 
