@@ -198,6 +198,30 @@
     "eventDescriptionDe": "Heute wird der „Welt-Podcast-Tag“ gefeiert, um die Bedeutung von Podcasts und Zuhörern hervorzuheben.",
     "eventDescriptionEs": "Hoy se celebra el ‘Día Mundial del Podcast’ para destacar la importancia de los podcasts y los oyentes.",
     "eventDescriptionIt": "Oggi si celebra la Giornata mondiale del podcast per sottolineare l'importanza dei podcast e degli ascoltatori."
+},{
+    "eventId": "999",
+    "eventCategory": "ALL",
+    "eventDate": "2015/10/01",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "World Coffee Day was first celebrated in 2015 by the International Coffee Organization (ICO) to strengthen and promote the global coffee industry.",
+    "eventDescriptionTr": "1 Ekim Dünya Kahve Günü, Uluslararası Kahve Organizasyonu (ICO) tarafından ilk olarak 2015 yılında, küresel kahve sektörünü güçlendirmek ve tanıtmak amacıyla kutlanmaya başlandı.",
+    "eventDescriptionFr": "La Journée mondiale du café a été célébrée pour la première fois en 2015 par l’Organisation internationale du café pour renforcer et promouvoir l’industrie mondiale du café.",
+    "eventDescriptionDe": "Der Weltkaffeetag wurde erstmals im Jahr 2015 von der Internationalen Kaffeeorganisation gefeiert, um die globale Kaffeeindustrie zu stärken und zu fördern.",
+    "eventDescriptionEs": "El Día Mundial del Café fue celebrado por primera vez en 2015 por la Organización Internacional del Café para fortalecer y promover la industria mundial del café.",
+    "eventDescriptionIt": "La Giornata mondiale del caffè è stata celebrata per la prima volta nel 2015 dall'Organizzazione internazionale del caffè per rafforzare e promuovere l'industria mondiale del caffè."
+},{
+    "eventId": "1000",
+    "eventCategory": "SCIENCE",
+    "eventDate": "1958/10/01",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "NASA, the institution responsible for the United States' space program, has officially started its work.",
+    "eventDescriptionTr": "Amerika Birleşik Devletleri'nin uzay programı çalışmalarından sorumlu olan kurum NASA resmi olarak çalışmalarına başladı.",
+    "eventDescriptionFr": "La NASA, l'institution responsable du programme spatial américain, a officiellement commencé ses travaux.",
+    "eventDescriptionDe": "Die NASA, die für das US-Weltraumprogramm verantwortliche Institution, hat offiziell ihre Arbeit aufgenommen.",
+    "eventDescriptionEs": "La NASA, la institución responsable del programa espacial de Estados Unidos, ha iniciado oficialmente sus trabajos.",
+    "eventDescriptionIt": "La NASA, l'istituzione responsabile del programma spaziale degli Stati Uniti, ha ufficialmente avviato i suoi lavori."
 }
 
 
