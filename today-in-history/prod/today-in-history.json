@@ -222,6 +222,18 @@
     "eventDescriptionDe": "Die NASA, die für das US-Weltraumprogramm verantwortliche Institution, hat offiziell ihre Arbeit aufgenommen.",
     "eventDescriptionEs": "La NASA, la institución responsable del programa espacial de Estados Unidos, ha iniciado oficialmente sus trabajos.",
     "eventDescriptionIt": "La NASA, l'istituzione responsabile del programma spaziale degli Stati Uniti, ha ufficialmente avviato i suoi lavori."
+},{
+    "eventId": "1001",
+    "eventCategory": "POLITICS",
+    "eventDate": "1990/10/03",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "German Unity Day, the day the two Germanies were united.",
+    "eventDescriptionTr": "Alman Birliği Günü, iki Almanya birleşti.",
+    "eventDescriptionFr": "Jour de l'unité allemande, le jour où les deux Allemagnes ont été réunies.",
+    "eventDescriptionDe": "Tag der Deutschen Einheit, der Tag der Vereinigung der beiden deutschen Länder.",
+    "eventDescriptionEs": "Día de la Unidad Alemana, el día en que las dos Alemanias se unieron.",
+    "eventDescriptionIt": "Giorno dell'Unità Tedesca, giorno in cui le due Germanie furono unite."
 }
 
 
