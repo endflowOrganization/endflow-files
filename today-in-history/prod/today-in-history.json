@@ -234,6 +234,30 @@
     "eventDescriptionDe": "Tag der Deutschen Einheit, der Tag der Vereinigung der beiden deutschen Länder.",
     "eventDescriptionEs": "Día de la Unidad Alemana, el día en que las dos Alemanias se unieron.",
     "eventDescriptionIt": "Giorno dell'Unità Tedesca, giorno in cui le due Germanie furono unite."
+},{
+    "eventId": "1002",
+    "eventCategory": "TECH",
+    "eventDate": "1913/10/07",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Ford Motor Company introduces the first moving vehicle assembly line.",
+    "eventDescriptionTr": "Ford Motor Company ilk hareketli araç montaj hattını tanıttı.",
+    "eventDescriptionFr": "Ford Motor Company présente la première chaîne de montage de véhicules mobiles.",
+    "eventDescriptionDe": "Die Ford Motor Company führt das erste mobile Fahrzeug-Montageband ein.",
+    "eventDescriptionEs": "Ford Motor Company presenta la primera línea de montaje de vehículos en movimiento.",
+    "eventDescriptionIt": "La Ford Motor Company introduce la prima catena di montaggio mobile per veicoli."
+},{
+    "eventId": "1003",
+    "eventCategory": "PEOPLE",
+    "eventDate": "1600/10/08",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The Constitution, which is still largely valid in San Marino, was adopted.",
+    "eventDescriptionTr": "San Marino'da geçerliliği hâlen büyük ölçüde devam eden Anayasa kabul edildi.",
+    "eventDescriptionFr": "La Constitution, encore largement valable à Saint-Marin, a été adoptée.",
+    "eventDescriptionDe": "Die in San Marino im Wesentlichen noch immer gültige Verfassung wurde angenommen.",
+    "eventDescriptionEs": "Se aprobó la Constitución, que en gran medida sigue siendo válida en San Marino.",
+    "eventDescriptionIt": "Fu adottata la Costituzione, che a San Marino è ancora in gran parte valida."
 }
 
 
