@@ -258,6 +258,30 @@
     "eventDescriptionDe": "Die in San Marino im Wesentlichen noch immer gültige Verfassung wurde angenommen.",
     "eventDescriptionEs": "Se aprobó la Constitución, que en gran medida sigue siendo válida en San Marino.",
     "eventDescriptionIt": "Fu adottata la Costituzione, che a San Marino è ancora in gran parte valida."
+},{
+    "eventId": "1004",
+    "eventCategory": "HISTORY",
+    "eventDate": "1492/10/12",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Christopher Columbus landed in the Bahamas, marking the European discovery of the Americas. This event significantly shaped the course of world history, leading to the colonization of the Americas by European powers.",
+    "eventDescriptionTr": "Kristof Kolomb Bahamalar'a ayak bastı ve Avrupalıların Amerika'yı keşfetmesini sağladı. Bu olay dünya tarihinin gidişatını önemli ölçüde şekillendirdi ve Avrupa güçlerinin Amerika'yı sömürgeleştirmesine yol açtı.",
+    "eventDescriptionFr": "Christophe Colomb débarque aux Bahamas, marquant ainsi la découverte européenne des Amériques. Cet événement a considérablement influencé le cours de l'histoire mondiale, menant à la colonisation des Amériques par les puissances européennes.",
+    "eventDescriptionDe": "Christoph Kolumbus landete auf den Bahamas und markierte damit die europäische Entdeckung Amerikas. Dieses Ereignis prägte den Lauf der Weltgeschichte maßgeblich und führte zur Kolonisierung Amerikas durch europäische Mächte.",
+    "eventDescriptionEs": "El desembarco de Cristóbal Colón en las Bahamas marcó el descubrimiento europeo de América. Este acontecimiento marcó de manera significativa el curso de la historia mundial, ya que condujo a la colonización de América por parte de las potencias europeas.",
+    "eventDescriptionIt": "Cristoforo Colombo sbarcò alle Bahamas, segnando la scoperta europea delle Americhe. Questo evento ha plasmato in modo significativo il corso della storia mondiale, portando alla colonizzazione delle Americhe da parte delle potenze europee."
+},{
+    "eventId": "1005",
+    "eventCategory": "PEOPLE",
+    "eventDate": "1810/10/12",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The first Oktoberfest was held in Munich, Germany, on October 12, 1810, in celebration of the marriage of Crown Prince Ludwig (later King Ludwig I) and Princess Therese of Saxe-Hildburghausen. The festival has since become an annual tradition.",
+    "eventDescriptionTr": "12 Ekim 1810'da Almanya'nın Münih kentinde ilk Oktoberfest düzenlendi. Bu etkinlik, Veliaht Prens Ludwig (sonradan Kral Ludwig I) ve Therese von Sachsen-Hildburghausen Prensesi'nin evliliğini kutlamak için yapıldı. Festival, yıllık bir gelenek haline geldi.",
+    "eventDescriptionFr": "La première Oktoberfest a eu lieu à Munich, en Allemagne, le 12 octobre 1810, pour célébrer le mariage du prince héritier Louis (futur roi Louis Ier) et de la princesse Thérèse de Saxe-Hildburghausen. La fête est depuis devenue une tradition annuelle.",
+    "eventDescriptionDe": "Das erste Oktoberfest fand am 12. Oktober 1810 in München zur Feier der Hochzeit von Kronprinz Ludwig (später König Ludwig I.) und Prinzessin Therese von Sachsen-Hildburghausen statt. Seitdem ist das Fest zu einer jährlichen Tradition geworden.",
+    "eventDescriptionEs": "El primer Oktoberfest se celebró en Múnich (Alemania) el 12 de octubre de 1810 para celebrar el matrimonio del príncipe heredero Luis (posteriormente rey Luis I) y la princesa Teresa de Sajonia-Hildburghausen. Desde entonces, el festival se ha convertido en una tradición anual.",
+    "eventDescriptionIt": "Il primo Oktoberfest si tenne a Monaco di Baviera, in Germania, il 12 ottobre 1810, in occasione del matrimonio del principe ereditario Ludwig (in seguito re Ludwig I) e della principessa Therese di Sassonia-Hildburghausen. Da allora, il festival è diventato una tradizione annuale."
 }
 
 
