@@ -282,6 +282,54 @@
     "eventDescriptionDe": "Das erste Oktoberfest fand am 12. Oktober 1810 in München zur Feier der Hochzeit von Kronprinz Ludwig (später König Ludwig I.) und Prinzessin Therese von Sachsen-Hildburghausen statt. Seitdem ist das Fest zu einer jährlichen Tradition geworden.",
     "eventDescriptionEs": "El primer Oktoberfest se celebró en Múnich (Alemania) el 12 de octubre de 1810 para celebrar el matrimonio del príncipe heredero Luis (posteriormente rey Luis I) y la princesa Teresa de Sajonia-Hildburghausen. Desde entonces, el festival se ha convertido en una tradición anual.",
     "eventDescriptionIt": "Il primo Oktoberfest si tenne a Monaco di Baviera, in Germania, il 12 ottobre 1810, in occasione del matrimonio del principe ereditario Ludwig (in seguito re Ludwig I) e della principessa Therese di Sassonia-Hildburghausen. Da allora, il festival è diventato una tradizione annuale."
+},{
+    "eventId": "1006",
+    "eventCategory": "SCIENCE",
+    "eventDate": "2003/10/15",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "China's first manned space flight: China successfully conducted its first manned space flight with the Shenzhou 5 spacecraft on October 15, 2003. The spacecraft carried astronaut Yang Liwei into Earth orbit.",
+    "eventDescriptionTr": "Çin'in ilk insanlı uzay uçuşu gerçekleşti: Çin, 15 Ekim 2003'te Shenzhou 5 uzay aracıyla ilk insanlı uzay uçuşunu başarıyla gerçekleştirdi. Uzay aracı, Yang Liwei adlı astronotu Dünya'nın yörüngesine taşıdı.",
+    "eventDescriptionFr": "Premier vol spatial habité de la Chine : la Chine a réalisé avec succès son premier vol spatial habité avec le vaisseau spatial Shenzhou 5 le 15 octobre 2003. Le vaisseau spatial a transporté l'astronaute Yang Liwei en orbite terrestre.",
+    "eventDescriptionDe": "Chinas erster bemannter Raumflug: China führte am 15. Oktober 2003 mit der Raumsonde Shenzhou 5 erfolgreich seinen ersten bemannten Raumflug durch. Die Raumsonde brachte den Astronauten Yang Liwei in die Erdumlaufbahn.",
+    "eventDescriptionEs": "Primer vuelo espacial tripulado de China: China realizó con éxito su primer vuelo espacial tripulado con la nave espacial Shenzhou 5 el 15 de octubre de 2003. La nave espacial llevó al astronauta Yang Liwei a la órbita de la Tierra.",
+    "eventDescriptionIt": "Il primo volo spaziale con equipaggio della Cina: la Cina ha condotto con successo il suo primo volo spaziale con equipaggio con la navicella spaziale Shenzhou 5 il 15 ottobre 2003. La navicella ha trasportato l'astronauta Yang Liwei nell'orbita terrestre."
+},{
+    "eventId": "1007",
+    "eventCategory": "PEOPLE",
+    "eventDate": "1520/10/21",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The famous explorer Ferdinand Magellan discovered the Strait of Magellan, named after him, in the south of South America. This discovery expanded the sea routes between Europe and Asia.",
+    "eventDescriptionTr": "Ünlü kâşif Ferdinand Magellan, Güney Amerika'nın güneyinde kendi adıyla anılan Magellan Boğazı'nı keşfetti. Bu keşif, Avrupa ile Asya arasındaki deniz yollarını genişletti.",
+    "eventDescriptionFr": "Le célèbre explorateur Ferdinand Magellan a découvert le détroit de Magellan, qui porte son nom, au sud de l'Amérique du Sud. Cette découverte a permis d'élargir les voies maritimes entre l'Europe et l'Asie.",
+    "eventDescriptionDe": "Der berühmte Entdecker Ferdinand Magellan entdeckte im Süden Südamerikas die nach ihm benannte Magellanstraße. Diese Entdeckung erweiterte die Seewege zwischen Europa und Asien.",
+    "eventDescriptionEs": "El famoso explorador Fernando de Magallanes descubrió el estrecho de Magallanes, que lleva su nombre, en el sur de América del Sur. Este descubrimiento amplió las rutas marítimas entre Europa y Asia.",
+    "eventDescriptionIt": "Il famoso esploratore Ferdinando Magellano scoprì lo Stretto di Magellano, che porta il suo nome, nel sud del Sud America. Questa scoperta ampliò le rotte marittime tra Europa e Asia."
+},{
+    "eventId": "1008",
+    "eventCategory": "SCIENCE",
+    "eventDate": "1879/10/21",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Thomas Edison invented the carbon filament electric light bulb, which became the basis of modern lighting technology.",
+    "eventDescriptionTr": "Thomas Edison, karbon filamanlı elektrik ampulünü icat etti ve bu buluş modern aydınlatma teknolojisinin temelini oluşturdu.",
+    "eventDescriptionFr": "Thomas Edison a inventé l'ampoule électrique à filament de carbone, qui est devenue la base de la technologie d'éclairage moderne.",
+    "eventDescriptionDe": "Thomas Edison erfand die Kohlefaden-Glühbirne, die zur Grundlage der modernen Beleuchtungstechnologie wurde.",
+    "eventDescriptionEs": "Thomas Edison inventó la bombilla eléctrica de filamento de carbono, que se convirtió en la base de la tecnología de iluminación moderna.",
+    "eventDescriptionIt": "Thomas Edison inventò la lampadina elettrica a filamento di carbonio, che divenne la base della moderna tecnologia di illuminazione."
+},{
+    "eventId": "1009",
+    "eventCategory": "SCIENCE",
+    "eventDate": "1975/10/22",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The Soviet spacecraft Venera 9 successfully landed on Venus: it became the first spacecraft to land on the surface of Venus and provided important information about the atmosphere and surface of Venus.",
+    "eventDescriptionTr": "Sovyet uzay aracı Venera 9, Venüs'e başarıyla iniş yaptı: Venüs'ün yüzeyine inen ilk uzay aracı oldu ve Venüs'ün atmosferi ve yüzeyi hakkında önemli bilgiler sağladı.",
+    "eventDescriptionFr": "Le vaisseau spatial soviétique Venera 9 a atterri avec succès sur Vénus : il est devenu le premier vaisseau spatial à atterrir sur la surface de Vénus et a fourni des informations importantes sur l'atmosphère et la surface de Vénus.",
+    "eventDescriptionDe": "Die sowjetische Raumsonde Venera 9 landete erfolgreich auf der Venus: Sie war die erste Raumsonde, die auf der Oberfläche der Venus landete und lieferte wichtige Informationen über die Atmosphäre und Oberfläche der Venus.",
+    "eventDescriptionEs": "La nave espacial soviética Venera 9 aterrizó con éxito en Venus: se convirtió en la primera nave espacial en aterrizar en la superficie de Venus y proporcionó información importante sobre la atmósfera y la superficie de Venus.",
+    "eventDescriptionIt": "La sonda spaziale sovietica Venera 9 è atterrata con successo su Venere: è stata la prima sonda ad atterrare sulla superficie di Venere e ha fornito informazioni importanti sull'atmosfera e sulla superficie di Venere."
 }
 
 
