@@ -174,7 +174,21 @@
     "eventDescriptionDe": "Die sowjetische Raumsonde Venera 9 landete erfolgreich auf der Venus: Sie war die erste Raumsonde, die auf der Oberfläche der Venus landete und lieferte wichtige Informationen über die Atmosphäre und Oberfläche der Venus.",
     "eventDescriptionEs": "La nave espacial soviética Venera 9 aterrizó con éxito en Venus: se convirtió en la primera nave espacial en aterrizar en la superficie de Venus y proporcionó información importante sobre la atmósfera y la superficie de Venus.",
     "eventDescriptionIt": "La sonda spaziale sovietica Venera 9 è atterrata con successo su Venere: è stata la prima sonda ad atterrare sulla superficie di Venere e ha fornito informazioni importanti sull'atmosfera e sulla superficie di Venere."
+},
+    {
+    "eventId": "1010",
+    "eventCategory": "FINANCE",
+    "eventDate": "1863/11/20",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "Ziraat Bank was founded: it became one of the first modern banking institutions in the Ottoman Empire and played a significant role in the agricultural and economic development of Turkey.",
+    "eventDescriptionTr": "Ziraat Bankası kuruldu: Osmanlı İmparatorluğu'nda modern bankacılık kurumlarından biri olarak kuruldu ve Türkiye'nin tarımsal ve ekonomik kalkınmasında önemli bir rol oynadı.",
+    "eventDescriptionFr": "La Banque Ziraat a été fondée : elle est devenue l'une des premières institutions bancaires modernes de l'Empire ottoman et a joué un rôle important dans le développement agricole et économique de la Turquie.",
+    "eventDescriptionDe": "Die Ziraat Bank wurde gegründet: Sie wurde eine der ersten modernen Bankinstitutionen im Osmanischen Reich und spielte eine bedeutende Rolle in der landwirtschaftlichen und wirtschaftlichen Entwicklung der Türkei.",
+    "eventDescriptionEs": "Se fundó el Banco Ziraat: se convirtió en una de las primeras instituciones bancarias modernas en el Imperio Otomano y desempeñó un papel importante en el desarrollo agrícola y económico de Turquía.",
+    "eventDescriptionIt": "La Banca Ziraat è stata fondata: è diventata una delle prime istituzioni bancarie moderne dell'Impero Ottomano e ha svolto un ruolo significativo nello sviluppo agricolo ed economico della Turchia."
 }
+
 
 
 
