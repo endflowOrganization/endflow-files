@@ -199,7 +199,20 @@
     "eventDescriptionDe": "Die erste türkische weibliche Polizeichefin, Feriha Sanerk, ist verstorben.",
     "eventDescriptionEs": "La primera jefa de policía turca, Feriha Sanerk, falleció.",
     "eventDescriptionIt": "La prima donna capo della polizia turca, Feriha Sanerk, è deceduta."
+},{
+    "eventId": "1012",
+    "eventCategory": "SPORT",
+    "eventDate": "1969/11/19",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Association football player Pelé scores his 1,000th goal.",
+    "eventDescriptionTr": "Futbolcu Pelé, 1000. golünü attı.",
+    "eventDescriptionFr": "Le joueur de football Pelé marque son 1 000e but.",
+    "eventDescriptionDe": "Der Fußballspieler Pelé erzielt sein 1.000. Tor.",
+    "eventDescriptionEs": "El jugador de fútbol Pelé anota su gol número 1.000.",
+    "eventDescriptionIt": "Il calciatore Pelé segna il suo 1.000º gol."
 }
+
 
 
 
