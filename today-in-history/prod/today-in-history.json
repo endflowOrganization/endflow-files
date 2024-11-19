@@ -187,7 +187,20 @@
     "eventDescriptionDe": "Die Ziraat Bank wurde gegründet: Sie wurde eine der ersten modernen Bankinstitutionen im Osmanischen Reich und spielte eine bedeutende Rolle in der landwirtschaftlichen und wirtschaftlichen Entwicklung der Türkei.",
     "eventDescriptionEs": "Se fundó el Banco Ziraat: se convirtió en una de las primeras instituciones bancarias modernas en el Imperio Otomano y desempeñó un papel importante en el desarrollo agrícola y económico de Turquía.",
     "eventDescriptionIt": "La Banca Ziraat è stata fondata: è diventata una delle prime istituzioni bancarie moderne dell'Impero Ottomano e ha svolto un ruolo significativo nello sviluppo agricolo ed economico della Turchia."
+},{
+    "eventId": "1011",
+    "eventCategory": "PEOPLE",
+    "eventDate": "2010/11/19",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "The first Turkish female police chief, Feriha Sanerk, passed away.",
+    "eventDescriptionTr": "İlk Türk kadın emniyet müdürü Feriha Sanerk hayatını kaybetti.",
+    "eventDescriptionFr": "La première femme chef de police turque, Feriha Sanerk, est décédée.",
+    "eventDescriptionDe": "Die erste türkische weibliche Polizeichefin, Feriha Sanerk, ist verstorben.",
+    "eventDescriptionEs": "La primera jefa de policía turca, Feriha Sanerk, falleció.",
+    "eventDescriptionIt": "La prima donna capo della polizia turca, Feriha Sanerk, è deceduta."
 }
+
 
 
 
