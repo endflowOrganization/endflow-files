@@ -211,7 +211,20 @@
     "eventDescriptionDe": "Der Fußballspieler Pelé erzielt sein 1.000. Tor.",
     "eventDescriptionEs": "El jugador de fútbol Pelé anota su gol número 1.000.",
     "eventDescriptionIt": "Il calciatore Pelé segna il suo 1.000º gol."
+},{
+    "eventId": "1013",
+    "eventCategory": "HISTORY",
+    "eventDate": "2019/11/21",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Tesla launches the SUV Cybertruck. A gaffe occurs during the launch event when its 'unbreakable' windows shatter during demonstration.",
+    "eventDescriptionTr": "Tesla, SUV Cybertruck'ı piyasaya sürdü. Lansman etkinliği sırasında 'kırılmaz' camlarının kırılması çok konuşuldu.",
+    "eventDescriptionFr": "Tesla lance le SUV Cybertruck. Une gaffe se produit lors de l'événement de lancement lorsque ses fenêtres 'incassables' se brisent lors de la démonstration.",
+    "eventDescriptionDe": "Tesla bringt den SUV Cybertruck auf den Markt. Bei der Launch-Veranstaltung passiert ein Missgeschick, als die 'unzerbrechlichen' Fenster während der Demonstration zerbrechen.",
+    "eventDescriptionEs": "Tesla lanza el SUV Cybertruck. Ocurre un error durante el evento de lanzamiento cuando sus ventanas 'inrompibles' se rompen durante la demostración.",
+    "eventDescriptionIt": "Tesla lancia il SUV Cybertruck. Si verifica una gaffe durante l'evento di lancio quando i suoi vetri 'indistruttibili' si rompono durante la dimostrazione."
 }
+
 
 
 
