@@ -32,7 +32,20 @@
     "eventDescriptionDe": "Tansu Çiller wurde als Vorsitzende der Partei des Rechten Weges (DYP) zur ersten weiblichen Premierministerin der Türkei gewählt.",
     "eventDescriptionEs": "Tansu Çiller, como líder del Partido del Camino Verdadero (DYP), fue elegida como la primera mujer primera ministra de Turquía.",
     "eventDescriptionIt": "Tansu Çiller, leader del Partito della Via Giusta (DYP), è stata eletta prima donna Primo Ministro della Turchia."
+},{
+    "eventId": "1015",
+    "eventCategory": "SCIENCE",
+    "eventDate": "1905/11/21",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Albert Einstein's paper that leads to the mass–energy equivalence formula, E = mc², is published in the journal Annalen der Physik.",
+    "eventDescriptionTr": "Albert Einstein'ın kütle-enerji eşdeğerliği formülü E = mc²'ye yol açan makalesi, Annalen der Physik dergisinde yayımlandı.",
+    "eventDescriptionFr": "L'article d'Albert Einstein menant à la formule d'équivalence masse-énergie, E = mc², est publié dans la revue Annalen der Physik.",
+    "eventDescriptionDe": "Albert Einsteins Artikel, der zur Masse-Energie-Äquivalenzformel E = mc² führt, wird in der Zeitschrift Annalen der Physik veröffentlicht.",
+    "eventDescriptionEs": "El artículo de Albert Einstein que lleva a la fórmula de equivalencia masa-energía, E = mc², se publica en la revista Annalen der Physik.",
+    "eventDescriptionIt": "Il documento di Albert Einstein che porta alla formula di equivalenza massa-energia, E = mc², viene pubblicato sulla rivista Annalen der Physik."
 }
+
 
 
 
