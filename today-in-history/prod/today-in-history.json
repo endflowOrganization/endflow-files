@@ -68,7 +68,33 @@
     "eventDescriptionDe": "Mike Tyson wurde mit 20 Jahren der jüngste Schwergewichtsweltmeister der Welt.",
     "eventDescriptionEs": "Mike Tyson se convirtió en el campeón mundial de peso pesado más joven del mundo a los 20 años.",
     "eventDescriptionIt": "Mike Tyson è diventato il più giovane campione del mondo dei pesi massimi all'età di 20 anni."
+},{
+    "eventId": "1018",
+    "eventCategory": "POLITICS",
+    "eventDate": "2005/11/22",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Angela Merkel became Germany's first female chancellor.",
+    "eventDescriptionTr": "Angela Merkel, Almanya'nın ilk kadın şansölyesi oldu.",
+    "eventDescriptionFr": "Angela Merkel est devenue la première chancelière d'Allemagne.",
+    "eventDescriptionDe": "Angela Merkel wurde die erste weibliche Bundeskanzlerin Deutschlands.",
+    "eventDescriptionEs": "Angela Merkel se convirtió en la primera mujer canciller de Alemania.",
+    "eventDescriptionIt": "Angela Merkel è diventata la prima donna cancelliera della Germania."
+},{
+    "eventId": "1019",
+    "eventCategory": "HISTORY",
+    "eventDate": "1943/11/22",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Lebanon gained independence from France.",
+    "eventDescriptionTr": "Lübnan, Fransa'dan bağımsızlığını kazandı.",
+    "eventDescriptionFr": "Le Liban a obtenu son indépendance de la France.",
+    "eventDescriptionDe": "Libanon erlangte die Unabhängigkeit von Frankreich.",
+    "eventDescriptionEs": "Líbano obtuvo la independencia de Francia.",
+    "eventDescriptionIt": "Il Libano ottenne l'indipendenza dalla Francia."
 }
+
+
 
 
 
