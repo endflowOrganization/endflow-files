@@ -57,7 +57,20 @@
     "eventDescriptionDe": "Die Befreiung von Edirne: Edirne wurde nach dem Türkischen Unabhängigkeitskrieg von der Besatzung befreit und markierte einen bedeutenden Schritt in der Souveränität des Landes.",
     "eventDescriptionEs": "La liberación de Edirne: Edirne fue liberada de la ocupación tras la Guerra de Independencia turca, marcando un paso significativo en la soberanía del país.",
     "eventDescriptionIt": "La liberazione di Edirne: Edirne fu liberata dall'occupazione dopo la Guerra d'Indipendenza turca, segnando un passo significativo per la sovranità del paese."
+},{
+    "eventId": "1026",
+    "eventCategory": "POLITICS",
+    "eventDate": "1975/11/25",
+    "eventImg": "",
+    "eventRegion": "SR",
+    "eventDescriptionEn": "Suriname gained independence from the Netherlands.",
+    "eventDescriptionTr": "Surinam, Hollanda'dan bağımsızlığını kazandı.",
+    "eventDescriptionFr": "Le Suriname a obtenu son indépendance des Pays-Bas.",
+    "eventDescriptionDe": "Suriname erlangte die Unabhängigkeit von den Niederlanden.",
+    "eventDescriptionEs": "Surinam obtuvo su independencia de los Países Bajos.",
+    "eventDescriptionIt": "Suriname ottenne l'indipendenza dai Paesi Bassi."
 }
+
 
 
 
