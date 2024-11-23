@@ -92,7 +92,20 @@
     "eventDescriptionDe": "Libanon erlangte die Unabhängigkeit von Frankreich.",
     "eventDescriptionEs": "Líbano obtuvo la independencia de Francia.",
     "eventDescriptionIt": "Il Libano ottenne l'indipendenza dalla Francia."
+},{
+    "eventId": "1020",
+    "eventCategory": "HISTORY",
+    "eventDate": "1934/11/24",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "President Gazi Mustafa Kemal was given the surname 'Atatürk' by a law passed in the Grand National Assembly of Turkey.",
+    "eventDescriptionTr": "Cumhurbaşkanı Gazi Mustafa Kemal, Meclisten çıkan kanunla Atatürk soyadını aldı.",
+    "eventDescriptionFr": "Le président Gazi Mustafa Kemal a reçu le nom de famille 'Atatürk' par une loi adoptée par la Grande Assemblée nationale de Turquie.",
+    "eventDescriptionDe": "Präsident Gazi Mustafa Kemal erhielt den Nachnamen 'Atatürk' durch ein Gesetz, das in der Großen Nationalversammlung der Türkei verabschiedet wurde.",
+    "eventDescriptionEs": "El presidente Gazi Mustafa Kemal recibió el apellido 'Atatürk' por una ley aprobada en la Gran Asamblea Nacional de Turquía.",
+    "eventDescriptionIt": "Il presidente Gazi Mustafa Kemal ricevette il cognome 'Atatürk' grazie a una legge approvata dalla Grande Assemblea Nazionale della Turchia."
 }
+
 
 
 
