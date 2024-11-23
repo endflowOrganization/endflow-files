@@ -93,7 +93,20 @@
     "eventDescriptionDe": "Die Befreiung von Gelibolu: Gelibolu wurde während des Türkischen Unabhängigkeitskrieges von den türkischen Streitkräften von der Besatzung befreit.",
     "eventDescriptionEs": "La liberación de Gelibolu: Gelibolu fue liberada de la ocupación por las fuerzas turcas durante la Guerra de Independencia turca.",
     "eventDescriptionIt": "La liberazione di Gelibolu: Gelibolu fu liberata dall'occupazione dalle forze turche durante la Guerra d'Indipendenza turca."
+},{
+    "eventId": "1029",
+    "eventCategory": "HISTORY",
+    "eventDate": "2021/11/26",
+    "eventImg": "",
+    "eventRegion": "GLOBAL",
+    "eventDescriptionEn": "The World Health Organization identifies the SARS-CoV-2 Omicron variant during the COVID-19 pandemic.",
+    "eventDescriptionTr": "Dünya Sağlık Örgütü, COVID-19 pandemisi sırasında SARS-CoV-2 Omicron varyantını tanımladı.",
+    "eventDescriptionFr": "L'Organisation mondiale de la santé identifie le variant Omicron du SARS-CoV-2 pendant la pandémie de COVID-19.",
+    "eventDescriptionDe": "Die Weltgesundheitsorganisation identifiziert den SARS-CoV-2 Omikron-Variant während der COVID-19-Pandemie.",
+    "eventDescriptionEs": "La Organización Mundial de la Salud identifica la variante Omicron del SARS-CoV-2 durante la pandemia de COVID-19.",
+    "eventDescriptionIt": "L'Organizzazione Mondiale della Sanità identifica la variante Omicron del SARS-CoV-2 durante la pandemia di COVID-19."
 }
+
 
 
 
