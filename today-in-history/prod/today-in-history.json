@@ -33,7 +33,20 @@
     "eventDescriptionDe": "Auf der Autobahn in Deutschland wurde aufgrund der Ölkrise von 1973 eine nationale Geschwindigkeitsbegrenzung eingeführt. Die Begrenzung hielt nur vier Monate an.",
     "eventDescriptionEs": "Se impuso un límite de velocidad nacional en la Autobahn de Alemania debido a la crisis del petróleo de 1973. El límite de velocidad duró solo cuatro meses.",
     "eventDescriptionIt": "Un limite di velocità nazionale fu imposto sull'Autobahn in Germania a causa della crisi petrolifera del 1973. Il limite durò solo quattro mesi."
+},{
+    "eventId": "1024",
+    "eventCategory": "MUSIC",
+    "eventDate": "1991/11/24",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Freddie Mercury, the lead singer of Queen, passed away.",
+    "eventDescriptionTr": "Queen'in solisti Freddie Mercury hayatını kaybetti.",
+    "eventDescriptionFr": "Freddie Mercury, le chanteur principal de Queen, est décédé.",
+    "eventDescriptionDe": "Freddie Mercury, der Leadsänger von Queen, ist gestorben.",
+    "eventDescriptionEs": "Freddie Mercury, el cantante principal de Queen, falleció.",
+    "eventDescriptionIt": "Freddie Mercury, il cantante principale dei Queen, è morto."
 }
+
 
 
 
