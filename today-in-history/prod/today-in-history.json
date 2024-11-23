@@ -45,7 +45,20 @@
     "eventDescriptionDe": "Freddie Mercury, der Leadsänger von Queen, ist gestorben.",
     "eventDescriptionEs": "Freddie Mercury, el cantante principal de Queen, falleció.",
     "eventDescriptionIt": "Freddie Mercury, il cantante principale dei Queen, è morto."
+},{
+    "eventId": "1025",
+    "eventCategory": "HISTORY",
+    "eventDate": "1922/11/25",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "The liberation of Edirne: Edirne was freed from occupation following the Turkish War of Independence, marking a significant step in the country's sovereignty.",
+    "eventDescriptionTr": "Edirne'nin kurtuluşu: Türk Kurtuluş Savaşı'nın ardından Edirne işgalden kurtarıldı ve bu, ülkenin egemenliği için önemli bir adım oldu.",
+    "eventDescriptionFr": "La libération d'Edirne : Edirne a été libérée de l'occupation après la guerre d'indépendance turque, marquant une étape importante dans la souveraineté du pays.",
+    "eventDescriptionDe": "Die Befreiung von Edirne: Edirne wurde nach dem Türkischen Unabhängigkeitskrieg von der Besatzung befreit und markierte einen bedeutenden Schritt in der Souveränität des Landes.",
+    "eventDescriptionEs": "La liberación de Edirne: Edirne fue liberada de la ocupación tras la Guerra de Independencia turca, marcando un paso significativo en la soberanía del país.",
+    "eventDescriptionIt": "La liberazione di Edirne: Edirne fu liberata dall'occupazione dopo la Guerra d'Indipendenza turca, segnando un passo significativo per la sovranità del paese."
 }
+
 
 
 
