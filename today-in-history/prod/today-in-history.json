@@ -117,7 +117,20 @@
     "eventDescriptionDe": "Howard Carter und Lord Carnarvon wurden die ersten Menschen, die nach über 3.000 Jahren das Grab des Pharaos Tutanchamun betraten.",
     "eventDescriptionEs": "Howard Carter y Lord Carnarvon se convierten en las primeras personas en entrar en la tumba del faraón Tutankamón después de más de 3.000 años.",
     "eventDescriptionIt": "Howard Carter e Lord Carnarvon diventano le prime persone a entrare nella tomba del faraone Tutankhamon dopo più di 3.000 anni."
+},{
+    "eventId": "1031",
+    "eventCategory": "HEALTH",
+    "eventDate": "2005/11/27",
+    "eventImg": "",
+    "eventRegion": "FR",
+    "eventDescriptionEn": "The first partial face transplant was performed in Amiens, France.",
+    "eventDescriptionTr": "İlk kez kısmi yüz nakli Fransa'nın Amiens kentinde gerçekleştirildi.",
+    "eventDescriptionFr": "La première greffe partielle du visage a été réalisée à Amiens, en France.",
+    "eventDescriptionDe": "Die erste teilweise Gesichtstransplantation wurde in Amiens, Frankreich, durchgeführt.",
+    "eventDescriptionEs": "El primer trasplante parcial de rostro se realizó en Amiens, Francia.",
+    "eventDescriptionIt": "Il primo trapianto parziale di volto è stato effettuato ad Amiens, in Francia."
 }
+
 
 
 
