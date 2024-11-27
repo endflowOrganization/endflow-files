@@ -158,14 +158,27 @@
     "eventCategory": "HISTORY",
     "eventDate": "1912/11/28",
     "eventImg": "",
-    "eventRegion": "AL",
+    "eventRegion": "ALL",
     "eventDescriptionEn": "Albania declares its independence from the Ottoman Empire.",
     "eventDescriptionTr": "Arnavutluk, Osmanlı İmparatorluğu'ndan bağımsızlığını ilan etti.",
     "eventDescriptionFr": "L'Albanie déclare son indépendance de l'Empire ottoman.",
     "eventDescriptionDe": "Albanien erklärt seine Unabhängigkeit vom Osmanischen Reich.",
     "eventDescriptionEs": "Albania declara su independencia del Imperio Otomano.",
     "eventDescriptionIt": "L'Albania dichiara la sua indipendenza dall'Impero Ottomano."
+},{
+    "eventId": "1035",
+    "eventCategory": "HISTORY",
+    "eventDate": "1960/11/28",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Mauritania becomes independent of France.",
+    "eventDescriptionTr": "Moritanya, Fransa'dan bağımsızlığını kazandı.",
+    "eventDescriptionFr": "La Mauritanie devient indépendante de la France.",
+    "eventDescriptionDe": "Mauretanien wird unabhängig von Frankreich.",
+    "eventDescriptionEs": "Mauritania se independiza de Francia.",
+    "eventDescriptionIt": "La Mauritania diventa indipendente dalla Francia."
 }
+
 
 
 
