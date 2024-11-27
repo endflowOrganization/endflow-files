@@ -153,7 +153,20 @@
     "eventDescriptionDe": "Ein Feuer brach im Bahnhof Haydarpaşa aus und verursachte schwere Schäden am Dach und vierten Stock.",
     "eventDescriptionEs": "Un incendio en la estación de tren de Haydarpaşa causó graves daños en su techo y cuarto piso.",
     "eventDescriptionIt": "Un incendio scoppiato alla stazione ferroviaria di Haydarpaşa ha causato gravi danni al tetto e al quarto piano."
+},{
+    "eventId": "1034",
+    "eventCategory": "HISTORY",
+    "eventDate": "1912/11/28",
+    "eventImg": "",
+    "eventRegion": "AL",
+    "eventDescriptionEn": "Albania declares its independence from the Ottoman Empire.",
+    "eventDescriptionTr": "Arnavutluk, Osmanlı İmparatorluğu'ndan bağımsızlığını ilan etti.",
+    "eventDescriptionFr": "L'Albanie déclare son indépendance de l'Empire ottoman.",
+    "eventDescriptionDe": "Albanien erklärt seine Unabhängigkeit vom Osmanischen Reich.",
+    "eventDescriptionEs": "Albania declara su independencia del Imperio Otomano.",
+    "eventDescriptionIt": "L'Albania dichiara la sua indipendenza dall'Impero Ottomano."
 }
+
 
 
 
