@@ -122,14 +122,27 @@
     "eventCategory": "HEALTH",
     "eventDate": "2005/11/27",
     "eventImg": "",
-    "eventRegion": "FR",
+    "eventRegion": "ALL",
     "eventDescriptionEn": "The first partial face transplant was performed in Amiens, France.",
     "eventDescriptionTr": "İlk kez kısmi yüz nakli Fransa'nın Amiens kentinde gerçekleştirildi.",
     "eventDescriptionFr": "La première greffe partielle du visage a été réalisée à Amiens, en France.",
     "eventDescriptionDe": "Die erste teilweise Gesichtstransplantation wurde in Amiens, Frankreich, durchgeführt.",
     "eventDescriptionEs": "El primer trasplante parcial de rostro se realizó en Amiens, Francia.",
     "eventDescriptionIt": "Il primo trapianto parziale di volto è stato effettuato ad Amiens, in Francia."
+},{
+    "eventId": "1032",
+    "eventCategory": "DIPLOMACY",
+    "eventDate": "1933/11/27",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "The Treaty of Friendship, Non-Aggression, Judicial Settlement, Arbitration, and Conciliation between Turkey and Yugoslavia was signed in Belgrade.",
+    "eventDescriptionTr": "Belgrad'ta Türkiye - Yugoslavya Dostluk, Saldırmazlık, Yargısal Çözüm, Hakemlik ve Uzlaştırma Antlaşması imzalandı.",
+    "eventDescriptionFr": "Le traité d'amitié, de non-agression, de règlement judiciaire, d'arbitrage et de conciliation entre la Turquie et la Yougoslavie a été signé à Belgrade.",
+    "eventDescriptionDe": "Der Freundschafts-, Nichtangriffs-, Gerichts-, Schieds- und Versöhnungsvertrag zwischen der Türkei und Jugoslawien wurde in Belgrad unterzeichnet.",
+    "eventDescriptionEs": "El Tratado de Amistad, No Agresión, Solución Judicial, Arbitraje y Conciliación entre Turquía y Yugoslavia fue firmado en Belgrado.",
+    "eventDescriptionIt": "Il Trattato di Amicizia, Non Aggressione, Soluzione Giudiziaria, Arbitrato e Conciliazione tra Turchia e Jugoslavia è stato firmato a Belgrado."
 }
+
 
 
 
