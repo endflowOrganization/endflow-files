@@ -213,7 +213,20 @@
     "eventDescriptionDe": "Atlasjet-Flug 4203, ein MD-83-Passagierflugzeug auf dem Weg von Istanbul nach Isparta, stürzte in Türbetepe ab, zwischen den Dörfern Çukurören und Kılıç in Isparta. Alle 50 Passagiere und 7 Besatzungsmitglieder kamen ums Leben. Unter den Opfern waren auch bedeutende Wissenschaftler.",
     "eventDescriptionEs": "El vuelo 4203 de Atlasjet, un avión de pasajeros MD-83 que iba de Estambul a Isparta, se estrelló en Türbetepe, entre las aldeas de Çukurören y Kılıç en Isparta. Todos los 50 pasajeros y 7 tripulantes fallecieron. Entre las víctimas había destacados científicos.",
     "eventDescriptionIt": "Il volo 4203 di Atlasjet, un aereo passeggeri MD-83 diretto da Istanbul a Isparta, si è schiantato a Türbetepe, situato tra i villaggi di Çukurören e Kılıç a Isparta. Tutti i 50 passeggeri e i 7 membri dell'equipaggio sono morti. Tra le vittime c'erano scienziati di spicco."
+},{
+    "eventId": "1039",
+    "eventCategory": "SPORT",
+    "eventDate": "1872/11/30",
+    "eventImg": "",
+    "eventRegion": "GB",
+    "eventDescriptionEn": "The first international football match in history was played in Glasgow. The match ended in a 0-0 draw between Scotland and England.",
+    "eventDescriptionTr": "Dünya futbol tarihinin ilk millî maçı Glasgow'da oynandı. İskoçya ile İngiltere arasındaki maç 0-0 berabere sona erdi.",
+    "eventDescriptionFr": "Le premier match de football international de l'histoire a été joué à Glasgow. Le match s'est terminé sur un score nul de 0-0 entre l'Écosse et l'Angleterre.",
+    "eventDescriptionDe": "Das erste internationale Fußballspiel der Geschichte wurde in Glasgow ausgetragen. Das Spiel endete mit einem 0:0-Unentschieden zwischen Schottland und England.",
+    "eventDescriptionEs": "El primer partido internacional de fútbol de la historia se jugó en Glasgow. El partido terminó en un empate 0-0 entre Escocia e Inglaterra.",
+    "eventDescriptionIt": "La prima partita internazionale di calcio della storia fu giocata a Glasgow. La partita terminò con un pareggio 0-0 tra Scozia e Inghilterra."
 }
+
 
 
 ]}
