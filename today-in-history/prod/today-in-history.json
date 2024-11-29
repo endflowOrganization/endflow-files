@@ -218,14 +218,28 @@
     "eventCategory": "SPORT",
     "eventDate": "1872/11/30",
     "eventImg": "",
-    "eventRegion": "GB",
+    "eventRegion": "ALL",
     "eventDescriptionEn": "The first international football match in history was played in Glasgow. The match ended in a 0-0 draw between Scotland and England.",
     "eventDescriptionTr": "Dünya futbol tarihinin ilk millî maçı Glasgow'da oynandı. İskoçya ile İngiltere arasındaki maç 0-0 berabere sona erdi.",
     "eventDescriptionFr": "Le premier match de football international de l'histoire a été joué à Glasgow. Le match s'est terminé sur un score nul de 0-0 entre l'Écosse et l'Angleterre.",
     "eventDescriptionDe": "Das erste internationale Fußballspiel der Geschichte wurde in Glasgow ausgetragen. Das Spiel endete mit einem 0:0-Unentschieden zwischen Schottland und England.",
     "eventDescriptionEs": "El primer partido internacional de fútbol de la historia se jugó en Glasgow. El partido terminó en un empate 0-0 entre Escocia e Inglaterra.",
     "eventDescriptionIt": "La prima partita internazionale di calcio della storia fu giocata a Glasgow. La partita terminò con un pareggio 0-0 tra Scozia e Inghilterra."
+},
+{
+    "eventId": "1040",
+    "eventCategory": "HISTORY",
+    "eventDate": "1988/12/01",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The World Health Organization (WHO) announced World AIDS Day for the first time.",
+    "eventDescriptionTr": "Dünya Sağlık Örgütü (WHO), Dünya AIDS Günü'nü ilk kez duyurdu.",
+    "eventDescriptionFr": "L'Organisation mondiale de la santé (OMS) a annoncé pour la première fois la Journée mondiale du sida.",
+    "eventDescriptionDe": "Die Weltgesundheitsorganisation (WHO) kündigte zum ersten Mal den Welt-AIDS-Tag an.",
+    "eventDescriptionEs": "La Organización Mundial de la Salud (OMS) anunció por primera vez el Día Mundial del SIDA.",
+    "eventDescriptionIt": "L'Organizzazione Mondiale della Sanità (OMS) ha annunciato per la prima volta la Giornata Mondiale contro l'AIDS."
 }
+
 
 
 
