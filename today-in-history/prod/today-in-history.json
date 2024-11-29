@@ -177,7 +177,20 @@
     "eventDescriptionDe": "Mauretanien wird unabhängig von Frankreich.",
     "eventDescriptionEs": "Mauritania se independiza de Francia.",
     "eventDescriptionIt": "La Mauritania diventa indipendente dalla Francia."
+},{
+    "eventId": "1036",
+    "eventCategory": "POLITICS",
+    "eventDate": "1966/11/30",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Barbados declared its independence from the United Kingdom.",
+    "eventDescriptionTr": "Barbados, Birleşik Krallık'tan bağımsızlığını ilan etti.",
+    "eventDescriptionFr": "La Barbade a déclaré son indépendance du Royaume-Uni.",
+    "eventDescriptionDe": "Barbados erklärte seine Unabhängigkeit vom Vereinigten Königreich.",
+    "eventDescriptionEs": "Barbados declaró su independencia del Reino Unido.",
+    "eventDescriptionIt": "Barbados dichiarò la sua indipendenza dal Regno Unito."
 }
+
 
 
 
