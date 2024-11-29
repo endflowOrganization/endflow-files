@@ -201,6 +201,19 @@
     "eventDescriptionDe": "George H. W. Bush, der 41. Präsident der Vereinigten Staaten, ist gestorben.",
     "eventDescriptionEs": "George H. W. Bush, el 41º presidente de los Estados Unidos, falleció.",
     "eventDescriptionIt": "George H. W. Bush, il 41º presidente degli Stati Uniti, è morto."
+},{
+    "eventId": "1038",
+    "eventCategory": "DISASTER",
+    "eventDate": "2007/11/30",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "Atlasjet Flight 4203, an MD-83 passenger plane en route from Istanbul to Isparta, crashed at Türbetepe, located between the Çukurören and Kılıç villages in Isparta. All 50 passengers and 7 crew members perished. Among the victims were prominent scientists.",
+    "eventDescriptionTr": "İstanbul-Isparta seferini yapmakta olan, Atlasjet Havayolları'na ait 4203 sefer sayılı MD-83 tipi yolcu uçağı, Isparta'nın Çukurören ve Kılıç köyleri arasında kalan Türbetepe mevkiinde düştü. Uçakta bulunan 50 yolcu ve 7 mürettebattan kurtulan olmadı. Hayatını kaybedenler arasında önemli bilim insanları da vardı.",
+    "eventDescriptionFr": "Le vol 4203 d'Atlasjet, un avion de passagers MD-83 reliant Istanbul à Isparta, s'est écrasé à Türbetepe, situé entre les villages de Çukurören et Kılıç à Isparta. Les 50 passagers et 7 membres d'équipage ont péri. Parmi les victimes figuraient des scientifiques de renom.",
+    "eventDescriptionDe": "Atlasjet-Flug 4203, ein MD-83-Passagierflugzeug auf dem Weg von Istanbul nach Isparta, stürzte in Türbetepe ab, zwischen den Dörfern Çukurören und Kılıç in Isparta. Alle 50 Passagiere und 7 Besatzungsmitglieder kamen ums Leben. Unter den Opfern waren auch bedeutende Wissenschaftler.",
+    "eventDescriptionEs": "El vuelo 4203 de Atlasjet, un avión de pasajeros MD-83 que iba de Estambul a Isparta, se estrelló en Türbetepe, entre las aldeas de Çukurören y Kılıç en Isparta. Todos los 50 pasajeros y 7 tripulantes fallecieron. Entre las víctimas había destacados científicos.",
+    "eventDescriptionIt": "Il volo 4203 di Atlasjet, un aereo passeggeri MD-83 diretto da Istanbul a Isparta, si è schiantato a Türbetepe, situato tra i villaggi di Çukurören e Kılıç a Isparta. Tutti i 50 passeggeri e i 7 membri dell'equipaggio sono morti. Tra le vittime c'erano scienziati di spicco."
 }
+
 
 ]}
