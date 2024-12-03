@@ -250,7 +250,20 @@
     "eventDescriptionDe": "Sony veröffentlicht die erste PlayStation in Japan und markiert damit einen bedeutenden Moment in der Spieleindustrie.",
     "eventDescriptionEs": "Sony lanza la primera PlayStation en Japón, marcando un momento significativo en la industria de los videojuegos.",
     "eventDescriptionIt": "Sony rilascia la prima PlayStation in Giappone, segnando un momento significativo nell'industria dei videogiochi."
+},{
+    "eventId": "1042",
+    "eventCategory": "TECHNOLOGY",
+    "eventDate": "1992/12/03",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "A test engineer for Sema Group sends the world's first text message using a personal computer via the Vodafone network to a colleague's phone.",
+    "eventDescriptionTr": "Sema Group'ta bir test mühendisi, bir kişisel bilgisayar kullanarak Vodafone ağı üzerinden dünyadaki ilk kısa mesajı bir meslektaşının telefonuna gönderdi.",
+    "eventDescriptionFr": "Un ingénieur de test de Sema Group envoie le tout premier SMS au monde en utilisant un ordinateur personnel via le réseau Vodafone à un collègue.",
+    "eventDescriptionDe": "Ein Testingenieur der Sema Group sendet die weltweit erste Textnachricht über ein persönliches Computersystem und das Vodafone-Netzwerk an das Telefon eines Kollegen.",
+    "eventDescriptionEs": "Un ingeniero de pruebas de Sema Group envía el primer mensaje de texto del mundo utilizando una computadora personal a través de la red Vodafone al teléfono de un colega.",
+    "eventDescriptionIt": "Un ingegnere di test del Sema Group invia il primo messaggio di testo al mondo utilizzando un computer personale tramite la rete Vodafone al telefono di un collega."
 }
+
 
 
 
