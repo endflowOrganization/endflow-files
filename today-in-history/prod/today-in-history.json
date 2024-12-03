@@ -36,7 +36,7 @@
     "eventDescriptionIt": "Donald Trump diventa il primo presidente degli Stati Uniti a essere eletto per un secondo mandato non consecutivo in 132 anni, dopo che Grover Cleveland vinse le elezioni del 1892."
 },{
     "eventId": "1046",
-    "eventCategory": "MEDIA",
+    "eventCategory": "HISTORY",
     "eventDate": "1881/12/04",
     "eventImg": "",
     "eventRegion": "US",
@@ -46,7 +46,20 @@
     "eventDescriptionDe": "Die erste Ausgabe der Los Angeles Times wird veröffentlicht.",
     "eventDescriptionEs": "Se publica la primera edición del Los Angeles Times.",
     "eventDescriptionIt": "Viene pubblicata la prima edizione del Los Angeles Times."
+},{
+    "eventId": "1047",
+    "eventCategory": "MUSIC",
+    "eventDate": "1980/12/04",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The famous rock band Led Zeppelin announced their breakup.",
+    "eventDescriptionTr": "Ünlü Rock grubu Led Zeppelin dağıldıklarını açıkladı.",
+    "eventDescriptionFr": "Le célèbre groupe de rock Led Zeppelin a annoncé sa séparation.",
+    "eventDescriptionDe": "Die berühmte Rockband Led Zeppelin gab ihre Trennung bekannt.",
+    "eventDescriptionEs": "La famosa banda de rock Led Zeppelin anunció su separación.",
+    "eventDescriptionIt": "Il famoso gruppo rock Led Zeppelin ha annunciato il loro scioglimento."
 }
+
 
     
 
