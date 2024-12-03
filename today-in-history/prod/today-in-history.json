@@ -142,7 +142,20 @@
     "eventDescriptionDe": "Die erste Ausgabe der Zeitung The Washington Post wird veröffentlicht.",
     "eventDescriptionEs": "Se publica el primer número del periódico The Washington Post.",
     "eventDescriptionIt": "Viene pubblicato il primo numero del quotidiano The Washington Post."
+},{
+    "eventId": "1055",
+    "eventCategory": "HISTORY",
+    "eventDate": "1897/12/06",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "London becomes the world's first city to host licensed taxicabs.",
+    "eventDescriptionTr": "Londra, lisanslı taksilerin hizmet verdiği dünyanın ilk şehri oldu.",
+    "eventDescriptionFr": "Londres devient la première ville au monde à accueillir des taxis sous licence.",
+    "eventDescriptionDe": "London wird die erste Stadt der Welt, die lizenzierte Taxis einführt.",
+    "eventDescriptionEs": "Londres se convierte en la primera ciudad del mundo en contar con taxis con licencia.",
+    "eventDescriptionIt": "Londra diventa la prima città al mondo a ospitare taxi con licenza."
 }
+
 
 
 
