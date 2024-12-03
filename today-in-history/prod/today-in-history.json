@@ -118,7 +118,20 @@
     "eventDescriptionDe": "Die Preston By-pass, der erste Autobahnabschnitt des Vereinigten Königreichs, wurde erstmals für den Verkehr freigegeben. Er ist jetzt Teil der Autobahnen M6 und M55.",
     "eventDescriptionEs": "El Preston By-pass, el primer tramo de autopista del Reino Unido, se abre al tráfico por primera vez. Ahora forma parte de las autopistas M6 y M55.",
     "eventDescriptionIt": "La Preston By-pass, il primo tratto di autostrada del Regno Unito, viene aperto al traffico per la prima volta. Ora fa parte delle autostrade M6 e M55."
+},{
+    "eventId": "1053",
+    "eventCategory": "HISTORY",
+    "eventDate": "1941/12/05",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "World War II: Great Britain declares war on Finland, Hungary, and Romania.",
+    "eventDescriptionTr": "II. Dünya Savaşı: Büyük Britanya, Finlandiya, Macaristan ve Romanya'ya savaş ilan etti.",
+    "eventDescriptionFr": "Seconde Guerre mondiale : La Grande-Bretagne déclare la guerre à la Finlande, à la Hongrie et à la Roumanie.",
+    "eventDescriptionDe": "Zweiter Weltkrieg: Großbritannien erklärt Finnland, Ungarn und Rumänien den Krieg.",
+    "eventDescriptionEs": "Segunda Guerra Mundial: Gran Bretaña declara la guerra a Finlandia, Hungría y Rumanía.",
+    "eventDescriptionIt": "Seconda Guerra Mondiale: La Gran Bretagna dichiara guerra a Finlandia, Ungheria e Romania."
 }
+
 
 
 
