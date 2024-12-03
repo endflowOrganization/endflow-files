@@ -130,7 +130,20 @@
     "eventDescriptionDe": "Zweiter Weltkrieg: Großbritannien erklärt Finnland, Ungarn und Rumänien den Krieg.",
     "eventDescriptionEs": "Segunda Guerra Mundial: Gran Bretaña declara la guerra a Finlandia, Hungría y Rumanía.",
     "eventDescriptionIt": "Seconda Guerra Mondiale: La Gran Bretagna dichiara guerra a Finlandia, Ungheria e Romania."
+},{
+    "eventId": "1054",
+    "eventCategory": "HISTORY",
+    "eventDate": "1877/12/06",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The first issue of the Washington Post newspaper is published.",
+    "eventDescriptionTr": "The Washington Post gazetesinin ilk sayısı yayımlandı.",
+    "eventDescriptionFr": "Le premier numéro du journal The Washington Post est publié.",
+    "eventDescriptionDe": "Die erste Ausgabe der Zeitung The Washington Post wird veröffentlicht.",
+    "eventDescriptionEs": "Se publica el primer número del periódico The Washington Post.",
+    "eventDescriptionIt": "Viene pubblicato il primo numero del quotidiano The Washington Post."
 }
+
 
 
 
