@@ -214,7 +214,33 @@
     "eventDescriptionDe": "Pearl-Harbor-Angriff: Japanische Flugzeuge bombardieren die amerikanische Marinebasis in Pearl Harbor.",
     "eventDescriptionEs": "Ataque a Pearl Harbor: aviones japoneses bombardean la base naval estadounidense en Pearl Harbor.",
     "eventDescriptionIt": "Attacco a Pearl Harbor: aerei giapponesi bombardano la base navale americana di Pearl Harbor."
+},{
+    "eventId": "1061",
+    "eventCategory": "HISTORY",
+    "eventDate": "1954/12/18",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "The General Directorate of State Hydraulic Works (DSİ) was established in Turkey.",
+    "eventDescriptionTr": "Devlet Su İşleri Genel Müdürlüğü (DSİ) Türkiye'de kuruldu.",
+    "eventDescriptionFr": "La Direction générale des travaux hydrauliques de l'État (DSİ) a été créée en Turquie.",
+    "eventDescriptionDe": "Die Generaldirektion für Staatliche Wasserbauarbeiten (DSİ) wurde in der Türkei gegründet.",
+    "eventDescriptionEs": "Se estableció la Dirección General de Obras Hidráulicas del Estado (DSİ) en Turquía.",
+    "eventDescriptionIt": "La Direzione Generale dei Lavori Idraulici dello Stato (DSİ) è stata fondata in Turchia."
+},{
+    "eventId": "1062",
+    "eventCategory": "HISTORY",
+    "eventDate": "1941/12/08",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "One day after the Pearl Harbor Attack, the United States Congress declares war on Japan, officially entering World War II.",
+    "eventDescriptionTr": "Pearl Harbor Saldırısı'ndan bir gün sonra Amerika Birleşik Devletleri Kongresi Japonya'ya savaş ilan etti ve II. Dünya Savaşı'na resmen girmiş oldu.",
+    "eventDescriptionFr": "Un jour après l'attaque de Pearl Harbor, le Congrès des États-Unis déclare la guerre à Japon, entrant officiellement dans la Seconde Guerre mondiale.",
+    "eventDescriptionDe": "Einen Tag nach dem Angriff auf Pearl Harbor erklärt der Kongress der Vereinigten Staaten Japan den Krieg und tritt offiziell in den Zweiten Weltkrieg ein.",
+    "eventDescriptionEs": "Un día después del ataque a Pearl Harbor, el Congreso de los Estados Unidos declara la guerra a Japón, entrando oficialmente en la Segunda Guerra Mundial.",
+    "eventDescriptionIt": "Un giorno dopo l'attacco a Pearl Harbor, il Congresso degli Stati Uniti dichiara guerra al Giappone, entrando ufficialmente nella Seconda Guerra Mondiale."
 }
+
+
 
 
 ]}
