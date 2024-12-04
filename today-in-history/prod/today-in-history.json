@@ -372,14 +372,18 @@
     "eventDescriptionDe": "Die nostalgische Straßenbahn, die 1961 außer Betrieb genommen wurde, begann auf der Istiklal-Straße in Istanbul zu fahren.",
     "eventDescriptionEs": "El tranvía nostálgico, que fue retirado en 1961, comenzó a operar en la Avenida Istiklal en Estambul.",
     "eventDescriptionIt": "Il tram nostalgico, ritirato dal servizio nel 1961, ha iniziato a funzionare in viale Istiklal a Istanbul."
+},{
+    "eventId": "1074",
+    "eventCategory": "HISTORY",
+    "eventDate": "1845/12/29",
+    "eventImg": "",
+    "eventRegion": "US",
+    "eventDescriptionEn": "The United States annexes the Republic of Texas and admits it as the 28th state.",
+    "eventDescriptionTr": "Amerika Birleşik Devletleri, Teksas Cumhuriyeti'ni ilhak ederek 28. eyaleti olarak kabul etti.",
+    "eventDescriptionFr": "Les États-Unis annexent la République du Texas et l'admettent comme le 28e État.",
+    "eventDescriptionDe": "Die Vereinigten Staaten annektieren die Republik Texas und nehmen sie als 28. Bundesstaat auf.",
+    "eventDescriptionEs": "Estados Unidos anexa la República de Texas y la admite como el estado número 28.",
+    "eventDescriptionIt": "Gli Stati Uniti annettono la Repubblica del Texas e la ammettono come 28º stato."
 }
-
-
-
-
-
-
-
-
 
 ]}
