@@ -190,5 +190,18 @@
     "eventDescriptionDe": "Kilis wurde während des Türkischen Befreiungskriegs von der französischen Besatzung befreit.",
     "eventDescriptionEs": "Kilis es liberado de la ocupación francesa durante la Guerra de Independencia Turca.",
     "eventDescriptionIt": "Kilis è stato liberato dall'occupazione francese durante la guerra di indipendenza turca."
+},{
+    "eventId": "1059",
+    "eventCategory": "CULTURE",
+    "eventDate": "1732/12/07",
+    "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/december%2Fthe-royal-opera-house.jpg?alt=media&token=92246275-2e99-41be-b639-ee3db51b35b3",
+    "eventRegion": "GB",
+    "eventDescriptionEn": "The Royal Opera House opens at Covent Garden, London, England.",
+    "eventDescriptionTr": "Royal Opera House, Londra'nın Covent Garden bölgesinde açıldı.",
+    "eventDescriptionFr": "Le Royal Opera House ouvre à Covent Garden, Londres, Angleterre.",
+    "eventDescriptionDe": "Das Royal Opera House wird in Covent Garden, London, England, eröffnet.",
+    "eventDescriptionEs": "Se inaugura el Royal Opera House en Covent Garden, Londres, Inglaterra.",
+    "eventDescriptionIt": "Il Royal Opera House apre a Covent Garden, Londra, Inghilterra."
 }
+
 ]}
