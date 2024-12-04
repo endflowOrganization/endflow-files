@@ -323,7 +323,20 @@
     "eventDescriptionDe": "Das Thomas-Feuer beginnt in der Nähe von Santa Paula, Kalifornien. Es wird zum größten Waldbrand in der modernen Geschichte Kaliforniens und verbrannte 440 Quadratmeilen (1.140 km²) in den Bezirken Ventura und Santa Barbara.",
     "eventDescriptionEs": "El incendio Thomas comienza cerca de Santa Paula, California. Se convierte en el incendio forestal más grande en la historia moderna de California, quemando 440 millas cuadradas (1.140 km²) en los condados de Ventura y Santa Bárbara.",
     "eventDescriptionIt": "L'incendio Thomas inizia vicino a Santa Paula, in California. Diventa il più grande incendio boschivo nella storia moderna della California, bruciando 440 miglia quadrate (1.140 km²) nelle contee di Ventura e Santa Barbara."
+},{
+    "eventId": "1070",
+    "eventCategory": "MUSIC",
+    "eventDate": "2013/12/08",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Metallica performs a show in Antarctica, becoming the first band to play on all seven continents.",
+    "eventDescriptionTr": "Metallica, Antarktika'da bir konser vererek tüm kıtalarda performans sergileyen ilk grup oldu.",
+    "eventDescriptionFr": "Metallica donne un concert en Antarctique, devenant ainsi le premier groupe à se produire sur les sept continents.",
+    "eventDescriptionDe": "Metallica gibt ein Konzert in der Antarktis und wird damit die erste Band, die auf allen sieben Kontinenten auftritt.",
+    "eventDescriptionEs": "Metallica realiza un concierto en la Antártida, convirtiéndose en la primera banda en tocar en los siete continentes.",
+    "eventDescriptionIt": "I Metallica si esibiscono in Antartide, diventando la prima band a suonare in tutti e sette i continenti."
 }
+
 
 
 
