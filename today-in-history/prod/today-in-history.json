@@ -384,6 +384,32 @@
     "eventDescriptionDe": "Die Vereinigten Staaten annektieren die Republik Texas und nehmen sie als 28. Bundesstaat auf.",
     "eventDescriptionEs": "Estados Unidos anexa la República de Texas y la admite como el estado número 28.",
     "eventDescriptionIt": "Gli Stati Uniti annettono la Repubblica del Texas e la ammettono come 28º stato."
+},{
+    "eventId": "1075",
+    "eventCategory": "PEOPLE",
+    "eventDate": "2013/12/29",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Seven-time Formula One champion Michael Schumacher suffers a massive head injury while skiing in the French Alps.",
+    "eventDescriptionTr": "Yedi kez Formula 1 şampiyonu Michael Schumacher, Fransız Alpleri'nde kayak yaparken ciddi bir kafa travması geçirdi.",
+    "eventDescriptionFr": "Le septuple champion de Formule 1, Michael Schumacher, subit une grave blessure à la tête lors d'une sortie de ski dans les Alpes françaises.",
+    "eventDescriptionDe": "Der siebenfache Formel-1-Weltmeister Michael Schumacher erleidet eine schwere Kopfverletzung beim Skifahren in den französischen Alpen.",
+    "eventDescriptionEs": "El siete veces campeón de Fórmula Uno, Michael Schumacher, sufre una grave lesión en la cabeza mientras esquiaba en los Alpes franceses.",
+    "eventDescriptionIt": "Il sette volte campione di Formula 1 Michael Schumacher subisce una grave ferita alla testa mentre sciava nelle Alpi francesi."
+},{
+    "eventId": "1076",
+    "eventCategory": "PEOPLE",
+    "eventDate": "2020/12/29",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Renowned French fashion designer Pierre Cardin passed away.",
+    "eventDescriptionTr": "Ünlü Fransız moda tasarımcısı Pierre Cardin hayatını kaybetti.",
+    "eventDescriptionFr": "Le célèbre designer de mode français Pierre Cardin est décédé.",
+    "eventDescriptionDe": "Der berühmte französische Modedesigner Pierre Cardin ist verstorben.",
+    "eventDescriptionEs": "El renombrado diseñador de moda francés Pierre Cardin falleció.",
+    "eventDescriptionIt": "Il celebre stilista francese Pierre Cardin è morto."
 }
+
+
 
 ]}
