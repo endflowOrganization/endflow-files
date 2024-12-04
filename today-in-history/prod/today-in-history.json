@@ -432,7 +432,20 @@
     "eventDescriptionDe": "Karl Benz, der in Mannheim, Deutschland, arbeitet, erhält ein Patent für seinen ersten zuverlässigen Zweitakt-Gasmotor.",
     "eventDescriptionEs": "Karl Benz, trabajando en Mannheim, Alemania, obtiene una patente para su primer motor de gas de dos tiempos confiable.",
     "eventDescriptionIt": "Karl Benz, che lavora a Mannheim, in Germania, ottiene un brevetto per il suo primo affidabile motore a gas a due tempi."
+},{
+    "eventId": "1079",
+    "eventCategory": "HISTORY",
+    "eventDate": "2019/12/31",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The World Health Organization is informed of cases of pneumonia with an unknown cause, detected in Wuhan. This later turned out to be COVID-19, the cause of the COVID-19 pandemic.",
+    "eventDescriptionTr": "Dünya Sağlık Örgütü, Wuhan'da tespit edilen, nedeni bilinmeyen zatürre vakaları hakkında bilgilendirildi. Bu, daha sonra COVID-19 pandemisinin nedeni olan COVID-19 olarak ortaya çıktı.",
+    "eventDescriptionFr": "L'Organisation mondiale de la santé est informée de cas de pneumonie d'origine inconnue détectés à Wuhan. Cela s'est ensuite avéré être la COVID-19, la cause de la pandémie de COVID-19.",
+    "eventDescriptionDe": "Die Weltgesundheitsorganisation wird über Fälle von Pneumonie unbekannter Ursache informiert, die in Wuhan entdeckt wurden. Dies stellte sich später als COVID-19 heraus, die Ursache der COVID-19-Pandemie.",
+    "eventDescriptionEs": "La Organización Mundial de la Salud es informada de casos de neumonía de causa desconocida detectados en Wuhan. Esto más tarde resultó ser COVID-19, la causa de la pandemia de COVID-19.",
+    "eventDescriptionIt": "L'Organizzazione Mondiale della Sanità viene informata di casi di polmonite di causa sconosciuta rilevati a Wuhan. Successivamente si è scoperto che si trattava di COVID-19, la causa della pandemia di COVID-19."
 }
+
 
 
 
