@@ -154,7 +154,20 @@
     "eventDescriptionDe": "London wird die erste Stadt der Welt, die lizenzierte Taxis einführt.",
     "eventDescriptionEs": "Londres se convierte en la primera ciudad del mundo en contar con taxis con licencia.",
     "eventDescriptionIt": "Londra diventa la prima città al mondo a ospitare taxi con licenza."
+},{
+    "eventId": "1056",
+    "eventCategory": "HISTORY",
+    "eventDate": "1912/12/06",
+    "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/december%2Fnefertiti-bust.png?alt=media&token=4ba5fe9f-1f27-4c28-ba8b-463973013b89",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The Nefertiti Bust was found in Amarna, Egypt, by German archaeologist Ludwig Borchardt.",
+    "eventDescriptionTr": "Nefertiti Büstü, Mısır'ın Amarna bölgesinde Alman arkeolog Ludwig Borchardt tarafından bulundu.",
+    "eventDescriptionFr": "Le buste de Néfertiti a été découvert à Amarna, en Égypte, par l'archéologue allemand Ludwig Borchardt.",
+    "eventDescriptionDe": "Der Nofretete-Büste wurde in Amarna, Ägypten, vom deutschen Archäologen Ludwig Borchardt entdeckt.",
+    "eventDescriptionEs": "El Busto de Nefertiti fue encontrado en Amarna, Egipto, por el arqueólogo alemán Ludwig Borchardt.",
+    "eventDescriptionIt": "Il Busto di Nefertiti è stato trovato ad Amarna, in Egitto, dall'archeologo tedesco Ludwig Borchardt."
 }
+
 
 
 
