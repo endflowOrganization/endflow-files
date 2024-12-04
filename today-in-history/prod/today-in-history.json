@@ -202,6 +202,19 @@
     "eventDescriptionDe": "Das Royal Opera House wird in Covent Garden, London, England, eröffnet.",
     "eventDescriptionEs": "Se inaugura el Royal Opera House en Covent Garden, Londres, Inglaterra.",
     "eventDescriptionIt": "Il Royal Opera House apre a Covent Garden, Londra, Inghilterra."
+},{
+    "eventId": "1060",
+    "eventCategory": "HISTORY",
+    "eventDate": "1941/12/07",
+    "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/december%2Fpearl-harbor-attack.jpg?alt=media&token=72a1a4a5-0ccf-4a55-a7fc-4fbfc9875c93",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Pearl Harbor Attack: Japanese aircraft bomb the American naval base at Pearl Harbor.",
+    "eventDescriptionTr": "Pearl Harbor Saldırısı: Japon uçakları Amerikan deniz üssü Pearl Harbor'u bombaladı.",
+    "eventDescriptionFr": "Attaque de Pearl Harbor : Des avions japonais bombardent la base navale américaine de Pearl Harbor.",
+    "eventDescriptionDe": "Pearl-Harbor-Angriff: Japanische Flugzeuge bombardieren die amerikanische Marinebasis in Pearl Harbor.",
+    "eventDescriptionEs": "Ataque a Pearl Harbor: aviones japoneses bombardean la base naval estadounidense en Pearl Harbor.",
+    "eventDescriptionIt": "Attacco a Pearl Harbor: aerei giapponesi bombardano la base navale americana di Pearl Harbor."
 }
+
 
 ]}
