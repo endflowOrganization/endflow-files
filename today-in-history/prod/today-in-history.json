@@ -266,7 +266,7 @@
 },{
     "eventId": "1065",
     "eventCategory": "FINANCE",
-    "eventDate": "2006/12/07",
+    "eventDate": "2005/12/13",
     "eventImg": "",
     "eventRegion": "TR",
     "eventDescriptionEn": "Telsim, which was put up for sale by the Savings Deposit Insurance Fund (TMSF), was auctioned for 4.55 billion dollars and acquired by Vodafone Group, one of the world's largest mobile telecommunications operators, under the name Vodafone Telekomünikasyon A.Ş.",
@@ -278,7 +278,7 @@
 },{
     "eventId": "1066",
     "eventCategory": "HISTORY",
-    "eventDate": "1950/12/07",
+    "eventDate": "1936/12/14",
     "eventImg": "",
     "eventRegion": "TR",
     "eventDescriptionEn": "Istanbul University Faculty of Economics (İktisat Fakültesi) was established.",
@@ -287,7 +287,20 @@
     "eventDescriptionDe": "Die Fakultät für Wirtschaftswissenschaften der Universität Istanbul (İktisat Fakültesi) wurde gegründet.",
     "eventDescriptionEs": "Se fundó la Facultad de Economía de la Universidad de Estambul (İktisat Fakültesi).",
     "eventDescriptionIt": "È stata fondata la Facoltà di Economia dell'Università di Istanbul (İktisat Fakültesi)."
+},{
+    "eventId": "1067",
+    "eventCategory": "TECH",
+    "eventDate": "2017/12/15",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "Turkey's first driverless metro line, the M5 (Üsküdar - Çekmeköy) Metro Line, opened its first phase, the Üsküdar - Yamanevler section, in Istanbul.",
+    "eventDescriptionTr": "Türkiye'nin ilk sürücüsüz metro hattı olan İstanbul'daki M5 (Üsküdar - Çekmeköy) Metro Hattı'nın ilk etabı olan Üsküdar - Yamanevler etabı hizmete açıldı.",
+    "eventDescriptionFr": "La première ligne de métro sans conducteur de Turquie, la ligne M5 (Üsküdar - Çekmeköy), a ouvert sa première phase, la section Üsküdar - Yamanevler, à Istanbul.",
+    "eventDescriptionDe": "Die erste fahrerlose U-Bahn-Linie der Türkei, die M5 (Üsküdar - Çekmeköy) U-Bahn-Linie, öffnete ihre erste Phase, den Abschnitt Üsküdar - Yamanevler, in Istanbul.",
+    "eventDescriptionEs": "La primera línea de metro sin conductor de Turquía, la línea M5 (Üsküdar - Çekmeköy), abrió su primera fase, el tramo Üsküdar - Yamanevler, en Estambul.",
+    "eventDescriptionIt": "La prima linea metropolitana senza conducente della Turchia, la linea M5 (Üsküdar - Çekmeköy), ha aperto la sua prima fase, la sezione Üsküdar - Yamanevler, a Istanbul."
 }
+
 
 
 ]}
