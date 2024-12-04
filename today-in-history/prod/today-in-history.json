@@ -468,7 +468,20 @@
     "eventDescriptionDe": "Im Aufstand von Menemen wurde der Reserveoffizier und Lehrer Mustafa Fehmi Kubilay von republikfeindlichen Aufständischen getötet. Bei demselben Vorfall wurden auch die Wächter Hasan und Şevki getötet.",
     "eventDescriptionEs": "En el levantamiento de Menemen, el oficial de reserva y maestro Mustafa Fehmi Kubilay fue asesinado por insurgentes contrarios a la República. En el mismo evento, también murieron los vigilantes Hasan y Şevki.",
     "eventDescriptionIt": "Durante la rivolta di Menemen, il riservista e insegnante Mustafa Fehmi Kubilay fu ucciso da insorti anti-repubblicani. Nello stesso evento furono uccisi anche le guardie Hasan e Şevki."
+},{
+    "eventId": "1082",
+    "eventCategory": "SCIENCE",
+    "eventDate": "1954/12/23",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The first successful kidney transplant is performed by J. Hartwell Harrison and Joseph Murray.",
+    "eventDescriptionTr": "İlk başarılı böbrek nakli J. Hartwell Harrison ve Joseph Murray tarafından gerçekleştirildi.",
+    "eventDescriptionFr": "La première greffe de rein réussie est réalisée par J. Hartwell Harrison et Joseph Murray.",
+    "eventDescriptionDe": "Die erste erfolgreiche Nierentransplantation wird von J. Hartwell Harrison und Joseph Murray durchgeführt.",
+    "eventDescriptionEs": "El primer trasplante de riñón exitoso es realizado por J. Hartwell Harrison y Joseph Murray.",
+    "eventDescriptionIt": "Il primo trapianto di rene di successo viene eseguito da J. Hartwell Harrison e Joseph Murray."
 }
+
 
 
 
