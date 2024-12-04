@@ -480,7 +480,20 @@
     "eventDescriptionDe": "Die erste erfolgreiche Nierentransplantation wird von J. Hartwell Harrison und Joseph Murray durchgeführt.",
     "eventDescriptionEs": "El primer trasplante de riñón exitoso es realizado por J. Hartwell Harrison y Joseph Murray.",
     "eventDescriptionIt": "Il primo trapianto di rene di successo viene eseguito da J. Hartwell Harrison e Joseph Murray."
+},{
+    "eventId": "1083",
+    "eventCategory": "TECH",
+    "eventDate": "1947/12/23",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The transistor is first demonstrated at Bell Laboratories.",
+    "eventDescriptionTr": "Transistör ilk kez Bell Laboratuvarları'nda gösterildi.",
+    "eventDescriptionFr": "Le transistor est démontré pour la première fois aux laboratoires Bell.",
+    "eventDescriptionDe": "Der Transistor wird erstmals in den Bell Laboratories demonstriert.",
+    "eventDescriptionEs": "El transistor se demuestra por primera vez en los Laboratorios Bell.",
+    "eventDescriptionIt": "Il transistor viene dimostrato per la prima volta ai Bell Laboratories."
 }
+
 
 
 
