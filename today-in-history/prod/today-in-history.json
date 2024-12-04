@@ -347,7 +347,34 @@
     "eventDescriptionDe": "Die Führer von Russland, Weißrussland und der Ukraine unterzeichnen ein Abkommen zur Auflösung der Sowjetunion und zur Gründung der Gemeinschaft Unabhängiger Staaten (GUS).",
     "eventDescriptionEs": "Los líderes de Rusia, Bielorrusia y Ucrania firman un acuerdo que disuelve la Unión Soviética y establece la Comunidad de Estados Independientes (CEI).",
     "eventDescriptionIt": "I leader di Russia, Bielorussia e Ucraina firmano un accordo per lo scioglimento dell'Unione Sovietica e la creazione della Comunità degli Stati Indipendenti (CSI)."
+},{
+    "eventId": "1072",
+    "eventCategory": "HISTORY",
+    "eventDate": "1976/12/29",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "Production of the Murat 131 began at the Bursa TOFAŞ Automobile Factory in Turkey.",
+    "eventDescriptionTr": "Bursa TOFAŞ Otomobil Fabrikası'nda, Murat 131'in imalatına başlandı.",
+    "eventDescriptionFr": "La production de la Murat 131 a commencé à l'usine automobile TOFAŞ de Bursa, en Turquie.",
+    "eventDescriptionDe": "Die Produktion des Murat 131 begann in der Bursa TOFAŞ-Automobilfabrik in der Türkei.",
+    "eventDescriptionEs": "La producción del Murat 131 comenzó en la fábrica de automóviles TOFAŞ de Bursa, Turquía.",
+    "eventDescriptionIt": "La produzione della Murat 131 è iniziata presso la fabbrica di automobili TOFAŞ di Bursa, in Turchia."
+},
+    {
+    "eventId": "1073",
+    "eventCategory": "HISTORY",
+    "eventDate": "1990/12/29",
+    "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/december%2Ftaksim-nostaljik-tramvay.jpeg?alt=media&token=681d6211-94a5-48ef-8911-92a69ab64c57",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "The nostalgic tram, which was retired in 1961, began operating on Istiklal Avenue in Istanbul.",
+    "eventDescriptionTr": "1961 yılında işletmeden kaldırılan nostaljik tramvay, İstiklal Caddesi'nde çalışmaya başladı.",
+    "eventDescriptionFr": "Le tram nostalgique, retiré en 1961, a commencé à circuler sur l'avenue Istiklal à Istanbul.",
+    "eventDescriptionDe": "Die nostalgische Straßenbahn, die 1961 außer Betrieb genommen wurde, begann auf der Istiklal-Straße in Istanbul zu fahren.",
+    "eventDescriptionEs": "El tranvía nostálgico, que fue retirado en 1961, comenzó a operar en la Avenida Istiklal en Estambul.",
+    "eventDescriptionIt": "Il tram nostalgico, ritirato dal servizio nel 1961, ha iniziato a funzionare in viale Istiklal a Istanbul."
 }
+
+
 
 
 
