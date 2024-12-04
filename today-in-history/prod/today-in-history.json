@@ -166,7 +166,20 @@
     "eventDescriptionDe": "Der Nofretete-Büste wurde in Amarna, Ägypten, vom deutschen Archäologen Ludwig Borchardt entdeckt.",
     "eventDescriptionEs": "El Busto de Nefertiti fue encontrado en Amarna, Egipto, por el arqueólogo alemán Ludwig Borchardt.",
     "eventDescriptionIt": "Il Busto di Nefertiti è stato trovato ad Amarna, in Egitto, dall'archeologo tedesco Ludwig Borchardt."
+},{
+    "eventId": "1057",
+    "eventCategory": "HISTORY",
+    "eventDate": "1917/12/07",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "World War I: The United States declares war on Austria-Hungary.",
+    "eventDescriptionTr": "I. Dünya Savaşı: Amerika Birleşik Devletleri, Avusturya-Macaristan'a savaş ilan etti.",
+    "eventDescriptionFr": "Première Guerre mondiale : Les États-Unis déclarent la guerre à l'Autriche-Hongrie.",
+    "eventDescriptionDe": "Erster Weltkrieg: Die Vereinigten Staaten erklären Österreich-Ungarn den Krieg.",
+    "eventDescriptionEs": "Primera Guerra Mundial: Estados Unidos declara la guerra a Austria-Hungría.",
+    "eventDescriptionIt": "Prima Guerra Mondiale: Gli Stati Uniti dichiarano guerra all'Austria-Ungheria."
 }
+
 
 
 
