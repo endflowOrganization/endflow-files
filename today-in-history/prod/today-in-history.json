@@ -238,7 +238,33 @@
     "eventDescriptionDe": "Einen Tag nach dem Angriff auf Pearl Harbor erklärt der Kongress der Vereinigten Staaten Japan den Krieg und tritt offiziell in den Zweiten Weltkrieg ein.",
     "eventDescriptionEs": "Un día después del ataque a Pearl Harbor, el Congreso de los Estados Unidos declara la guerra a Japón, entrando oficialmente en la Segunda Guerra Mundial.",
     "eventDescriptionIt": "Un giorno dopo l'attacco a Pearl Harbor, il Congresso degli Stati Uniti dichiara guerra al Giappone, entrando ufficialmente nella Seconda Guerra Mondiale."
+},{
+    "eventId": "1063",
+    "eventCategory": "HISTORY",
+    "eventDate": "2004/12/04",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "Istanbul Modern Art Museum opens in Istanbul, Turkey, showcasing contemporary art.",
+    "eventDescriptionTr": "İstanbul Modern Sanat Müzesi, İstanbul, Türkiye'de çağdaş sanat eserlerini sergilemek amacıyla açıldı.",
+    "eventDescriptionFr": "Le musée d'art moderne d'Istanbul ouvre ses portes à Istanbul, en Turquie, présentant de l'art contemporain.",
+    "eventDescriptionDe": "Das Istanbul Modern Art Museum wird in Istanbul, Türkei, eröffnet und zeigt zeitgenössische Kunst.",
+    "eventDescriptionEs": "El Museo de Arte Moderno de Estambul abre en Estambul, Turquía, mostrando arte contemporáneo.",
+    "eventDescriptionIt": "Il Museo di Arte Moderna di Istanbul apre a Istanbul, Turchia, esponendo arte contemporanea."
+},
+{
+    "eventId": "1064",
+    "eventCategory": "HISTORY",
+    "eventDate": "1923/12/12",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "The Grand National Assembly of Turkey (TBMM) decided to award the Independence Medal (İstiklal Madalyası) to those who demonstrated exceptional service between May 15, 1919, and November 1, 1923.",
+    "eventDescriptionTr": "Türkiye Büyük Millet Meclisi (TBMM), 15 Mayıs 1919 ile 1 Kasım 1923 arasında üstün hizmet gösterenlere İstiklal Madalyası verilmesini kararlaştırdı.",
+    "eventDescriptionFr": "L'Assemblée nationale turque (TBMM) a décidé de décerner la Médaille de l'Indépendance (İstiklal Madalyası) à ceux qui ont rendu des services exceptionnels entre le 15 mai 1919 et le 1er novembre 1923.",
+    "eventDescriptionDe": "Die Große Nationalversammlung der Türkei (TBMM) entschied, die Unabhängigkeitsmedaille (İstiklal Madalyası) an diejenigen zu verleihen, die zwischen dem 15. Mai 1919 und dem 1. November 1923 herausragende Dienste geleistet haben.",
+    "eventDescriptionEs": "La Gran Asamblea Nacional de Turquía (TBMM) decidió otorgar la Medalla de la Independencia (İstiklal Madalyası) a aquellos que demostraron un servicio excepcional entre el 15 de mayo de 1919 y el 1 de noviembre de 1923.",
+    "eventDescriptionIt": "La Grande Assemblea Nazionale della Turchia (TBMM) ha deciso di assegnare la Medaglia dell'Indipendenza (İstiklal Madalyası) a coloro che hanno dimostrato un servizio eccezionale tra il 15 maggio 1919 e il 1 novembre 1923."
 }
+
 
 
 
