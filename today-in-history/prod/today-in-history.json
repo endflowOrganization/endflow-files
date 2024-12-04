@@ -420,7 +420,20 @@
     "eventDescriptionDe": "Die Union der Sozialistischen Sowjetrepubliken (UdSSR) wird offiziell gegründet.",
     "eventDescriptionEs": "La Unión de Repúblicas Socialistas Soviéticas (URSS) se forma oficialmente.",
     "eventDescriptionIt": "L'Unione delle Repubbliche Socialiste Sovietiche (URSS) viene ufficialmente costituita."
+},{
+    "eventId": "1078",
+    "eventCategory": "TECH",
+    "eventDate": "1879/12/31",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Karl Benz, working in Mannheim, Germany, is granted a patent for his first reliable two-stroke gas engine.",
+    "eventDescriptionTr": "Almanya'nın Mannheim kentinde çalışan Karl Benz, ilk güvenilir iki zamanlı gaz motoru için patent aldı.",
+    "eventDescriptionFr": "Karl Benz, travaillant à Mannheim, en Allemagne, obtient un brevet pour son premier moteur à gaz à deux temps fiable.",
+    "eventDescriptionDe": "Karl Benz, der in Mannheim, Deutschland, arbeitet, erhält ein Patent für seinen ersten zuverlässigen Zweitakt-Gasmotor.",
+    "eventDescriptionEs": "Karl Benz, trabajando en Mannheim, Alemania, obtiene una patente para su primer motor de gas de dos tiempos confiable.",
+    "eventDescriptionIt": "Karl Benz, che lavora a Mannheim, in Germania, ottiene un brevetto per il suo primo affidabile motore a gas a due tempi."
 }
+
 
 
 
