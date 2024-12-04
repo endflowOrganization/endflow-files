@@ -444,11 +444,19 @@
     "eventDescriptionDe": "Die Weltgesundheitsorganisation wird über Fälle von Pneumonie unbekannter Ursache informiert, die in Wuhan entdeckt wurden. Dies stellte sich später als COVID-19 heraus, die Ursache der COVID-19-Pandemie.",
     "eventDescriptionEs": "La Organización Mundial de la Salud es informada de casos de neumonía de causa desconocida detectados en Wuhan. Esto más tarde resultó ser COVID-19, la causa de la pandemia de COVID-19.",
     "eventDescriptionIt": "L'Organizzazione Mondiale della Sanità viene informata di casi di polmonite di causa sconosciuta rilevati a Wuhan. Successivamente si è scoperto che si trattava di COVID-19, la causa della pandemia di COVID-19."
+},{
+    "eventId": "1080",
+    "eventCategory": "HISTORY",
+    "eventDate": "1951/12/24",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Libya becomes an independent state.",
+    "eventDescriptionTr": "Libya bağımsız bir devlet oldu.",
+    "eventDescriptionFr": "La Libye devient un État indépendant.",
+    "eventDescriptionDe": "Libyen wird ein unabhängiger Staat.",
+    "eventDescriptionEs": "Libia se convierte en un estado independiente.",
+    "eventDescriptionIt": "La Libia diventa uno stato indipendente."
 }
-
-
-
-
 
 
 ]}
