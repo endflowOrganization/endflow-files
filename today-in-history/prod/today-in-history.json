@@ -178,27 +178,17 @@
     "eventDescriptionDe": "Erster Weltkrieg: Die Vereinigten Staaten erklären Österreich-Ungarn den Krieg.",
     "eventDescriptionEs": "Primera Guerra Mundial: Estados Unidos declara la guerra a Austria-Hungría.",
     "eventDescriptionIt": "Prima Guerra Mondiale: Gli Stati Uniti dichiarano guerra all'Austria-Ungheria."
+},{
+    "eventId": "1058",
+    "eventCategory": "HISTORY",
+    "eventDate": "1921/12/07",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "Kilis is liberated from French occupation during the Turkish War of Independence.",
+    "eventDescriptionTr": "Kilis, Türk Kurtuluş Savaşı sırasında Fransız işgalinden kurtarıldı.",
+    "eventDescriptionFr": "Kilis est libéré de l'occupation française pendant la guerre d'indépendance turque.",
+    "eventDescriptionDe": "Kilis wurde während des Türkischen Befreiungskriegs von der französischen Besatzung befreit.",
+    "eventDescriptionEs": "Kilis es liberado de la ocupación francesa durante la Guerra de Independencia Turca.",
+    "eventDescriptionIt": "Kilis è stato liberato dall'occupazione francese durante la guerra di indipendenza turca."
 }
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
 ]}
