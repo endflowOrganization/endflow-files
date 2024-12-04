@@ -299,7 +299,20 @@
     "eventDescriptionDe": "Die erste fahrerlose U-Bahn-Linie der Türkei, die M5 (Üsküdar - Çekmeköy) U-Bahn-Linie, öffnete ihre erste Phase, den Abschnitt Üsküdar - Yamanevler, in Istanbul.",
     "eventDescriptionEs": "La primera línea de metro sin conductor de Turquía, la línea M5 (Üsküdar - Çekmeköy), abrió su primera fase, el tramo Üsküdar - Yamanevler, en Estambul.",
     "eventDescriptionIt": "La prima linea metropolitana senza conducente della Turchia, la linea M5 (Üsküdar - Çekmeköy), ha aperto la sua prima fase, la sezione Üsküdar - Yamanevler, a Istanbul."
+},{
+    "eventId": "1068",
+    "eventCategory": "SPORT",
+    "eventDate": "1899/12/16",
+    "eventImg": "",
+    "eventRegion": "IT",
+    "eventDescriptionEn": "Italian football club AC Milan was founded.",
+    "eventDescriptionTr": "İtalya futbol kulübü olan AC Milan kuruldu.",
+    "eventDescriptionFr": "Le club de football italien AC Milan a été fondé.",
+    "eventDescriptionDe": "Der italienische Fußballverein AC Milan wurde gegründet.",
+    "eventDescriptionEs": "El club de fútbol italiano AC Milan fue fundado.",
+    "eventDescriptionIt": "Il club calcistico italiano AC Milan è stato fondato."
 }
+
 
 
 
