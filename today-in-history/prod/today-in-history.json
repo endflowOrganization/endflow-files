@@ -492,10 +492,17 @@
     "eventDescriptionDe": "Der Transistor wird erstmals in den Bell Laboratories demonstriert.",
     "eventDescriptionEs": "El transistor se demuestra por primera vez en los Laboratorios Bell.",
     "eventDescriptionIt": "Il transistor viene dimostrato per la prima volta ai Bell Laboratories."
+},{
+    "eventId": "1084",
+    "eventCategory": "HISTORY",
+    "eventDate": "1917/12/06",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Finland declares independence from the Russian Empire.",
+    "eventDescriptionTr": "Finlandiya, Rus İmparatorluğu'ndan bağımsızlığını ilan etti.",
+    "eventDescriptionFr": "La Finlande déclare son indépendance de l'Empire russe.",
+    "eventDescriptionDe": "Finnland erklärt seine Unabhängigkeit vom Russischen Reich.",
+    "eventDescriptionEs": "Finlandia declara su independencia del Imperio Ruso.",
+    "eventDescriptionIt": "La Finlandia dichiara l'indipendenza dall'Impero Russo."
 }
-
-
-
-
-
 ]}
