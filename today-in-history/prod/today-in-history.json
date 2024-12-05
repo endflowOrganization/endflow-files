@@ -504,5 +504,18 @@
     "eventDescriptionDe": "Finnland erklärt seine Unabhängigkeit vom Russischen Reich.",
     "eventDescriptionEs": "Finlandia declara su independencia del Imperio Ruso.",
     "eventDescriptionIt": "La Finlandia dichiara l'indipendenza dall'Impero Russo."
+},{
+    "eventId": "1085",
+    "eventCategory": "SCIENCE",
+    "eventDate": "1967/12/06",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Adrian Kantrowitz performs the first human heart transplant in the United States.",
+    "eventDescriptionTr": "Adrian Kantrowitz, Amerika Birleşik Devletleri'nde ilk insan kalp naklini gerçekleştirdi.",
+    "eventDescriptionFr": "Adrian Kantrowitz réalise la première greffe de cœur humain aux États-Unis.",
+    "eventDescriptionDe": "Adrian Kantrowitz führt die erste Herztransplantation in den Vereinigten Staaten durch.",
+    "eventDescriptionEs": "Adrian Kantrowitz realiza el primer trasplante de corazón humano en los Estados Unidos.",
+    "eventDescriptionIt": "Adrian Kantrowitz esegue il primo trapianto di cuore umano negli Stati Uniti."
 }
+
 ]}
