@@ -564,7 +564,20 @@
     "eventDescriptionDe": "Der englische Fußballverein Newcastle United FC wurde gegründet.",
     "eventDescriptionEs": "El club de fútbol inglés Newcastle United FC fue fundado.",
     "eventDescriptionIt": "Il club di calcio inglese Newcastle United FC è stato fondato."
+},{
+    "eventId": "1090",
+    "eventCategory": "POLITICS",
+    "eventDate": "1966/12/09",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Barbados became a member of the United Nations.",
+    "eventDescriptionTr": "Barbados, Birleşmiş Milletler'e üye oldu.",
+    "eventDescriptionFr": "La Barbade est devenue membre des Nations Unies.",
+    "eventDescriptionDe": "Barbados wurde Mitglied der Vereinten Nationen.",
+    "eventDescriptionEs": "Barbados se convirtió en miembro de las Naciones Unidas.",
+    "eventDescriptionIt": "Barbados è diventata membro delle Nazioni Unite."
 }
+
 
 
 
