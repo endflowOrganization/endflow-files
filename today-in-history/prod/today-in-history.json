@@ -552,7 +552,20 @@
     "eventDescriptionDe": "Die Terrororganisation PKK verübte am 10. Dezember 2016 einen Anschlag in der Nähe des Vodafone Parks nach dem Spiel Beşiktaş-Bursaspor. Bei dem Anschlag mit einer Autobombe wurden 47 Menschen, darunter 40 Sicherheitskräfte, getötet und 242 weitere verletzt.",
     "eventDescriptionEs": "La organización terrorista PKK llevó a cabo un ataque cerca de Vodafone Park después del partido Beşiktaş-Bursaspor el 10 de diciembre de 2016. En el ataque con un coche bomba, 47 personas, incluidas 40 fuerzas de seguridad, murieron y otras 242 resultaron heridas.",
     "eventDescriptionIt": "L'organizzazione terroristica PKK ha effettuato un attacco vicino al Vodafone Park dopo la partita Beşiktaş-Bursaspor il 10 dicembre 2016. Nell'attacco con un'autobomba, 47 persone, tra cui 40 membri delle forze di sicurezza, sono state uccise e altre 242 ferite."
+},{
+    "eventId": "1089",
+    "eventCategory": "SPORT",
+    "eventDate": "1892/12/09",
+    "eventImg": "",
+    "eventRegion": "GB",
+    "eventDescriptionEn": "The English football club Newcastle United FC was established.",
+    "eventDescriptionTr": "İngiltere futbol kulübü olan Newcastle United FC kuruldu.",
+    "eventDescriptionFr": "Le club de football anglais Newcastle United FC a été fondé.",
+    "eventDescriptionDe": "Der englische Fußballverein Newcastle United FC wurde gegründet.",
+    "eventDescriptionEs": "El club de fútbol inglés Newcastle United FC fue fundado.",
+    "eventDescriptionIt": "Il club di calcio inglese Newcastle United FC è stato fondato."
 }
+
 
 
 
