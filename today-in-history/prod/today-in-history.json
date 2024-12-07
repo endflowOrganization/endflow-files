@@ -528,7 +528,20 @@
     "eventDescriptionDe": "Die Konföderation der Gewerkschaften des öffentlichen Dienstes, abgekürzt KESK, eine Konföderation von Beamtengewerkschaften, wurde gegründet.",
     "eventDescriptionEs": "Se estableció la Confederación de Sindicatos de Trabajadores Públicos, abreviada como KESK, una confederación de sindicatos de empleados públicos.",
     "eventDescriptionIt": "La Confederazione dei sindacati dei lavoratori pubblici, abbreviata in KESK, una confederazione di sindacati dei dipendenti pubblici, è stata fondata."
+},{
+    "eventId": "1087",
+    "eventCategory": "HISTORY",
+    "eventDate": "1878/04/05",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "The Istanbul Bar Association was established, and its founding day is celebrated as Lawyers' Day.",
+    "eventDescriptionTr": "İstanbul Barosu kuruldu ve kuruluş günü Avukatlar Günü olarak kutlanılır.",
+    "eventDescriptionFr": "L'Association du Barreau d'Istanbul a été fondée et son jour de fondation est célébré comme la Journée des Avocats.",
+    "eventDescriptionDe": "Die Istanbuler Anwaltskammer wurde gegründet, und ihr Gründungstag wird als Tag der Anwälte gefeiert.",
+    "eventDescriptionEs": "Se estableció la Asociación de Abogados de Estambul y su día de fundación se celebra como el Día de los Abogados.",
+    "eventDescriptionIt": "L'Ordine degli Avvocati di Istanbul è stato fondato e il giorno della sua fondazione viene celebrato come la Giornata degli Avvocati."
 }
+
 
 
 ]}
