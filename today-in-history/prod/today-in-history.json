@@ -581,14 +581,27 @@
     "eventCategory": "TECH",
     "eventDate": "1968/12/09",
     "eventImg": "",
-    "eventRegion": "US",
+    "eventRegion": "ALL",
     "eventDescriptionEn": "Douglas Engelbart gave what became known as 'The Mother of All Demos', publicly debuting the computer mouse, hypertext, and the bit-mapped graphical user interface using the oN-Line System (NLS).",
     "eventDescriptionTr": "Douglas Engelbart, 'Tüm Demoların Anası' olarak bilinen sunumunda, oN-Line System (NLS) kullanarak bilgisayar faresi, hiper metin ve bit eşlemli grafik kullanıcı arayüzünü tanıttı.",
     "eventDescriptionFr": "Douglas Engelbart a présenté ce qui est devenu connu sous le nom de 'La Mère de Toutes les Démonstrations', dévoilant publiquement la souris d'ordinateur, l'hypertexte et l'interface utilisateur graphique bitmap à l'aide du système oN-Line (NLS).",
     "eventDescriptionDe": "Douglas Engelbart hielt die als 'Mutter aller Demos' bekannte Präsentation, bei der er die Computermaus, Hypertext und die bitgemappte grafische Benutzeroberfläche mithilfe des oN-Line Systems (NLS) vorstellte.",
     "eventDescriptionEs": "Douglas Engelbart realizó lo que se conoció como 'La Madre de Todas las Demos', presentando públicamente el ratón de computadora, el hipertexto y la interfaz gráfica de usuario basada en bits usando el sistema oN-Line (NLS).",
     "eventDescriptionIt": "Douglas Engelbart presentò quella che divenne nota come 'La Madre di Tutte le Dimostrazioni', introducendo pubblicamente il mouse del computer, l'ipertesto e l'interfaccia grafica utente bitmap utilizzando il sistema oN-Line (NLS)."
+},{
+    "eventId": "1092",
+    "eventCategory": "PEOPLE",
+    "eventDate": "1948/12/09",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The Genocide Convention was adopted by the United Nations General Assembly, establishing genocide as a crime under international law.",
+    "eventDescriptionTr": "Birleşmiş Milletler Genel Kurulu tarafından Soykırım Sözleşmesi kabul edildi ve soykırım uluslararası hukuk kapsamında bir suç olarak tanımlandı.",
+    "eventDescriptionFr": "La Convention sur le génocide a été adoptée par l'Assemblée générale des Nations Unies, établissant le génocide comme un crime en vertu du droit international.",
+    "eventDescriptionDe": "Die Völkermordkonvention wurde von der Generalversammlung der Vereinten Nationen verabschiedet, die Völkermord als Verbrechen nach internationalem Recht festlegt.",
+    "eventDescriptionEs": "La Convención sobre el Genocidio fue adoptada por la Asamblea General de las Naciones Unidas, estableciendo el genocidio como un crimen bajo el derecho internacional.",
+    "eventDescriptionIt": "La Convenzione sul Genocidio è stata adottata dall'Assemblea Generale delle Nazioni Unite, stabilendo il genocidio come crimine secondo il diritto internazionale."
 }
+
 
 
 
