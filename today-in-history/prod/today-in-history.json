@@ -12890,7 +12890,20 @@
             "eventDescriptionDe": "SpaceShipOne, gesteuert von Brian Binnie, absolvierte seinen ersten angetriebenen und ersten Überschallflug und markierte einen Meilenstein in der privaten Weltraumforschung.",
             "eventDescriptionEs": "SpaceShipOne, pilotado por Brian Binnie, realizó su primer vuelo propulsado y su primer vuelo supersónico, marcando un hito en la exploración espacial privada.",
             "eventDescriptionIt": "SpaceShipOne, pilotato da Brian Binnie, ha effettuato il suo primo volo motorizzato e il primo volo supersonico, segnando una pietra miliare nell'esplorazione spaziale privata."
+        },{
+            "eventId": "1102",
+            "eventCategory": "SPORT",
+            "eventDate": "2022/12/18",
+            "eventImg": "",
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "Argentina won the 2022 FIFA World Cup final, defeating title holders France 4–2 on penalties after a 3–3 draw following extra time.",
+            "eventDescriptionTr": "Arjantin, 2022 FIFA Dünya Kupası finalini, uzatmalar sonrasında 3-3 biten maçın ardından penaltılarda Fransa'yı 4-2 yenerek kazandı.",
+            "eventDescriptionFr": "L'Argentine a remporté la finale de la Coupe du Monde de la FIFA 2022, battant la France, tenante du titre, 4-2 aux tirs au but après un match nul 3-3 après prolongations.",
+            "eventDescriptionDe": "Argentinien gewann das Finale der FIFA-Weltmeisterschaft 2022, indem es Titelverteidiger Frankreich nach einem 3:3-Unentschieden nach Verlängerung im Elfmeterschießen mit 4:2 besiegte.",
+            "eventDescriptionEs": "Argentina ganó la final de la Copa Mundial de la FIFA 2022, derrotando a los campeones defensores Francia 4-2 en penales después de un empate 3-3 tras la prórroga.",
+            "eventDescriptionIt": "L'Argentina ha vinto la finale della Coppa del Mondo FIFA 2022, sconfiggendo i campioni in carica della Francia 4-2 ai rigori dopo un pareggio di 3-3 dopo i tempi supplementari."
         }
+        
         
         
         
