@@ -12830,7 +12830,20 @@
             "eventDescriptionDe": "Zweiter Weltkrieg: Die Exilregierung Polens sandte die Raczyński-Note, den ersten offiziellen Bericht über den Holocaust, an 26 Regierungen, die die Erklärung der Vereinten Nationen unterzeichnet hatten.",
             "eventDescriptionEs": "Segunda Guerra Mundial: El Gobierno de Polonia en el exilio envió la Nota de Raczyński, el primer informe oficial sobre el Holocausto, a 26 gobiernos que firmaron la Declaración de las Naciones Unidas.",
             "eventDescriptionIt": "Seconda Guerra Mondiale: Il governo polacco in esilio inviò la Nota di Raczyński, il primo rapporto ufficiale sull'Olocausto, a 26 governi firmatari della Dichiarazione delle Nazioni Unite."
+        },{
+            "eventId": "1097",
+            "eventCategory": "HISTORY",
+            "eventDate": "1964/12/10",
+            "eventImg": "",
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "Martin Luther King Jr. was awarded the Nobel Peace Prize for his nonviolent struggle for civil rights for the African-American community.",
+            "eventDescriptionTr": "Martin Luther King Jr., Afro-Amerikan topluluğunun sivil hakları için yürüttüğü şiddet içermeyen mücadelesi nedeniyle Nobel Barış Ödülü'nü aldı.",
+            "eventDescriptionFr": "Martin Luther King Jr. a reçu le prix Nobel de la paix pour sa lutte non-violente en faveur des droits civiques de la communauté afro-américaine.",
+            "eventDescriptionDe": "Martin Luther King Jr. wurde mit dem Friedensnobelpreis für seinen gewaltfreien Kampf für die Bürgerrechte der afroamerikanischen Gemeinschaft ausgezeichnet.",
+            "eventDescriptionEs": "Martin Luther King Jr. recibió el Premio Nobel de la Paz por su lucha no violenta por los derechos civiles de la comunidad afroamericana.",
+            "eventDescriptionIt": "Martin Luther King Jr. è stato insignito del Premio Nobel per la Pace per la sua lotta non violenta per i diritti civili della comunità afroamericana."
         }
+        
         
         
         
