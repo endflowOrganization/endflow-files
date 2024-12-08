@@ -12914,7 +12914,21 @@
             "eventDescriptionDe": "Das Project SCORE, der weltweit erste Kommunikationssatellit, wurde gestartet und markierte den Beginn der satellitengestützten globalen Kommunikation.",
             "eventDescriptionEs": "El Proyecto SCORE, el primer satélite de comunicaciones del mundo, fue lanzado, marcando el inicio de las comunicaciones globales basadas en satélites.",
             "eventDescriptionIt": "Il Progetto SCORE, il primo satellite per le comunicazioni al mondo, è stato lanciato, segnando l'inizio delle comunicazioni globali basate sui satelliti."
+        },
+        {
+            "eventId": "1104",
+            "eventCategory": "HISTORY",
+            "eventDate": "1946/12/11",
+            "eventImg": "",
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "The United Nations International Children's Emergency Fund (UNICEF) was established to provide emergency assistance to children affected by World War II and to promote the welfare of children worldwide.",
+            "eventDescriptionTr": "Birleşmiş Milletler Çocuklara Yardım Fonu (UNICEF), II. Dünya Savaşı'ndan etkilenen çocuklara acil yardım sağlamak ve dünya genelinde çocukların refahını artırmak amacıyla kuruldu.",
+            "eventDescriptionFr": "Le Fonds international des Nations unies pour l'enfance (UNICEF) a été créé pour fournir une aide d'urgence aux enfants affectés par la Seconde Guerre mondiale et promouvoir le bien-être des enfants dans le monde entier.",
+            "eventDescriptionDe": "Das Kinderhilfswerk der Vereinten Nationen (UNICEF) wurde gegründet, um Kindern, die vom Zweiten Weltkrieg betroffen waren, Nothilfe zu leisten und das Wohl der Kinder weltweit zu fördern.",
+            "eventDescriptionEs": "El Fondo Internacional de Emergencia para la Infancia de las Naciones Unidas (UNICEF) fue establecido para brindar asistencia de emergencia a los niños afectados por la Segunda Guerra Mundial y promover el bienestar de los niños en todo el mundo.",
+            "eventDescriptionIt": "Il Fondo internazionale di emergenza per l'infanzia delle Nazioni Unite (UNICEF) è stato istituito per fornire assistenza di emergenza ai bambini colpiti dalla Seconda Guerra Mondiale e promuovere il benessere dei bambini in tutto il mondo."
         }
+        
         
         
         
