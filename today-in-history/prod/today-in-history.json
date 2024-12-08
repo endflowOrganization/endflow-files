@@ -12854,7 +12854,20 @@
             "eventDescriptionDe": "Japans größter Raubüberfall, der noch ungelöste '300 Millionen Yen Raub', wurde in Tokio verübt. Ein Mann, der als Polizist verkleidet war, stahl 300 Millionen Yen aus einem Bankfahrzeug.",
             "eventDescriptionEs": "El mayor atraco de Japón, el 'robo de los 300 millones de yenes', aún sin resolver, se llevó a cabo en Tokio. Un hombre disfrazado de policía robó 300 millones de yenes de un vehículo bancario.",
             "eventDescriptionIt": "La più grande rapina del Giappone, la 'rapina da 300 milioni di yen', ancora irrisolta, fu compiuta a Tokyo. Un uomo travestito da poliziotto rubò 300 milioni di yen da un veicolo bancario."
+        },{
+            "eventId": "1099",
+            "eventCategory": "HISTORY",
+            "eventDate": "1971/12/16",
+            "eventImg": "",
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "The United Kingdom recognized Bahrain's independence, which is commemorated annually as Bahrain's National Day.",
+            "eventDescriptionTr": "Birleşik Krallık, Bahreyn'in bağımsızlığını tanıdı. Bu olay, her yıl Bahreyn Milli Günü olarak kutlanmaktadır.",
+            "eventDescriptionFr": "Le Royaume-Uni a reconnu l'indépendance de Bahreïn, qui est commémorée chaque année comme la Journée nationale de Bahreïn.",
+            "eventDescriptionDe": "Das Vereinigte Königreich erkannte die Unabhängigkeit Bahrains an, die jährlich als Bahrains Nationalfeiertag gefeiert wird.",
+            "eventDescriptionEs": "El Reino Unido reconoció la independencia de Baréin, que se conmemora anualmente como el Día Nacional de Baréin.",
+            "eventDescriptionIt": "Il Regno Unito ha riconosciuto l'indipendenza del Bahrein, che viene commemorata ogni anno come Giornata Nazionale del Bahrein."
         }
+        
         
         
         
