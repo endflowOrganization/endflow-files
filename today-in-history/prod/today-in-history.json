@@ -12806,7 +12806,20 @@
             "eventDescriptionDe": "Die erste Nobelpreisverleihung fand in Stockholm am fünften Todestag von Alfred Nobel statt.",
             "eventDescriptionEs": "La primera ceremonia de entrega del Premio Nobel se celebró en Estocolmo en el quinto aniversario de la muerte de Alfred Nobel.",
             "eventDescriptionIt": "La prima cerimonia di premiazione del Nobel si tenne a Stoccolma nel quinto anniversario della morte di Alfred Nobel."
+        },{
+            "eventId": "1095",
+            "eventCategory": "HISTORY",
+            "eventDate": "1948/12/10",
+            "eventImg": "",
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "The Universal Declaration of Human Rights was adopted by the United Nations General Assembly, affirming fundamental human rights for all.",
+            "eventDescriptionTr": "Birleşmiş Milletler Genel Kurulu tarafından İnsan Hakları Evrensel Beyannamesi kabul edilerek, tüm insanlar için temel insan hakları onaylandı.",
+            "eventDescriptionFr": "La Déclaration universelle des droits de l'homme a été adoptée par l'Assemblée générale des Nations Unies, affirmant les droits fondamentaux de tous les êtres humains.",
+            "eventDescriptionDe": "Die Allgemeine Erklärung der Menschenrechte wurde von der Generalversammlung der Vereinten Nationen verabschiedet und bestätigt grundlegende Menschenrechte für alle.",
+            "eventDescriptionEs": "La Declaración Universal de los Derechos Humanos fue adoptada por la Asamblea General de las Naciones Unidas, afirmando los derechos humanos fundamentales para todos.",
+            "eventDescriptionIt": "La Dichiarazione Universale dei Diritti Umani è stata adottata dall'Assemblea Generale delle Nazioni Unite, affermando i diritti umani fondamentali per tutti."
         }
+        
         
     ]
 }
