@@ -12902,7 +12902,20 @@
             "eventDescriptionDe": "Argentinien gewann das Finale der FIFA-Weltmeisterschaft 2022, indem es Titelverteidiger Frankreich nach einem 3:3-Unentschieden nach Verlängerung im Elfmeterschießen mit 4:2 besiegte.",
             "eventDescriptionEs": "Argentina ganó la final de la Copa Mundial de la FIFA 2022, derrotando a los campeones defensores Francia 4-2 en penales después de un empate 3-3 tras la prórroga.",
             "eventDescriptionIt": "L'Argentina ha vinto la finale della Coppa del Mondo FIFA 2022, sconfiggendo i campioni in carica della Francia 4-2 ai rigori dopo un pareggio di 3-3 dopo i tempi supplementari."
+        },{
+            "eventId": "1103",
+            "eventCategory": "TECH",
+            "eventDate": "1958/12/18",
+            "eventImg": "",
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "Project SCORE, the world's first communications satellite, was launched, marking the beginning of satellite-based global communication.",
+            "eventDescriptionTr": "Dünyanın ilk iletişim uydusu olan Project SCORE fırlatıldı ve uydu tabanlı küresel iletişimin başlangıcını işaret etti.",
+            "eventDescriptionFr": "Le Project SCORE, le premier satellite de communication au monde, a été lancé, marquant le début des communications mondiales basées sur les satellites.",
+            "eventDescriptionDe": "Das Project SCORE, der weltweit erste Kommunikationssatellit, wurde gestartet und markierte den Beginn der satellitengestützten globalen Kommunikation.",
+            "eventDescriptionEs": "El Proyecto SCORE, el primer satélite de comunicaciones del mundo, fue lanzado, marcando el inicio de las comunicaciones globales basadas en satélites.",
+            "eventDescriptionIt": "Il Progetto SCORE, il primo satellite per le comunicazioni al mondo, è stato lanciato, segnando l'inizio delle comunicazioni globali basate sui satelliti."
         }
+        
         
         
         
