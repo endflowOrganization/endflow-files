@@ -12878,7 +12878,20 @@
             "eventDescriptionDe": "Die erste Ausgabe des Magazins Vogue wurde in den Vereinigten Staaten veröffentlicht und markiert den Beginn einer der einflussreichsten Modepublikationen der Welt.",
             "eventDescriptionEs": "La primera edición de la revista Vogue se publicó en los Estados Unidos, marcando el inicio de una de las publicaciones de moda más influyentes del mundo.",
             "eventDescriptionIt": "Il primo numero della rivista Vogue è stato pubblicato negli Stati Uniti, segnando l'inizio di una delle pubblicazioni di moda più influenti al mondo."
+        },{
+            "eventId": "1101",
+            "eventCategory": "SCIENCE",
+            "eventDate": "2003/12/17",
+            "eventImg": "",
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "SpaceShipOne, piloted by Brian Binnie, made its first powered and first supersonic flight, marking a milestone in private space exploration.",
+            "eventDescriptionTr": "Brian Binnie tarafından pilotluğu yapılan SpaceShipOne, ilk motorlu ve ilk ses üstü uçuşunu gerçekleştirdi. Bu, özel uzay keşfi alanında bir dönüm noktası oldu.",
+            "eventDescriptionFr": "SpaceShipOne, piloté par Brian Binnie, a effectué son premier vol propulsé et son premier vol supersonique, marquant une étape importante dans l'exploration spatiale privée.",
+            "eventDescriptionDe": "SpaceShipOne, gesteuert von Brian Binnie, absolvierte seinen ersten angetriebenen und ersten Überschallflug und markierte einen Meilenstein in der privaten Weltraumforschung.",
+            "eventDescriptionEs": "SpaceShipOne, pilotado por Brian Binnie, realizó su primer vuelo propulsado y su primer vuelo supersónico, marcando un hito en la exploración espacial privada.",
+            "eventDescriptionIt": "SpaceShipOne, pilotato da Brian Binnie, ha effettuato il suo primo volo motorizzato e il primo volo supersonico, segnando una pietra miliare nell'esplorazione spaziale privata."
         }
+        
         
         
         
