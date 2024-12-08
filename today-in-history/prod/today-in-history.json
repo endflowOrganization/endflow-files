@@ -12818,7 +12818,20 @@
             "eventDescriptionDe": "Die Allgemeine Erklärung der Menschenrechte wurde von der Generalversammlung der Vereinten Nationen verabschiedet und bestätigt grundlegende Menschenrechte für alle.",
             "eventDescriptionEs": "La Declaración Universal de los Derechos Humanos fue adoptada por la Asamblea General de las Naciones Unidas, afirmando los derechos humanos fundamentales para todos.",
             "eventDescriptionIt": "La Dichiarazione Universale dei Diritti Umani è stata adottata dall'Assemblea Generale delle Nazioni Unite, affermando i diritti umani fondamentali per tutti."
+        },{
+            "eventId": "1096",
+            "eventCategory": "HISTORY",
+            "eventDate": "1942/12/10",
+            "eventImg": "",
+            "eventRegion": "ALL",
+            "eventDescriptionEn": "World War II: The Government of Poland in exile sent Raczyński's Note, the first official report on the Holocaust, to 26 governments who signed the Declaration by United Nations.",
+            "eventDescriptionTr": "II. Dünya Savaşı: Sürgündeki Polonya Hükûmeti, Holokost hakkında ilk resmi rapor olan Raczyński Notası'nı Birleşmiş Milletler Bildirgesi'ni imzalayan 26 hükümete gönderdi.",
+            "eventDescriptionFr": "Seconde Guerre mondiale : Le gouvernement polonais en exil a envoyé la Note de Raczyński, le premier rapport officiel sur l'Holocauste, à 26 gouvernements signataires de la Déclaration des Nations Unies.",
+            "eventDescriptionDe": "Zweiter Weltkrieg: Die Exilregierung Polens sandte die Raczyński-Note, den ersten offiziellen Bericht über den Holocaust, an 26 Regierungen, die die Erklärung der Vereinten Nationen unterzeichnet hatten.",
+            "eventDescriptionEs": "Segunda Guerra Mundial: El Gobierno de Polonia en el exilio envió la Nota de Raczyński, el primer informe oficial sobre el Holocausto, a 26 gobiernos que firmaron la Declaración de las Naciones Unidas.",
+            "eventDescriptionIt": "Seconda Guerra Mondiale: Il governo polacco in esilio inviò la Nota di Raczyński, il primo rapporto ufficiale sull'Olocausto, a 26 governi firmatari della Dichiarazione delle Nazioni Unite."
         }
+        
         
         
     ]
