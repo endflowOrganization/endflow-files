@@ -23,5 +23,18 @@
     "eventDescriptionDe": "Der niederländische Formel-1-Rennfahrer Max Verstappen gewinnt den umstrittenen Großen Preis von Abu Dhabi 2021, schlägt den siebenfachen Weltmeister Lewis Hamilton und wird der erste Formel-1-Weltmeister aus den Niederlanden.",
     "eventDescriptionEs": "El piloto neerlandés de Fórmula Uno Max Verstappen gana el controvertido Gran Premio de Abu Dabi de 2021, venciendo al siete veces campeón mundial Lewis Hamilton y convirtiéndose en el primer campeón mundial de Fórmula Uno de los Países Bajos.",
     "eventDescriptionIt": "Il pilota olandese di Formula 1 Max Verstappen vince il controverso Gran Premio di Abu Dhabi 2021, battendo il sette volte campione del mondo Lewis Hamilton e diventando il primo campione del mondo di Formula 1 dei Paesi Bassi."
+},{
+    "eventId": "1107",
+    "eventCategory": "HISTORY",
+    "eventDate": "1963/12/12",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Kenya declares independence from Great Britain.",
+    "eventDescriptionTr": "Kenya, Büyük Britanya'dan bağımsızlığını ilan etti.",
+    "eventDescriptionFr": "Le Kenya déclare son indépendance de la Grande-Bretagne.",
+    "eventDescriptionDe": "Kenia erklärt seine Unabhängigkeit von Großbritannien.",
+    "eventDescriptionEs": "Kenia declara su independencia de Gran Bretaña.",
+    "eventDescriptionIt": "Il Kenya dichiara l'indipendenza dalla Gran Bretagna."
 }
+
 ]}
