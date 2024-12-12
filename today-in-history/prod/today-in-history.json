@@ -35,6 +35,19 @@
     "eventDescriptionDe": "Kenia erklärt seine Unabhängigkeit von Großbritannien.",
     "eventDescriptionEs": "Kenia declara su independencia de Gran Bretaña.",
     "eventDescriptionIt": "Il Kenya dichiara l'indipendenza dalla Gran Bretagna."
+},{
+    "eventId": "1108",
+    "eventCategory": "HISTORY",
+    "eventDate": "2003/12/13",
+    "eventImg": "",
+    "eventRegion": "IRAQ",
+    "eventDescriptionEn": "U.S. military forces captured the deposed Iraqi President Saddam Hussein at his hiding place in Iraq.",
+    "eventDescriptionTr": "ABD askerî güçleri devrik Irak Devlet Başkanı Saddam Hüseyin'i, Irak'ta saklandığı yerde yakaladı.",
+    "eventDescriptionFr": "Les forces militaires américaines ont capturé le président irakien déchu Saddam Hussein dans sa cachette en Irak.",
+    "eventDescriptionDe": "US-Streitkräfte nahmen den gestürzten irakischen Präsidenten Saddam Hussein an seinem Versteck im Irak fest.",
+    "eventDescriptionEs": "Las fuerzas militares de los Estados Unidos capturaron al depuesto presidente iraquí Saddam Hussein en su escondite en Irak.",
+    "eventDescriptionIt": "Le forze militari statunitensi hanno catturato il deposto presidente iracheno Saddam Hussein nel suo nascondiglio in Iraq."
 }
+
 
 ]}
