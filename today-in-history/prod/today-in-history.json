@@ -71,7 +71,20 @@
     "eventDescriptionDe": "Das osmanische Panzerschiff Mesudiye wurde in den Dardanellen vom britischen U-Boot HMS B11 versenkt.",
     "eventDescriptionEs": "El acorazado otomano Mesudiye fue hundido en los Dardanelos por el submarino británico HMS B11.",
     "eventDescriptionIt": "La corazzata ottomana Mesudiye fu affondata nei Dardanelli dal sottomarino britannico HMS B11."
+},{
+    "eventId": "1111",
+    "eventCategory": "POLITICS",
+    "eventDate": "1959/12/13",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Archbishop Makarios III becomes the first President of Cyprus.",
+    "eventDescriptionTr": "Başpiskopos Makarios III, Kıbrıs'ın ilk Cumhurbaşkanı oldu.",
+    "eventDescriptionFr": "L'archevêque Makarios III devient le premier président de Chypre.",
+    "eventDescriptionDe": "Erzbischof Makarios III wird der erste Präsident von Zypern.",
+    "eventDescriptionEs": "El arzobispo Makarios III se convierte en el primer presidente de Chipre.",
+    "eventDescriptionIt": "L'arcivescovo Makarios III diventa il primo presidente di Cipro."
 }
+
 
 
 
