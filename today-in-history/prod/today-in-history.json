@@ -59,7 +59,20 @@
     "eventDescriptionDe": "Malta wird eine Republik innerhalb des Commonwealth of Nations.",
     "eventDescriptionEs": "Malta se convierte en una república dentro de la Commonwealth of Nations.",
     "eventDescriptionIt": "Malta diventa una repubblica all'interno del Commonwealth delle Nazioni."
+},{
+    "eventId": "1110",
+    "eventCategory": "HISTORY",
+    "eventDate": "1914/12/13",
+    "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/december%2Fmesudiye-zirhlisi.jpg?alt=media&token=3ca4b969-717d-4f89-a094-70908de3b11d",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "The Ottoman armored ship Mesudiye was sunk in the Dardanelles by the British submarine HMS B11.",
+    "eventDescriptionTr": "Mesudiye Zırhlısı, Çanakkale'de İngiliz denizaltısı HMS B11 tarafından batırıldı.",
+    "eventDescriptionFr": "Le cuirassé ottoman Mesudiye a été coulé dans les Dardanelles par le sous-marin britannique HMS B11.",
+    "eventDescriptionDe": "Das osmanische Panzerschiff Mesudiye wurde in den Dardanellen vom britischen U-Boot HMS B11 versenkt.",
+    "eventDescriptionEs": "El acorazado otomano Mesudiye fue hundido en los Dardanelos por el submarino británico HMS B11.",
+    "eventDescriptionIt": "La corazzata ottomana Mesudiye fu affondata nei Dardanelli dal sottomarino britannico HMS B11."
 }
+
 
 
 
