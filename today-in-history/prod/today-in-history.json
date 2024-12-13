@@ -47,7 +47,20 @@
     "eventDescriptionDe": "US-Streitkräfte nahmen den gestürzten irakischen Präsidenten Saddam Hussein an seinem Versteck im Irak fest.",
     "eventDescriptionEs": "Las fuerzas militares de los Estados Unidos capturaron al depuesto presidente iraquí Saddam Hussein en su escondite en Irak.",
     "eventDescriptionIt": "Le forze militari statunitensi hanno catturato il deposto presidente iracheno Saddam Hussein nel suo nascondiglio in Iraq."
+},{
+    "eventId": "1109",
+    "eventCategory": "HISTORY",
+    "eventDate": "1974/12/13",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Malta becomes a republic within the Commonwealth of Nations.",
+    "eventDescriptionTr": "Malta, Milletler Topluluğu içinde bir cumhuriyet oldu.",
+    "eventDescriptionFr": "Malte devient une république au sein du Commonwealth des Nations.",
+    "eventDescriptionDe": "Malta wird eine Republik innerhalb des Commonwealth of Nations.",
+    "eventDescriptionEs": "Malta se convierte en una república dentro de la Commonwealth of Nations.",
+    "eventDescriptionIt": "Malta diventa una repubblica all'interno del Commonwealth delle Nazioni."
 }
+
 
 
 ]}
