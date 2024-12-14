@@ -95,7 +95,20 @@
     "eventDescriptionDe": "Die sowjetische Raumsonde Venera 7 landete erfolgreich auf der Venus. Es war die erste erfolgreiche weiche Landung auf einem anderen Planeten.",
     "eventDescriptionEs": "La nave espacial soviética Venera 7 aterriza con éxito en Venus. Es el primer aterrizaje suave exitoso en otro planeta.",
     "eventDescriptionIt": "La sonda sovietica Venera 7 atterra con successo su Venere. È il primo atterraggio morbido riuscito su un altro pianeta."
+},{
+    "eventId": "1113",
+    "eventCategory": "TECH",
+    "eventDate": "1871/01/15",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Sixteen-year-old telegraphist Ella Stewart keys and sends the first telegraphed message from Arizona Territory at the Deseret Telegraph Company office in Pipe Spring.",
+    "eventDescriptionTr": "On altı yaşındaki telgrafçı Ella Stewart, Pipe Spring'deki Deseret Telgraf Şirketi ofisinden Arizona Bölgesi'nden gönderilen ilk telgraf mesajını tuşlayarak gönderdi.",
+    "eventDescriptionFr": "Ella Stewart, une télégraphiste de seize ans, compose et envoie le premier message télégraphié depuis le territoire de l'Arizona au bureau de la Deseret Telegraph Company à Pipe Spring.",
+    "eventDescriptionDe": "Die sechzehnjährige Telegrafistin Ella Stewart tippt und sendet die erste Telegrafenbotschaft aus dem Arizona-Territorium im Büro der Deseret Telegraph Company in Pipe Spring.",
+    "eventDescriptionEs": "Ella Stewart, una telegrafista de dieciséis años, envía el primer mensaje telegráfico desde el Territorio de Arizona en la oficina de Deseret Telegraph Company en Pipe Spring.",
+    "eventDescriptionIt": "La sedicenne telegrafista Ella Stewart scrive e invia il primo messaggio telegrafico dal Territorio dell'Arizona presso l'ufficio della Deseret Telegraph Company a Pipe Spring."
 }
+
 
 
 
