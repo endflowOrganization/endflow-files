@@ -83,7 +83,20 @@
     "eventDescriptionDe": "Erzbischof Makarios III wird der erste Präsident von Zypern.",
     "eventDescriptionEs": "El arzobispo Makarios III se convierte en el primer presidente de Chipre.",
     "eventDescriptionIt": "L'arcivescovo Makarios III diventa il primo presidente di Cipro."
+},{
+    "eventId": "1112",
+    "eventCategory": "SCIENCE",
+    "eventDate": "1970/12/15",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Soviet spacecraft Venera 7 successfully lands on Venus. It is the first successful soft landing on another planet.",
+    "eventDescriptionTr": "Sovyet uzay aracı Venera 7, Venüs'e başarıyla iniş yaptı. Bu, başka bir gezegene yapılan ilk başarılı yumuşak iniş oldu.",
+    "eventDescriptionFr": "La sonde soviétique Venera 7 atterrit avec succès sur Vénus. C'est le premier atterrissage en douceur réussi sur une autre planète.",
+    "eventDescriptionDe": "Die sowjetische Raumsonde Venera 7 landete erfolgreich auf der Venus. Es war die erste erfolgreiche weiche Landung auf einem anderen Planeten.",
+    "eventDescriptionEs": "La nave espacial soviética Venera 7 aterriza con éxito en Venus. Es el primer aterrizaje suave exitoso en otro planeta.",
+    "eventDescriptionIt": "La sonda sovietica Venera 7 atterra con successo su Venere. È il primo atterraggio morbido riuscito su un altro pianeta."
 }
+
 
 
 
