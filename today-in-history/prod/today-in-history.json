@@ -119,7 +119,20 @@
     "eventDescriptionDe": "Der Hunkpapa-Lakota-Anführer Sitting Bull wird im Standing Rock Indianerreservat getötet, was zum Massaker von Wounded Knee führte.",
     "eventDescriptionEs": "El líder Hunkpapa Lakota, Toro Sentado, es asesinado en la Reserva India de Standing Rock, lo que llevó a la Masacre de Wounded Knee.",
     "eventDescriptionIt": "Il capo Hunkpapa Lakota, Toro Seduto, viene ucciso nella riserva indiana di Standing Rock, portando al massacro di Wounded Knee."
+},{
+    "eventId": "1115",
+    "eventCategory": "POLITICS",
+    "eventDate": "1991/12/16",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Kazakhstan declares independence from the Soviet Union.",
+    "eventDescriptionTr": "Kazakistan, Sovyetler Birliği'nden ayrılarak bağımsızlığını ilan etti.",
+    "eventDescriptionFr": "Le Kazakhstan déclare son indépendance de l'Union soviétique.",
+    "eventDescriptionDe": "Kasachstan erklärt seine Unabhängigkeit von der Sowjetunion.",
+    "eventDescriptionEs": "Kazajistán declara su independencia de la Unión Soviética.",
+    "eventDescriptionIt": "Il Kazakistan dichiara l'indipendenza dall'Unione Sovietica."
 }
+
 
 
 
