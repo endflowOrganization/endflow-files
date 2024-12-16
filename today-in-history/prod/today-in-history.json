@@ -143,7 +143,20 @@
     "eventDescriptionDe": "Osman Hamdi Beys Gemälde 'Der Schildkrötenerzieher' wurde für einen Rekordpreis von 1,75 Milliarden Lira verkauft.",
     "eventDescriptionEs": "La pintura 'El entrenador de tortugas' de Osman Hamdi Bey se vendió por un precio récord de 1,75 mil millones de liras.",
     "eventDescriptionIt": "Il dipinto 'L'addestratore di tartarughe' di Osman Hamdi Bey è stato venduto per un prezzo record di 1,75 miliardi di lire."
+},{
+    "eventId": "1117",
+    "eventCategory": "HISTORY",
+    "eventDate": "1989/12/17",
+    "eventImg": "https://firebasestorage.googleapis.com/v0/b/today-from-history-5f9f6.appspot.com/o/december%2Fthe-simpsons.png?alt=media&token=81c5dbf6-70a3-4ad0-b2bb-23adc61598f7",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The American animated television sitcom The Simpsons premiered as a half-hour prime time show on FOX.",
+    "eventDescriptionTr": "Amerikan animasyon televizyon durum komedisi Simpsonlar, yarım saatlik altın saatler şovu olarak FOX'ta yayınlanmaya başlandı.",
+    "eventDescriptionFr": "La série télévisée d'animation américaine Les Simpson a été diffusée pour la première fois en tant que programme de prime time d'une demi-heure sur FOX.",
+    "eventDescriptionDe": "Die amerikanische animierte Fernseh-Sitcom Die Simpsons wurde als halbstündige Prime-Time-Show auf FOX ausgestrahlt.",
+    "eventDescriptionEs": "La serie animada de televisión estadounidense Los Simpson se estrenó como un programa de media hora en horario estelar en FOX.",
+    "eventDescriptionIt": "La sitcom animata americana I Simpson ha debuttato come spettacolo di prima serata di mezz'ora su FOX."
 }
+
 
 
 
