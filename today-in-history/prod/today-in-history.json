@@ -191,7 +191,20 @@
     "eventDescriptionDe": "Sabancı Holding-Vorstandsmitglied Özdemir Sabancı, Toyotasa-Generaldirektor Haluk Görgün und Sekretärin Nilgün Hasefe wurden im Sabancı Center erschossen. Die Organisation DHKP/C übernahm die Verantwortung für den Angriff.",
     "eventDescriptionEs": "El miembro de la junta de Sabancı Holding, Özdemir Sabancı, el director general de Toyotasa, Haluk Görgün, y la secretaria Nilgün Hasefe fueron asesinados a tiros en el Sabancı Center. La organización DHKP/C se atribuyó el ataque.",
     "eventDescriptionIt": "Il membro del consiglio di amministrazione della Sabancı Holding, Özdemir Sabancı, il direttore generale di Toyotasa, Haluk Görgün, e la segretaria Nilgün Hasefe sono stati uccisi a colpi di arma da fuoco al Sabancı Center. L'organizzazione DHKP/C ha rivendicato l'attacco."
+},{
+    "eventId": "1121",
+    "eventCategory": "FINANCE",
+    "eventDate": "1954/01/11",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "The establishment law of Türkiye Vakıflar Bankası was approved.",
+    "eventDescriptionTr": "Türkiye Vakıflar Bankası kuruluş kanunu kabul edildi.",
+    "eventDescriptionFr": "La loi de création de Türkiye Vakıflar Bankası a été approuvée.",
+    "eventDescriptionDe": "Das Gründungsgesetz der Türkiye Vakıflar Bankası wurde genehmigt.",
+    "eventDescriptionEs": "Se aprobó la ley de creación de Türkiye Vakıflar Bankası.",
+    "eventDescriptionIt": "La legge di istituzione della Türkiye Vakıflar Bankası è stata approvata."
 }
+
 
 
 
