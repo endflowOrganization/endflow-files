@@ -251,7 +251,33 @@
     "eventDescriptionDe": "Die National Geographic Society wird in Washington, D.C. gegründet.",
     "eventDescriptionEs": "La National Geographic Society se funda en Washington, D.C.",
     "eventDescriptionIt": "La National Geographic Society viene fondata a Washington, D.C."
+},{
+    "eventId": "1126",
+    "eventCategory": "HISTORY",
+    "eventDate": "1994/01/13",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "Başkent University was established.",
+    "eventDescriptionTr": "Başkent Üniversitesi kuruldu.",
+    "eventDescriptionFr": "L'Université Başkent a été fondée.",
+    "eventDescriptionDe": "Die Başkent-Universität wurde gegründet.",
+    "eventDescriptionEs": "La Universidad Başkent fue fundada.",
+    "eventDescriptionIt": "L'Università Başkent è stata fondata."
+},{
+    "eventId": "1127",
+    "eventCategory": "PEOPLE",
+    "eventDate": "1923/01/14",
+    "eventImg": "https://todayinhistory.life/img/january/zubeyde-hanim.jpg",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "Atatürk's mother, Zübeyde Hanım, passed away in İzmir.",
+    "eventDescriptionTr": "Atatürk'ün annesi Zübeyde Hanım, İzmir'de öldü.",
+    "eventDescriptionFr": "La mère d'Atatürk, Zübeyde Hanım, est décédée à Izmir.",
+    "eventDescriptionDe": "Die Mutter von Atatürk, Zübeyde Hanım, starb in Izmir.",
+    "eventDescriptionEs": "La madre de Atatürk, Zübeyde Hanım, falleció en Izmir.",
+    "eventDescriptionIt": "La madre di Atatürk, Zübeyde Hanım, è morta a İzmir."
 }
+
+
 
 
 
