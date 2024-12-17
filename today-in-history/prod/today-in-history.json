@@ -239,7 +239,20 @@
     "eventDescriptionDe": "Hattie Caraway wird die erste Frau, die in den Senat der Vereinigten Staaten gewählt wird.",
     "eventDescriptionEs": "Hattie Caraway se convierte en la primera mujer elegida para el Senado de los Estados Unidos.",
     "eventDescriptionIt": "Hattie Caraway diventa la prima donna eletta al Senato degli Stati Uniti."
+},{
+    "eventId": "1125",
+    "eventCategory": "SCIENCE",
+    "eventDate": "1888/01/27",
+    "eventImg": "",
+    "eventRegion": "All",
+    "eventDescriptionEn": "The National Geographic Society is founded in Washington, D.C.",
+    "eventDescriptionTr": "National Geographic Society, Washington, D.C.'de kuruldu.",
+    "eventDescriptionFr": "La National Geographic Society est fondée à Washington, D.C.",
+    "eventDescriptionDe": "Die National Geographic Society wird in Washington, D.C. gegründet.",
+    "eventDescriptionEs": "La National Geographic Society se funda en Washington, D.C.",
+    "eventDescriptionIt": "La National Geographic Society viene fondata a Washington, D.C."
 }
+
 
 
 
