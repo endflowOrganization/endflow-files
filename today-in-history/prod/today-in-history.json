@@ -203,7 +203,46 @@
     "eventDescriptionDe": "Das Gründungsgesetz der Türkiye Vakıflar Bankası wurde genehmigt.",
     "eventDescriptionEs": "Se aprobó la ley de creación de Türkiye Vakıflar Bankası.",
     "eventDescriptionIt": "La legge di istituzione della Türkiye Vakıflar Bankası è stata approvata."
+},{
+    "eventId": "1122",
+    "eventCategory": "HISTORY",
+    "eventDate": "1905/01/11",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "Mustafa Kemal graduated from the Military Academy as a Staff Captain.",
+    "eventDescriptionTr": "Mustafa Kemal Harp Akademisi'nden Kurmay Yüzbaşı olarak mezun oldu.",
+    "eventDescriptionFr": "Mustafa Kemal est diplômé de l'Académie militaire en tant que capitaine d'état-major.",
+    "eventDescriptionDe": "Mustafa Kemal absolvierte die Militärakademie als Stabskapitän.",
+    "eventDescriptionEs": "Mustafa Kemal se graduó de la Academia Militar como capitán de estado mayor.",
+    "eventDescriptionIt": "Mustafa Kemal si laureò presso l'Accademia Militare come Capitano di Stato Maggiore."
+},{
+    "eventId": "1123",
+    "eventCategory": "SCIENCE",
+    "eventDate": "1998/01/12",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Nineteen European nations agree to forbid human cloning.",
+    "eventDescriptionTr": "On dokuz Avrupa ülkesi insan klonlamayı yasaklama konusunda anlaştı.",
+    "eventDescriptionFr": "Dix-neuf nations européennes conviennent d'interdire le clonage humain.",
+    "eventDescriptionDe": "Neunzehn europäische Länder stimmen zu, das Klonen von Menschen zu verbieten.",
+    "eventDescriptionEs": "Diecinueve naciones europeas acuerdan prohibir la clonación humana.",
+    "eventDescriptionIt": "Diciannove nazioni europee concordano di vietare la clonazione umana."
+},{
+    "eventId": "1124",
+    "eventCategory": "POLITICS",
+    "eventDate": "1932/01/12",
+    "eventImg": "",
+    "eventRegion": "ALl",
+    "eventDescriptionEn": "Hattie Caraway becomes the first woman elected to the United States Senate.",
+    "eventDescriptionTr": "Hattie Caraway, Amerika Birleşik Devletleri Senatosu'na seçilen ilk kadın oldu.",
+    "eventDescriptionFr": "Hattie Caraway devient la première femme élue au Sénat des États-Unis.",
+    "eventDescriptionDe": "Hattie Caraway wird die erste Frau, die in den Senat der Vereinigten Staaten gewählt wird.",
+    "eventDescriptionEs": "Hattie Caraway se convierte en la primera mujer elegida para el Senado de los Estados Unidos.",
+    "eventDescriptionIt": "Hattie Caraway diventa la prima donna eletta al Senato degli Stati Uniti."
 }
+
+
+
 
 
 
