@@ -335,7 +335,20 @@
     "eventDescriptionDe": "Das World Wide Web Consortium (W3C) kündigte HTML 4.0 an, eine bedeutende Überarbeitung des HTML-Standards.",
     "eventDescriptionEs": "El Consorcio World Wide Web (W3C) anunció HTML 4.0, una importante revisión del estándar HTML.",
     "eventDescriptionIt": "Il World Wide Web Consortium (W3C) ha annunciato HTML 4.0, una revisione importante dello standard HTML."
+},{
+    "eventId": "1133",
+    "eventCategory": "SCIENCE",
+    "eventDate": "1966/12/18",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Saturn's moon Epimetheus is discovered by astronomer Richard Walker.",
+    "eventDescriptionTr": "Satürn'ün uydusu Epimetheus, astronom Richard Walker tarafından keşfedildi.",
+    "eventDescriptionFr": "La lune de Saturne, Épiméthée, est découverte par l'astronome Richard Walker.",
+    "eventDescriptionDe": "Der Saturnmond Epimetheus wird vom Astronomen Richard Walker entdeckt.",
+    "eventDescriptionEs": "La luna de Saturno, Epimeteo, es descubierta por el astrónomo Richard Walker.",
+    "eventDescriptionIt": "La luna di Saturno, Epimeteo, è scoperta dall'astronomo Richard Walker."
 }
+
 
 
 
