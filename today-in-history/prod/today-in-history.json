@@ -347,7 +347,20 @@
     "eventDescriptionDe": "Der Saturnmond Epimetheus wird vom Astronomen Richard Walker entdeckt.",
     "eventDescriptionEs": "La luna de Saturno, Epimeteo, es descubierta por el astrónomo Richard Walker.",
     "eventDescriptionIt": "La luna di Saturno, Epimeteo, è scoperta dall'astronomo Richard Walker."
+},{
+    "eventId": "1134",
+    "eventCategory": "HISTORY",
+    "eventDate": "1917/12/18",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "The Erzincan Armistice was signed between Russia and Turkey, marking the cessation of hostilities on the Eastern Front during World War I. The agreement followed the Russian October Revolution, which led to Russia's withdrawal from the war.",
+    "eventDescriptionTr": "Erzincan Ateşkes Antlaşması, I. Dünya Savaşı sırasında Türkiye ile Rusya arasında imzalanarak Doğu Cephesi'nde çatışmaların durmasını sağladı. Antlaşma, Rusya'nın savaştan çekilmesine yol açan Ekim Devrimi'nin ardından yapıldı.",
+    "eventDescriptionFr": "L'armistice d'Erzincan a été signé entre la Russie et la Turquie, marquant la fin des hostilités sur le front de l'Est pendant la Première Guerre mondiale. Cet accord a suivi la Révolution d'Octobre en Russie, qui a entraîné le retrait de la Russie de la guerre.",
+    "eventDescriptionDe": "Der Waffenstillstand von Erzincan wurde zwischen Russland und der Türkei unterzeichnet und markierte das Ende der Feindseligkeiten an der Ostfront während des Ersten Weltkriegs. Das Abkommen folgte auf die Russische Oktoberrevolution, die zum Rückzug Russlands aus dem Krieg führte.",
+    "eventDescriptionEs": "El armisticio de Erzincan fue firmado entre Rusia y Turquía, marcando el cese de hostilidades en el Frente Oriental durante la Primera Guerra Mundial. Este acuerdo siguió a la Revolución de Octubre en Rusia, que llevó a la retirada de Rusia de la guerra.",
+    "eventDescriptionIt": "L'armistizio di Erzincan fu firmato tra la Russia e la Turchia, segnando la cessazione delle ostilità sul Fronte Orientale durante la Prima Guerra Mondiale. L'accordo seguì la Rivoluzione d'Ottobre in Russia, che portò al ritiro della Russia dalla guerra."
 }
+
 
 
 
