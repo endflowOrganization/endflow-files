@@ -275,8 +275,60 @@
     "eventDescriptionDe": "Die Mutter von Atatürk, Zübeyde Hanım, starb in Izmir.",
     "eventDescriptionEs": "La madre de Atatürk, Zübeyde Hanım, falleció en Izmir.",
     "eventDescriptionIt": "La madre di Atatürk, Zübeyde Hanım, è morta a İzmir."
+},{
+    "eventId": "1128",
+    "eventCategory": "FINANCE",
+    "eventDate": "1995/01/01",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The World Trade Organization (WTO) comes into being.",
+    "eventDescriptionTr": "Dünya Ticaret Örgütü (DTÖ) kuruldu.",
+    "eventDescriptionFr": "L'Organisation mondiale du commerce (OMC) est créée.",
+    "eventDescriptionDe": "Die Welthandelsorganisation (WTO) wird gegründet.",
+    "eventDescriptionEs": "La Organización Mundial del Comercio (OMC) se crea.",
+    "eventDescriptionIt": "L'Organizzazione Mondiale del Commercio (OMC) viene istituita."
+},{
+    "eventId": "1129",
+    "eventCategory": "HISTORY",
+    "eventDate": "2017/01/01",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "A terrorist attack took place at the Reina nightclub in Istanbul, resulting in multiple casualties.",
+    "eventDescriptionTr": "İstanbul'da Reina gece kulübüne saldırı yapıldı, çok sayıda ölü ve yaralı oldu.",
+    "eventDescriptionFr": "Une attaque terroriste a eu lieu au nightclub Reina à Istanbul, faisant de nombreuses victimes.",
+    "eventDescriptionDe": "Ein Terroranschlag wurde im Reina-Nachtclub in Istanbul verübt, bei dem viele Opfer zu beklagen waren.",
+    "eventDescriptionEs": "Se produjo un ataque terrorista en el club nocturno Reina en Estambul, dejando múltiples víctimas.",
+    "eventDescriptionIt": "Un attacco terroristico ha avuto luogo al nightclub Reina a Istanbul, con numerose vittime."
+},{
+    "eventId": "1130",
+    "eventCategory": "FINANCE",
+    "eventDate": "2005/01/01",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "The Turkish lira (TL) lost six zeros, and the New Turkish Lira (YTL) was introduced into circulation.",
+    "eventDescriptionTr": "Türk lirası'ndan (TL) 6 sıfır atıldı ve Yeni Türk Lirası (YTL) tedavüle girdi.",
+    "eventDescriptionFr": "La livre turque (TL) a perdu six zéros et la Nouvelle livre turque (YTL) a été mise en circulation.",
+    "eventDescriptionDe": "Die türkische Lira (TL) verlor sechs Nullen und die Neue türkische Lira (YTL) wurde in Umlauf gebracht.",
+    "eventDescriptionEs": "La lira turca (TL) perdió seis ceros y la Nueva Lira Turca (YTL) fue puesta en circulación.",
+    "eventDescriptionIt": "La lira turca (TL) ha perso sei zeri e la Nuova Lira Turca (YTL) è stata messa in circolazione."
+},{
+    "eventId": "1131",
+    "eventCategory": "SCIENCE",
+    "eventDate": "2012/12/18",
+    "eventImg": "",
+    "eventRegion": "TURKEY",
+    "eventDescriptionEn": "The Turkish reconnaissance satellite Göktürk-2 was launched into space from the Jiuquan Launch Base in China.",
+    "eventDescriptionTr": "Türkiye'ye ait keşif uydusu Göktürk-2, Çin'deki Jiuquan Fırlatma Üssü'nden uzaya fırlatıldı.",
+    "eventDescriptionFr": "Le satellite de reconnaissance turc Göktürk-2 a été lancé dans l'espace depuis la base de lancement de Jiuquan en Chine.",
+    "eventDescriptionDe": "Der türkische Aufklärungssatellit Göktürk-2 wurde vom Jiuquan-Startplatz in China ins All gestartet.",
+    "eventDescriptionEs": "El satélite de reconocimiento turco Göktürk-2 fue lanzado al espacio desde la Base de Lanzamiento de Jiuquan en China.",
+    "eventDescriptionIt": "Il satellite di ricognizione turco Göktürk-2 è stato lanciato nello spazio dalla base di lancio di Jiuquan in Cina."
     
 }
+
+
+
+
 
 
 
