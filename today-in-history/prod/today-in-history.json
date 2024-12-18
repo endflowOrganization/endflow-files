@@ -316,15 +316,27 @@
     "eventCategory": "SCIENCE",
     "eventDate": "2012/12/18",
     "eventImg": "",
-    "eventRegion": "TURKEY",
+    "eventRegion": "TR",
     "eventDescriptionEn": "The Turkish reconnaissance satellite Göktürk-2 was launched into space from the Jiuquan Launch Base in China.",
     "eventDescriptionTr": "Türkiye'ye ait keşif uydusu Göktürk-2, Çin'deki Jiuquan Fırlatma Üssü'nden uzaya fırlatıldı.",
     "eventDescriptionFr": "Le satellite de reconnaissance turc Göktürk-2 a été lancé dans l'espace depuis la base de lancement de Jiuquan en Chine.",
     "eventDescriptionDe": "Der türkische Aufklärungssatellit Göktürk-2 wurde vom Jiuquan-Startplatz in China ins All gestartet.",
     "eventDescriptionEs": "El satélite de reconocimiento turco Göktürk-2 fue lanzado al espacio desde la Base de Lanzamiento de Jiuquan en China.",
     "eventDescriptionIt": "Il satellite di ricognizione turco Göktürk-2 è stato lanciato nello spazio dalla base di lancio di Jiuquan in Cina."
-    
+},{
+    "eventId": "1132",
+    "eventCategory": "TECH",
+    "eventDate": "1997/12/18",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The World Wide Web Consortium (W3C) announced HTML 4.0, a major revision of the HTML standard.",
+    "eventDescriptionTr": "Dünya İnternet Konsorsiyumu (World Wide Web Consortium - W3C), HTML 4.0'ı duyurdu.",
+    "eventDescriptionFr": "Le World Wide Web Consortium (W3C) a annoncé HTML 4.0, une révision majeure de la norme HTML.",
+    "eventDescriptionDe": "Das World Wide Web Consortium (W3C) kündigte HTML 4.0 an, eine bedeutende Überarbeitung des HTML-Standards.",
+    "eventDescriptionEs": "El Consorcio World Wide Web (W3C) anunció HTML 4.0, una importante revisión del estándar HTML.",
+    "eventDescriptionIt": "Il World Wide Web Consortium (W3C) ha annunciato HTML 4.0, una revisione importante dello standard HTML."
 }
+
 
 
 
