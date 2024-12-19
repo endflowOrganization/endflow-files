@@ -383,7 +383,20 @@
     "eventDescriptionDe": "Die Tscheka, die erste sowjetische Geheimpolizei, wird unter der Leitung von Felix Dserschinski gegründet. Sie war beauftragt, gegen konterrevolutionäre Aktivitäten und innere Bedrohungen in den frühen Jahren der Sowjetunion vorzugehen.",
     "eventDescriptionEs": "La Cheka, la primera fuerza policial secreta soviética, se funda bajo la dirección de Félix Dzerzhinski. Su misión era combatir actividades contrarrevolucionarias y amenazas internas durante los primeros años de la Unión Soviética.",
     "eventDescriptionIt": "La Cheka, la prima forza di polizia segreta sovietica, viene fondata sotto la guida di Felix Dzerzhinsky. Era incaricata di combattere le attività controrivoluzionarie e le minacce interne durante i primi anni dell'Unione Sovietica."
+},{
+    "eventId": "1137",
+    "eventCategory": "SCIENCE",
+    "eventDate": "1951/12/20",
+    "eventImg": "https://todayinhistory.life/img/december/ebr-1-reactor.jpeg",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The Experimental Breeder Reactor-1 (EBR-1), located in Arco, Idaho, becomes the first nuclear power plant to generate electricity. On this historic day, the plant successfully powered four electric light bulbs, marking a milestone in nuclear energy.",
+    "eventDescriptionTr": "Arco, Idaho'da bulunan Deneysel Üretici Reaktör-1 (EBR-1), elektrik üreten ilk nükleer santral oldu. Bu tarihi günde, santral dört elektrik ampulünü başarıyla çalıştırarak nükleer enerjide bir dönüm noktası oldu.",
+    "eventDescriptionFr": "L'Experimental Breeder Reactor-1 (EBR-1), situé à Arco, dans l'Idaho, devient la première centrale nucléaire à produire de l'électricité. Ce jour historique, la centrale a alimenté avec succès quatre ampoules électriques, marquant une étape importante dans l'énergie nucléaire.",
+    "eventDescriptionDe": "Der Experimental Breeder Reactor-1 (EBR-1) in Arco, Idaho, wird das erste Kernkraftwerk, das Strom erzeugt. An diesem historischen Tag betrieb das Kraftwerk erfolgreich vier Glühbirnen und markierte einen Meilenstein in der Kernenergie.",
+    "eventDescriptionEs": "El Reactor Experimental Breeder-1 (EBR-1), ubicado en Arco, Idaho, se convierte en la primera planta de energía nuclear en generar electricidad. En este día histórico, la planta iluminó con éxito cuatro bombillas, marcando un hito en la energía nuclear.",
+    "eventDescriptionIt": "L'Experimental Breeder Reactor-1 (EBR-1), situato ad Arco, Idaho, diventa la prima centrale nucleare a generare elettricità. In questo giorno storico, l'impianto alimentò con successo quattro lampadine elettriche, segnando una pietra miliare nell'energia nucleare."
 }
+
 
 
 
