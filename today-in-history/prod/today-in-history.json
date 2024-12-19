@@ -360,7 +360,7 @@
     "eventDescriptionEs": "El armisticio de Erzincan fue firmado entre Rusia y Turquía, marcando el cese de hostilidades en el Frente Oriental durante la Primera Guerra Mundial. Este acuerdo siguió a la Revolución de Octubre en Rusia, que llevó a la retirada de Rusia de la guerra.",
     "eventDescriptionIt": "L'armistizio di Erzincan fu firmato tra la Russia e la Turchia, segnando la cessazione delle ostilità sul Fronte Orientale durante la Prima Guerra Mondiale. L'accordo seguì la Rivoluzione d'Ottobre in Russia, che portò al ritiro della Russia dalla guerra."
 },{
-    "eventId": "1915",
+    "eventId": "1135",
     "eventCategory": "HISTORY",
     "eventDate": "1915/12/20",
     "eventImg": "",
@@ -371,7 +371,20 @@
     "eventDescriptionDe": "Erster Weltkrieg: Die letzten australischen und neuseeländischen Truppen werden von der Halbinsel Gallipoli evakuiert, womit die alliierte Kampagne in der Region endet. Die Evakuierung war eine erfolgreiche Operation mit minimalen Verlusten.",
     "eventDescriptionEs": "Primera Guerra Mundial: Las últimas tropas australianas y neozelandesas son evacuadas de la península de Gallipoli, poniendo fin a la campaña aliada en la región. La evacuación fue una operación exitosa con bajas mínimas.",
     "eventDescriptionIt": "Prima Guerra Mondiale: Le ultime truppe australiane e neozelandesi vengono evacuate dalla penisola di Gallipoli, ponendo fine alla campagna alleata nella regione. L'evacuazione fu un'operazione riuscita con perdite minime."
+},{
+    "eventId": "1136",
+    "eventCategory": "HISTORY",
+    "eventDate": "1917/12/20",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Cheka, the first Soviet secret police force, is established under the leadership of Felix Dzerzhinsky. It was tasked with combating counter-revolutionary activities and internal threats during the early years of the Soviet Union.",
+    "eventDescriptionTr": "Sovyetlerin ilk gizli polis teşkilatı olan Çeka, Felix Dzerzhinsky liderliğinde kuruldu. Sovyetler Birliği'nin ilk yıllarında karşı devrimci faaliyetlere ve iç tehditlere karşı mücadele etmekle görevlendirildi.",
+    "eventDescriptionFr": "La Tchéka, première police secrète soviétique, est fondée sous la direction de Félix Dzerjinski. Elle était chargée de lutter contre les activités contre-révolutionnaires et les menaces internes au cours des premières années de l'Union soviétique.",
+    "eventDescriptionDe": "Die Tscheka, die erste sowjetische Geheimpolizei, wird unter der Leitung von Felix Dserschinski gegründet. Sie war beauftragt, gegen konterrevolutionäre Aktivitäten und innere Bedrohungen in den frühen Jahren der Sowjetunion vorzugehen.",
+    "eventDescriptionEs": "La Cheka, la primera fuerza policial secreta soviética, se funda bajo la dirección de Félix Dzerzhinski. Su misión era combatir actividades contrarrevolucionarias y amenazas internas durante los primeros años de la Unión Soviética.",
+    "eventDescriptionIt": "La Cheka, la prima forza di polizia segreta sovietica, viene fondata sotto la guida di Felix Dzerzhinsky. Era incaricata di combattere le attività controrivoluzionarie e le minacce interne durante i primi anni dell'Unione Sovietica."
 }
+
 
 
 
