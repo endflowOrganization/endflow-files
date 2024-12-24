@@ -419,7 +419,20 @@
     "eventDescriptionDe": "Apollo-Programm: Die Besatzung von Apollo 8 wird die ersten Menschen, die in eine Mondumlaufbahn eintreten. Die Mission absolvierte zehn Mondumläufe, nahm das ikonische 'Earthrise'-Foto auf und übertrug Live-Fernsehbilder, die Millionen von Menschen auf der Erde Einblicke in die Mondoberfläche und die Erde gaben.",
     "eventDescriptionEs": "Programa Apollo: La tripulación del Apollo 8 se convierte en los primeros humanos en entrar en órbita alrededor de la Luna. La misión realizó diez órbitas lunares, capturó la icónica fotografía 'Salida de la Tierra' y transmitió imágenes televisadas en vivo, llevando vistas de la superficie lunar y la Tierra a millones de personas.",
     "eventDescriptionIt": "Programma Apollo: L'equipaggio di Apollo 8 diventa il primo gruppo umano a entrare in orbita lunare. La missione ha effettuato dieci orbite lunari, catturato l'iconica fotografia 'Earthrise' e trasmesso immagini televisive in diretta, mostrando la superficie lunare e la Terra a milioni di persone."
+},{
+    "eventId": "1140",
+    "eventCategory": "SCIENCE",
+    "eventDate": "2021/12/25",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The James Webb Space Telescope (JWST), the most powerful space telescope ever built, is successfully launched aboard an Ariane 5 rocket from French Guiana. Designed to observe the universe in infrared, JWST aims to explore the earliest galaxies, the birth of stars, and potentially habitable exoplanets.",
+    "eventDescriptionTr": "James Webb Uzay Teleskobu (JWST), şimdiye kadar inşa edilen en güçlü uzay teleskobu, Fransız Guyanası'ndan Ariane 5 roketiyle başarıyla fırlatıldı. Kızılötesi dalga boylarında gözlem yapmak üzere tasarlanan JWST, en eski galaksileri, yıldızların doğumunu ve potansiyel olarak yaşanabilir ötegezegenleri incelemeyi amaçlıyor.",
+    "eventDescriptionFr": "Le télescope spatial James Webb (JWST), le télescope spatial le plus puissant jamais construit, est lancé avec succès à bord d'une fusée Ariane 5 depuis la Guyane française. Conçu pour observer l'univers en infrarouge, le JWST vise à explorer les premières galaxies, la naissance des étoiles et des exoplanètes potentiellement habitables.",
+    "eventDescriptionDe": "Das James Webb Space Telescope (JWST), das leistungsstärkste jemals gebaute Weltraumteleskop, wird erfolgreich an Bord einer Ariane-5-Rakete von Französisch-Guayana gestartet. Es wurde entwickelt, um das Universum im Infrarot zu beobachten und die frühesten Galaxien, die Geburt von Sternen und potenziell bewohnbare Exoplaneten zu erforschen.",
+    "eventDescriptionEs": "El Telescopio Espacial James Webb (JWST), el telescopio espacial más poderoso jamás construido, es lanzado con éxito a bordo de un cohete Ariane 5 desde la Guayana Francesa. Diseñado para observar el universo en el infrarrojo, el JWST tiene como objetivo explorar las primeras galaxias, el nacimiento de estrellas y exoplanetas potencialmente habitables.",
+    "eventDescriptionIt": "Il James Webb Space Telescope (JWST), il telescopio spaziale più potente mai costruito, viene lanciato con successo a bordo di un razzo Ariane 5 dalla Guyana francese. Progettato per osservare l'universo nell'infrarosso, il JWST mira a esplorare le prime galassie, la nascita delle stelle e gli esopianeti potenzialmente abitabili."
 }
+
 
 
 
