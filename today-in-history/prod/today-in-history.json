@@ -395,7 +395,20 @@
     "eventDescriptionDe": "Der Experimental Breeder Reactor-1 (EBR-1) in Arco, Idaho, wird das erste Kernkraftwerk, das Strom erzeugt. An diesem historischen Tag betrieb das Kraftwerk erfolgreich vier Glühbirnen und markierte einen Meilenstein in der Kernenergie.",
     "eventDescriptionEs": "El Reactor Experimental Breeder-1 (EBR-1), ubicado en Arco, Idaho, se convierte en la primera planta de energía nuclear en generar electricidad. En este día histórico, la planta iluminó con éxito cuatro bombillas, marcando un hito en la energía nuclear.",
     "eventDescriptionIt": "L'Experimental Breeder Reactor-1 (EBR-1), situato ad Arco, Idaho, diventa la prima centrale nucleare a generare elettricità. In questo giorno storico, l'impianto alimentò con successo quattro lampadine elettriche, segnando una pietra miliare nell'energia nucleare."
+},{
+    "eventId": "1138",
+    "eventCategory": "HISTORY",
+    "eventDate": "2019/12/20",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The United States Space Force (USSF) is established as the sixth branch of the United States Armed Forces, becoming the first new military branch since the creation of the Air Force in 1947. Its mission is to organize, train, and equip space forces to protect U.S. interests in space.",
+    "eventDescriptionTr": "Amerika Birleşik Devletleri Uzay Kuvvetleri (USSF), Amerika Birleşik Devletleri Silahlı Kuvvetleri'nin altıncı birimi olarak kuruldu ve 1947'de Hava Kuvvetleri'nin kuruluşundan bu yana ilk yeni askerî birim oldu. Görevi, ABD'nin uzaydaki çıkarlarını korumak için uzay kuvvetlerini organize etmek, eğitmek ve donatmaktır.",
+    "eventDescriptionFr": "La Force spatiale des États-Unis (USSF) est créée en tant que sixième branche des forces armées des États-Unis, devenant ainsi la première nouvelle branche militaire depuis la création de l'armée de l'air en 1947. Sa mission est d'organiser, former et équiper les forces spatiales pour protéger les intérêts américains dans l'espace.",
+    "eventDescriptionDe": "Die United States Space Force (USSF) wird als sechster Zweig der Streitkräfte der Vereinigten Staaten gegründet und ist damit der erste neue militärische Zweig seit der Gründung der Luftwaffe im Jahr 1947. Ihre Mission ist es, Weltraumstreitkräfte zu organisieren, auszubilden und auszurüsten, um die Interessen der USA im Weltraum zu schützen.",
+    "eventDescriptionEs": "La Fuerza Espacial de los Estados Unidos (USSF) se establece como la sexta rama de las Fuerzas Armadas de los Estados Unidos, convirtiéndose en la primera nueva rama militar desde la creación de la Fuerza Aérea en 1947. Su misión es organizar, entrenar y equipar fuerzas espaciales para proteger los intereses de los Estados Unidos en el espacio.",
+    "eventDescriptionIt": "La United States Space Force (USSF) viene istituita come sesto ramo delle Forze Armate degli Stati Uniti, diventando il primo nuovo ramo militare dalla creazione dell'Air Force nel 1947. La sua missione è organizzare, addestrare ed equipaggiare forze spaziali per proteggere gli interessi degli Stati Uniti nello spazio."
 }
+
 
 
 
