@@ -407,7 +407,20 @@
     "eventDescriptionDe": "Die United States Space Force (USSF) wird als sechster Zweig der Streitkräfte der Vereinigten Staaten gegründet und ist damit der erste neue militärische Zweig seit der Gründung der Luftwaffe im Jahr 1947. Ihre Mission ist es, Weltraumstreitkräfte zu organisieren, auszubilden und auszurüsten, um die Interessen der USA im Weltraum zu schützen.",
     "eventDescriptionEs": "La Fuerza Espacial de los Estados Unidos (USSF) se establece como la sexta rama de las Fuerzas Armadas de los Estados Unidos, convirtiéndose en la primera nueva rama militar desde la creación de la Fuerza Aérea en 1947. Su misión es organizar, entrenar y equipar fuerzas espaciales para proteger los intereses de los Estados Unidos en el espacio.",
     "eventDescriptionIt": "La United States Space Force (USSF) viene istituita come sesto ramo delle Forze Armate degli Stati Uniti, diventando il primo nuovo ramo militare dalla creazione dell'Air Force nel 1947. La sua missione è organizzare, addestrare ed equipaggiare forze spaziali per proteggere gli interessi degli Stati Uniti nello spazio."
+},{
+    "eventId": "1139",
+    "eventCategory": "SCIENCE",
+    "eventDate": "1968/12/24",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Apollo program: The crew of Apollo 8 becomes the first humans to enter orbit around the Moon. The mission conducted ten lunar orbits, captured the iconic 'Earthrise' photograph, and broadcasted live television pictures, bringing views of the lunar surface and Earth to millions of people back on Earth.",
+    "eventDescriptionTr": "Apollo programı: Apollo 8 mürettebatı, Ay'ın yörüngesine giren ilk insanlar oldu. Görev sırasında Ay'ın çevresinde on tur atıldı, ikonik 'Dünya'nın Doğuşu' fotoğrafı çekildi ve Ay yüzeyinin ve Dünya'nın görüntüleri canlı televizyon yayınlarıyla milyonlarca kişiye ulaştırıldı.",
+    "eventDescriptionFr": "Programme Apollo : L'équipage d'Apollo 8 devient les premiers humains à entrer en orbite autour de la Lune. La mission a effectué dix orbites lunaires, capturé la célèbre photographie 'Lever de Terre' et diffusé des images télévisées en direct, offrant des vues de la surface lunaire et de la Terre à des millions de personnes.",
+    "eventDescriptionDe": "Apollo-Programm: Die Besatzung von Apollo 8 wird die ersten Menschen, die in eine Mondumlaufbahn eintreten. Die Mission absolvierte zehn Mondumläufe, nahm das ikonische 'Earthrise'-Foto auf und übertrug Live-Fernsehbilder, die Millionen von Menschen auf der Erde Einblicke in die Mondoberfläche und die Erde gaben.",
+    "eventDescriptionEs": "Programa Apollo: La tripulación del Apollo 8 se convierte en los primeros humanos en entrar en órbita alrededor de la Luna. La misión realizó diez órbitas lunares, capturó la icónica fotografía 'Salida de la Tierra' y transmitió imágenes televisadas en vivo, llevando vistas de la superficie lunar y la Tierra a millones de personas.",
+    "eventDescriptionIt": "Programma Apollo: L'equipaggio di Apollo 8 diventa il primo gruppo umano a entrare in orbita lunare. La missione ha effettuato dieci orbite lunari, catturato l'iconica fotografia 'Earthrise' e trasmesso immagini televisive in diretta, mostrando la superficie lunare e la Terra a milioni di persone."
 }
+
 
 
 
