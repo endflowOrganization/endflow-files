@@ -444,6 +444,45 @@
     "eventDescriptionDe": "Am 25. Dezember 1921 wurde Gaziantep von der französischen Besatzung befreit, nach einem langen Kampf. Die Stadt war seit dem 5. November 1919 unter französischer Kontrolle. Der Widerstand dauerte etwa 10 Monate, während der Tausende von Einheimischen tapfer kämpften und viele Opfer zu beklagen waren. Die Türkische Große Nationalversammlung verlieh Gaziantep am 6. Februar 1921 den Titel 'Gazi' als Anerkennung für seinen Mut.",
     "eventDescriptionEs": "El 25 de diciembre de 1921, Gaziantep fue liberado de la ocupación francesa tras una prolongada lucha. La ciudad había estado bajo control francés desde el 5 de noviembre de 1919. La resistencia duró aproximadamente 10 meses, durante los cuales miles de locales lucharon valientemente, lo que resultó en importantes bajas. La Gran Asamblea Nacional Turca otorgó a Gaziantep el título de 'Gazi' el 6 de febrero de 1921 en reconocimiento a su valentía.",
     "eventDescriptionIt": "Il 25 dicembre 1921, Gaziantep fu liberata dall'occupazione francese dopo una lunga lotta. La città era sotto il controllo francese dal 5 novembre 1919. La resistenza durò circa 10 mesi, durante i quali migliaia di locali combatterono valorosamente, portando a significative perdite. L'Assemblea Nazionale Turca conferì a Gaziantep il titolo di 'Gazi' il 6 febbraio 1921 in riconoscimento del suo coraggio."
+},
+{
+    "eventId": "1142",
+    "eventCategory": "PEOPLE",
+    "eventDate": "1935/01/02",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "The Surname Law came into force in Turkey.",
+    "eventDescriptionTr": "Türkiye’de Soyadı Kanunu yürürlüğe girdi.",
+    "eventDescriptionFr": "La loi sur le nom de famille est entrée en vigueur en Turquie.",
+    "eventDescriptionDe": "In der Türkei ist das Nachnamengesetz in Kraft getreten.",
+    "eventDescriptionEs": "La Ley de Apellidos entró en vigor en Turquía.",
+    "eventDescriptionIt": "In Turchia è entrata in vigore la legge sul cognome."
+},
+{
+    "eventId": "1143",
+    "eventCategory": "PEOPLE",
+    "eventDate": "1959/01/02",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The Soviet Union launched the Luna 1 spacecraft, a major step in space exploration. It became the first man-made object to orbit the sun.",
+    "eventDescriptionTr": "Sovyetler Birliği, uzay araştırmalarında önemli bir adım olan Luna 1 adlı uzay aracını fırlattı. Bu araç, güneşin yörüngesine giren ilk insan yapımı cisim oldu.",
+    "eventDescriptionFr": "L'Union soviétique a lancé la sonde spatiale Luna 1, une étape majeure dans l'exploration spatiale. Il s'agit du premier objet fabriqué par l'homme à orbiter autour du Soleil.",
+    "eventDescriptionDe": "Die Sowjetunion startete die Raumsonde Luna 1 und erreichte damit einen großen Fortschritt in der Weltraumforschung. Sie war das erste von Menschenhand geschaffene Objekt, das die Sonne umkreiste.",
+    "eventDescriptionEs": "La Unión Soviética lanzó la sonda espacial Luna 1, un gran paso en la exploración espacial. Se convirtió en el primer objeto creado por el hombre en orbitar alrededor del Sol.",
+    "eventDescriptionIt": "L'Unione Sovietica lanciò la sonda Luna 1, un passo importante nell'esplorazione spaziale. Divenne il primo oggetto creato dall'uomo a orbitare attorno al sole."
+},
+{
+    "eventId": "1144",
+    "eventCategory": "HISTORY",
+    "eventDate": "1959/01/03",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Alaska became the 49th state of the United States.",
+    "eventDescriptionTr": "Alaska, Amerika Birleşik Devletleri'nin 49. eyaleti oldu.",
+    "eventDescriptionFr": "L'Alaska est devenu le 49e État des États-Unis.",
+    "eventDescriptionDe": "Alaska wurde der 49. Bundesstaat der USA.",
+    "eventDescriptionEs": "Alaska se convirtió en el 49º estado de los Estados Unidos.",
+    "eventDescriptionIt": "L'Alaska divenne il 49° stato degli Stati Uniti."
 }
 
 
