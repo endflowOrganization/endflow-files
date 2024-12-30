@@ -519,7 +519,20 @@
     "eventDescriptionDe": "Die letzte Krönung in Ungarn findet statt, als Karl IV. und Königin Zita in Budapest als König und Königin von Ungarn gekrönt werden. Dies markierte das Ende einer jahrhundertealten Tradition königlicher Krönungen in Ungarn.",
     "eventDescriptionEs": "La última coronación en Hungría tiene lugar cuando Carlos IV y la reina Zita son coronados como rey y reina de Hungría en Budapest. Esto marcó el fin de una tradición centenaria de coronaciones reales en Hungría.",
     "eventDescriptionIt": "L'ultima incoronazione in Ungheria si svolge quando Carlo IV e la regina Zita vengono incoronati re e regina d'Ungheria a Budapest. Questo ha segnato la fine di una tradizione secolare di incoronazioni reali in Ungheria."
+},{
+    "eventId": "1148",
+    "eventCategory": "SCIENCE",
+    "eventDate": "1879/12/31",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Thomas Edison demonstrates incandescent lighting to the public for the first time in Menlo Park, New Jersey. This marks a major milestone in the development of practical electric lighting and begins a revolution in illumination technology.",
+    "eventDescriptionTr": "Thomas Edison, New Jersey'deki Menlo Park'ta halka ilk kez akkor aydınlatmayı tanıttı. Bu, pratik elektrikli aydınlatmanın gelişiminde önemli bir dönüm noktası ve aydınlatma teknolojisinde bir devrimin başlangıcıdır.",
+    "eventDescriptionFr": "Thomas Edison présente pour la première fois au public l'éclairage incandescent à Menlo Park, New Jersey. Cela marque une étape majeure dans le développement de l'éclairage électrique pratique et inaugure une révolution dans la technologie de l'éclairage.",
+    "eventDescriptionDe": "Thomas Edison demonstriert erstmals öffentlich die Glühlampenbeleuchtung in Menlo Park, New Jersey. Dies markiert einen Meilenstein in der Entwicklung praktischer elektrischer Beleuchtung und den Beginn einer Revolution in der Beleuchtungstechnologie.",
+    "eventDescriptionEs": "Thomas Edison demuestra por primera vez la iluminación incandescente al público en Menlo Park, Nueva Jersey. Esto marca un hito importante en el desarrollo de la iluminación eléctrica práctica e inicia una revolución en la tecnología de iluminación.",
+    "eventDescriptionIt": "Thomas Edison dimostra per la prima volta al pubblico l'illuminazione a incandescenza a Menlo Park, New Jersey. Questo segna una pietra miliare nello sviluppo dell'illuminazione elettrica pratica e avvia una rivoluzione nella tecnologia dell'illuminazione."
 }
+
 
 
 
