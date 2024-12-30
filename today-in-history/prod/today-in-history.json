@@ -483,7 +483,20 @@
     "eventDescriptionDe": "Alaska wurde der 49. Bundesstaat der USA.",
     "eventDescriptionEs": "Alaska se convirtió en el 49º estado de los Estados Unidos.",
     "eventDescriptionIt": "L'Alaska divenne il 49° stato degli Stati Uniti."
+},{
+    "eventId": "1145",
+    "eventCategory": "HISTORY",
+    "eventDate": "1898/12/30",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The Gülhane Military Medical School was established in Istanbul as part of modernization efforts in the Ottoman Empire. The school aimed to provide high-quality medical education and training for military personnel.",
+    "eventDescriptionTr": "Osmanlı İmparatorluğu'nda modernleşme çabalarının bir parçası olarak İstanbul'da Gülhane Askerî Tıp Mektebi açıldı. Okul, askerî personel için yüksek kaliteli tıp eğitimi ve öğretimi sağlamayı amaçladı.",
+    "eventDescriptionFr": "L'École militaire de médecine de Gülhane a été créée à Istanbul dans le cadre des efforts de modernisation de l'Empire ottoman. L'école visait à offrir une éducation médicale de haute qualité et une formation pour le personnel militaire.",
+    "eventDescriptionDe": "Die Militärmedizinische Schule Gülhane wurde in Istanbul im Rahmen der Modernisierungsbemühungen des Osmanischen Reiches gegründet. Die Schule hatte das Ziel, eine hochwertige medizinische Ausbildung und Schulung für Militärangehörige bereitzustellen.",
+    "eventDescriptionEs": "La Escuela de Medicina Militar de Gülhane se estableció en Estambul como parte de los esfuerzos de modernización del Imperio Otomano. La escuela tenía como objetivo proporcionar educación médica de alta calidad y formación para el personal militar.",
+    "eventDescriptionIt": "La Scuola Medica Militare di Gülhane è stata fondata a Istanbul come parte degli sforzi di modernizzazione dell'Impero Ottomano. La scuola mirava a fornire un'istruzione medica di alta qualità e formazione per il personale militare."
 }
+
 
 
 
