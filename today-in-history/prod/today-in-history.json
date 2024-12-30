@@ -496,7 +496,7 @@
     "eventDescriptionEs": "La Escuela de Medicina Militar de Gülhane se estableció en Estambul como parte de los esfuerzos de modernización del Imperio Otomano. La escuela tenía como objetivo proporcionar educación médica de alta calidad y formación para el personal militar.",
     "eventDescriptionIt": "La Scuola Medica Militare di Gülhane è stata fondata a Istanbul come parte degli sforzi di modernizzazione dell'Impero Ottomano. La scuola mirava a fornire un'istruzione medica di alta qualità e formazione per il personale militare."
 },{
-    "eventId": "2022/12/30",
+    "eventId": "1146",
     "eventCategory": "POLITICS",
     "eventDate": "2022/12/30",
     "eventImg": "",
@@ -507,7 +507,20 @@
     "eventDescriptionDe": "Sinan Ateş, ehemaliger Vorsitzender der Grauen Wölfe (Ülkü Ocakları), wurde in Ankara, Türkei, ermordet. Sein Mord löste landesweit bedeutende öffentliche und politische Reaktionen aus.",
     "eventDescriptionEs": "Sinan Ateş, expresidente de los Lobos Grises (Ülkü Ocakları), fue asesinado en Ankara, Turquía. Su asesinato provocó importantes reacciones públicas y políticas en todo el país.",
     "eventDescriptionIt": "Sinan Ateş, ex presidente dei Lupi Grigi (Ülkü Ocakları), è stato assassinato ad Ankara, in Turchia. Il suo omicidio ha suscitato significative reazioni pubbliche e politiche in tutto il paese."
+},{
+    "eventId": "1147",
+    "eventCategory": "HISTORY",
+    "eventDate": "1916/12/30",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The last coronation in Hungary takes place as Charles IV and Queen Zita are crowned as King and Queen of Hungary in Budapest. This marked the end of a centuries-old tradition of royal coronations in Hungary.",
+    "eventDescriptionTr": "Macaristan'daki son taç giyme töreni, Charles IV ve Kraliçe Zita'nın Budapeşte'de Macaristan Kralı ve Kraliçesi olarak taç giymesiyle gerçekleşti. Bu, Macaristan'daki yüzyıllardır süregelen kraliyet taç giyme töreni geleneğinin sonunu işaret etti.",
+    "eventDescriptionFr": "La dernière couronnement en Hongrie a lieu lorsque Charles IV et la reine Zita sont couronnés roi et reine de Hongrie à Budapest. Cela a marqué la fin d'une tradition séculaire de couronnements royaux en Hongrie.",
+    "eventDescriptionDe": "Die letzte Krönung in Ungarn findet statt, als Karl IV. und Königin Zita in Budapest als König und Königin von Ungarn gekrönt werden. Dies markierte das Ende einer jahrhundertealten Tradition königlicher Krönungen in Ungarn.",
+    "eventDescriptionEs": "La última coronación en Hungría tiene lugar cuando Carlos IV y la reina Zita son coronados como rey y reina de Hungría en Budapest. Esto marcó el fin de una tradición centenaria de coronaciones reales en Hungría.",
+    "eventDescriptionIt": "L'ultima incoronazione in Ungheria si svolge quando Carlo IV e la regina Zita vengono incoronati re e regina d'Ungheria a Budapest. Questo ha segnato la fine di una tradizione secolare di incoronazioni reali in Ungheria."
 }
+
 
 
 
