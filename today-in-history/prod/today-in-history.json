@@ -543,7 +543,20 @@
     "eventDescriptionDe": "Präsident Harry S. Truman verkündet offiziell das Ende der Feindseligkeiten im Zweiten Weltkrieg. Diese Erklärung formalisiert den Abschluss eines der verheerendsten Konflikte in der Menschheitsgeschichte und markiert einen bedeutenden Moment in der Weltgeschichte.",
     "eventDescriptionEs": "El presidente Harry S. Truman proclama oficialmente el fin de las hostilidades en la Segunda Guerra Mundial. Esta declaración formaliza la conclusión de uno de los conflictos más devastadores de la historia humana, marcando un momento significativo en la historia mundial.",
     "eventDescriptionIt": "Il presidente Harry S. Truman proclama ufficialmente la fine delle ostilità nella Seconda Guerra Mondiale. Questa dichiarazione formalizza la conclusione di uno dei conflitti più devastanti nella storia umana, segnando un momento significativo nella storia globale."
+},{
+    "eventId": "1150",
+    "eventCategory": "TECH",
+    "eventDate": "2006/10/09",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Google announced its acquisition of YouTube for $1.65 billion. This purchase marked a significant milestone in the evolution of online video platforms and established YouTube as a key player in the digital content ecosystem.",
+    "eventDescriptionTr": "Google, YouTube'u 1,65 milyar dolara aldığını açıkladı. Bu satın alma, çevrimiçi video platformlarının evriminde önemli bir dönüm noktası oldu ve YouTube'u dijital içerik ekosisteminde önemli bir oyuncu haline getirdi.",
+    "eventDescriptionFr": "Google a annoncé l'acquisition de YouTube pour 1,65 milliard de dollars. Cet achat a marqué une étape importante dans l'évolution des plateformes vidéo en ligne et a établi YouTube comme un acteur clé de l'écosystème des contenus numériques.",
+    "eventDescriptionDe": "Google gab die Übernahme von YouTube für 1,65 Milliarden Dollar bekannt. Dieser Kauf markierte einen bedeutenden Meilenstein in der Entwicklung von Online-Video-Plattformen und etablierte YouTube als einen zentralen Akteur im digitalen Inhalte-Ökosystem.",
+    "eventDescriptionEs": "Google anunció la adquisición de YouTube por 1.650 millones de dólares. Esta compra marcó un hito importante en la evolución de las plataformas de video en línea y estableció a YouTube como un actor clave en el ecosistema de contenido digital.",
+    "eventDescriptionIt": "Google ha annunciato l'acquisizione di YouTube per 1,65 miliardi di dollari. Questo acquisto ha segnato una pietra miliare nell'evoluzione delle piattaforme video online e ha stabilito YouTube come un attore chiave nell'ecosistema dei contenuti digitali."
 }
+
 
 
 
