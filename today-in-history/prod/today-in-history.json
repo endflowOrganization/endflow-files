@@ -579,7 +579,20 @@
     "eventDescriptionDe": "Mit dem Angriff der griechischen Truppen in Richtung Eskişehir und Afyon begann die Erste Schlacht von İnönü.",
     "eventDescriptionEs": "Con el ataque de las fuerzas griegas hacia Eskişehir y Afyon, comenzó la Primera Batalla de İnönü.",
     "eventDescriptionIt": "Con l'attacco delle forze greche verso Eskişehir e Afyon, iniziò la Prima Battaglia di İnönü."
+},{
+    "eventId": "1153",
+    "eventCategory": "TECH",
+    "eventDate": "1838/01/06",
+    "eventImg": "",
+    "eventRegion": "UNITED STATES",
+    "eventDescriptionEn": "Alfred Vail and colleagues demonstrate a telegraph system using dots and dashes, which later becomes the basis of Morse code.",
+    "eventDescriptionTr": "Alfred Vail ve çalışma arkadaşları, noktalar ve tireler kullanan bir telgraf sistemi gösterdiler; bu sistem daha sonra Mors kodunun temelini oluşturdu.",
+    "eventDescriptionFr": "Alfred Vail et ses collègues démontrent un système de télégraphe utilisant des points et des tirets, qui devient plus tard la base du code Morse.",
+    "eventDescriptionDe": "Alfred Vail und Kollegen demonstrieren ein Telegrafensystem, das Punkte und Striche verwendet und später die Grundlage des Morse-Codes bildet.",
+    "eventDescriptionEs": "Alfred Vail y sus colegas demuestran un sistema telegráfico que utiliza puntos y rayas, que más tarde se convierte en la base del código Morse.",
+    "eventDescriptionIt": "Alfred Vail e colleghi dimostrano un sistema telegrafico che utilizza punti e linee, che in seguito diventa la base del codice Morse."
 }
+
 
 
 
