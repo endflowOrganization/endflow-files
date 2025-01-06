@@ -567,7 +567,20 @@
     "eventDescriptionDe": "Die erste interne und externe Nachrichtendienstorganisation der Türkei, der Nationale Sicherheitsdienst (Milli Emniyet Hizmeti Riyaseti), später als Nationaler Nachrichtendienst (MIT - Milli İstihbarat Teşkilatı) reorganisiert, nahm seinen Betrieb auf.",
     "eventDescriptionEs": "El primer organismo de inteligencia interna y externa de Turquía, el Servicio Nacional de Seguridad (Milli Emniyet Hizmeti Riyaseti), que más tarde se reorganizó como la Organización Nacional de Inteligencia (MIT - Milli İstihbarat Teşkilatı), comenzó sus operaciones.",
     "eventDescriptionIt": "Il primo servizio di intelligence interno ed esterno della Turchia, il Servizio di Sicurezza Nazionale (Milli Emniyet Hizmeti Riyaseti), successivamente riorganizzato come Organizzazione Nazionale di Intelligence (MIT - Milli İstihbarat Teşkilatı), iniziò le sue operazioni."
+},{
+    "eventId": "1152",
+    "eventCategory": "HISTORY",
+    "eventDate": "1921/01/06",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "With the Greek forces launching an offensive towards Eskişehir and Afyon, the First Battle of İnönü began.",
+    "eventDescriptionTr": "Yunan birliklerinin Eskişehir ve Afyon doğrultusundaki taarruzuyla, I. İnönü Muharebesi başladı.",
+    "eventDescriptionFr": "Avec l'offensive des forces grecques en direction d'Eskişehir et d'Afyon, la première bataille d'İnönü a commencé.",
+    "eventDescriptionDe": "Mit dem Angriff der griechischen Truppen in Richtung Eskişehir und Afyon begann die Erste Schlacht von İnönü.",
+    "eventDescriptionEs": "Con el ataque de las fuerzas griegas hacia Eskişehir y Afyon, comenzó la Primera Batalla de İnönü.",
+    "eventDescriptionIt": "Con l'attacco delle forze greche verso Eskişehir e Afyon, iniziò la Prima Battaglia di İnönü."
 }
+
 
 
 
