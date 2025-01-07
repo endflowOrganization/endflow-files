@@ -591,7 +591,20 @@
     "eventDescriptionDe": "Alfred Vail und Kollegen demonstrieren ein Telegrafensystem, das Punkte und Striche verwendet und später die Grundlage des Morse-Codes bildet.",
     "eventDescriptionEs": "Alfred Vail y sus colegas demuestran un sistema telegráfico que utiliza puntos y rayas, que más tarde se convierte en la base del código Morse.",
     "eventDescriptionIt": "Alfred Vail e colleghi dimostrano un sistema telegrafico che utilizza punti e linee, che in seguito diventa la base del codice Morse."
+},{
+    "eventId": "1154",
+    "eventCategory": "SCIENCE",
+    "eventDate": "2021/01/08",
+    "eventImg": "https://todayinhistory.life/img/january/turksat-5a.png",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "Türksat 5A, a Turkish communications satellite, was successfully launched into space.",
+    "eventDescriptionTr": "Türksat 5A, bir Türk haberleşme uydusu, başarıyla uzaya fırlatıldı.",
+    "eventDescriptionFr": "Türksat 5A, un satellite de communication turc, a été lancé avec succès dans l'espace.",
+    "eventDescriptionDe": "Türksat 5A, ein türkischer Kommunikationssatellit, wurde erfolgreich ins All gestartet.",
+    "eventDescriptionEs": "Türksat 5A, un satélite de comunicaciones turco, fue lanzado exitosamente al espacio.",
+    "eventDescriptionIt": "Türksat 5A, un satellite per telecomunicazioni turco, è stato lanciato con successo nello spazio."
 }
+
 
 
 
