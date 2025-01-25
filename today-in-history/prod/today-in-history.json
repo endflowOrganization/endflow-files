@@ -651,7 +651,20 @@
     "eventDescriptionDe": "Ein Brand im Restaurant eines Hotels in Kartalkaya, Bolu, forderte 78 Menschenleben.",
     "eventDescriptionEs": "Un incendio en el restaurante de un hotel en Kartalkaya, Bolu, causó la muerte de 78 personas.",
     "eventDescriptionIt": "Un incendio nel ristorante di un hotel a Kartalkaya, Bolu, ha causato la morte di 78 persone."
+},{
+    "eventId": "1159",
+    "eventCategory": "TECH",
+    "eventDate": "1881/01/25",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Thomas Edison and Alexander Graham Bell form the Oriental Telephone Company.",
+    "eventDescriptionTr": "Thomas Edison ve Alexander Graham Bell, Oriental Telephone Company'yi kurdu.",
+    "eventDescriptionFr": "Thomas Edison et Alexander Graham Bell forment la Oriental Telephone Company.",
+    "eventDescriptionDe": "Thomas Edison und Alexander Graham Bell gründen die Oriental Telephone Company.",
+    "eventDescriptionEs": "Thomas Edison y Alexander Graham Bell fundan la Oriental Telephone Company.",
+    "eventDescriptionIt": "Thomas Edison e Alexander Graham Bell fondano la Oriental Telephone Company."
 }
+
 
 
 
