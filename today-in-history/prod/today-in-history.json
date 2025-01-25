@@ -663,7 +663,20 @@
     "eventDescriptionDe": "Thomas Edison und Alexander Graham Bell gründen die Oriental Telephone Company.",
     "eventDescriptionEs": "Thomas Edison y Alexander Graham Bell fundan la Oriental Telephone Company.",
     "eventDescriptionIt": "Thomas Edison e Alexander Graham Bell fondano la Oriental Telephone Company."
+},{
+    "eventId": "1160",
+    "eventCategory": "HISTORY",
+    "eventDate": "1942/01/25",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Thailand declared war on the United States and the United Kingdom.",
+    "eventDescriptionTr": "Tayland, Amerika Birleşik Devletleri ve Birleşik Krallık'a savaş ilan etti.",
+    "eventDescriptionFr": "La Thaïlande a déclaré la guerre aux États-Unis et au Royaume-Uni.",
+    "eventDescriptionDe": "Thailand erklärte den Vereinigten Staaten und dem Vereinigten Königreich den Krieg.",
+    "eventDescriptionEs": "Tailandia declaró la guerra a los Estados Unidos y al Reino Unido.",
+    "eventDescriptionIt": "La Thailandia dichiarò guerra agli Stati Uniti e al Regno Unito."
 }
+
 
 
 
