@@ -639,7 +639,20 @@
     "eventDescriptionDe": "Der spanische Fußballverein Sevilla FC wurde gegründet.",
     "eventDescriptionEs": "El club de fútbol español Sevilla FC fue fundado.",
     "eventDescriptionIt": "Il club di calcio spagnolo Sevilla FC è stato fondato."
+},{
+    "eventId": "1158",
+    "eventCategory": "HISTORY",
+    "eventDate": "2025/01/21",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "A fire broke out in the restaurant of a hotel in Kartalkaya, Bolu, claiming the lives of 78 people.",
+    "eventDescriptionTr": "Bolu, Kartalkaya'da meydana gelen ve bir otelin restoranında başlamış olan yangında 78 kişi can verdi.",
+    "eventDescriptionFr": "Un incendie s'est déclaré dans le restaurant d'un hôtel à Kartalkaya, Bolu, causant la mort de 78 personnes.",
+    "eventDescriptionDe": "Ein Brand im Restaurant eines Hotels in Kartalkaya, Bolu, forderte 78 Menschenleben.",
+    "eventDescriptionEs": "Un incendio en el restaurante de un hotel en Kartalkaya, Bolu, causó la muerte de 78 personas.",
+    "eventDescriptionIt": "Un incendio nel ristorante di un hotel a Kartalkaya, Bolu, ha causato la morte di 78 persone."
 }
+
 
 
 
