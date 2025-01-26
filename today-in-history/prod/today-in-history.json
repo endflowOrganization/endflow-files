@@ -785,7 +785,20 @@
     "eventDescriptionDe": "Das Osmanische Abgeordnetenhaus verabschiedete den Nationalpakt (Misak-ı Milli) in einer geheimen Sitzung, in dem die Ziele der territorialen Integrität und Unabhängigkeit der Türkei festgelegt wurden.",
     "eventDescriptionEs": "La Cámara de Diputados otomana adoptó el Pacto Nacional (Misak-ı Milli) en una sesión secreta, delineando los objetivos de integridad territorial e independencia de Turquía.",
     "eventDescriptionIt": "La Camera dei Deputati ottomana adottò il Patto Nazionale (Misak-ı Milli) in una sessione segreta, delineando gli obiettivi di integrità territoriale e indipendenza della Turchia."
+},{
+    "eventId": "1170",
+    "eventCategory": "SPORT",
+    "eventDate": "1938/01/28",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The World Land Speed Record on a public road is broken by Rudolf Caracciola in the Mercedes-Benz W125 Rekordwagen, reaching a speed of 432.7 km/h (268.9 mph).",
+    "eventDescriptionTr": "Rudolf Caracciola, Mercedes-Benz W125 Rekordwagen ile 432,7 km/s (268,9 mph) hıza ulaşarak halka açık bir yolda Dünya Kara Hız Rekoru'nu kırdı.",
+    "eventDescriptionFr": "Le record mondial de vitesse terrestre sur route publique est battu par Rudolf Caracciola dans la Mercedes-Benz W125 Rekordwagen, atteignant une vitesse de 432,7 km/h (268,9 mph).",
+    "eventDescriptionDe": "Der Weltrekord für die höchste Geschwindigkeit auf einer öffentlichen Straße wurde von Rudolf Caracciola im Mercedes-Benz W125 Rekordwagen mit 432,7 km/h (268,9 mph) gebrochen.",
+    "eventDescriptionEs": "Rudolf Caracciola rompió el récord mundial de velocidad en tierra en una carretera pública en el Mercedes-Benz W125 Rekordwagen, alcanzando una velocidad de 432,7 km/h (268,9 mph).",
+    "eventDescriptionIt": "Rudolf Caracciola ha stabilito il record mondiale di velocità su strada pubblica con la Mercedes-Benz W125 Rekordwagen, raggiungendo una velocità di 432,7 km/h (268,9 mph)."
 }
+
 
 
 ]}
