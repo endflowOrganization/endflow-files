@@ -809,7 +809,20 @@
     "eventDescriptionDe": "Die Große Einheitspartei (Büyük Birlik Partisi) wurde von Muhsin Yazıcıoğlu gegründet.",
     "eventDescriptionEs": "El Partido de la Gran Unidad (Büyük Birlik Partisi) fue fundado por Muhsin Yazıcıoğlu.",
     "eventDescriptionIt": "Il Partito della Grande Unione (Büyük Birlik Partisi) è stato fondato da Muhsin Yazıcıoğlu."
+},{
+    "eventId": "1172",
+    "eventCategory": "HISTORY",
+    "eventDate": "1923/01/29",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "Mustafa Kemal Pasha married Latife Hanım in İzmir.",
+    "eventDescriptionTr": "Mustafa Kemal Paşa, İzmir'de Latife Hanım'la evlendi.",
+    "eventDescriptionFr": "Mustafa Kemal Pacha a épousé Latife Hanım à Izmir.",
+    "eventDescriptionDe": "Mustafa Kemal Pascha heiratete Latife Hanım in Izmir.",
+    "eventDescriptionEs": "Mustafa Kemal Pasha se casó con Latife Hanım en Izmir.",
+    "eventDescriptionIt": "Mustafa Kemal Pascià si sposò con Latife Hanım a Izmir."
 }
+
 
 
 
