@@ -749,6 +749,19 @@
     "eventDescriptionEs": "Durante la reunión de la Sociedad de Naciones en Ginebra, se reconoció oficialmente la independencia de Hatay.",
     "eventDescriptionIt": "Durante la riunione della Società delle Nazioni a Ginevra, l'indipendenza di Hatay è stata ufficialmente riconosciuta."
 }
+,{
+    "eventId": "1167",
+    "eventCategory": "HISTORY",
+    "eventDate": "1945/01/27",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "World War II: The Soviet 322nd Rifle Division liberates the remaining inmates of Auschwitz-Birkenau, marking a significant moment in the Holocaust's conclusion.",
+    "eventDescriptionTr": "II. Dünya Savaşı: Sovyet 322. Tüfek Tümeni, Auschwitz-Birkenau'daki kalan mahkumları kurtararak Holokost'un sonuna doğru önemli bir anı işaret etti.",
+    "eventDescriptionFr": "Seconde Guerre mondiale : La 322ème division de fusiliers soviétique libère les derniers détenus d'Auschwitz-Birkenau, marquant un moment significatif dans la conclusion de l'Holocauste.",
+    "eventDescriptionDe": "Zweiter Weltkrieg: Die sowjetische 322. Schützendivision befreit die verbleibenden Häftlinge von Auschwitz-Birkenau und markiert einen bedeutenden Moment im Abschluss des Holocausts.",
+    "eventDescriptionEs": "Segunda Guerra Mundial: La 322ª División de Fusileros Soviética libera a los prisioneros restantes de Auschwitz-Birkenau, marcando un momento significativo en la conclusión del Holocausto.",
+    "eventDescriptionIt": "Seconda Guerra Mondiale: La 322ª Divisione di Fucilieri Sovietica libera i prigionieri rimasti ad Auschwitz-Birkenau, segnando un momento significativo nella conclusione dell'Olocausto."
+}
 
 
 
