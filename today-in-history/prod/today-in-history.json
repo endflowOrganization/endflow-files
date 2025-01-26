@@ -773,10 +773,19 @@
     "eventDescriptionDe": "Das Raumschiff Apollo 1 geriet während eines Vorstarttests im Kennedy Space Center in Brand, wobei die Astronauten Gus Grissom, Edward Higgins White und Roger Chaffee tragisch ums Leben kamen.",
     "eventDescriptionEs": "La nave espacial Apollo 1 se incendió durante una prueba previa al lanzamiento en el Centro Espacial Kennedy, lo que resultó en las trágicas muertes de los astronautas Gus Grissom, Edward Higgins White y Roger Chaffee.",
     "eventDescriptionIt": "La navicella spaziale Apollo 1 prese fuoco durante un test pre-lancio al Kennedy Space Center, causando la tragica morte degli astronauti Gus Grissom, Edward Higgins White e Roger Chaffee."
+},{
+    "eventId": "1169",
+    "eventCategory": "HISTORY",
+    "eventDate": "1920/01/28",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "The Ottoman Chamber of Deputies adopted the National Pact (Misak-ı Milli) in a secret session, outlining the territorial integrity and independence goals of Turkey.",
+    "eventDescriptionTr": "Osmanlı Mebusan Meclisi'nin gizli oturumunda, Türkiye'nin toprak bütünlüğü ve bağımsızlık hedeflerini belirleyen Misak-ı Milli kabul edildi.",
+    "eventDescriptionFr": "La Chambre des députés ottomane a adopté le Pacte national (Misak-ı Milli) lors d'une session secrète, définissant les objectifs d'intégrité territoriale et d'indépendance de la Turquie.",
+    "eventDescriptionDe": "Das Osmanische Abgeordnetenhaus verabschiedete den Nationalpakt (Misak-ı Milli) in einer geheimen Sitzung, in dem die Ziele der territorialen Integrität und Unabhängigkeit der Türkei festgelegt wurden.",
+    "eventDescriptionEs": "La Cámara de Diputados otomana adoptó el Pacto Nacional (Misak-ı Milli) en una sesión secreta, delineando los objetivos de integridad territorial e independencia de Turquía.",
+    "eventDescriptionIt": "La Camera dei Deputati ottomana adottò il Patto Nazionale (Misak-ı Milli) in una sessione segreta, delineando gli obiettivi di integrità territoriale e indipendenza della Turchia."
 }
-
-
-
 
 
 ]}
