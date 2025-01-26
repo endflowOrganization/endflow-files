@@ -761,7 +761,20 @@
     "eventDescriptionDe": "Zweiter Weltkrieg: Die sowjetische 322. Schützendivision befreit die verbleibenden Häftlinge von Auschwitz-Birkenau und markiert einen bedeutenden Moment im Abschluss des Holocausts.",
     "eventDescriptionEs": "Segunda Guerra Mundial: La 322ª División de Fusileros Soviética libera a los prisioneros restantes de Auschwitz-Birkenau, marcando un momento significativo en la conclusión del Holocausto.",
     "eventDescriptionIt": "Seconda Guerra Mondiale: La 322ª Divisione di Fucilieri Sovietica libera i prigionieri rimasti ad Auschwitz-Birkenau, segnando un momento significativo nella conclusione dell'Olocausto."
+},{
+    "eventId": "1168",
+    "eventCategory": "SCIENCE",
+    "eventDate": "1967/01/27",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The Apollo 1 spacecraft caught fire during a pre-launch test at Kennedy Space Center, resulting in the tragic deaths of astronauts Gus Grissom, Edward Higgins White, and Roger Chaffee.",
+    "eventDescriptionTr": "Apollo-1 uzay aracı, Kennedy Uzay Merkezi'nde yapılan fırlatma öncesi test sırasında yandı: Astronotlar Gus Grissom, Edward Higgins White ve Roger Chaffee hayatlarını kaybetti.",
+    "eventDescriptionFr": "Le vaisseau spatial Apollo 1 a pris feu lors d'un test avant lancement au Kennedy Space Center, causant la mort tragique des astronautes Gus Grissom, Edward Higgins White et Roger Chaffee.",
+    "eventDescriptionDe": "Das Raumschiff Apollo 1 geriet während eines Vorstarttests im Kennedy Space Center in Brand, wobei die Astronauten Gus Grissom, Edward Higgins White und Roger Chaffee tragisch ums Leben kamen.",
+    "eventDescriptionEs": "La nave espacial Apollo 1 se incendió durante una prueba previa al lanzamiento en el Centro Espacial Kennedy, lo que resultó en las trágicas muertes de los astronautas Gus Grissom, Edward Higgins White y Roger Chaffee.",
+    "eventDescriptionIt": "La navicella spaziale Apollo 1 prese fuoco durante un test pre-lancio al Kennedy Space Center, causando la tragica morte degli astronauti Gus Grissom, Edward Higgins White e Roger Chaffee."
 }
+
 
 
 
