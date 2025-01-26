@@ -735,7 +735,21 @@
     "eventDescriptionDe": "Thomas Edison erhält ein Patent für seine Glühlampe, die die künstliche Beleuchtung revolutioniert und den Weg für die weitverbreitete Nutzung elektrischen Lichts ebnet.",
     "eventDescriptionEs": "Thomas Edison recibe una patente para su lámpara incandescente, revolucionando la iluminación artificial y abriendo el camino para el uso generalizado de la luz eléctrica.",
     "eventDescriptionIt": "Thomas Edison riceve un brevetto per la sua lampada a incandescenza, rivoluzionando l'illuminazione artificiale e aprendo la strada all'uso diffuso della luce elettrica."
+},
+{
+    "eventId": "1166",
+    "eventCategory": "Hıstory",
+    "eventDate": "1937/12/27",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "During the League of Nations meeting in Geneva, the independence of Hatay was officially recognized.",
+    "eventDescriptionTr": "Cenevre'de Milletler Cemiyeti toplantısında, Hatay'ın bağımsızlığı resmen kabul edildi.",
+    "eventDescriptionFr": "Lors de la réunion de la Société des Nations à Genève, l'indépendance du Hatay a été officiellement reconnue.",
+    "eventDescriptionDe": "Während der Sitzung des Völkerbundes in Genf wurde die Unabhängigkeit von Hatay offiziell anerkannt.",
+    "eventDescriptionEs": "Durante la reunión de la Sociedad de Naciones en Ginebra, se reconoció oficialmente la independencia de Hatay.",
+    "eventDescriptionIt": "Durante la riunione della Società delle Nazioni a Ginevra, l'indipendenza di Hatay è stata ufficialmente riconosciuta."
 }
+
 
 
 
