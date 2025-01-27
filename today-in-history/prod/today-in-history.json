@@ -881,7 +881,20 @@
     "eventDescriptionDe": "Adolf Hitlers Aufstieg zur Macht: Hitler wird zum Kanzler Deutschlands ernannt, was den Beginn seiner Herrschaft markiert.",
     "eventDescriptionEs": "El ascenso al poder de Adolf Hitler: Hitler es nombrado Canciller de Alemania, marcando el inicio de su mandato.",
     "eventDescriptionIt": "Ascesa al potere di Adolf Hitler: Hitler è nominato Cancelliere della Germania, segnando l'inizio del suo governo."
+},{
+    "eventId": "1178",
+    "eventCategory": "POLITICS",
+    "eventDate": "1923/01/30",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "The Population Exchange Agreement was signed between Greece and Turkey. Between December 1923 and 1927, approximately 400,000 Turks and over 1 million Greeks were relocated.",
+    "eventDescriptionTr": "Yunanistan ile Ahali Mübadelesi Antlaşması yapıldı. Aralık 1923'te başlayıp 1927 yılına kadar süren uygulamayla, yaklaşık 400 bin Türk ve 1 milyonu aşkın Rum yer değiştirdi.",
+    "eventDescriptionFr": "L'accord d'échange de population a été signé entre la Grèce et la Turquie. Entre décembre 1923 et 1927, environ 400 000 Turcs et plus d'un million de Grecs ont été déplacés.",
+    "eventDescriptionDe": "Das Bevölkerungsaustauschabkommen wurde zwischen Griechenland und der Türkei unterzeichnet. Zwischen Dezember 1923 und 1927 wurden etwa 400.000 Türken und über 1 Million Griechen umgesiedelt.",
+    "eventDescriptionEs": "Se firmó el Acuerdo de Intercambio de Población entre Grecia y Turquía. Entre diciembre de 1923 y 1927, aproximadamente 400,000 turcos y más de 1 millón de griegos fueron reubicados.",
+    "eventDescriptionIt": "L'accordo per lo scambio di popolazioni è stato firmato tra Grecia e Turchia. Tra dicembre 1923 e il 1927, circa 400.000 turchi e oltre 1 milione di greci sono stati trasferiti."
 }
+
 
 
 
