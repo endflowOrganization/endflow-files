@@ -929,20 +929,18 @@
     "eventDescriptionDe": "Die Türkische Bildungsvereinigung (TED) wurde in Ankara gegründet.",
     "eventDescriptionEs": "La Asociación Turca de Educación (TED) fue fundada en Ankara.",
     "eventDescriptionIt": "L'Associazione turca per l'educazione (TED) è stata fondata ad Ankara."
-},
-{
+},{
     "eventId": "1182",
-    "eventCategory": "HISTORY",
-    "eventDate": "1946/01/31",
+    "eventCategory": "SCIENCE",
+    "eventDate": "1971/01/31",
     "eventImg": "",
     "eventRegion": "ALL",
-    "eventDescriptionEn": "President Harry S. Truman officially proclaims the end of hostilities in World War II.",
-    "eventDescriptionTr": "Başkan Harry S. Truman, II. Dünya Savaşı'nda düşmanlıkların resmen sona erdiğini ilan etti.",
-    "eventDescriptionFr": "Le président Harry S. Truman proclame officiellement la fin des hostilités de la Seconde Guerre mondiale.",
-    "eventDescriptionDe": "Präsident Harry S. Truman verkündet offiziell das Ende der Feindseligkeiten im Zweiten Weltkrieg.",
-    "eventDescriptionEs": "El presidente Harry S. Truman proclama oficialmente el fin de las hostilidades en la Segunda Guerra Mundial.",
-    "eventDescriptionIt": "Il presidente Harry S. Truman proclama ufficialmente la fine delle ostilità nella Seconda Guerra Mondiale."
-    
+    "eventDescriptionEn": "Apollo program: Apollo 14: Astronauts Alan Shepard, Stuart Roosa, and Edgar Mitchell, aboard a Saturn V, lift off for a mission to the Fra Mauro Highlands on the Moon.",
+    "eventDescriptionTr": "Apollo programı: Apollo 14: Astronotlar Alan Shepard, Stuart Roosa ve Edgar Mitchell, Fra Mauro Yaylaları'na yönelik bir görev için Saturn V ile fırlatıldı.",
+    "eventDescriptionFr": "Programme Apollo : Apollo 14 : Les astronautes Alan Shepard, Stuart Roosa et Edgar Mitchell décollent à bord d'une Saturn V pour une mission dans les Hautes Terres Fra Mauro sur la Lune.",
+    "eventDescriptionDe": "Apollo-Programm: Apollo 14: Die Astronauten Alan Shepard, Stuart Roosa und Edgar Mitchell starten mit einer Saturn V zu einer Mission in das Fra Mauro Hochland auf dem Mond.",
+    "eventDescriptionEs": "Programa Apolo: Apolo 14: Los astronautas Alan Shepard, Stuart Roosa y Edgar Mitchell despegan a bordo de un Saturno V para una misión a las Tierras Altas de Fra Mauro en la Luna.",
+    "eventDescriptionIt": "Programma Apollo: Apollo 14: Gli astronauti Alan Shepard, Stuart Roosa ed Edgar Mitchell decollano a bordo di un Saturno V per una missione negli altopiani di Fra Mauro sulla Luna."
 }
 
 
