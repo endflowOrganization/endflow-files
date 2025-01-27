@@ -917,7 +917,20 @@
     "eventDescriptionDe": "Das letzte öffentliche Konzert der Beatles fand auf dem Dach von Apple Records in London statt. Das spontane Konzert wurde von der Polizei unterbrochen.",
     "eventDescriptionEs": "La última actuación pública de los Beatles tuvo lugar en el techo de Apple Records en Londres. El concierto improvisado fue interrumpido por la policía.",
     "eventDescriptionIt": "L'ultimo concerto pubblico dei Beatles si è svolto sul tetto di Apple Records a Londra. Il concerto improvvisato è stato interrotto dalla polizia."
+},{
+    "eventId": "1181",
+    "eventCategory": "HISTORY",
+    "eventDate": "1928/01/31",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "The Turkish Education Association (TED) was founded in Ankara.",
+    "eventDescriptionTr": "Türk Eğitim Derneği (TED), Ankara'da kuruldu.",
+    "eventDescriptionFr": "L'Association turque pour l'éducation (TED) a été fondée à Ankara.",
+    "eventDescriptionDe": "Die Türkische Bildungsvereinigung (TED) wurde in Ankara gegründet.",
+    "eventDescriptionEs": "La Asociación Turca de Educación (TED) fue fundada en Ankara.",
+    "eventDescriptionIt": "L'Associazione turca per l'educazione (TED) è stata fondata ad Ankara."
 }
+
 
 
 
