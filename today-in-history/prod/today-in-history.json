@@ -857,7 +857,20 @@
     "eventDescriptionDe": "Richard Skrenta schreibt den ersten PC-Viruscode, 'Elk Cloner', getarnt als Apple-Boot-Programm mit 400 Codezeilen.",
     "eventDescriptionEs": "Richard Skrenta escribe el primer código de virus para PC, 'Elk Cloner', disfrazado como un programa de arranque de Apple con 400 líneas de código.",
     "eventDescriptionIt": "Richard Skrenta scrive il primo codice di virus per PC, 'Elk Cloner', mascherato da programma di avvio Apple e composto da 400 righe di codice."
+},{
+    "eventId": "1176",
+    "eventCategory": "HISTORY",
+    "eventDate": "2020/01/30",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The World Health Organization declares the COVID-19 pandemic to be a Public Health Emergency of International Concern.",
+    "eventDescriptionTr": "Dünya Sağlık Örgütü, COVID-19 pandemisini Uluslararası Öneme Sahip Bir Halk Sağlığı Acil Durumu olarak ilan etti.",
+    "eventDescriptionFr": "L'Organisation mondiale de la santé déclare que la pandémie de COVID-19 constitue une urgence de santé publique de portée internationale.",
+    "eventDescriptionDe": "Die Weltgesundheitsorganisation erklärt die COVID-19-Pandemie zu einem internationalen Gesundheitsnotstand.",
+    "eventDescriptionEs": "La Organización Mundial de la Salud declara que la pandemia de COVID-19 es una Emergencia de Salud Pública de Preocupación Internacional.",
+    "eventDescriptionIt": "L'Organizzazione Mondiale della Sanità dichiara la pandemia di COVID-19 un'emergenza sanitaria pubblica di rilevanza internazionale."
 }
+
 
 
 
