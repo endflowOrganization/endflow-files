@@ -869,7 +869,20 @@
     "eventDescriptionDe": "Die Weltgesundheitsorganisation erklärt die COVID-19-Pandemie zu einem internationalen Gesundheitsnotstand.",
     "eventDescriptionEs": "La Organización Mundial de la Salud declara que la pandemia de COVID-19 es una Emergencia de Salud Pública de Preocupación Internacional.",
     "eventDescriptionIt": "L'Organizzazione Mondiale della Sanità dichiara la pandemia di COVID-19 un'emergenza sanitaria pubblica di rilevanza internazionale."
+},{
+    "eventId": "1177",
+    "eventCategory": "POLITICS",
+    "eventDate": "1933/01/30",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Adolf Hitler's rise to power: Hitler is appointed as the Chancellor of Germany, marking the beginning of his rule.",
+    "eventDescriptionTr": "Adolf Hitler'in iktidara yükselişi: Hitler, Almanya Şansölyesi olarak atandı ve yönetiminin başlangıcını işaret etti.",
+    "eventDescriptionFr": "Montée au pouvoir d'Adolf Hitler : Hitler est nommé Chancelier de l'Allemagne, marquant le début de son règne.",
+    "eventDescriptionDe": "Adolf Hitlers Aufstieg zur Macht: Hitler wird zum Kanzler Deutschlands ernannt, was den Beginn seiner Herrschaft markiert.",
+    "eventDescriptionEs": "El ascenso al poder de Adolf Hitler: Hitler es nombrado Canciller de Alemania, marcando el inicio de su mandato.",
+    "eventDescriptionIt": "Ascesa al potere di Adolf Hitler: Hitler è nominato Cancelliere della Germania, segnando l'inizio del suo governo."
 }
+
 
 
 
