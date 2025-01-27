@@ -953,7 +953,20 @@
     "eventDescriptionDe": "Zwei Flugzeuge kollidierten über Ankara und stürzten in den Stadtteil Ulus, wobei 80 Menschen starben.",
     "eventDescriptionEs": "Dos aviones colisionaron sobre Ankara y se estrellaron en el distrito de Ulus, causando la muerte de 80 personas.",
     "eventDescriptionIt": "Due aerei si sono scontrati sopra Ankara e si sono schiantati nel quartiere Ulus, causando la morte di 80 persone."
+},{
+    "eventId": "1184",
+    "eventCategory": "HISTORY",
+    "eventDate": "1935/02/01",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "Hagia Sophia was opened to the public as a museum.",
+    "eventDescriptionTr": "Ayasofya, müze olarak halkın ziyaretine açıldı.",
+    "eventDescriptionFr": "Sainte-Sophie a été ouverte au public en tant que musée.",
+    "eventDescriptionDe": "Die Hagia Sophia wurde als Museum für die Öffentlichkeit zugänglich gemacht.",
+    "eventDescriptionEs": "Santa Sofía se abrió al público como museo.",
+    "eventDescriptionIt": "La Hagia Sophia è stata aperta al pubblico come museo."
 }
+
 
 
 
