@@ -977,7 +977,20 @@
     "eventDescriptionDe": "Der erste Band (A bis Ant) des Oxford English Dictionary wird veröffentlicht.",
     "eventDescriptionEs": "Se publica el primer volumen (de A a Ant) del Oxford English Dictionary.",
     "eventDescriptionIt": "Il primo volume (da A a Ant) dell'Oxford English Dictionary viene pubblicato."
+},{
+    "eventId": "1186",
+    "eventCategory": "HISTORY",
+    "eventDate": "1938/02/02",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "Bursa Merinos Factory was inaugurated by Atatürk in a grand ceremony.",
+    "eventDescriptionTr": "Bursa Merinos Fabrikası, Atatürk tarafından törenle açıldı.",
+    "eventDescriptionFr": "L'usine Merinos de Bursa a été inaugurée par Atatürk lors d'une grande cérémonie.",
+    "eventDescriptionDe": "Die Merinos-Fabrik in Bursa wurde von Atatürk feierlich eröffnet.",
+    "eventDescriptionEs": "La Fábrica Merinos de Bursa fue inaugurada por Atatürk en una gran ceremonia.",
+    "eventDescriptionIt": "La fabbrica Merinos di Bursa è stata inaugurata da Atatürk con una grande cerimonia."
 }
+
 
 
 
