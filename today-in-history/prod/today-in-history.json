@@ -965,7 +965,20 @@
     "eventDescriptionDe": "Die Hagia Sophia wurde als Museum für die Öffentlichkeit zugänglich gemacht.",
     "eventDescriptionEs": "Santa Sofía se abrió al público como museo.",
     "eventDescriptionIt": "La Hagia Sophia è stata aperta al pubblico come museo."
+},{
+    "eventId": "1185",
+    "eventCategory": "HISTORY",
+    "eventDate": "1884/02/01",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The first volume (A to Ant) of the Oxford English Dictionary is published.",
+    "eventDescriptionTr": "Oxford İngilizce Sözlüğü'nün ilk cildi (A'dan Ant'ye kadar) yayımlandı.",
+    "eventDescriptionFr": "Le premier volume (A à Ant) de l'Oxford English Dictionary est publié.",
+    "eventDescriptionDe": "Der erste Band (A bis Ant) des Oxford English Dictionary wird veröffentlicht.",
+    "eventDescriptionEs": "Se publica el primer volumen (de A a Ant) del Oxford English Dictionary.",
+    "eventDescriptionIt": "Il primo volume (da A a Ant) dell'Oxford English Dictionary viene pubblicato."
 }
+
 
 
 
