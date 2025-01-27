@@ -845,7 +845,20 @@
     "eventDescriptionDe": "Robert Frost, der bekannte amerikanische Dichter, ist verstorben.",
     "eventDescriptionEs": "Robert Frost, el célebre poeta estadounidense, falleció.",
     "eventDescriptionIt": "Robert Frost, il rinomato poeta americano, è morto."
+},{
+    "eventId": "1175",
+    "eventCategory": "TECH",
+    "eventDate": "1982/01/30",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Richard Skrenta writes the first PC virus code, 'Elk Cloner,' disguised as an Apple boot program and consisting of 400 lines of code.",
+    "eventDescriptionTr": "Richard Skrenta, 'Elk Cloner' adlı ilk PC virüs kodunu yazdı. 400 satırdan oluşan bu kod, bir Apple boot programı gibi gizlenmişti.",
+    "eventDescriptionFr": "Richard Skrenta écrit le premier code de virus informatique, 'Elk Cloner', déguisé en programme de démarrage Apple et composé de 400 lignes de code.",
+    "eventDescriptionDe": "Richard Skrenta schreibt den ersten PC-Viruscode, 'Elk Cloner', getarnt als Apple-Boot-Programm mit 400 Codezeilen.",
+    "eventDescriptionEs": "Richard Skrenta escribe el primer código de virus para PC, 'Elk Cloner', disfrazado como un programa de arranque de Apple con 400 líneas de código.",
+    "eventDescriptionIt": "Richard Skrenta scrive il primo codice di virus per PC, 'Elk Cloner', mascherato da programma di avvio Apple e composto da 400 righe di codice."
 }
+
 
 
 
