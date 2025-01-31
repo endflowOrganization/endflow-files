@@ -1001,7 +1001,20 @@
     "eventDescriptionDe": "Der Grand Central Terminal wurde in New York eröffnet und ist der größte Bahnhof der Welt.",
     "eventDescriptionEs": "La Terminal Grand Central se inauguró en Nueva York, convirtiéndose en la estación de tren más grande del mundo.",
     "eventDescriptionIt": "La Grand Central Terminal è stata inaugurata a New York, diventando la stazione ferroviaria più grande del mondo."
+},{
+    "eventId": "HISTORY",
+    "eventCategory": "PEOPLE",
+    "eventDate": "1999/02/01",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Turkish musician, composer, and television presenter Barış Manço passed away.",
+    "eventDescriptionTr": "Barış Manço hayatını kaybetti.",
+    "eventDescriptionFr": "Le musicien, compositeur et présentateur de télévision turc Barış Manço est décédé.",
+    "eventDescriptionDe": "Der türkische Musiker, Komponist und Fernsehmoderator Barış Manço verstarb.",
+    "eventDescriptionEs": "El músico, compositor y presentador de televisión turco Barış Manço falleció.",
+    "eventDescriptionIt": "Il musicista, compositore e presentatore televisivo turco Barış Manço è morto."
 }
+
 
 
 ]}
