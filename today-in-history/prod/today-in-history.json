@@ -1037,7 +1037,20 @@
     "eventDescriptionDe": "Zweiter Weltkrieg: Die Schlacht von Stalingrad endet, als sowjetische Truppen die Kapitulation der letzten organisierten deutschen Truppen in der Stadt annehmen.",
     "eventDescriptionEs": "Segunda Guerra Mundial: La Batalla de Stalingrado llega a su fin cuando las tropas soviéticas aceptan la rendición de las últimas tropas alemanas organizadas en la ciudad.",
     "eventDescriptionIt": "Seconda Guerra Mondiale: La battaglia di Stalingrado si conclude quando le truppe sovietiche accettano la resa delle ultime truppe tedesche organizzate nella città."
+},{
+    "eventId": "1191",
+    "eventCategory": "SCIENCE",
+    "eventDate": "1966/02/03",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The Soviet Union's Luna 9 becomes the first spacecraft to make a soft landing on the Moon, and the first spacecraft to take pictures from the surface of the Moon.",
+    "eventDescriptionTr": "Sovyetler Birliği'nin Luna 9 uzay aracı, Ay'a yumuşak iniş yapan ve Ay yüzeyinden fotoğraf çeken ilk uzay aracı oldu.",
+    "eventDescriptionFr": "Luna 9 de l'Union soviétique devient le premier engin spatial à effectuer un atterrissage en douceur sur la Lune et le premier à prendre des photos depuis sa surface.",
+    "eventDescriptionDe": "Die sowjetische Luna-9-Sonde wird das erste Raumfahrzeug, das eine weiche Landung auf dem Mond durchführt und Bilder von der Mondoberfläche aufnimmt.",
+    "eventDescriptionEs": "La sonda Luna 9 de la Unión Soviética se convierte en la primera nave en realizar un aterrizaje suave en la Luna y en tomar fotografías desde su superficie.",
+    "eventDescriptionIt": "La sonda sovietica Luna 9 diventa la prima navicella spaziale ad effettuare un atterraggio morbido sulla Luna e la prima a scattare foto dalla sua superficie."
 }
+
 
 
 
