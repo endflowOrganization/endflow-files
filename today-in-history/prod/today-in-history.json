@@ -1025,6 +1025,18 @@
     "eventDescriptionDe": "Abdi İpekçi, Chefredakteur der Zeitung Milliyet, wurde ermordet.",
     "eventDescriptionEs": "Abdi İpekçi, editor en jefe del periódico Milliyet, fue asesinado.",
     "eventDescriptionIt": "Abdi İpekçi, caporedattore del giornale Milliyet, è stato assassinato."
+},{
+    "eventId": "1190",
+    "eventCategory": "HISTORY",
+    "eventDate": "1943/02/02",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "World War II: The Battle of Stalingrad comes to an end when Soviet troops accept the surrender of the last organized German troops in the city.",
+    "eventDescriptionTr": "II. Dünya Savaşı: Stalingrad Muharebesi, Sovyet birliklerinin şehirdeki son organize Alman birliklerinin teslimiyetini kabul etmesiyle sona erdi.",
+    "eventDescriptionFr": "Seconde Guerre mondiale : La bataille de Stalingrad prend fin lorsque les troupes soviétiques acceptent la reddition des dernières troupes allemandes organisées dans la ville.",
+    "eventDescriptionDe": "Zweiter Weltkrieg: Die Schlacht von Stalingrad endet, als sowjetische Truppen die Kapitulation der letzten organisierten deutschen Truppen in der Stadt annehmen.",
+    "eventDescriptionEs": "Segunda Guerra Mundial: La Batalla de Stalingrado llega a su fin cuando las tropas soviéticas aceptan la rendición de las últimas tropas alemanas organizadas en la ciudad.",
+    "eventDescriptionIt": "Seconda Guerra Mondiale: La battaglia di Stalingrado si conclude quando le truppe sovietiche accettano la resa delle ultime truppe tedesche organizzate nella città."
 }
 
 
