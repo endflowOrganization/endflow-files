@@ -84,7 +84,20 @@
     "eventDescriptionDe": "Elisabeth II. wurde zur Königin des Vereinigten Königreichs, nachdem ihr Vater, König Georg VI., verstarb.",
     "eventDescriptionEs": "Isabel II se convirtió en la reina del Reino Unido tras la muerte de su padre, el rey Jorge VI.",
     "eventDescriptionIt": "Elisabetta II divenne la regina del Regno Unito alla morte di suo padre, il re Giorgio VI."
+},{
+    "eventId": "1197",
+    "eventCategory": "POLITICS",
+    "eventDate": "1992/02/07",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The Maastricht Treaty is signed, leading to the creation of the European Union.",
+    "eventDescriptionTr": "Avrupa Birliği'nin kurulmasına yol açan Maastricht Antlaşması imzalandı.",
+    "eventDescriptionFr": "Le traité de Maastricht est signé, menant à la création de l'Union européenne.",
+    "eventDescriptionDe": "Der Vertrag von Maastricht wird unterzeichnet und führt zur Gründung der Europäischen Union.",
+    "eventDescriptionEs": "Se firma el Tratado de Maastricht, lo que lleva a la creación de la Unión Europea.",
+    "eventDescriptionIt": "Il Trattato di Maastricht viene firmato, portando alla creazione dell'Unione Europea."
 }
+
 
 
 
