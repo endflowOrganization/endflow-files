@@ -96,7 +96,33 @@
     "eventDescriptionDe": "Der Vertrag von Maastricht wird unterzeichnet und führt zur Gründung der Europäischen Union.",
     "eventDescriptionEs": "Se firma el Tratado de Maastricht, lo que lleva a la creación de la Unión Europea.",
     "eventDescriptionIt": "Il Trattato di Maastricht viene firmato, portando alla creazione dell'Unione Europea."
+},{
+    "eventId": "1198",
+    "eventCategory": "HISTORY",
+    "eventDate": "1921/02/07",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The Official Gazette of the Republic of Turkey began publication.",
+    "eventDescriptionTr": "T.C. Resmî Gazete çıkmaya başladı.",
+    "eventDescriptionFr": "Le Journal Officiel de la République de Turquie a commencé à être publié.",
+    "eventDescriptionDe": "Das Amtsblatt der Republik Türkei wurde erstmals veröffentlicht.",
+    "eventDescriptionEs": "El Boletín Oficial de la República de Turquía comenzó a publicarse.",
+    "eventDescriptionIt": "La Gazzetta Ufficiale della Repubblica di Turchia iniziò la pubblicazione."
+},{
+    "eventId": "1199",
+    "eventCategory": "POLITICS",
+    "eventDate": "1973/02/07",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "With a law passed by the Grand National Assembly of Turkey, the city of 'Maraş' was given the title of 'Heroic' and renamed 'Kahramanmaraş'.",
+    "eventDescriptionTr": "TBMM'de kabul edilen bir yasa ile 'Maraş' iline 'kahramanlık' unvanı verildi; ilin adı 'Kahramanmaraş' oldu.",
+    "eventDescriptionFr": "Avec une loi adoptée par la Grande Assemblée Nationale de Turquie, la ville de 'Maraş' a reçu le titre de 'Héroïque' et a été renommée 'Kahramanmaraş'.",
+    "eventDescriptionDe": "Mit einem vom türkischen Parlament verabschiedeten Gesetz wurde der Stadt 'Maraş' der Titel 'Heldenhaft' verliehen und sie in 'Kahramanmaraş' umbenannt.",
+    "eventDescriptionEs": "Con una ley aprobada por la Gran Asamblea Nacional de Turquía, la ciudad de 'Maraş' recibió el título de 'Heroica' y pasó a llamarse 'Kahramanmaraş'.",
+    "eventDescriptionIt": "Con una legge approvata dalla Grande Assemblea Nazionale della Turchia, la città di 'Maraş' ha ricevuto il titolo di 'Eroica' ed è stata ribattezzata 'Kahramanmaraş'."
 }
+
+
 
 
 
