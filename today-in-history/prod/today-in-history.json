@@ -36,7 +36,20 @@
     "eventDescriptionDe": "Ein verheerendes Erdbeben der Stärke 7,8 erschütterte Kahramanmaraş in der Türkei und verursachte massive Zerstörung und viele Todesopfer. Die Katastrophe betraf mehrere Provinzen und führte zu einer bedeutenden humanitären Krise.",
     "eventDescriptionEs": "Un devastador terremoto de magnitud 7,8 sacudió Kahramanmaraş, Turquía, causando una gran destrucción y pérdida de vidas. El desastre afectó a varias provincias y provocó una importante crisis humanitaria.",
     "eventDescriptionIt": "Un devastante terremoto di magnitudo 7,8 ha colpito Kahramanmaraş, in Turchia, causando enormi distruzioni e perdite di vite umane. Il disastro ha colpito diverse province, portando a una grave crisi umanitaria."
+},{
+    "eventId": "1193",
+    "eventCategory": "POLITICS",
+    "eventDate": "1930/02/03",
+    "eventImg": "",
+    "eventRegion": "TR, FR",
+    "eventDescriptionEn": "The Treaty of Friendship between Turkey and France was signed, officially ending hostilities between the two nations and leading to the withdrawal of French forces from Turkish territories.",
+    "eventDescriptionTr": "Türkiye ile Fransa arasında Türk-Fransız Dostluk Antlaşması imzalandı. Bu antlaşma, iki ülke arasındaki düşmanlıkları resmi olarak sona erdirerek Fransız kuvvetlerinin Türk topraklarından çekilmesine yol açtı.",
+    "eventDescriptionFr": "Le Traité d'amitié entre la Turquie et la France a été signé, mettant officiellement fin aux hostilités entre les deux nations et conduisant au retrait des forces françaises des territoires turcs.",
+    "eventDescriptionDe": "Der Freundschaftsvertrag zwischen der Türkei und Frankreich wurde unterzeichnet, wodurch die Feindseligkeiten zwischen den beiden Nationen offiziell beendet und der Rückzug der französischen Truppen aus den türkischen Gebieten eingeleitet wurde.",
+    "eventDescriptionEs": "Se firmó el Tratado de Amistad entre Turquía y Francia, poniendo fin oficialmente a las hostilidades entre ambas naciones y llevando a la retirada de las fuerzas francesas de los territorios turcos.",
+    "eventDescriptionIt": "Il Trattato di Amicizia tra Turchia e Francia è stato firmato, ponendo ufficialmente fine alle ostilità tra le due nazioni e portando al ritiro delle forze francesi dai territori turchi."
 }
+
 
 
 
