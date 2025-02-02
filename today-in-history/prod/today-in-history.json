@@ -72,7 +72,20 @@
     "eventDescriptionDe": "Pegasus Airlines Flug 2193, unterwegs von Izmir nach Istanbul, kam bei der Landung auf dem Flughafen Sabiha Gökçen von der Landebahn ab und zerbrach. Der Unfall führte zu 3 Todesopfern und 179 Verletzten.",
     "eventDescriptionEs": "El vuelo 2193 de Pegasus Airlines, que viajaba de Esmirna a Estambul, se salió de la pista y se partió al aterrizar en el Aeropuerto Sabiha Gökçen. El accidente causó 3 muertos y 179 heridos.",
     "eventDescriptionIt": "Il volo 2193 della Pegasus Airlines, in rotta da Smirne a Istanbul, è uscito di pista e si è spezzato durante l'atterraggio all'aeroporto di Sabiha Gökçen. L'incidente ha causato 3 morti e 179 feriti."
+},{
+    "eventId": "1196",
+    "eventCategory": "HISTORY",
+    "eventDate": "1952/02/06",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Elizabeth II became the Queen of the United Kingdom upon the death of her father, King George VI.",
+    "eventDescriptionTr": "II. Elizabeth, babası Kral VI. George'un ölümü üzerine Birleşik Krallık Kraliçesi oldu.",
+    "eventDescriptionFr": "Elizabeth II est devenue la reine du Royaume-Uni à la mort de son père, le roi George VI.",
+    "eventDescriptionDe": "Elisabeth II. wurde zur Königin des Vereinigten Königreichs, nachdem ihr Vater, König Georg VI., verstarb.",
+    "eventDescriptionEs": "Isabel II se convirtió en la reina del Reino Unido tras la muerte de su padre, el rey Jorge VI.",
+    "eventDescriptionIt": "Elisabetta II divenne la regina del Regno Unito alla morte di suo padre, il re Giorgio VI."
 }
+
 
 
 
