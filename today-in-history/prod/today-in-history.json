@@ -48,7 +48,20 @@
     "eventDescriptionDe": "Der Freundschaftsvertrag zwischen der Türkei und Frankreich wurde unterzeichnet, wodurch die Feindseligkeiten zwischen den beiden Nationen offiziell beendet und der Rückzug der französischen Truppen aus den türkischen Gebieten eingeleitet wurde.",
     "eventDescriptionEs": "Se firmó el Tratado de Amistad entre Turquía y Francia, poniendo fin oficialmente a las hostilidades entre ambas naciones y llevando a la retirada de las fuerzas francesas de los territorios turcos.",
     "eventDescriptionIt": "Il Trattato di Amicizia tra Turchia e Francia è stato firmato, ponendo ufficialmente fine alle ostilità tra le due nazioni e portando al ritiro delle forze francesi dai territori turchi."
+},{
+    "eventId": "1194",
+    "eventCategory": "HISTORY",
+    "eventDate": "1815/02/03",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The first cheese factory was established in Switzerland, marking the beginning of industrial cheese production in the country.",
+    "eventDescriptionTr": "İsviçre'de ilk peynir fabrikası kuruldu ve ülkede endüstriyel peynir üretiminin başlangıcını işaret etti.",
+    "eventDescriptionFr": "La première fromagerie a été fondée en Suisse, marquant le début de la production industrielle de fromage dans le pays.",
+    "eventDescriptionDe": "Die erste Käsefabrik wurde in der Schweiz gegründet und markierte den Beginn der industriellen Käseproduktion im Land.",
+    "eventDescriptionEs": "Se estableció la primera fábrica de queso en Suiza, marcando el comienzo de la producción industrial de queso en el país.",
+    "eventDescriptionIt": "La prima fabbrica di formaggio fu fondata in Svizzera, segnando l'inizio della produzione industriale di formaggio nel paese."
 }
+
 
 
 
