@@ -144,7 +144,20 @@
     "eventDescriptionDe": "Aufgrund des außergewöhnlichen Heldentums der Bevölkerung während des türkischen Unabhängigkeitskrieges verlieh die Große Nationalversammlung der Türkei der Stadt Antep den Titel 'Gazi' (Veteran) und änderte ihren Namen in Gaziantep.",
     "eventDescriptionEs": "Debido al heroísmo excepcional mostrado por el pueblo durante la Guerra de Independencia de Turquía, la Gran Asamblea Nacional de Turquía otorgó a la ciudad de Antep el título de 'Gazi' (veterano), cambiando su nombre a Gaziantep.",
     "eventDescriptionIt": "A causa dell'eroismo straordinario dimostrato dalla popolazione durante la Guerra d'Indipendenza turca, la Grande Assemblea Nazionale della Turchia conferì alla città di Antep il titolo di 'Gazi' (veterano), cambiando il suo nome in Gaziantep."
+},{
+    "eventId": "1202",
+    "eventCategory": "HISTORY",
+    "eventDate": "1974/02/28",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "The Writers' Union of Turkey (Türkiye Yazarlar Sendikası) was founded.",
+    "eventDescriptionTr": "Türkiye Yazarlar Sendikası kuruldu.",
+    "eventDescriptionFr": "Le Syndicat des écrivains de Turquie (Türkiye Yazarlar Sendikası) a été fondé.",
+    "eventDescriptionDe": "Die Schriftstellergewerkschaft der Türkei (Türkiye Yazarlar Sendikası) wurde gegründet.",
+    "eventDescriptionEs": "Se fundó el Sindicato de Escritores de Turquía (Türkiye Yazarlar Sendikası).",
+    "eventDescriptionIt": "È stato fondato il Sindacato degli Scrittori della Turchia (Türkiye Yazarlar Sendikası)."
 }
+
 
 
 
