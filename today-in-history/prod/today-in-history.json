@@ -468,7 +468,20 @@
     "eventDescriptionDe": "Die Türkische Luftfahrtgesellschaft, die später den Namen 'Türk Hava Kurumu' erhalten wird, wird gegründet, um die zivile und militärische Luftfahrt in der Türkei zu unterstützen.",
     "eventDescriptionEs": "Se funda la Sociedad de Aviación Turca, que más tarde será conocida como 'Türk Hava Kurumu', para apoyar la aviación civil y militar en Turquía.",
     "eventDescriptionIt": "Viene fondata la Società di Aviazione Turca, che in seguito prenderà il nome di 'Türk Hava Kurumu', per supportare l'aviazione civile e militare in Turchia."
+},{
+    "eventId": "1229",
+    "eventCategory": "HISTORY",
+    "eventDate": "1968/02/16",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "In Haleyville, Alabama, the first 9-1-1 emergency telephone system goes into service.",
+    "eventDescriptionTr": "Alabama'nın Haleyville şehrinde, ilk 9-1-1 acil telefon sistemi hizmete girdi.",
+    "eventDescriptionFr": "À Haleyville, en Alabama, le premier système téléphonique d'urgence 9-1-1 entre en service.",
+    "eventDescriptionDe": "In Haleyville, Alabama, wird das erste Notrufsystem 9-1-1 in Betrieb genommen.",
+    "eventDescriptionEs": "En Haleyville, Alabama, entra en servicio el primer sistema telefónico de emergencia 9-1-1.",
+    "eventDescriptionIt": "A Haleyville, Alabama, entra in servizio il primo sistema telefonico di emergenza 9-1-1."
 }
+
 
 
 
