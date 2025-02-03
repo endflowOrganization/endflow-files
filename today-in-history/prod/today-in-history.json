@@ -480,7 +480,20 @@
     "eventDescriptionDe": "In Haleyville, Alabama, wird das erste Notrufsystem 9-1-1 in Betrieb genommen.",
     "eventDescriptionEs": "En Haleyville, Alabama, entra en servicio el primer sistema telefónico de emergencia 9-1-1.",
     "eventDescriptionIt": "A Haleyville, Alabama, entra in servizio il primo sistema telefonico di emergenza 9-1-1."
+},{
+    "eventId": "1230",
+    "eventCategory": "HISTORY",
+    "eventDate": "1918/02/16",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The Council of Lithuania unanimously adopts the Act of Independence, declaring Lithuania an independent state.",
+    "eventDescriptionTr": "Litvanya Konseyi, Litvanya'yı bağımsız bir devlet olarak ilan eden Bağımsızlık Yasasını oybirliğiyle kabul etti.",
+    "eventDescriptionFr": "Le Conseil de Lituanie adopte à l'unanimité l'Acte d'Indépendance, déclarant la Lituanie un État indépendant.",
+    "eventDescriptionDe": "Der Rat von Litauen verabschiedet einstimmig das Unabhängigkeitserklärungsgesetz und erklärt Litauen zum unabhängigen Staat.",
+    "eventDescriptionEs": "El Consejo de Lituania adopta por unanimidad la Ley de Independencia, declarando a Lituania como un estado independiente.",
+    "eventDescriptionIt": "Il Consiglio di Lituania adotta all'unanimità l'Atto di Indipendenza, dichiarando la Lituania uno stato indipendente."
 }
+
 
 
 
