@@ -492,7 +492,20 @@
     "eventDescriptionDe": "Der Rat von Litauen verabschiedet einstimmig das Unabhängigkeitserklärungsgesetz und erklärt Litauen zum unabhängigen Staat.",
     "eventDescriptionEs": "El Consejo de Lituania adopta por unanimidad la Ley de Independencia, declarando a Lituania como un estado independiente.",
     "eventDescriptionIt": "Il Consiglio di Lituania adotta all'unanimità l'Atto di Indipendenza, dichiarando la Lituania uno stato indipendente."
+},{
+    "eventId": "1231",
+    "eventCategory": "HISTORY",
+    "eventDate": "1956/02/17",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "The name of the Çoruh province was changed to Artvin.",
+    "eventDescriptionTr": "Çoruh ilinin adı Artvin olarak değiştirildi.",
+    "eventDescriptionFr": "Le nom de la province de Çoruh a été changé en Artvin.",
+    "eventDescriptionDe": "Der Name der Provinz Çoruh wurde in Artvin geändert.",
+    "eventDescriptionEs": "El nombre de la provincia de Çoruh se cambió a Artvin.",
+    "eventDescriptionIt": "Il nome della provincia di Çoruh è stato cambiato in Artvin."
 }
+
 
 
 
