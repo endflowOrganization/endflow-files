@@ -156,7 +156,20 @@
     "eventDescriptionDe": "Die Schriftstellergewerkschaft der Türkei (Türkiye Yazarlar Sendikası) wurde gegründet.",
     "eventDescriptionEs": "Se fundó el Sindicato de Escritores de Turquía (Türkiye Yazarlar Sendikası).",
     "eventDescriptionIt": "È stato fondato il Sindacato degli Scrittori della Turchia (Türkiye Yazarlar Sendikası)."
+},{
+    "eventId": "1203",
+    "eventCategory": "POLITICS",
+    "eventDate": "1902/02/04",
+    "eventImg": "",
+    "eventRegion": "TR, FR",
+    "eventDescriptionEn": "The First Young Turks Congress was held in Paris.",
+    "eventDescriptionTr": "Paris'te, Birinci Jön Türk Kongresi yapıldı.",
+    "eventDescriptionFr": "Le premier congrès des Jeunes-Turcs s'est tenu à Paris.",
+    "eventDescriptionDe": "Der erste Jungtürkische Kongress fand in Paris statt.",
+    "eventDescriptionEs": "Se celebró en París el Primer Congreso de los Jóvenes Turcos.",
+    "eventDescriptionIt": "Si tenne a Parigi il Primo Congresso dei Giovani Turchi."
 }
+
 
 
 
