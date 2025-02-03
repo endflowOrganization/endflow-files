@@ -252,7 +252,20 @@
     "eventDescriptionDe": "Die Nationalistische Bewegungspartei (MHP) wurde von Alparslan Türkeş gegründet.",
     "eventDescriptionEs": "El Partido del Movimiento Nacionalista (MHP) fue fundado por Alparslan Türkeş.",
     "eventDescriptionIt": "Il Partito del Movimento Nazionalista (MHP) è stato fondato da Alparslan Türkeş."
+},{
+    "eventId": "1211",
+    "eventCategory": "POLITICS",
+    "eventDate": "1934/02/09",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "The Balkan Pact was signed in Athens between Turkey, Greece, Yugoslavia, and Romania.",
+    "eventDescriptionTr": "Balkan Antantı; Türkiye, Yunanistan, Yugoslavya ve Romanya arasında Atina'da imzalandı.",
+    "eventDescriptionFr": "Le Pacte balkanique a été signé à Athènes entre la Turquie, la Grèce, la Yougoslavie et la Roumanie.",
+    "eventDescriptionDe": "Der Balkanpakt wurde in Athen zwischen der Türkei, Griechenland, Jugoslawien und Rumänien unterzeichnet.",
+    "eventDescriptionEs": "El Pacto de los Balcanes fue firmado en Atenas entre Turquía, Grecia, Yugoslavia y Rumania.",
+    "eventDescriptionIt": "Il Patto Balcanico è stato firmato ad Atene tra Turchia, Grecia, Jugoslavia e Romania."
 }
+
 
 
 
