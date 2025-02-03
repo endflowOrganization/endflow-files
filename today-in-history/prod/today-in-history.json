@@ -168,21 +168,19 @@
     "eventDescriptionDe": "Der erste Jungtürkische Kongress fand in Paris statt.",
     "eventDescriptionEs": "Se celebró en París el Primer Congreso de los Jóvenes Turcos.",
     "eventDescriptionIt": "Si tenne a Parigi il Primo Congresso dei Giovani Turchi."
+},{
+    "eventId": "1204",
+    "eventCategory": "POLITICS",
+    "eventDate": "1948/02/04",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Ceylon (later renamed Sri Lanka) becomes independent within the British Commonwealth.",
+    "eventDescriptionTr": "Seylan (daha sonra Sri Lanka olarak yeniden adlandırıldı), Britanya Milletler Topluluğu içinde bağımsızlığını kazandı.",
+    "eventDescriptionFr": "Ceylan (plus tard renommé Sri Lanka) devient indépendant au sein du Commonwealth britannique.",
+    "eventDescriptionDe": "Ceylon (später in Sri Lanka umbenannt) wird innerhalb des Britischen Commonwealth unabhängig.",
+    "eventDescriptionEs": "Ceilán (posteriormente renombrado Sri Lanka) se independiza dentro de la Commonwealth británica.",
+    "eventDescriptionIt": "Ceylon (poi rinominato Sri Lanka) diventa indipendente all'interno del Commonwealth britannico."
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ]}
