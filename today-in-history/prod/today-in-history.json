@@ -312,7 +312,20 @@
     "eventDescriptionDe": "Das Mehlmassaker (auch als Al-Rashid-Massaker bekannt) ereignete sich in der Al-Rashid-Straße am Al-Nabulsi-Kreisverkehr westlich von Gaza-Stadt im palästinensischen Gebiet des Gazastreifens, wo mehr als 100 Palästinenser getötet und über 750 verletzt wurden, nachdem israelische Streitkräfte auf Palästinenser schossen, die auf humanitäre Hilfe warteten, während des Israel-Hamas-Krieges.",
     "eventDescriptionEs": "La masacre de la harina (también conocida como la masacre de Al-Rashid) tuvo lugar en la calle Al-Rashid en la rotonda de Al-Nabulsi, al oeste de la ciudad de Gaza, en el territorio palestino de la Franja de Gaza, donde más de 100 palestinos fueron asesinados y más de 750 resultaron heridos después de que las fuerzas israelíes abrieran fuego contra palestinos que esperaban ayuda humanitaria en medio de la guerra entre Israel y Hamás.",
     "eventDescriptionIt": "Il massacro della farina (noto anche come massacro di Al-Rashid) è avvenuto in via Al-Rashid presso la rotonda di Al-Nabulsi, a ovest della città di Gaza, nel territorio palestinese della Striscia di Gaza, dove più di 100 palestinesi sono stati uccisi e oltre 750 feriti dopo che le forze israeliane hanno aperto il fuoco sui palestinesi in attesa di aiuti umanitari nel mezzo della guerra Israele-Hamas."
+},{
+    "eventId": "1216",
+    "eventCategory": "HISTORY",
+    "eventDate": "2020/02/29",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The United States and the Taliban sign the Doha Agreement for Afghanistan, aimed at ending the war in Afghanistan and leading to the withdrawal of U.S. troops from the country.",
+    "eventDescriptionTr": "Amerika Birleşik Devletleri ve Taliban, Afganistan'daki savaşı sona erdirmeyi ve ABD askerlerinin ülkeden çekilmesini sağlamayı amaçlayan Doha Anlaşması'nı imzaladı.",
+    "eventDescriptionFr": "Les États-Unis et les talibans signent l'Accord de Doha pour l'Afghanistan, visant à mettre fin à la guerre en Afghanistan et à entraîner le retrait des troupes américaines du pays.",
+    "eventDescriptionDe": "Die Vereinigten Staaten und die Taliban unterzeichnen das Doha-Abkommen für Afghanistan, das darauf abzielt, den Krieg in Afghanistan zu beenden und den Abzug der US-Truppen aus dem Land zu führen.",
+    "eventDescriptionEs": "Estados Unidos y los talibanes firman el Acuerdo de Doha para Afganistán, con el objetivo de poner fin a la guerra en Afganistán y llevar al retiro de las tropas estadounidenses del país.",
+    "eventDescriptionIt": "Gli Stati Uniti e i talebani firmano l'Accordo di Doha per l'Afghanistan, finalizzato a porre fine alla guerra in Afghanistan e a portare al ritiro delle truppe statunitensi dal paese."
 }
+
 
 
 
