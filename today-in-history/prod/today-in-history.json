@@ -420,7 +420,20 @@
     "eventDescriptionDe": "Türkischer Unabhängigkeitskrieg: Die türkischen Streitkräfte übernahmen die Kontrolle über Kahramanmaraş, das unter französischer Herrschaft stand, und feierten den Sieg mit einem Nationalfeiertag.",
     "eventDescriptionEs": "Guerra de Independencia de Turquía: Las Fuerzas Armadas Turcas tomaron el control de Kahramanmaraş, que estaba bajo dominio francés, y celebraron la victoria con un día festivo nacional.",
     "eventDescriptionIt": "Guerra di Indipendenza turca: Le forze armate turche presero il controllo di Kahramanmaraş, che era sotto il dominio francese, e celebrarono la vittoria con una festa nazionale."
+},{
+    "eventId": "1225",
+    "eventCategory": "TECH",
+    "eventDate": "1946/02/14",
+    "eventImg": "https://todayinhistory.life/img/february/eniac.jpg",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The first general-purpose electronic computer, ENIAC (Electronic Numerical Integrator and Computer), is introduced at the University of Pennsylvania.",
+    "eventDescriptionTr": "İlk genel amaçlı elektronik bilgisayar ENIAC (Electronic Numerical Integrator and Computer), Pensilvanya Üniversitesi'nde tanıtıldı.",
+    "eventDescriptionFr": "Le premier ordinateur électronique à usage général, l'ENIAC (Electronic Numerical Integrator and Computer), est présenté à l'Université de Pennsylvanie.",
+    "eventDescriptionDe": "Der erste elektronische Allzweck-Computer, ENIAC (Electronic Numerical Integrator and Computer), wird an der Universität von Pennsylvania vorgestellt.",
+    "eventDescriptionEs": "Se presenta la primera computadora electrónica de propósito general, ENIAC (Electronic Numerical Integrator and Computer), en la Universidad de Pensilvania.",
+    "eventDescriptionIt": "Il primo computer elettronico a uso generale, ENIAC (Electronic Numerical Integrator and Computer), viene presentato all'Università della Pennsylvania."
 }
+
 
 
 ]}
