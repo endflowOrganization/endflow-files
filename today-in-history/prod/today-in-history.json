@@ -204,6 +204,19 @@
     "eventDescriptionDe": "Der Weltgipfel gegen Krebs für das neue Jahrtausend, die Charta von Paris, wird vom französischen Präsidenten Jacques Chirac und dem Generaldirektor der UNESCO, Koichiro Matsuura, unterzeichnet. Diese Initiative etabliert den Weltkrebstag, der jährlich am 4. Februar begangen wird.",
     "eventDescriptionEs": "La Cumbre Mundial contra el Cáncer para el Nuevo Milenio, la Carta de París, es firmada por el presidente de Francia, Jacques Chirac, y el director general de la UNESCO, Koichiro Matsuura. Esta iniciativa establece el Día Mundial contra el Cáncer, celebrado anualmente el 4 de febrero.",
     "eventDescriptionIt": "Il Vertice Mondiale contro il Cancro per il Nuovo Millennio, la Carta di Parigi, viene firmato dal Presidente della Francia, Jacques Chirac, e dal Direttore Generale dell'UNESCO, Koichiro Matsuura. Questa iniziativa istituisce la Giornata Mondiale contro il Cancro, celebrata ogni anno il 4 febbraio."
+},{
+    "eventId": "1207",
+    "eventCategory": "SCIENCE",
+    "eventDate": "1971/02/05",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Astronauts Alan Shepard, Edgar Mitchell, and Stuart Roosa of Apollo 14 land on the Moon, making it the third successful manned mission to the Moon.",
+    "eventDescriptionTr": "Apollo 14 astronotları Alan Shepard, Edgar Mitchell ve Stuart Roosa Ay'a iniş yaparak Ay'a yapılan üçüncü başarılı insanlı görevi gerçekleştirdi.",
+    "eventDescriptionFr": "Les astronautes Alan Shepard, Edgar Mitchell et Stuart Roosa de la mission Apollo 14 atterrissent sur la Lune, devenant ainsi la troisième mission habitée réussie sur la Lune.",
+    "eventDescriptionDe": "Die Astronauten Alan Shepard, Edgar Mitchell und Stuart Roosa der Apollo-14-Mission landen auf dem Mond und machen dies zur dritten erfolgreichen bemannten Mondmission.",
+    "eventDescriptionEs": "Los astronautas Alan Shepard, Edgar Mitchell y Stuart Roosa de la misión Apollo 14 aterrizan en la Luna, convirtiéndola en la tercera misión tripulada exitosa en la Luna.",
+    "eventDescriptionIt": "Gli astronauti Alan Shepard, Edgar Mitchell e Stuart Roosa della missione Apollo 14 atterrano sulla Luna, diventando la terza missione umana riuscita sulla Luna."
 }
+
 
 ]}
