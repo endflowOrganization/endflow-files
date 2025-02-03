@@ -216,7 +216,20 @@
     "eventDescriptionDe": "Die Astronauten Alan Shepard, Edgar Mitchell und Stuart Roosa der Apollo-14-Mission landen auf dem Mond und machen dies zur dritten erfolgreichen bemannten Mondmission.",
     "eventDescriptionEs": "Los astronautas Alan Shepard, Edgar Mitchell y Stuart Roosa de la misión Apollo 14 aterrizan en la Luna, convirtiéndola en la tercera misión tripulada exitosa en la Luna.",
     "eventDescriptionIt": "Gli astronauti Alan Shepard, Edgar Mitchell e Stuart Roosa della missione Apollo 14 atterrano sulla Luna, diventando la terza missione umana riuscita sulla Luna."
+},{
+    "eventId": "1208",
+    "eventCategory": "POLITICS",
+    "eventDate": "1937/02/05",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "With the amendment of Article 2 of the Constitution, six principles were incorporated into the constitutional text: The Turkish State is Republican, Nationalist, Populist, Statist, Secular, and Reformist. Its official language is Turkish. The capital is Ankara.",
+    "eventDescriptionTr": "Anayasa'nın 2. maddesinde yapılan değişiklikle, altı ilke Anayasa metnine girdi: Türkiye Devleti Cumhuriyetçi, Milliyetçi, Halkçı, Devletçi, Laik ve İnkılapçıdır. Resmi dili Türkçedir. Makam Ankara şehridir.",
+    "eventDescriptionFr": "Avec la modification de l'article 2 de la Constitution, six principes ont été incorporés dans le texte constitutionnel : L'État turc est Républicain, Nationaliste, Populiste, Étatiste, Laïque et Réformiste. Sa langue officielle est le turc. La capitale est Ankara.",
+    "eventDescriptionDe": "Mit der Änderung von Artikel 2 der Verfassung wurden sechs Prinzipien in den Verfassungstext aufgenommen: Der türkische Staat ist Republikanisch, Nationalistisch, Volkstümlich, Etatistisch, Säkular und Reformistisch. Die Amtssprache ist Türkisch. Die Hauptstadt ist Ankara.",
+    "eventDescriptionEs": "Con la enmienda del artículo 2 de la Constitución, seis principios se incorporaron al texto constitucional: El Estado turco es Republicano, Nacionalista, Populista, Estatista, Laico y Reformista. Su idioma oficial es el turco. La capital es Ankara.",
+    "eventDescriptionIt": "Con la modifica dell'articolo 2 della Costituzione, sei principi sono stati incorporati nel testo costituzionale: Lo Stato turco è Repubblicano, Nazionalista, Populista, Statista, Laico e Riformista. La sua lingua ufficiale è il turco. La capitale è Ankara."
 }
+
 
 
 ]}
