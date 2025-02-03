@@ -360,7 +360,20 @@
     "eventDescriptionDe": "Buster Douglas, ein Außenseiter mit einer Quote von 42:1, schlägt Mike Tyson in der zehnten Runde in Tokio aus und gewinnt den Weltmeistertitel im Schwergewicht.",
     "eventDescriptionEs": "Buster Douglas, un desvalido de 42:1, noquea a Mike Tyson en diez rondas en Tokio para ganar el título mundial de peso pesado de boxeo.",
     "eventDescriptionIt": "Buster Douglas, un perdente con una quota di 42:1, abbatte Mike Tyson al decimo round a Tokyo per vincere il titolo mondiale dei pesi massimi nel pugilato."
+},{
+    "eventId": "1220",
+    "eventCategory": "HISTORY",
+    "eventDate": "1990/02/11",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Nelson Mandela is released from Victor Verster Prison outside Cape Town, South Africa after 27 years as a political prisoner.",
+    "eventDescriptionTr": "Nelson Mandela, Güney Afrika'nın Cape Town şehri dışındaki Victor Verster Hapishanesi'nden 27 yıl süren siyasi tutukluluğunun ardından serbest bırakıldı.",
+    "eventDescriptionFr": "Nelson Mandela est libéré de la prison de Victor Verster, près du Cap, en Afrique du Sud, après 27 ans de détention en tant que prisonnier politique.",
+    "eventDescriptionDe": "Nelson Mandela wird nach 27 Jahren als politischer Gefangener aus dem Victor-Verster-Gefängnis außerhalb von Kapstadt, Südafrika, freigelassen.",
+    "eventDescriptionEs": "Nelson Mandela es liberado de la prisión de Victor Verster, cerca de Ciudad del Cabo, Sudáfrica, después de 27 años como prisionero político.",
+    "eventDescriptionIt": "Nelson Mandela viene rilasciato dalla prigione di Victor Verster, appena fuori Città del Capo, Sudafrica, dopo 27 anni da prigioniero politico."
 }
+
 
 
 
