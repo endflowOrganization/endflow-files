@@ -372,7 +372,33 @@
     "eventDescriptionDe": "Nelson Mandela wird nach 27 Jahren als politischer Gefangener aus dem Victor-Verster-Gefängnis außerhalb von Kapstadt, Südafrika, freigelassen.",
     "eventDescriptionEs": "Nelson Mandela es liberado de la prisión de Victor Verster, cerca de Ciudad del Cabo, Sudáfrica, después de 27 años como prisionero político.",
     "eventDescriptionIt": "Nelson Mandela viene rilasciato dalla prigione di Victor Verster, appena fuori Città del Capo, Sudafrica, dopo 27 anni da prigioniero politico."
+},{
+    "eventId": "1221",
+    "eventCategory": "MUSIC",
+    "eventDate": "1963/02/11",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The Beatles recorded their first album 'Please Please Me'.",
+    "eventDescriptionTr": "The Beatles, ilk albümleri 'Please Please Me'yi kaydetti.",
+    "eventDescriptionFr": "Les Beatles ont enregistré leur premier album 'Please Please Me'.",
+    "eventDescriptionDe": "Die Beatles nahmen ihr erstes Album 'Please Please Me' auf.",
+    "eventDescriptionEs": "The Beatles grabaron su primer álbum 'Please Please Me'.",
+    "eventDescriptionIt": "I Beatles hanno registrato il loro primo album 'Please Please Me'."
+},{
+    "eventId": "1222",
+    "eventCategory": "",
+    "eventDate": "2015/02/11",
+    "eventImg": "",
+    "eventRegion": "HISTORY",
+    "eventDescriptionEn": "University student Özgecan Aslan was raped and murdered.",
+    "eventDescriptionTr": "Üniversite öğrencisi Özgecan Aslan, tecavüze uğrayarak öldürüldü.",
+    "eventDescriptionFr": "L'étudiante universitaire Özgecan Aslan a été violée et tuée.",
+    "eventDescriptionDe": "Die Universitätsstudentin Özgecan Aslan wurde vergewaltigt und ermordet.",
+    "eventDescriptionEs": "La estudiante universitaria Özgecan Aslan fue violada y asesinada.",
+    "eventDescriptionIt": "La studentessa universitaria Özgecan Aslan è stata violentata e uccisa."
 }
+
+
 
 
 
