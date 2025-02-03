@@ -288,7 +288,20 @@
     "eventDescriptionDe": "Halit Pascha, einer der Kommandeure des Türkischen Unabhängigkeitskrieges, wurde im Parlament versehentlich von Ali Çetinkaya angeschossen und verwundet. Er erlag seinen Verletzungen am 14. Februar 1925.",
     "eventDescriptionEs": "Halit Pasha, uno de los comandantes de la Guerra de Independencia de Turquía, fue herido accidentalmente por Ali Çetinkaya en la Gran Asamblea Nacional. Falleció a causa de sus heridas el 14 de febrero de 1925.",
     "eventDescriptionIt": "Halit Pasha, uno dei comandanti della Guerra d'Indipendenza Turca, fu accidentalmente ferito da Ali Çetinkaya nella Grande Assemblea Nazionale. Morì per le ferite riportate il 14 febbraio 1925."
+},{
+    "eventId": "1214",
+    "eventCategory": "POLITICS",
+    "eventDate": "1947/02/10",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The Paris Peace Treaties are signed by Italy, Romania, Hungary, Bulgaria, Finland and the Allies of World War II.",
+    "eventDescriptionTr": "Paris Barış Antlaşmaları, İtalya, Romanya, Macaristan, Bulgaristan, Finlandiya ve II. Dünya Savaşı'nın Müttefikleri tarafından imzalandı.",
+    "eventDescriptionFr": "Les traités de paix de Paris sont signés par l'Italie, la Roumanie, la Hongrie, la Bulgarie, la Finlande et les Alliés de la Seconde Guerre mondiale.",
+    "eventDescriptionDe": "Die Pariser Friedensverträge werden von Italien, Rumänien, Ungarn, Bulgarien, Finnland und den Alliierten des Zweiten Weltkriegs unterzeichnet.",
+    "eventDescriptionEs": "Los Tratados de Paz de París son firmados por Italia, Rumania, Hungría, Bulgaria, Finlandia y los Aliados de la Segunda Guerra Mundial.",
+    "eventDescriptionIt": "I Trattati di Pace di Parigi sono firmati da Italia, Romania, Ungheria, Bulgaria, Finlandia e dagli Alleati della Seconda Guerra Mondiale."
 }
+
 
 
 
