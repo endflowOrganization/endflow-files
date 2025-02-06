@@ -528,7 +528,20 @@
     "eventDescriptionDe": "Die Beatles landen zum ersten Mal in den Vereinigten Staaten am neu benannten John F. Kennedy International Airport.",
     "eventDescriptionEs": "Los Beatles aterrizan en los Estados Unidos por primera vez, en el recién renombrado Aeropuerto Internacional John F. Kennedy.",
     "eventDescriptionIt": "I Beatles atterrano negli Stati Uniti per la prima fois, al recentemente rinominato Aeroporto Internazionale John F. Kennedy."
+},{
+    "eventId": "1234",
+    "eventCategory": "HISTORY",
+    "eventDate": "1974/02/07",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Grenada gains independence from the United Kingdom.",
+    "eventDescriptionTr": "Grenada, Birleşik Krallık'tan bağımsızlığını kazandı.",
+    "eventDescriptionFr": "Grenade obtient son indépendance du Royaume-Uni.",
+    "eventDescriptionDe": "Grenada erlangt die Unabhängigkeit vom Vereinigten Königreich.",
+    "eventDescriptionEs": "Granada obtiene la independencia del Reino Unido.",
+    "eventDescriptionIt": "Grenada ottiene l'indipendenza dal Regno Unito."
 }
+
 
 
 
