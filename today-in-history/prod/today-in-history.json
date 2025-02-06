@@ -504,7 +504,20 @@
     "eventDescriptionDe": "Der Name der Provinz Çoruh wurde in Artvin geändert.",
     "eventDescriptionEs": "El nombre de la provincia de Çoruh se cambió a Artvin.",
     "eventDescriptionIt": "Il nome della provincia di Çoruh è stato cambiato in Artvin."
+},{
+    "eventId": "1232",
+    "eventCategory": "HISTORY",
+    "eventDate": "1900/03/06",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "A Chinese immigrant in San Francisco falls ill to bubonic plague in the first plague epidemic in the continental United States.",
+    "eventDescriptionTr": "San Francisco'da bir Çinli göçmen, Amerika Birleşik Devletleri ana karasındaki ilk veba salgınında hıyarcıklı vebaya yakalandı.",
+    "eventDescriptionFr": "Un immigrant chinois à San Francisco tombe malade de la peste bubonique lors de la première épidémie de peste sur le continent des États-Unis.",
+    "eventDescriptionDe": "Ein chinesischer Einwanderer in San Francisco erkrankt an der Beulenpest während der ersten Pestepidemie auf dem Festland der Vereinigten Staaten.",
+    "eventDescriptionEs": "Un inmigrante chino en San Francisco cae enfermo de peste bubónica en la primera epidemia de peste en el territorio continental de los Estados Unidos.",
+    "eventDescriptionIt": "Un immigrato cinese a San Francisco si ammala di peste bubbonica nella prima epidemia di peste negli Stati Uniti continentali."
 }
+
 
 
 
