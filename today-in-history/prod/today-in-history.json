@@ -540,7 +540,20 @@
     "eventDescriptionDe": "Grenada erlangt die Unabhängigkeit vom Vereinigten Königreich.",
     "eventDescriptionEs": "Granada obtiene la independencia del Reino Unido.",
     "eventDescriptionIt": "Grenada ottiene l'indipendenza dal Regno Unito."
+},{
+    "eventId": "1235",
+    "eventCategory": "HISTORY",
+    "eventDate": "1945/02/08",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "World War II: Mikhail Devyataev escapes with nine other Soviet POWs from a Nazi concentration camp in Peenemünde, Usedom.",
+    "eventDescriptionTr": "II. Dünya Savaşı: Mihail Devyataev, Peenemünde, Usedom'daki bir Nazi toplama kampından dokuz diğer Sovyet savaş esiriyle birlikte kaçtı.",
+    "eventDescriptionRu": "Вторая мировая война: Михаил Девятаев бежал с девятью другими советскими военнопленными из нацистского концентрационного лагеря в Пенемюнде, Узедом.",
+    "eventDescriptionDe": "Zweiter Weltkrieg: Mikhail Devyataev entkommt mit neun anderen sowjetischen Kriegsgefangenen aus einem Nazi-Konzentrationslager in Peenemünde, Usedom.",
+    "eventDescriptionFr": "Seconde Guerre mondiale : Mikhail Devyataev s'échappe avec neuf autres prisonniers de guerre soviétiques d'un camp de concentration nazi à Peenemünde, Usedom.",
+    "eventDescriptionEs": "Segunda Guerra Mundial: Mikhail Devyataev escapa junto con otros nueve prisioneros de guerra soviéticos de un campo de concentración nazi en Peenemünde, Usedom."
 }
+
 
 
 
