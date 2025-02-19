@@ -600,7 +600,20 @@
     "eventDescriptionEs": "La construcción del Puente del Bósforo fue iniciada ceremoniosamente por el presidente turco Cevdet Sunay y el primer ministro Süleyman Demirel. El puente se completó en tres años y se inauguró el 29 de octubre de 1973.",
     "eventDescriptionDe": "Die Grundsteinlegung der Bosporus-Brücke erfolgte feierlich durch den türkischen Präsidenten Cevdet Sunay und Premierminister Süleyman Demirel. Die Brücke wurde in drei Jahren fertiggestellt und am 29. Oktober 1973 eröffnet.",
     "eventDescriptionRu": "Фундамент Босфорского моста был торжественно заложен президентом Турции Джевдетом Сунаем и премьер-министром Сулейманом Демирелем. Мост был завершён за три года и открыт 29 октября 1973 года."
+},{
+    "eventId": "1240",
+    "eventCategory": "PEOPLE",
+    "eventDate": "1898/02/20",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Enzo Ferrari, the founder of Ferrari, was born.",
+    "eventDescriptionTr": "Ferrari'nin kurucusu Enzo Ferrari doğdu.",
+    "eventDescriptionFr": "Enzo Ferrari, le fondateur de Ferrari, est né.",
+    "eventDescriptionEs": "Enzo Ferrari, el fundador de Ferrari, nació.",
+    "eventDescriptionDe": "Enzo Ferrari, der Gründer von Ferrari, wurde geboren.",
+    "eventDescriptionRu": "Энцо Феррари, основатель Ferrari, родился."
 }
+
 
 
 
