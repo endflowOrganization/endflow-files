@@ -648,7 +648,20 @@
     "eventDescriptionEs": "La revista Time presentó a Mustafa Kemal Atatürk en su portada por segunda vez.",
     "eventDescriptionDe": "Das Time-Magazin zeigte Mustafa Kemal Atatürk zum zweiten Mal auf dem Cover.",
     "eventDescriptionRu": "Журнал Time во второй раз поместил Мустафу Кемаля Ататюрка на обложку."
+},{
+    "eventId": "1244",
+    "eventCategory": "HISTORY",
+    "eventDate": "1885/02/21",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The newly completed Washington Monument is dedicated.",
+    "eventDescriptionTr": "Yeni tamamlanan Washington Anıtı adandı.",
+    "eventDescriptionFr": "Le monument de Washington nouvellement achevé est inauguré.",
+    "eventDescriptionEs": "El recién terminado Monumento a Washington es inaugurado.",
+    "eventDescriptionDe": "Das neu fertiggestellte Washington-Denkmal wird eingeweiht.",
+    "eventDescriptionIt": "Il Monumento a Washington, appena completato, viene inaugurato."
 }
+
 
 
 
