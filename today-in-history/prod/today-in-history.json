@@ -564,7 +564,21 @@
     "eventDescriptionEs": "Las Casas del Pueblo (Halkevleri) fueron establecidas en Turquía para promover la educación, la cultura y el desarrollo social.",
     "eventDescriptionDe": "Die Volksheime (Halkevleri) wurden in der Türkei gegründet, um Bildung, Kultur und soziale Entwicklung zu fördern.",
     "eventDescriptionRu": "В Турции были созданы Народные дома (Halkevleri) для содействия образованию, культуре и социальному развитию."
+},{
+    "eventId": "1237",
+    "eventCategory": "HISTORY",
+    "eventDate": "1914/02/20",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "The first electric tram service began operation in Istanbul.",
+    "eventDescriptionTr": "İstanbul'da ilk elektrikli tramvay sefere başladı.",
+    "eventDescriptionFr": "Le premier tramway électrique a commencé à circuler à Istanbul.",
+    "eventDescriptionEs": "El primer tranvía eléctrico comenzó a operar en Estambul.",
+    "eventDescriptionDe": "Die erste elektrische Straßenbahn nahm in Istanbul den Betrieb auf.",
+    "eventDescriptionRu": "В Стамбуле начал движение первый электрический трамвай."
 }
+
+
 
 
 
