@@ -612,7 +612,46 @@
     "eventDescriptionEs": "Enzo Ferrari, el fundador de Ferrari, nació.",
     "eventDescriptionDe": "Enzo Ferrari, der Gründer von Ferrari, wurde geboren.",
     "eventDescriptionRu": "Энцо Феррари, основатель Ferrari, родился."
+},{
+    "eventId": "1241",
+    "eventCategory": "FINANCE",
+    "eventDate": "2001/02/21",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "A major economic crisis, known as 'Black Wednesday' in Turkey, erupted. The overnight interest rate in the interbank money market surged to 6200%.",
+    "eventDescriptionTr": "Türkiye kamuoyunda 'Kara Çarşamba' olarak adlandırılan büyük bir ekonomik kriz patlak verdi. Bankalar arası para piyasasında gecelik faiz, %6200'e kadar çıktı.",
+    "eventDescriptionFr": "Une grande crise économique, connue sous le nom de 'Mercredi Noir' en Turquie, a éclaté. Le taux d'intérêt au jour le jour sur le marché monétaire interbancaire a grimpé à 6200%.",
+    "eventDescriptionEs": "Una gran crisis económica, conocida como 'Miércoles Negro' en Turquía, estalló. La tasa de interés nocturna en el mercado de dinero interbancario aumentó al 6200%.",
+    "eventDescriptionDe": "Eine große Wirtschaftskrise, bekannt als 'Schwarzer Mittwoch' in der Türkei, brach aus. Der Übernachtzinssatz auf dem Interbanken-Geldmarkt stieg auf 6200%.",
+    "eventDescriptionRu": "В Турции разразился крупный экономический кризис, известный как 'Черная среда'. Ночная процентная ставка на межбанковском денежном рынке выросла до 6200%."
+},{
+    "eventId": "1242",
+    "eventCategory": "PEOPLE",
+    "eventDate": "1965/02/21",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Malcolm X (Malik El-Shabazz) was assassinated in New York.",
+    "eventDescriptionTr": "Malcolm X (Malik El Şahbaz), New York'ta uğradığı bir suikast sonucu öldürüldü.",
+    "eventDescriptionFr": "Malcolm X (Malik El-Shabazz) a été assassiné à New York.",
+    "eventDescriptionEs": "Malcolm X (Malik El-Shabazz) fue asesinado en Nueva York.",
+    "eventDescriptionDe": "Malcolm X (Malik El-Shabazz) wurde in New York ermordet.",
+    "eventDescriptionRu": "Малкольм Икс (Малик Эль-Шабазз) был убит в Нью-Йорке."
+},{
+    "eventId": "1243",
+    "eventCategory": "HISTORY",
+    "eventDate": "1938/02/21",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Time magazine featured Mustafa Kemal Atatürk on its cover for the second time.",
+    "eventDescriptionTr": "Time dergisi, Mustafa Kemal Atatürk'ü ikinci kez kapak yaptı.",
+    "eventDescriptionFr": "Le magazine Time a mis Mustafa Kemal Atatürk en couverture pour la deuxième fois.",
+    "eventDescriptionEs": "La revista Time presentó a Mustafa Kemal Atatürk en su portada por segunda vez.",
+    "eventDescriptionDe": "Das Time-Magazin zeigte Mustafa Kemal Atatürk zum zweiten Mal auf dem Cover.",
+    "eventDescriptionRu": "Журнал Time во второй раз поместил Мустафу Кемаля Ататюрка на обложку."
 }
+
+
+
 
 
 
