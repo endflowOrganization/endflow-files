@@ -552,7 +552,20 @@
     "eventDescriptionDe": "Zweiter Weltkrieg: Mikhail Devyataev entkommt mit neun anderen sowjetischen Kriegsgefangenen aus einem Nazi-Konzentrationslager in Peenemünde, Usedom.",
     "eventDescriptionFr": "Seconde Guerre mondiale : Mikhail Devyataev s'échappe avec neuf autres prisonniers de guerre soviétiques d'un camp de concentration nazi à Peenemünde, Usedom.",
     "eventDescriptionEs": "Segunda Guerra Mundial: Mikhail Devyataev escapa junto con otros nueve prisioneros de guerra soviéticos de un campo de concentración nazi en Peenemünde, Usedom."
+},{
+    "eventId": "1236",
+    "eventCategory": "HISTORY",
+    "eventDate": "1932/02/19",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "The People's Houses (Halkevleri) were established in Turkey to promote education, culture, and social development.",
+    "eventDescriptionTr": "Eğitim, kültür ve sosyal gelişimi teşvik etmek amacıyla Türkiye'de Halkevleri kuruldu.",
+    "eventDescriptionFr": "Les Maisons du Peuple (Halkevleri) ont été établies en Turquie pour promouvoir l'éducation, la culture et le développement social.",
+    "eventDescriptionEs": "Las Casas del Pueblo (Halkevleri) fueron establecidas en Turquía para promover la educación, la cultura y el desarrollo social.",
+    "eventDescriptionDe": "Die Volksheime (Halkevleri) wurden in der Türkei gegründet, um Bildung, Kultur und soziale Entwicklung zu fördern.",
+    "eventDescriptionRu": "В Турции были созданы Народные дома (Halkevleri) для содействия образованию, культуре и социальному развитию."
 }
+
 
 
 
