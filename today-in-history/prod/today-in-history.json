@@ -768,7 +768,20 @@
     "eventDescriptionEs": "La Organización Internacional de Normalización (ISO) es fundada.",
     "eventDescriptionDe": "Die Internationale Organisation für Normung (ISO) wird gegründet.",
     "eventDescriptionIt": "L'Organizzazione Internazionale per la Standardizzazione (ISO) viene fondata."
+},{
+    "eventId": "1254",
+    "eventCategory": "HISTORY",
+    "eventDate": "1918/02/24",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "Trabzon is liberated from Russian and Armenian occupation.",
+    "eventDescriptionTr": "Trabzon, Rusya ve Ermeni işgalinden kurtuldu.",
+    "eventDescriptionFr": "Trebizonde est libéré de l'occupation russe et arménienne.",
+    "eventDescriptionEs": "Trabzon es liberado de la ocupación rusa y armenia.",
+    "eventDescriptionDe": "Trabzon wird von der russischen und armenischen Besatzung befreit.",
+    "eventDescriptionIt": "Trabzon è liberato dall'occupazione russa e armena."
 }
+
 
 
 
