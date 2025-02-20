@@ -672,6 +672,19 @@
     "eventDescriptionEs": "El gobierno británico, bajo Winston Churchill, elimina las tarjetas de identidad en el Reino Unido para 'liberar al pueblo'.",
     "eventDescriptionDe": "Die britische Regierung unter Winston Churchill schafft die Personalausweise im Vereinigten Königreich ab, um 'das Volk zu befreien'.",
     "eventDescriptionIt": "Il governo britannico, sotto Winston Churchill, abolisce le carte d'identità nel Regno Unito per 'liberare il popolo'."
+},{
+    "eventId": "1246",
+    "eventCategory": "SPORT",
+    "eventDate": "1948/02/21",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "NASCAR (National Association for Stock Car Auto Racing), the largest stock car racing organization based in the United States, was founded.",
+    "eventDescriptionTr": "NASCAR (National Association for Stock Car Auto Racing), Amerika Birleşik Devletleri merkezli en büyük stok otomobil yarışı organizasyonu kuruldu.",
+    "eventDescriptionFr": "NASCAR (National Association for Stock Car Auto Racing), la plus grande organisation de courses de stock-cars basée aux États-Unis, a été fondée.",
+    "eventDescriptionEs": "NASCAR (National Association for Stock Car Auto Racing), la organización de carreras de stock car más grande con sede en los Estados Unidos, fue fundada.",
+    "eventDescriptionDe": "NASCAR (National Association for Stock Car Auto Racing), die größte Stock-Car-Rennorganisation mit Sitz in den Vereinigten Staaten, wurde gegründet.",
+    "eventDescriptionIt": "NASCAR (National Association for Stock Car Auto Racing), la più grande organizzazione di corse di stock car con sede negli Stati Uniti, è stata fondata."
 }
+
 
 ]}
