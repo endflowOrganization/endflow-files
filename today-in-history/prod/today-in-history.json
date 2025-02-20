@@ -720,7 +720,20 @@
     "eventDescriptionEs": "Santa Lucía obtuvo su independencia del Reino Unido.",
     "eventDescriptionDe": "Saint Lucia erlangte die Unabhängigkeit von Großbritannien.",
     "eventDescriptionIt": "Saint Lucia ottenne l'indipendenza dal Regno Unito."
+},{
+    "eventId": "1250",
+    "eventCategory": "TECH",
+    "eventDate": "1893/02/23",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Rudolf Diesel patented the diesel engine.",
+    "eventDescriptionTr": "Rudolf Diesel, dizel motorunun patentini aldı.",
+    "eventDescriptionFr": "Rudolf Diesel a breveté le moteur diesel.",
+    "eventDescriptionEs": "Rudolf Diesel patentó el motor diésel.",
+    "eventDescriptionDe": "Rudolf Diesel patentierte den Dieselmotor.",
+    "eventDescriptionIt": "Rudolf Diesel brevettò il motore diesel."
 }
+
 
 
 
