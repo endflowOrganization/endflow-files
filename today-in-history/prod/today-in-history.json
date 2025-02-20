@@ -744,7 +744,33 @@
     "eventDescriptionEs": "Se lanzaron las redes de teléfonos móviles.",
     "eventDescriptionDe": "Mobilfunknetze wurden gestartet.",
     "eventDescriptionIt": "Le reti di telefonia mobile sono state lanciate."
+},{
+    "eventId": "1252",
+    "eventCategory": "HISTORY",
+    "eventDate": "1954/02/23",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The first mass inoculation of children against polio with the Salk vaccine begins in Pittsburgh.",
+    "eventDescriptionTr": "Pittsburgh'ta, çocuklara karşı Salk aşısı ile yapılan ilk toplu çocuk felci aşılaması başladı.",
+    "eventDescriptionFr": "La première inoculation de masse d'enfants contre la polio avec le vaccin Salk commence à Pittsburgh.",
+    "eventDescriptionEs": "Comienza la primera inoculación masiva de niños contra la polio con la vacuna Salk en Pittsburgh.",
+    "eventDescriptionDe": "Die erste Massenimpfung von Kindern gegen Polio mit dem Salk-Impfstoff beginnt in Pittsburgh.",
+    "eventDescriptionIt": "Inizia la prima vaccinazione di massa contro la poliomielite con il vaccino Salk a Pittsburgh."
+},{
+    "eventId": "1253",
+    "eventCategory": "HISTORY",
+    "eventDate": "1947/02/23",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The International Organization for Standardization (ISO) is founded.",
+    "eventDescriptionTr": "Uluslararası Standardizasyon Örgütü (ISO) kuruldu.",
+    "eventDescriptionFr": "L'Organisation internationale de normalisation (ISO) est fondée.",
+    "eventDescriptionEs": "La Organización Internacional de Normalización (ISO) es fundada.",
+    "eventDescriptionDe": "Die Internationale Organisation für Normung (ISO) wird gegründet.",
+    "eventDescriptionIt": "L'Organizzazione Internazionale per la Standardizzazione (ISO) viene fondata."
 }
+
+
 
 
 
