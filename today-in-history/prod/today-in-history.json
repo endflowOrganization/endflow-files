@@ -660,5 +660,18 @@
     "eventDescriptionEs": "El recién terminado Monumento a Washington es inaugurado.",
     "eventDescriptionDe": "Das neu fertiggestellte Washington-Denkmal wird eingeweiht.",
     "eventDescriptionIt": "Il Monumento a Washington, appena completato, viene inaugurato."
+},{
+    "eventId": "1245",
+    "eventCategory": "POLITICS",
+    "eventDate": "1952/02/21",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The British government, under Winston Churchill, abolishes identity cards in the UK to 'set the people free'.",
+    "eventDescriptionTr": "Winston Churchill liderliğindeki Britanya hükümeti, halkı özgürleştirmek amacıyla Birleşik Krallık'ta kimlik kartlarını kaldırdı.",
+    "eventDescriptionFr": "Le gouvernement britannique, sous Winston Churchill, abolit les cartes d'identité au Royaume-Uni pour 'libérer le peuple'.",
+    "eventDescriptionEs": "El gobierno británico, bajo Winston Churchill, elimina las tarjetas de identidad en el Reino Unido para 'liberar al pueblo'.",
+    "eventDescriptionDe": "Die britische Regierung unter Winston Churchill schafft die Personalausweise im Vereinigten Königreich ab, um 'das Volk zu befreien'.",
+    "eventDescriptionIt": "Il governo britannico, sotto Winston Churchill, abolisce le carte d'identità nel Regno Unito per 'liberare il popolo'."
 }
+
 ]}
