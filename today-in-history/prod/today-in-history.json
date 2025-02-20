@@ -696,7 +696,20 @@
     "eventDescriptionEs": "En la crisis ruso-ucraniana, el presidente ruso Vladimir Putin declaró la República Popular de Luhansk y la República Popular de Donetsk como independientes de Ucrania y envió tropas a la región. La acción fue condenada por las Naciones Unidas.",
     "eventDescriptionDe": "In der russisch-ukrainischen Krise erklärte der russische Präsident Wladimir Putin die Volksrepublik Luhansk und die Volksrepublik Donezk für unabhängig von der Ukraine und verlegte Truppen in die Region. Diese Aktion wurde von den Vereinten Nationen verurteilt.",
     "eventDescriptionIt": "Nella crisi russo-ucraina, il presidente russo Vladimir Putin dichiarò la Repubblica Popolare di Luhansk e la Repubblica Popolare di Donetsk indipendenti dall'Ucraina e spostò le truppe nella regione. L'azione fu condannata dalle Nazioni Unite."
+},{
+    "eventId": "1248",
+    "eventCategory": "POLITICS",
+    "eventDate": "1950/02/21",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "The Supreme Election Council (YSK) was established in Turkey.",
+    "eventDescriptionTr": "Yüksek Seçim Kurulu kuruldu.",
+    "eventDescriptionFr": "Le Conseil supérieur des élections (YSK) a été créé en Turquie.",
+    "eventDescriptionEs": "El Consejo Supremo Electoral (YSK) fue establecido en Turquía.",
+    "eventDescriptionDe": "Der Oberste Wahlrat (YSK) wurde in der Türkei gegründet.",
+    "eventDescriptionIt": "Il Consiglio Supremo delle Elezioni (YSK) è stato istituito in Turchia."
 }
+
 
 
 
