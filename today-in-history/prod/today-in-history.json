@@ -780,7 +780,20 @@
     "eventDescriptionEs": "Trabzon es liberado de la ocupación rusa y armenia.",
     "eventDescriptionDe": "Trabzon wird von der russischen und armenischen Besatzung befreit.",
     "eventDescriptionIt": "Trabzon è liberato dall'occupazione russa e armena."
+},{
+    "eventId": "1255",
+    "eventCategory": "HISTORY",
+    "eventDate": "2022/02/24",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "Under the orders of Russian President Vladimir Putin, the Russian army launched a full-scale invasion of Ukraine.",
+    "eventDescriptionTr": "Rusya lideri Vladimir Putin'in emriyle Rus ordusu, Ukrayna'ya tam kapsamlı bir işgal başlattı.",
+    "eventDescriptionFr": "Sous les ordres du président russe Vladimir Poutine, l'armée russe a lancé une invasion à grande échelle de l'Ukraine.",
+    "eventDescriptionEs": "Bajo las órdenes del presidente ruso Vladimir Putin, el ejército ruso lanzó una invasión a gran escala de Ucrania.",
+    "eventDescriptionDe": "Unter dem Befehl des russischen Präsidenten Wladimir Putin startete die russische Armee eine groß angelegte Invasion der Ukraine.",
+    "eventDescriptionIt": "Su ordine del presidente russo Vladimir Putin, l'esercito russo ha lanciato un'invasione su larga scala dell'Ucraina."
 }
+
 
 
 
