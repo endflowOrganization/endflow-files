@@ -732,7 +732,20 @@
     "eventDescriptionEs": "Rudolf Diesel patentó el motor diésel.",
     "eventDescriptionDe": "Rudolf Diesel patentierte den Dieselmotor.",
     "eventDescriptionIt": "Rudolf Diesel brevettò il motore diesel."
+},{
+    "eventId": "1251",
+    "eventCategory": "TECH",
+    "eventDate": "1994/02/23",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "Mobile phone networks were launched.",
+    "eventDescriptionTr": "Cep telefonu şebekeleri hizmete açıldı.",
+    "eventDescriptionFr": "Les réseaux de téléphonie mobile ont été lancés.",
+    "eventDescriptionEs": "Se lanzaron las redes de teléfonos móviles.",
+    "eventDescriptionDe": "Mobilfunknetze wurden gestartet.",
+    "eventDescriptionIt": "Le reti di telefonia mobile sono state lanciate."
 }
+
 
 
 
