@@ -816,7 +816,20 @@
     "eventDescriptionEs": "El Instituto de Estadística de Turquía (anteriormente conocido como el Departamento Central de Estadística) fue establecido.",
     "eventDescriptionDe": "Das Türkische Statistikamt (ehemals bekannt als Zentrales Statistikamt) wurde gegründet.",
     "eventDescriptionIt": "L'Istituto di Statistica della Turchia (precedentemente noto come Dipartimento Centrale di Statistica) è stato fondato."
+},{
+    "eventId": "1258",
+    "eventCategory": "SPORT",
+    "eventDate": "1900/02/27",
+    "eventImg": "",
+    "eventRegion": "ALL",
+    "eventDescriptionEn": "The German football club FC Bayern München was founded.",
+    "eventDescriptionTr": "Almanya futbol kulübü olan FC Bayern München kuruldu.",
+    "eventDescriptionFr": "Le club de football allemand FC Bayern München a été fondé.",
+    "eventDescriptionEs": "El club de fútbol alemán FC Bayern München fue fundado.",
+    "eventDescriptionDe": "Der deutsche Fußballverein FC Bayern München wurde gegründet.",
+    "eventDescriptionIt": "Il club di calcio tedesco FC Bayern München è stato fondato."
 }
+
 
 
 
