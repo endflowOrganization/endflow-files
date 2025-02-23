@@ -804,7 +804,20 @@
     "eventDescriptionEs": "En la ciudad de Hebrón en Cisjordania, un hombre judío llamado Baruch Goldstein llevó a cabo un ataque armado en la Mezquita Ibrahimi, matando a 29 palestinos e hiriendo a más de 100.",
     "eventDescriptionDe": "In der Stadt Hebron im Westjordanland führte ein jüdischer Mann namens Baruch Goldstein einen Schussangriff auf die Ibrahimi-Moschee durch, bei dem 29 Palästinenser getötet und mehr als 100 verletzt wurden.",
     "eventDescriptionIt": "Nella città di Hebron in Cisgiordania, un ebreo di nome Baruch Goldstein ha compiuto un attacco armato alla moschea Ibrahimi, uccidendo 29 palestinesi e ferendone più di 100."
+},{
+    "eventId": "1257",
+    "eventCategory": "HISTORY",
+    "eventDate": "1926/04/26",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "The Turkish Statistical Institute (formerly known as the Central Statistical Department) was established.",
+    "eventDescriptionTr": "Türkiye İstatistik Kurumu (o dönemki adıyla Merkezi İstatistik Dairesi) kuruldu.",
+    "eventDescriptionFr": "L'Institut statistique turc (anciennement connu sous le nom de Département central de statistique) a été créé.",
+    "eventDescriptionEs": "El Instituto de Estadística de Turquía (anteriormente conocido como el Departamento Central de Estadística) fue establecido.",
+    "eventDescriptionDe": "Das Türkische Statistikamt (ehemals bekannt als Zentrales Statistikamt) wurde gegründet.",
+    "eventDescriptionIt": "L'Istituto di Statistica della Turchia (precedentemente noto come Dipartimento Centrale di Statistica) è stato fondato."
 }
+
 
 
 ]}
