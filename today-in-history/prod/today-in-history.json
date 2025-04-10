@@ -49,7 +49,20 @@
     "eventDescriptionEs": "Martin Kamen y Sam Ruben descubrieron el carbono-14.",
     "eventDescriptionDe": "Martin Kamen und Sam Ruben entdeckten Kohlenstoff-14.",
     "eventDescriptionIt": "Martin Kamen e Sam Ruben scoprirono il carbonio-14."
+},{
+    "eventId": "1261",
+    "eventCategory": "HISTORY",
+    "eventDate": "1845/04/10",
+    "eventImg": "",
+    "eventRegion": "TR",
+    "eventDescriptionEn": "The Turkish National Police (General Directorate of Security) was established.",
+    "eventDescriptionTr": "Türk Polis Teşkilatı (Emniyet Genel Müdürlüğü) kuruldu.",
+    "eventDescriptionFr": "La Direction générale de la sécurité (Police nationale turque) a été fondée.",
+    "eventDescriptionEs": "Se fundó la Dirección General de Seguridad (Policía Nacional de Turquía).",
+    "eventDescriptionDe": "Die türkische Polizei (Generaldirektion für Sicherheit) wurde gegründet.",
+    "eventDescriptionIt": "Fu fondata la Direzione Generale della Sicurezza (Polizia Nazionale Turca)."
 }
+
 
 
 
